@@ -1,0 +1,117 @@
+<SceneText>
+  <FriendlyName>"Her voice"</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>7116,7308,7384</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7216,7480</PointerOffset>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>5452</PointerOffset>
+      <VoiceId>C0301</VoiceId>
+      <JapaneseText>なぁ、本当に
+こんな奴を信じる気なのか？</JapaneseText>
+      <EnglishText>Hey, &lt;Kohaku&gt;, you really believe in him?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5576</PointerOffset>
+      <VoiceId>C0302</VoiceId>
+      <JapaneseText>……うん。
+『彼女』も、あのソーマは
+ゼクスさんのだって言ってるもの</JapaneseText>
+      <EnglishText>...yes, I do. And "she" says that Soma
+ is really Zex's.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5864</PointerOffset>
+      <VoiceId>C0303</VoiceId>
+      <JapaneseText>…………&lt;Kohaku&gt;。
+兄ちゃんは、いつだって
+お前に力を貸してやる</JapaneseText>
+      <EnglishText>...&lt;Kohaku&gt;, I'm your brother. I've always
+been here to watch over you. </EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6100</PointerOffset>
+      <JapaneseText>だから『彼女が言ってる』
+なんて言い方はやめてくれ</JapaneseText>
+      <EnglishText>Come on, cut out the "she says" crap!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6548</PointerOffset>
+      <JapaneseText>だって、本当なんだもん！
+……なんで、お兄ちゃんは
+信じてくれないの……？</JapaneseText>
+      <EnglishText>It's the truth! Why don't you ever believe me?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>4732</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6028</PointerOffset>
+      <JapaneseText>C0304</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

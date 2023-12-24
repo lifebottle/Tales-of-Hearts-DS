@@ -1,0 +1,117 @@
+<SceneText>
+  <FriendlyName>Emotions are gone!</FriendlyName>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>5724,5876,6028</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5780</PointerOffset>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5960</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>4664</PointerOffset>
+      <VoiceId>C0401</VoiceId>
+      <JapaneseText>……&lt;Kohaku&gt;
+いい天気でよかったよね</JapaneseText>
+      <EnglishText>&lt;Kohaku&gt;, this is really nice weather, huh?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4736</PointerOffset>
+      <VoiceId>C0402</VoiceId>
+      <JapaneseText>……よかっ……た……？</JapaneseText>
+      <EnglishText>...nice?</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4860</PointerOffset>
+      <VoiceId>C0403</VoiceId>
+      <JapaneseText>え、えっと……
+旅がしやすいじゃないか！
+景色もよく見えるし……</JapaneseText>
+      <EnglishText>Ah, um... seems like it'll be a nice trip! 
+The scenery is beautiful, and...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5144</PointerOffset>
+      <VoiceId>C0404</VoiceId>
+      <JapaneseText>ふんっ……
+スピルーンを壊した張本人が
+観光気分かぁ？</JapaneseText>
+      <EnglishText>What are you so happy about, moron?
+This is your fault!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5268</PointerOffset>
+      <VoiceId>C0405</VoiceId>
+      <JapaneseText>あ……
+オレ、そんなつもりじゃ……</JapaneseText>
+      <EnglishText>Oh... I didn't mean...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>Edited</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>3740</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>
