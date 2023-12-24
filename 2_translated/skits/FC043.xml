@@ -1,0 +1,122 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>6392,6572,6764,6852</PointerOffset>
+      <JapaneseText>リチア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6480,6664</PointerOffset>
+      <JapaneseText>&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>4292</PointerOffset>
+      <VoiceId>C4301</VoiceId>
+      <JapaneseText>&lt;Kunzite&gt;、よく無事で……
+こうして話をするのも
+何年ぶりでしょう……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4816</PointerOffset>
+      <VoiceId>C4302</VoiceId>
+      <JapaneseText>５３億７２１０万１１秒……
+約１７０年ぶりです、リチア様</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>5</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4940</PointerOffset>
+      <VoiceId>C4303</VoiceId>
+      <JapaneseText>貴方はインカローズとの戦いで
+死んでしまったと思っていた……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5152</PointerOffset>
+      <VoiceId>C4304</VoiceId>
+      <JapaneseText>……申し訳ありません。
+自分はクリードを
+とめられませんでした</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>5</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5412</PointerOffset>
+      <VoiceId>C4305</VoiceId>
+      <JapaneseText>いいえ。貴方がいなかったら
+わたくしは……&lt;Kohaku&gt;を
+殺していました……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5876</PointerOffset>
+      <VoiceId>C4306</VoiceId>
+      <JapaneseText>どれほど感謝しても足りません。
+……ありがとう、&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>3740</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

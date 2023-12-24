@@ -1,0 +1,525 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>27528,27864,28080,28164,28260,28376,29056,29312</PointerOffset>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27564,27648,27732,27820,27948,28012,28220,28344,29156,29236</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28448,28844</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28532,28916</PointerOffset>
+      <JapaneseText>&lt;Ines&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612,28984</PointerOffset>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28684</PointerOffset>
+      <JapaneseText>リチア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28744</PointerOffset>
+      <JapaneseText>&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>12928</PointerOffset>
+      <JapaneseText>あのね、&lt;Shing&gt;……
+&lt;Shing&gt;は
+ミソミソなのは……嫌い？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13052</PointerOffset>
+      <JapaneseText>ミソミソ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13144</PointerOffset>
+      <JapaneseText>ミソミソは嫌い？
+・嫌いじゃないよ！
+・ちょっと嫌かなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13284</PointerOffset>
+      <JapaneseText>全然嫌いじゃないよ！
+ミソ田楽も、サバのミソ煮も
+大好きさ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13664</PointerOffset>
+      <JapaneseText>ジィちゃんの
+アクティブタの角煮にも
+隠し味にミソが入ってるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13992</PointerOffset>
+      <JapaneseText>そっか……よかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14156</PointerOffset>
+      <JapaneseText>それにオレって
+よく『脳ミソが足りないって』
+言われるから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <StructId>7</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14280</PointerOffset>
+      <JapaneseText>たくさんミソを食べた方が
+よさそうだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <StructId>8</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14660</PointerOffset>
+      <JapaneseText>あははっ、おミソが
+足りなくてもいいんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <StructId>9</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15156</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;には
+その分、優しいスピリアが
+いっぱいつまってるもん！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <StructId>10</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15748</PointerOffset>
+      <JapaneseText>ミソミソは
+ちょっと嫌かなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <StructId>11</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16040</PointerOffset>
+      <JapaneseText>そう……なんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <StructId>12</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16164</PointerOffset>
+      <JapaneseText>うん、オレは焼き鳥は断然
+『ミソ』より『タレ』派だからね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <StructId>13</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16492</PointerOffset>
+      <JapaneseText>焼き鳥？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <StructId>14</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17500</PointerOffset>
+      <JapaneseText>素人め！
+焼き鳥といえば『塩』の
+一択だろーが!?</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <StructId>15</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18084</PointerOffset>
+      <JapaneseText>あら、『ワサビじょうゆ』って
+選択もあるんじゃないかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <StructId>16</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>3</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18600</PointerOffset>
+      <JapaneseText>ボクは『マヨネーズ』を
+つけていただくのがいいなぁ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <StructId>17</StructId>
+      <SpeakerId>5</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19036</PointerOffset>
+      <JapaneseText>マヨなんて邪道ですわ。
+焼き鳥といえば……&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <StructId>18</StructId>
+      <SpeakerId>6</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19712</PointerOffset>
+      <JapaneseText>もちろん『ぼんじり』です。
+リチア様</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <StructId>19</StructId>
+      <SpeakerId>7</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>5</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20380</PointerOffset>
+      <JapaneseText>ああ!?　味付けじゃなく
+種類にいくかぁ？　なら
+『レバー』が一番に決まってるぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <StructId>20</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20968</PointerOffset>
+      <JapaneseText>確かにレバーもいいけど
+『砂肝』も忘れないでね♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <StructId>21</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>3</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21600</PointerOffset>
+      <JapaneseText>う〜ん、でも
+『鳥皮』だけはカンベンだよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <StructId>22</StructId>
+      <SpeakerId>5</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22232</PointerOffset>
+      <JapaneseText>うわぁ……焼き鳥にも
+いろんな好みがあるんだねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <StructId>23</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22356</PointerOffset>
+      <JapaneseText>人のスピリアの数だけ、ね。
+みんなの想いがたったひとつ
+だったら、つまらないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <StructId>24</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22480</PointerOffset>
+      <JapaneseText>ミソミソだったり
+シオシオだったりするから
+面白いんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <StructId>25</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22808</PointerOffset>
+      <JapaneseText>そうだよね……
+ミソミソやシオシオで
+いいんだよね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <StructId>26</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>1488</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6288</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6992</PointerOffset>
+      <JapaneseText>【%s】</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7148</PointerOffset>
+      <JapaneseText> ANS = %d
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7268</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7756</PointerOffset>
+      <JapaneseText> is_museum = %d
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8192</PointerOffset>
+      <JapaneseText>全員のソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8572</PointerOffset>
+      <JapaneseText>と仲間の
+ソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9036</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9036</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9112</PointerOffset>
+      <JapaneseText>
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9380</PointerOffset>
+      <JapaneseText>、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9472</PointerOffset>
+      <JapaneseText>の
+ソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

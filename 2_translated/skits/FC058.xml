@@ -1,0 +1,151 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>12396,12528</PointerOffset>
+      <JapaneseText>リチア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12484,12680,12736</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12596,12788</PointerOffset>
+      <JapaneseText>&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>9288</PointerOffset>
+      <VoiceId>C5801</VoiceId>
+      <JapaneseText>あの、&lt;Hisui&gt;……
+わたくし重かったですよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9412</PointerOffset>
+      <VoiceId>C5802</VoiceId>
+      <JapaneseText>べ、別に……
+お前くらい、いつだって
+楽勝で背負ってやるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9932</PointerOffset>
+      <VoiceId>C5803</VoiceId>
+      <JapaneseText>&lt;Hisui&gt;……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>6</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10140</PointerOffset>
+      <VoiceId>C5804</VoiceId>
+      <JapaneseText>リチア様をなぐさめる発言
+感謝する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>5</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10712</PointerOffset>
+      <VoiceId>C5805</VoiceId>
+      <JapaneseText>だ〜〜〜っ！
+てめぇに礼を言われる
+筋合いはねぇッ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11752</PointerOffset>
+      <VoiceId>C5806</VoiceId>
+      <JapaneseText>か、硬ぇぇッ〜〜〜……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12088</PointerOffset>
+      <VoiceId>C5807</VoiceId>
+      <JapaneseText>……学習しろ、&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <StructId>7</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>5</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>6276</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6356</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

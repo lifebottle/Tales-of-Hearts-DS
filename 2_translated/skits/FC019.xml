@@ -1,0 +1,141 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>13784,14216</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13868,13972,14088</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14140</PointerOffset>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>9720</PointerOffset>
+      <VoiceId>C1901</VoiceId>
+      <JapaneseText>でも、驚いたなぁ。
+&lt;Kohaku&gt;って
+すごく強かったんだね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10020</PointerOffset>
+      <VoiceId>C1902</VoiceId>
+      <JapaneseText>ああ、ソーマがなくても
+故郷の里で最強だったからな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10864</PointerOffset>
+      <VoiceId>C1903</VoiceId>
+      <JapaneseText>里に熊よりでけぇ
+大イノシシが乱入してきた時も
+蹴り一発で沈めちまったんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11152</PointerOffset>
+      <VoiceId>C1904</VoiceId>
+      <JapaneseText>以来、いたずらした子どもも
+『&lt;Kohaku&gt;に蹴られるよ』って
+叱ると、とたんにおとなしく——</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12956</PointerOffset>
+      <VoiceId>C1905</VoiceId>
+      <JapaneseText>お兄ちゃんのバカ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13276</PointerOffset>
+      <VoiceId>C1906</VoiceId>
+      <JapaneseText>はは、すごい……
+&lt;Kohaku&gt;の蹴り
+全然見えない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>0</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>6276</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6628</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

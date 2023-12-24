@@ -1,0 +1,205 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>15284,15436,15540,15700</PointerOffset>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15328</PointerOffset>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15612</PointerOffset>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Struct</Section>
+    <Entry>
+      <PointerOffset>11788</PointerOffset>
+      <VoiceId>C1301</VoiceId>
+      <JapaneseText>&lt;Kohaku&gt;、肖像画を
+描いてあげるから動かないでね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11912</PointerOffset>
+      <VoiceId>C1302</VoiceId>
+      <JapaneseText>うん…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>1</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12328</PointerOffset>
+      <VoiceId>C1303</VoiceId>
+      <JapaneseText>改めて見ると&lt;Kohaku&gt;って
+かわいいなぁ……けど完ぺき
+すぎるのも芸術的じゃないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12752</PointerOffset>
+      <VoiceId>C1304</VoiceId>
+      <JapaneseText>&lt;Kohaku&gt;、ちょっと小指を
+鼻の穴に突っこんで
+歯をムキィ〜ってしてみて——</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13480</PointerOffset>
+      <VoiceId>C1305</VoiceId>
+      <JapaneseText>この、ひねくれ画家！
+&lt;Kohaku&gt;で遊ぶなッ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>2</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14664</PointerOffset>
+      <VoiceId>C1306</VoiceId>
+      <JapaneseText>うぅ、&lt;Kohaku&gt;の
+新しい魅力を引き出そうと
+したのにぃ〜〜〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer1>0</UnknownPointer1>
+      <UnknownPointer2>4</UnknownPointer2>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Misc</Section>
+    <Entry>
+      <PointerOffset>1488</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6368</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6856</PointerOffset>
+      <JapaneseText> is_museum = %d
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7292</PointerOffset>
+      <JapaneseText>全員のソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7672</PointerOffset>
+      <JapaneseText>と仲間の
+ソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8136</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8136</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8212</PointerOffset>
+      <JapaneseText>
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8480</PointerOffset>
+      <JapaneseText>、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8572</PointerOffset>
+      <JapaneseText>の
+ソーマリンクが強くなった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

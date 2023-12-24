@@ -1,0 +1,878 @@
+<MenuText>
+  <Strings>
+    <Section>Grade Shop</Section>
+    <Entry>
+      <PointerOffset>16</PointerOffset>
+      <JapaneseText>プレイ時間引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>プレイ時間を引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28</PointerOffset>
+      <JapaneseText>モンスター図鑑引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32</PointerOffset>
+      <JapaneseText>モンスター図鑑のデータを引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40</PointerOffset>
+      <JapaneseText>コレクター図鑑引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44</PointerOffset>
+      <JapaneseText>コレクター図鑑のデータを引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <JapaneseText>あらすじ引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56</PointerOffset>
+      <JapaneseText>あらすじのデータを引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64</PointerOffset>
+      <JapaneseText>バトルメモ引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <JapaneseText>バトルメモのデータを引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76</PointerOffset>
+      <JapaneseText>道具引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80</PointerOffset>
+      <JapaneseText>アップルグミなどの消費アイテムを
+全て引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88</PointerOffset>
+      <JapaneseText>アクセサリ引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92</PointerOffset>
+      <JapaneseText>クリア時に所持しているアクセサリを
+全て引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100</PointerOffset>
+      <JapaneseText>素材アイテム５個まで引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104</PointerOffset>
+      <JapaneseText>各素材を５個まで引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112</PointerOffset>
+      <JapaneseText>素材アイテム１０個まで引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116</PointerOffset>
+      <JapaneseText>各素材を１０個まで引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124</PointerOffset>
+      <JapaneseText>素材アイテム１５個まで引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128</PointerOffset>
+      <JapaneseText>各素材を１５個まで引継ぎます。
+一人は最大まで育つかも……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136</PointerOffset>
+      <JapaneseText>術技使用回数引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>術技の使用回数を引継ぎます。
+目指せ３２００回！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>148</PointerOffset>
+      <JapaneseText>称号引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>152</PointerOffset>
+      <JapaneseText>取得済みの称号を全て引継ぎます。
+パラメータもアップするのでご安心を。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>160</PointerOffset>
+      <JapaneseText>治癒石引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>164</PointerOffset>
+      <JapaneseText>育てた治癒石をそのまま
+開始時から使用できます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>172</PointerOffset>
+      <JapaneseText>ソーマリンクポイント引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>176</PointerOffset>
+      <JapaneseText>ソーマリンク値を引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>184</PointerOffset>
+      <JapaneseText>初期ＥＧ上昇</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>188</PointerOffset>
+      <JapaneseText>ゲーム開始時の最大ＥＧが５０上昇します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>196</PointerOffset>
+      <JapaneseText>ＣＧ増加率上昇</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>200</PointerOffset>
+      <JapaneseText>戦闘中のＣＧ増加率がアップします。
+援技や合技などが使いやすくなります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>208</PointerOffset>
+      <JapaneseText>移動制限解除</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>212</PointerOffset>
+      <JapaneseText>エイミングステップ、バックステップ、
+ジャンプのＥＧ消費がなくなります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>アクションスキル引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>224</PointerOffset>
+      <JapaneseText>取得済みのアクションスキルを
+全て引継ぎます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>232</PointerOffset>
+      <JapaneseText>アイテム取得率上昇</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>236</PointerOffset>
+      <JapaneseText>戦闘中、戦闘終了時のアイテム取得率が
+２倍になります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>244</PointerOffset>
+      <JapaneseText>取得ＧＲＡＤＥ２倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>248</PointerOffset>
+      <JapaneseText>取得ＧＲＡＤＥが通常の２倍になります。
+難易度も上げると更にアップ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256</PointerOffset>
+      <JapaneseText>ガルド２倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260</PointerOffset>
+      <JapaneseText>戦闘終了時の獲得ガルドが２倍になります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268</PointerOffset>
+      <JapaneseText>経験値２倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272</PointerOffset>
+      <JapaneseText>戦闘終了時の獲得経験値が２倍になります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>280</PointerOffset>
+      <JapaneseText>「サドル付きのホウキ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>284</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ファンタジアから
+アーチェが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>292</PointerOffset>
+      <JapaneseText>「密航者の鎧」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>296</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥デスティニーから
+スタンが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>304</PointerOffset>
+      <JapaneseText>「黒革のチョーカー」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>308</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥デスティニーから
+ルーティが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>316</PointerOffset>
+      <JapaneseText>「少年猟師の変な手甲」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>320</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥エターニアから
+リッドが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>「青いスカーフ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>332</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥デスティニー２から
+ロニが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>340</PointerOffset>
+      <JapaneseText>「仮面のようなもの」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>344</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥デスティニー２から
+ジューダスが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>352</PointerOffset>
+      <JapaneseText>「真っ赤なブーツ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>356</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥シンフォニアから
+ロイドが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>364</PointerOffset>
+      <JapaneseText>「赤い宝玉のブローチ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>368</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥シンフォニアから
+プレセアが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>376</PointerOffset>
+      <JapaneseText>「取っ手付きの棒」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>380</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥リバースから
+マオが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>388</PointerOffset>
+      <JapaneseText>「金色の額あて」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>392</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥リバースから
+ティトレイが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>400</PointerOffset>
+      <JapaneseText>「螺子の手袋」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>404</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥レジェンディアから
+セネルが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>「インテリメガネ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>416</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ジ￥￥アビスから
+ジェイドが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>424</PointerOffset>
+      <JapaneseText>「不気味な人形」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>428</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ジ￥￥アビスから
+アニスが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>436</PointerOffset>
+      <JapaneseText>「使用人のベスト」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>440</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ジ￥￥アビスから
+ガイが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>448</PointerOffset>
+      <JapaneseText>「山吹色のタイ」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>452</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ジ￥￥アビスから
+ナタリアが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>460</PointerOffset>
+      <JapaneseText>「白いマフラー」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>464</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ザ￥￥テンペストから
+カイウスが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>472</PointerOffset>
+      <JapaneseText>「大輪の髪飾り」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>476</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ザ￥￥テンペストから
+ルビアが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>484</PointerOffset>
+      <JapaneseText>「大きな剣」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>488</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥イノセンスから
+ルカが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>496</PointerOffset>
+      <JapaneseText>「ガンホルダー」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>500</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥イノセンスから
+イリアが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>508</PointerOffset>
+      <JapaneseText>「明星の腕輪」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>512</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ヴェスペリアから
+ユーリが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>520</PointerOffset>
+      <JapaneseText>「もう一つのバルハイト」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>524</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ハーツから
+カルセドニーが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>532</PointerOffset>
+      <JapaneseText>「縦ロール」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ハーツから
+コランダームが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>544</PointerOffset>
+      <JapaneseText>「あがなえぬ罪」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>548</PointerOffset>
+      <JapaneseText>テイルズ￥￥オブ￥￥ハーツから
+テツ＝ハガネが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>556</PointerOffset>
+      <JapaneseText>「青水晶の杖」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>560</PointerOffset>
+      <JapaneseText>ドルアーガの塔から
+ギルガメスが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>568</PointerOffset>
+      <JapaneseText>「戦乙女の羽付き兜」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>572</PointerOffset>
+      <JapaneseText>ワルキューレの冒険から
+ワルキューレが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>「電池」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>584</PointerOffset>
+      <JapaneseText>ワギャンランドから
+ワギャンが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>592</PointerOffset>
+      <JapaneseText>「赤帯」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>596</PointerOffset>
+      <JapaneseText>鉄拳から
+三島平八が援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>604</PointerOffset>
+      <JapaneseText>「風の帽子」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>608</PointerOffset>
+      <JapaneseText>風のクロノアから
+クロノアが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>616</PointerOffset>
+      <JapaneseText>「秩序の白聖母」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>620</PointerOffset>
+      <JapaneseText>ゼノサーガから
+ＫＯＳ‐ＭＯＳが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>「ピンクの衣装」を購入</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>632</PointerOffset>
+      <JapaneseText>アイドルマスターから
+高槻やよいが援護キャラとして参戦！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
