@@ -18,7 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>48, 64, 80, 96, 112, 128, 144, 160, 176, 192</PointerOffset>
+      <PointerOffset>48,64,80,96,112,128,144,160,176,192</PointerOffset>
       <JapaneseText>戦闘後ＨＰ合計ｎ％未満</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -26,7 +26,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>208, 224, 240, 256, 272, 288, 304, 320, 336, 352</PointerOffset>
+      <PointerOffset>208,224,240,256,272,288,304,320,336,352</PointerOffset>
       <JapaneseText>戦闘後誰かのＨＰｎ％未満</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -42,7 +42,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>384, 400, 416</PointerOffset>
+      <PointerOffset>384,400,416</PointerOffset>
       <JapaneseText>戦闘開始ｎ秒後</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -58,7 +58,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>448, 464, 480, 496, 512, 528, 544, 560, 576, 592</PointerOffset>
+      <PointerOffset>448,464,480,496,512,528,544,560,576,592</PointerOffset>
       <JapaneseText>戦闘中ＨＰ合計ｎ％未満</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -66,7 +66,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>608, 624, 640, 656, 672, 688, 704, 720, 736, 752</PointerOffset>
+      <PointerOffset>608,624,640,656,672,688,704,720,736,752</PointerOffset>
       <JapaneseText>戦闘中誰かのＨＰｎ％未満</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,7 +74,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>768, 784, 800, 816, 832, 848</PointerOffset>
+      <PointerOffset>768,784,800,816,832,848</PointerOffset>
       <JapaneseText>ｓ攻撃を受けたら</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -82,7 +82,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>864, 880, 896, 912, 928, 944, 960, 976</PointerOffset>
+      <PointerOffset>864,880,896,912,928,944,960,976</PointerOffset>
       <JapaneseText>ｓ状態になったら</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -90,7 +90,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>992, 1008, 1024, 1040, 1056, 1072, 1088, 1104, 1120, 1136, 1152, 1168, 1184, 1200, 1216, 1232, 1248, 1264, 1280, 1296</PointerOffset>
+      <PointerOffset>992,1008,1024,1040,1056,1072,1088,1104,1120,1136,1152,1168,1184,1200,1216,1232,1248,1264,1280,1296</PointerOffset>
       <JapaneseText>ｎ％回復</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -114,7 +114,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1344, 1360, 1376, 1392, 1408, 1424, 1440, 1456</PointerOffset>
+      <PointerOffset>1344,1360,1376,1392,1408,1424,1440,1456</PointerOffset>
       <JapaneseText>ｓを３０秒無効化</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -122,7 +122,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1472, 1488, 1504, 1520, 1536, 1552, 1568, 1584</PointerOffset>
+      <PointerOffset>1472,1488,1504,1520,1536,1552,1568,1584</PointerOffset>
       <JapaneseText>ｓを６０秒無効化</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,7 +130,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1600, 1616, 1632, 1648, 1664, 1680, 1696, 1712, 1728</PointerOffset>
+      <PointerOffset>1600,1616,1632,1648,1664,1680,1696,1712,1728</PointerOffset>
       <JapaneseText>ｓダメージを３０秒軽減</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,7 +138,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1744, 1760, 1776, 1792, 1808, 1824, 1840</PointerOffset>
+      <PointerOffset>1744,1760,1776,1792,1808,1824,1840</PointerOffset>
       <JapaneseText>ｓを３０秒アップする</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -146,7 +146,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1856, 1872, 1888, 1904, 1920, 1936, 1952</PointerOffset>
+      <PointerOffset>1856,1872,1888,1904,1920,1936,1952</PointerOffset>
       <JapaneseText>敵のｓを３０秒ダウン</JapaneseText>
       <EnglishText/>
       <Notes/>

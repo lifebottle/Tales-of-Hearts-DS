@@ -1,0 +1,333 @@
+<MenuText>
+  <Strings>
+    <Section>Strategy</Section>
+    <Entry>
+      <PointerOffset>8</PointerOffset>
+      <JapaneseText>エラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12</PointerOffset>
+      <JapaneseText>エラー
+エラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>近くの敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24</PointerOffset>
+      <JapaneseText>一番近い敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32</PointerOffset>
+      <JapaneseText>遠くの敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <JapaneseText>一番遠い敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44</PointerOffset>
+      <JapaneseText>分散して戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48</PointerOffset>
+      <JapaneseText>リーダーと違う敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56</PointerOffset>
+      <JapaneseText>同じ敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60</PointerOffset>
+      <JapaneseText>リーダーと同じ敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <JapaneseText>弱っている敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72</PointerOffset>
+      <JapaneseText>ＨＰの一番少ない敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80</PointerOffset>
+      <JapaneseText>元気な敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84</PointerOffset>
+      <JapaneseText>ＨＰの一番多い敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92</PointerOffset>
+      <JapaneseText>飛んでいる敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96</PointerOffset>
+      <JapaneseText>空を飛んでいる敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104</PointerOffset>
+      <JapaneseText>術を使用する敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108</PointerOffset>
+      <JapaneseText>術を使用してくる敵を狙います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116</PointerOffset>
+      <JapaneseText>味方を援護しろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>120</PointerOffset>
+      <JapaneseText>味方を援護します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128</PointerOffset>
+      <JapaneseText>防御・支援に徹しろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132</PointerOffset>
+      <JapaneseText>攻撃は一切せず、防御、回復、支援に
+徹します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>防御・支援重視だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>144</PointerOffset>
+      <JapaneseText>防御、回復、支援重視の行動をとります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>152</PointerOffset>
+      <JapaneseText>バランスよく戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>156</PointerOffset>
+      <JapaneseText>攻撃、防御、回復、支援をバランスよく
+使い分けます。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>164</PointerOffset>
+      <JapaneseText>攻撃重視だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>168</PointerOffset>
+      <JapaneseText>攻撃重視の行動をとります。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>176</PointerOffset>
+      <JapaneseText>ひたすら戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>180</PointerOffset>
+      <JapaneseText>防御、回復、支援は一切考えずに戦います。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>188</PointerOffset>
+      <JapaneseText>バランスよく使え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>192</PointerOffset>
+      <JapaneseText>状況に応じてＥＧ９０％〜１１０％の間で、
+ＥＧ回復力８０％〜１２０％を使用します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>200</PointerOffset>
+      <JapaneseText>そこそこ使え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>204</PointerOffset>
+      <JapaneseText>状況に応じてＥＧ８０％〜１２０％の間で、
+ＥＧ回復力６０％〜１４０％を使用します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>212</PointerOffset>
+      <JapaneseText>それなりに使え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>216</PointerOffset>
+      <JapaneseText>状況に応じてＥＧ７０％〜１３０％の間で、
+ＥＧ回復力４０％〜１６０％を使用します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>224</PointerOffset>
+      <JapaneseText>けっこう使え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>228</PointerOffset>
+      <JapaneseText>状況に応じてＥＧ６０％〜１４０％の間で、
+ＥＧ回復力２０％〜１８０％を使用します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>236</PointerOffset>
+      <JapaneseText>全力で使え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>240</PointerOffset>
+      <JapaneseText>状況に応じてＥＧ５０％〜１５０％の間で、
+ＥＧ回復力１％〜２００％を使用します。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
