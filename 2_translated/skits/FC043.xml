@@ -2,7 +2,6 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>6392,6572,6764,6852</PointerOffset>
       <JapaneseText>リチア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -10,16 +9,22 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>6480,6664</PointerOffset>
       <JapaneseText>&lt;Kunzite&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
   </Speakers>
   <Strings>
-    <Section>Struct</Section>
+    <Section>Story</Section>
     <Entry>
       <PointerOffset>4292</PointerOffset>
       <VoiceId>C4301</VoiceId>
@@ -29,10 +34,9 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>6</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -43,10 +47,9 @@
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>5</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -57,10 +60,9 @@
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>6</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -72,10 +74,9 @@
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>5</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -87,10 +88,9 @@
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>6</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -101,21 +101,23 @@
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
-      <StructId>6</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>6</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Misc</Section>
+    <Section>NPC</Section>
     <Entry>
       <PointerOffset>3740</PointerOffset>
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>

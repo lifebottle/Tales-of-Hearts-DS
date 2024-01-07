@@ -2,7 +2,6 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>16380,16672,16768,16820,16972,17116,17364,17532</PointerOffset>
       <JapaneseText>&lt;Hisui&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -10,16 +9,22 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>16444,16552,16636,16876,17064,17180,17252,17320,17456</PointerOffset>
       <JapaneseText>&lt;Beryl&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
   </Speakers>
   <Strings>
-    <Section>Struct</Section>
+    <Section>Story</Section>
     <Entry>
       <PointerOffset>10576</PointerOffset>
       <JapaneseText>&lt;Beryl&gt;、お前ずっと
@@ -27,10 +32,9 @@
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <StructId>1</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -40,10 +44,9 @@
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <StructId>2</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -54,10 +57,9 @@
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <StructId>3</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -67,10 +69,9 @@
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
-      <StructId>4</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -79,10 +80,9 @@
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
-      <StructId>5</StructId>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -92,11 +92,10 @@
 ・お前に接客は無理だろ？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>6</Id>
-      <StructId>6</StructId>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,11 +103,10 @@
       <JapaneseText>お前は倉庫掃除がお似合いだ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>7</Id>
-      <StructId>7</StructId>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -117,11 +115,10 @@
 ど〜ゆ〜意味さぁ!?</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>8</Id>
-      <StructId>8</StructId>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -131,11 +128,10 @@
 見つかるかもしれねぇしな？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>9</Id>
-      <StructId>9</StructId>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -145,11 +141,10 @@
 いっぱいあった気がするけど……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>10</Id>
-      <StructId>10</StructId>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -157,11 +152,10 @@
       <JapaneseText>お前に接客なんて無理だろ!?</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>11</Id>
-      <StructId>11</StructId>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -170,11 +164,10 @@
 ちゃんとやってたさ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>12</Id>
-      <StructId>12</StructId>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -183,11 +176,10 @@
 メイドさんとして……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>13</Id>
-      <StructId>13</StructId>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -196,11 +188,10 @@
 ……ってね！</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>14</Id>
-      <StructId>14</StructId>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -208,11 +199,10 @@
       <JapaneseText>無茶しやがって……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>15</Id>
-      <StructId>15</StructId>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -222,11 +212,10 @@
 回されちゃったんだよぉ〜っ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>16</Id>
-      <StructId>16</StructId>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>2</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>4</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -235,51 +224,24 @@
 その頑張りは認めるぜ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>17</Id>
-      <StructId>17</StructId>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
       <SpeakerId>1</SpeakerId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Misc</Section>
-    <Entry>
-      <PointerOffset>1488</PointerOffset>
-      <JapaneseText></JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>18</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>6416</PointerOffset>
-      <JapaneseText>
-【あなたのwTime設定は失敗致しました】
-
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>19</Id>
-      <Status>To Do</Status>
-    </Entry>
+    <Section>NPC</Section>
     <Entry>
       <PointerOffset>7120</PointerOffset>
       <JapaneseText>【%s】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>20</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>7276</PointerOffset>
-      <JapaneseText> ANS = %d
-
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>21</Id>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -287,16 +249,10 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>22</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>7884</PointerOffset>
-      <JapaneseText> is_museum = %d
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>23</Id>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -304,7 +260,10 @@
       <JapaneseText>全員のソーマリンクが強くなった</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>24</Id>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -313,7 +272,10 @@
 ソーマリンクが強くなった</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>25</Id>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -321,7 +283,10 @@
       <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>26</Id>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -329,7 +294,10 @@
       <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>27</Id>
+      <Id>22</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -338,7 +306,10 @@
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>28</Id>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -346,7 +317,10 @@
       <JapaneseText>、</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>29</Id>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -355,7 +329,10 @@
 ソーマリンクが強くなった</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>30</Id>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>

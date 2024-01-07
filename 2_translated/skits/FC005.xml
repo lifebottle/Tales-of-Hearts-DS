@@ -1,9 +1,7 @@
 <SceneText>
-  <FriendlyName>Sorceress Incarose</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>7000,7072,7296</PointerOffset>
       <JapaneseText>&lt;Hisui&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -11,45 +9,48 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>7192</PointerOffset>
       <JapaneseText>&lt;Shing&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
   </Speakers>
   <Strings>
-    <Section>Struct</Section>
+    <Section>Story</Section>
     <Entry>
       <PointerOffset>5392</PointerOffset>
       <VoiceId>C0501</VoiceId>
       <JapaneseText>……気ぃ抜くなよ。
 正体も理由もわからねぇが
 女魔道士インカローズ——</JapaneseText>
-      <EnglishText>Don't look so down. Sorceress Incarose,
-face and purpose unknown...</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <StructId>1</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>5604</PointerOffset>
       <VoiceId>C0502</VoiceId>
       <JapaneseText>奴が&lt;Kohaku&gt;を
 狙ってるのは間違いねぇんだ</JapaneseText>
-      <EnglishText>She's after &lt;Kohaku&gt;, no mistake about that.</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <StructId>2</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>5900</PointerOffset>
@@ -57,15 +58,13 @@ face and purpose unknown...</EnglishText>
       <JapaneseText>……正体なんかどうでもいい。
 今度会ったら、絶対にジィちゃんと
 &lt;Kohaku&gt;の仇をとってやるッ</JapaneseText>
-      <EnglishText>Face-schmace. If I ever meet her, I'll get
-her for Gramps and &lt;Kohaku&gt;!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <StructId>3</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>0</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>6484</PointerOffset>
@@ -73,36 +72,26 @@ her for Gramps and &lt;Kohaku&gt;!</EnglishText>
       <JapaneseText>できれば相討ちになってくれや。
 そうすりゃ、&lt;Kohaku&gt;の仇が
 一度に討てるぜ</JapaneseText>
-      <EnglishText>You'll probably get killed, too. Try to get
-her for &lt;Kohaku&gt; first.</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <StructId>4</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Misc</Section>
-    <Entry>
-      <PointerOffset>4656</PointerOffset>
-      <JapaneseText>
-【あなたのwTime設定は失敗致しました】
-
-</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>5</Id>
-      <Status>To Do</Status>
-    </Entry>
+    <Section>NPC</Section>
     <Entry>
       <PointerOffset>4736</PointerOffset>
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>6</Id>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>

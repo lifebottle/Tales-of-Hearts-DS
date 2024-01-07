@@ -1,9 +1,7 @@
 <SceneText>
-  <FriendlyName>Why were you lying there?</FriendlyName>
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset>11644,11812</PointerOffset>
       <JapaneseText>&lt;Shing&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -11,7 +9,6 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>11736,11956</PointerOffset>
       <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -19,31 +16,35 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>11880</PointerOffset>
       <JapaneseText>&lt;Hisui&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
   </Speakers>
   <Strings>
-    <Section>Struct</Section>
+    <Section>Story</Section>
     <Entry>
       <PointerOffset>9436</PointerOffset>
       <VoiceId>C0101</VoiceId>
       <JapaneseText>あのさ……
 &lt;Kohaku&gt;と&lt;Hisui&gt;は
 どうして海岸に倒れていたの？</JapaneseText>
-      <EnglishText>By the way, what were you two
-doing lying there on the shore?</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <StructId>1</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>0</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>9604</PointerOffset>
@@ -51,15 +52,13 @@ doing lying there on the shore?</EnglishText>
       <JapaneseText>え、えっと……
 森で魔道士に襲われて
 海に落とされちゃったの</JapaneseText>
-      <EnglishText>Uh, um... a Sorceress chased us through
-the forest and threw us into the ocean!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <StructId>2</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>1</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>9984</PointerOffset>
@@ -67,53 +66,51 @@ the forest and threw us into the ocean!</EnglishText>
       <JapaneseText>魔道士!?
 外の世界には
 そんな奴がいるのか??</JapaneseText>
-      <EnglishText>A Sorceress? You mean there are people
-like that where you're from?</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <StructId>3</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>0</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>10316</PointerOffset>
       <JapaneseText>いや、俺を海へ突き落としたのは
 &lt;Kohaku&gt;——</JapaneseText>
-      <EnglishText>Actually, she didn't throw us into the ocean. 
-&lt;Kohaku&gt; just--</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <StructId>4</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>2</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>10880</PointerOffset>
       <JapaneseText>……うん！
 血も涙もない
 恐ろしい魔道士がいるんだよ</JapaneseText>
-      <EnglishText>Yes! She's a dreadful, truly inhuman monster!</EnglishText>
+      <EnglishText/>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <StructId>5</StructId>
-      <UnknownPointer1>0</UnknownPointer1>
-      <UnknownPointer2>1</UnknownPointer2>
-      <Status>Edited</Status>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Misc</Section>
+    <Section>NPC</Section>
     <Entry>
       <PointerOffset>6524</PointerOffset>
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -122,6 +119,9 @@ like that where you're from?</EnglishText>
       <EnglishText/>
       <Notes/>
       <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
   </Strings>
