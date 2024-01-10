@@ -1,0 +1,68 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Ines&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>5128</PointerOffset>
+      <JapaneseText>うぅぅ……ジメジメの
+地下水道は、もうたくさんだよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5568</PointerOffset>
+      <JapaneseText>この地下水道は教会内部にも
+通じてるはず。文句言ってないで
+潜入口を探すのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>4420</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

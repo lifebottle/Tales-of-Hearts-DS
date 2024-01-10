@@ -1,0 +1,37 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>31284</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31520</PointerOffset>
+      <JapaneseText>−</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

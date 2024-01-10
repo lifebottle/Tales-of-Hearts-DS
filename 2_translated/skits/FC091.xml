@@ -1,0 +1,69 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Ines&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>5712</PointerOffset>
+      <JapaneseText>司会者からキングクロスの
+場所を聞いてきたわ。街を出た
+南の十字路を東……だそうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5836</PointerOffset>
+      <JapaneseText>よぉし、行こう、&lt;Ines&gt;！
+&lt;Hisui&gt;にオレの力を
+わからせてやるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>5000</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

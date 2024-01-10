@@ -1,0 +1,611 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Kunzite&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カルセドニー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ペリドット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>バイロクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>77556</PointerOffset>
+      <JapaneseText>うわっ、溶岩が河になってる！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>77684</PointerOffset>
+      <JapaneseText>連続した火山性地震を検知。
+再噴火の確率増大中。
+我々の生還率は……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>77988</PointerOffset>
+      <JapaneseText>うぅ〜、いやだ……
+聞きたくな〜〜〜いっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78380</PointerOffset>
+      <JapaneseText>ふっ、安心しろ。
+我が隊が協力する以上
+成功率は１００％だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78892</PointerOffset>
+      <JapaneseText>そ〜そ、帰ったらパライバ様との
+チュ〜〜〜が待ってんだから
+１０００％成功させなきゃね∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79100</PointerOffset>
+      <JapaneseText>お前には
+大聖堂の床みがき半年の罰が
+待ってるがな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79600</PointerOffset>
+      <JapaneseText>ちょ……期間延びてるよッ!?</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79728</PointerOffset>
+      <JapaneseText>もういっそ、結晶騎士団の
+床みがき係に任命しちまえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80072</PointerOffset>
+      <JapaneseText>うむ、ペリドットの
+プニプニが解消されそうな
+いいアイディアだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80360</PointerOffset>
+      <JapaneseText>セ、セクハラだ！
+全員訴えてやるからね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80916</PointerOffset>
+      <JapaneseText>ヴォルガジョーズは
+火口内の深い場所に
+生息しているはずだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80916</PointerOffset>
+      <JapaneseText>一旦頂上付近まで登り
+火口に降下するルートを推奨する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>44504</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44740</PointerOffset>
+      <JapaneseText>−</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59656</PointerOffset>
+      <JapaneseText>shing00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59792</PointerOffset>
+      <JapaneseText>hisui00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59928</PointerOffset>
+      <JapaneseText>kohaku00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60064</PointerOffset>
+      <JapaneseText>innes00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60200</PointerOffset>
+      <JapaneseText>beryl00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60336</PointerOffset>
+      <JapaneseText>kunzite00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61232</PointerOffset>
+      <JapaneseText>shing00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61368</PointerOffset>
+      <JapaneseText>hisui00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61504</PointerOffset>
+      <JapaneseText>kohaku00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61640</PointerOffset>
+      <JapaneseText>innes00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61776</PointerOffset>
+      <JapaneseText>beryl00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61912</PointerOffset>
+      <JapaneseText>kunzite00_e012</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>62808</PointerOffset>
+      <JapaneseText>shing00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>62932</PointerOffset>
+      <JapaneseText>shing00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63068</PointerOffset>
+      <JapaneseText>hisui00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63192</PointerOffset>
+      <JapaneseText>hisui00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63328</PointerOffset>
+      <JapaneseText>kohaku00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63452</PointerOffset>
+      <JapaneseText>kohaku00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63588</PointerOffset>
+      <JapaneseText>innes00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63712</PointerOffset>
+      <JapaneseText>innes00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63848</PointerOffset>
+      <JapaneseText>beryl00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63972</PointerOffset>
+      <JapaneseText>beryl00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64108</PointerOffset>
+      <JapaneseText>kunzite00_e018</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64232</PointerOffset>
+      <JapaneseText>kunzite00_e017</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64456</PointerOffset>
+      <JapaneseText>shing00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64592</PointerOffset>
+      <JapaneseText>hisui00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64728</PointerOffset>
+      <JapaneseText>kohaku00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64864</PointerOffset>
+      <JapaneseText>innes00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65000</PointerOffset>
+      <JapaneseText>beryl00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65136</PointerOffset>
+      <JapaneseText>kunzite00_e011</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>77840</PointerOffset>
+      <JapaneseText>beryl00_e057</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79332</PointerOffset>
+      <JapaneseText>peri_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79884</PointerOffset>
+      <JapaneseText>chal_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>81048</PointerOffset>
+      <JapaneseText>shing00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

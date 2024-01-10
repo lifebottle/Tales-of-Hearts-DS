@@ -1,0 +1,113 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>リチア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>6432</PointerOffset>
+      <VoiceId>C3801</VoiceId>
+      <JapaneseText>あぁぁ、&lt;Shing&gt;の血が
+とまらない……どうしよう……
+どうしよう、お兄ちゃんッッ!?</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7380</PointerOffset>
+      <VoiceId>C3802</VoiceId>
+      <JapaneseText>うわぁぁ〜〜〜っ！
+しっかりしろよぉ〜!!
+&lt;Shing&gt;〜〜〜っっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7840</PointerOffset>
+      <VoiceId>C3803</VoiceId>
+      <JapaneseText>落ち着け！
+俺たちがとまったら
+マジでこいつは死んじまうぞッ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8168</PointerOffset>
+      <VoiceId>C3804</VoiceId>
+      <JapaneseText>ああ、またクリードを
+とめられなかった……
+わたくしは……わたくしは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>5140</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

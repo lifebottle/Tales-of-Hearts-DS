@@ -1,0 +1,575 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>研究者</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>結晶騎士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>プレーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>23056</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23292</PointerOffset>
+      <JapaneseText>−</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26588</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText>炎雷爆薬に自動起爆装置を
+付けた『炎雷爆弾』の
+量産を開始した</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText>この炎雷爆弾なら
+なんとかゼロムに
+対抗できるはずだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28336</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText>よし、炎雷爆弾を戦術に
+組みこんだ新たな陣形を
+軍に考案してもらおう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText>ゼロムたちの行動パターンを
+分析しているの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText>やつらも不死身じゃない。
+人間が知恵を振り絞れば
+必ず対抗手段が見つかるはずよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28520</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>……強力な破壊力を持つ
+炎雷爆薬を一般に公開するのは
+賭けよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>強力な兵器は、新たな争いの
+火種にもなるから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>……けど今は、人間の理性を
+信じるしかないわよね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>&lt;Ines&gt;……
+とうとうラピスのスピルーンを
+取り返したのね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>アイザック先輩が残した
+あの子を、どうか幸せに
+してあげてね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText>……ふふふ、私が
+言うまでもないと思うけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28612</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28832</PointerOffset>
+      <JapaneseText>プレーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28848</PointerOffset>
+      <JapaneseText>さっき使った炎雷爆薬より
+威力をあげておいたわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28848</PointerOffset>
+      <JapaneseText>今度こそ、あの軟体ゼロムを
+撃退できるはずよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28924</PointerOffset>
+      <JapaneseText>プレーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28940</PointerOffset>
+      <JapaneseText>炎雷爆薬が必要なら……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28940</PointerOffset>
+      <JapaneseText>『炎念石』と『雷念石』……
+そして、プラッタが持ち去った
+『調合レシピ』を持ってきなさい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29064</PointerOffset>
+      <JapaneseText>プラッタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29080</PointerOffset>
+      <JapaneseText>ニャ、ニャァ〜〜〜♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

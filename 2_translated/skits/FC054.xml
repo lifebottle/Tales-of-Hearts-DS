@@ -1,0 +1,145 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>カルセドニー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Ines&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>4448</PointerOffset>
+      <VoiceId>C5401</VoiceId>
+      <JapaneseText>うわぁぁ、ボクのソーマに
+ユカイな落書きがされてるぅ!?
+ペリドットの仕業だな〜っ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4864</PointerOffset>
+      <VoiceId>C5402</VoiceId>
+      <JapaneseText>カルセドニー！
+あんたの
+『カントクなんとか届き』だよっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5348</PointerOffset>
+      <VoiceId>C5403</VoiceId>
+      <JapaneseText>す、すまない。
+これは確かにペリドットの字だ。
+しかも、こんな下品な言葉を……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5732</PointerOffset>
+      <VoiceId>C5404</VoiceId>
+      <JapaneseText>あら、でも意外に達筆！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6224</PointerOffset>
+      <VoiceId>C5405</VoiceId>
+      <JapaneseText>うむ、あいつもおとなしくさえ
+していれば、貴族の令嬢にだって
+負けないと思うのだが……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6604</PointerOffset>
+      <VoiceId>C5406</VoiceId>
+      <JapaneseText>うふふ、まるでお姉さんを
+心配する弟みたいよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7020</PointerOffset>
+      <VoiceId>C5407</VoiceId>
+      <JapaneseText>じょ、冗談じゃない！
+あんなのが姉上だったら
+気の休まる時がなくなる!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>3740</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

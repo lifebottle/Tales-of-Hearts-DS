@@ -1,0 +1,2178 @@
+<MenuText>
+  <Strings>
+    <Section>Accessory</Section>
+    <Entry>
+      <PointerOffset>16</PointerOffset>
+      <JapaneseText>胡蝶の雪駄</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>蝶のような身のこなしを実現する雪駄。
+アドバンスドステップが使用可能になる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56</PointerOffset>
+      <JapaneseText>猪突の草履</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60</PointerOffset>
+      <JapaneseText>猪のごとき突進を可能にする草履。
+アタックステップができるようになる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96</PointerOffset>
+      <JapaneseText>鳴鹿の足袋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100</PointerOffset>
+      <JapaneseText>鹿と見まがう軽やかさを獲得する足袋。
+ファストバックができるようになる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136</PointerOffset>
+      <JapaneseText>防人の下駄</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>バックステップ中にダメージを受けても
+仰け反らなくなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>176</PointerOffset>
+      <JapaneseText>強打のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>180</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+次の一撃にガードブレイク効果がつく。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>216</PointerOffset>
+      <JapaneseText>生命のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+チャージにＨＰ小回復効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256</PointerOffset>
+      <JapaneseText>浄化のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+チャージに状態異常回復効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>296</PointerOffset>
+      <JapaneseText>衝波のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>300</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+チャージに攻撃判定のある衝撃波が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>336</PointerOffset>
+      <JapaneseText>光壁のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>340</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+チャージ中は全ダメージを無効化する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>376</PointerOffset>
+      <JapaneseText>練気のベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>380</PointerOffset>
+      <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり
+チャージにＣＧゲージ上昇効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>416</PointerOffset>
+      <JapaneseText>持続の腕輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>420</PointerOffset>
+      <JapaneseText>マジックガードの発動時間を延ばす
+加護の念が込められた腕輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>456</PointerOffset>
+      <JapaneseText>逆襲の腕輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>460</PointerOffset>
+      <JapaneseText>フラッシュガードに吹き飛ばし効果を与え
+カウンター攻撃を可能にする腕輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>496</PointerOffset>
+      <JapaneseText>吸精の腕輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>500</PointerOffset>
+      <JapaneseText>フラッシュガード成功時、
+被ダメージの２倍のＨＰが回復する腕輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>536</PointerOffset>
+      <JapaneseText>回避の腕輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>540</PointerOffset>
+      <JapaneseText>フラッシュガードが、あらゆる攻撃から
+ダメージを受けない回避に昇華する腕輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>576</PointerOffset>
+      <JapaneseText>鉄壁の腕輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>決してガードブレイクされなくなる。
+まさに鉄壁の防御を可能にする腕輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>616</PointerOffset>
+      <JapaneseText>斬影成刃の護符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>620</PointerOffset>
+      <JapaneseText>ＨＰ最大時に限り、通常攻撃に衝撃波が
+発生するようになる聖なる護符。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>656</PointerOffset>
+      <JapaneseText>熱毒の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>660</PointerOffset>
+      <JapaneseText>命を削る熱毒の念が込められた珠。
+通常攻撃に「熱毒」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>696</PointerOffset>
+      <JapaneseText>疲労の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>700</PointerOffset>
+      <JapaneseText>覇気を奪う疲労の念が込められた珠。
+通常攻撃に「疲労」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>736</PointerOffset>
+      <JapaneseText>反転の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>740</PointerOffset>
+      <JapaneseText>五感を惑わす反転の念が込められた珠。
+通常攻撃に「反転」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>776</PointerOffset>
+      <JapaneseText>石化の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>780</PointerOffset>
+      <JapaneseText>温もりを奪う石化の念が込められた珠。
+通常攻撃に「石化」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>816</PointerOffset>
+      <JapaneseText>呪いの飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>820</PointerOffset>
+      <JapaneseText>不幸をもたらす呪いの念が込められた珠。
+通常攻撃に「呪い」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>856</PointerOffset>
+      <JapaneseText>暗闇の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>860</PointerOffset>
+      <JapaneseText>恐怖をあおる暗闇の念が込められた珠。
+通常攻撃に「暗闇」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>896</PointerOffset>
+      <JapaneseText>加重の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>900</PointerOffset>
+      <JapaneseText>魂すらも縛る加重の念が込められた珠。
+通常攻撃に「加重」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>936</PointerOffset>
+      <JapaneseText>減重の飾り珠</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>940</PointerOffset>
+      <JapaneseText>飛翔を強いる減重の念が込められた珠。
+通常攻撃に「減重」発生効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>976</PointerOffset>
+      <JapaneseText>ポイズンチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText>熱毒を５０％の確率で防御するお守り。
+熱毒に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1016</PointerOffset>
+      <JapaneseText>ポイズンチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1020</PointerOffset>
+      <JapaneseText>熱毒を完全に防止するお守り。
+熱毒に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1056</PointerOffset>
+      <JapaneseText>ウェイストチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1060</PointerOffset>
+      <JapaneseText>疲労を５０％の確率で防御するお守り。
+疲労に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1096</PointerOffset>
+      <JapaneseText>ウェイストチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1100</PointerOffset>
+      <JapaneseText>疲労を完全に防止するお守り。
+疲労に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1136</PointerOffset>
+      <JapaneseText>リバースチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>反転を５０％の確率で防御するお守り。
+反転に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1176</PointerOffset>
+      <JapaneseText>リバースチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1180</PointerOffset>
+      <JapaneseText>反転を完全に防止するお守り。
+反転に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1216</PointerOffset>
+      <JapaneseText>ストーンチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1220</PointerOffset>
+      <JapaneseText>石化を５０％の確率で防御するお守り。
+石化に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1256</PointerOffset>
+      <JapaneseText>ストーンチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1260</PointerOffset>
+      <JapaneseText>石化を完全に防止するお守り。
+石化に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1296</PointerOffset>
+      <JapaneseText>カースチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1300</PointerOffset>
+      <JapaneseText>呪いを５０％の確率で防御するお守り。
+呪いに対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1336</PointerOffset>
+      <JapaneseText>カースチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1340</PointerOffset>
+      <JapaneseText>呪いを完全に防止するお守り。
+呪いに対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1376</PointerOffset>
+      <JapaneseText>ブラインドチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1380</PointerOffset>
+      <JapaneseText>暗闇を５０％の確率で防御するお守り。
+暗闇に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1416</PointerOffset>
+      <JapaneseText>ブラインドチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1420</PointerOffset>
+      <JapaneseText>暗闇を完全に防止するお守り。
+暗闇に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1456</PointerOffset>
+      <JapaneseText>ヘビィチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1460</PointerOffset>
+      <JapaneseText>加重を５０％の確率で防御するお守り。
+加重に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1496</PointerOffset>
+      <JapaneseText>ヘビィチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1500</PointerOffset>
+      <JapaneseText>加重を完全に防止するお守り。
+加重に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1536</PointerOffset>
+      <JapaneseText>フェザーチャーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1540</PointerOffset>
+      <JapaneseText>減重を５０％の確率で防御するお守り。
+減重に対する抵抗の念を込めた一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1576</PointerOffset>
+      <JapaneseText>フェザーチェック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1580</PointerOffset>
+      <JapaneseText>減重を完全に防止するお守り。
+減重に対する拒絶の念が装備者を守る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1616</PointerOffset>
+      <JapaneseText>タリスマン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1620</PointerOffset>
+      <JapaneseText>悪意ある思念を弱める効果があるお守り。
+状態異常に掛かっている時間が短くなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1656</PointerOffset>
+      <JapaneseText>アミュレット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1660</PointerOffset>
+      <JapaneseText>強力な加護の念を込めた魔除けのお守り。
+全ての状態異常に掛かり難くなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1696</PointerOffset>
+      <JapaneseText>レッドスカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1700</PointerOffset>
+      <JapaneseText>火念を込めた生地で作られたスカーフ。
+火属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1736</PointerOffset>
+      <JapaneseText>フレアマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740</PointerOffset>
+      <JapaneseText>炎念を込め、火との融和性を高めた一品。
+火属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1776</PointerOffset>
+      <JapaneseText>ブルースカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1780</PointerOffset>
+      <JapaneseText>水念を込めた生地で作られたスカーフ。
+水属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1816</PointerOffset>
+      <JapaneseText>アクアマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1820</PointerOffset>
+      <JapaneseText>海念を込め、水との融和性を高めた一品。
+水属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1856</PointerOffset>
+      <JapaneseText>イエロースカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1860</PointerOffset>
+      <JapaneseText>地念を込めた生地で作られたスカーフ。
+地属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1896</PointerOffset>
+      <JapaneseText>アースマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1900</PointerOffset>
+      <JapaneseText>重念を込め、地との融和性を高めた一品。
+地属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1936</PointerOffset>
+      <JapaneseText>グリーンスカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1940</PointerOffset>
+      <JapaneseText>風念を込めた生地で作られたスカーフ。
+風属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1976</PointerOffset>
+      <JapaneseText>ウィンドマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1980</PointerOffset>
+      <JapaneseText>嵐念を込め、風との融和性を高めた一品。
+風属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2016</PointerOffset>
+      <JapaneseText>ホワイトスカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2020</PointerOffset>
+      <JapaneseText>光念を込めた生地で作られたスカーフ。
+光属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2056</PointerOffset>
+      <JapaneseText>ライトマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2060</PointerOffset>
+      <JapaneseText>輝念を込め、光との融和性を高めた一品。
+光属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2096</PointerOffset>
+      <JapaneseText>ブラックスカーフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2100</PointerOffset>
+      <JapaneseText>闇念を込めた生地で作られたスカーフ。
+闇属性被ダメージが２５％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2136</PointerOffset>
+      <JapaneseText>ダークマント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2140</PointerOffset>
+      <JapaneseText>虚念を込め、闇との融和性を高めた一品。
+闇属性被ダメージが５０％ダウンする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2176</PointerOffset>
+      <JapaneseText>レッドボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2180</PointerOffset>
+      <JapaneseText>火の思念を宿した赤いボタン。
+火属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2216</PointerOffset>
+      <JapaneseText>フレアバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2220</PointerOffset>
+      <JapaneseText>炎念を注ぎ込んだ特製のバッジ。
+火属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2256</PointerOffset>
+      <JapaneseText>ブルーボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2260</PointerOffset>
+      <JapaneseText>水の思念を宿した青いボタン。
+水属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2296</PointerOffset>
+      <JapaneseText>アクアバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2300</PointerOffset>
+      <JapaneseText>海念を注ぎ込んだ特製のバッジ。
+水属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2336</PointerOffset>
+      <JapaneseText>イエローボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2340</PointerOffset>
+      <JapaneseText>地の思念を宿した黄色いボタン。
+地属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2376</PointerOffset>
+      <JapaneseText>アースバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2380</PointerOffset>
+      <JapaneseText>重念を注ぎ込んだ特製のバッジ。
+地属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2416</PointerOffset>
+      <JapaneseText>グリーンボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2420</PointerOffset>
+      <JapaneseText>風の思念を宿した緑色のボタン。
+風属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2456</PointerOffset>
+      <JapaneseText>ウィンドバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2460</PointerOffset>
+      <JapaneseText>嵐念を注ぎ込んだ特製のバッジ。
+風属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2496</PointerOffset>
+      <JapaneseText>ホワイトボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText>光の思念を宿した白いボタン。
+光属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2536</PointerOffset>
+      <JapaneseText>ライトバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2540</PointerOffset>
+      <JapaneseText>輝念を注ぎ込んだ特製のバッジ。
+光属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2576</PointerOffset>
+      <JapaneseText>ブラックボタン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2580</PointerOffset>
+      <JapaneseText>闇の思念を宿した黒いボタン。
+闇属性攻撃ダメージが１５％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2616</PointerOffset>
+      <JapaneseText>ダークバッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2620</PointerOffset>
+      <JapaneseText>虚念を注ぎ込んだ特製のバッジ。
+闇属性攻撃ダメージが３０％アップする。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2656</PointerOffset>
+      <JapaneseText>窮鼠の攻撃符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2660</PointerOffset>
+      <JapaneseText>窮する者に起死回生の攻撃力を授ける。
+ＨＰ３０％以下で攻撃力が４０％上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2696</PointerOffset>
+      <JapaneseText>窮鼠の防御符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2700</PointerOffset>
+      <JapaneseText>窮する者に起死回生の防御力を授ける。
+ＨＰ３０％以下で防御力が４０％上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2736</PointerOffset>
+      <JapaneseText>窮鼠の術撃符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2740</PointerOffset>
+      <JapaneseText>窮する者に起死回生の術攻撃力を授ける。
+ＨＰ３０％以下で術攻撃力が４０％上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2776</PointerOffset>
+      <JapaneseText>窮鼠の術護符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2780</PointerOffset>
+      <JapaneseText>窮する者に起死回生の術防御力を授ける。
+ＨＰ３０％以下で術防御力が４０％上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2816</PointerOffset>
+      <JapaneseText>傷虎の術技符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2820</PointerOffset>
+      <JapaneseText>傷ついた者に苛烈なる大逆襲を授ける。
+ＨＰ３０％以下で術技効果が２０％上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2856</PointerOffset>
+      <JapaneseText>傷虎の詠唱符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2860</PointerOffset>
+      <JapaneseText>傷ついた者に怒涛の高速詠唱を授ける。
+ＨＰ３０％以下で詠唱時間を２０％短縮。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2896</PointerOffset>
+      <JapaneseText>傷虎の道具符</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2900</PointerOffset>
+      <JapaneseText>傷ついた者に神速の連続使用を授ける。
+ＨＰ３０％以下で道具不可時間を短縮。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2936</PointerOffset>
+      <JapaneseText>ピヨハン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2940</PointerOffset>
+      <JapaneseText>５０％の確率で気絶を回避する。
+この鳥はアヒルではありません。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2976</PointerOffset>
+      <JapaneseText>ピヨノン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2980</PointerOffset>
+      <JapaneseText>気絶を完全に無効化する。
+繰り返しますが、アヒルではありません。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3016</PointerOffset>
+      <JapaneseText>昇念石のお守り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3020</PointerOffset>
+      <JapaneseText>治癒石の治癒効果が上昇するお守り。
+治癒石使用時のＨＰ回復量が５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3056</PointerOffset>
+      <JapaneseText>ブラックオニキス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3060</PointerOffset>
+      <JapaneseText>漆黒の輝きを放つ石。
+最大ＨＰが１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3096</PointerOffset>
+      <JapaneseText>サードニクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3100</PointerOffset>
+      <JapaneseText>柔らかな縞模様を持つ石。
+最大ＨＰが３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3136</PointerOffset>
+      <JapaneseText>パトスマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3140</PointerOffset>
+      <JapaneseText>装備者の最大ＥＧを増幅する。
+最大ＥＧが１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3176</PointerOffset>
+      <JapaneseText>パトスシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3180</PointerOffset>
+      <JapaneseText>装備者の最大ＥＧを大幅に増幅する。
+最大ＥＧが３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3216</PointerOffset>
+      <JapaneseText>パッションリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3220</PointerOffset>
+      <JapaneseText>装備者のＥＧ回復力を増幅する。
+ＥＧ回復力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3256</PointerOffset>
+      <JapaneseText>パッションブレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3260</PointerOffset>
+      <JapaneseText>装備者のＥＧ回復力を大幅に増幅する。
+ＥＧ回復力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3296</PointerOffset>
+      <JapaneseText>フィートマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3300</PointerOffset>
+      <JapaneseText>装備者の攻撃力を上昇させる。
+攻撃力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3336</PointerOffset>
+      <JapaneseText>フィートシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3340</PointerOffset>
+      <JapaneseText>装備者の攻撃力を格段に上昇させる。
+攻撃力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3376</PointerOffset>
+      <JapaneseText>マインドリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3380</PointerOffset>
+      <JapaneseText>装備者の術攻撃力を上昇させる。
+術攻撃力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3416</PointerOffset>
+      <JapaneseText>マインドブレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3420</PointerOffset>
+      <JapaneseText>装備者の術攻撃力を格段に上昇させる。
+術攻撃力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3456</PointerOffset>
+      <JapaneseText>プロテクトマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3460</PointerOffset>
+      <JapaneseText>装備者の防御力を上昇させる。
+防御力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3496</PointerOffset>
+      <JapaneseText>プロテクトシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3500</PointerOffset>
+      <JapaneseText>装備者の防御力を格段に上昇させる。
+防御力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3536</PointerOffset>
+      <JapaneseText>レジストリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3540</PointerOffset>
+      <JapaneseText>装備者の術防御力を上昇させる。
+術防御力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3576</PointerOffset>
+      <JapaneseText>レジストブレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3580</PointerOffset>
+      <JapaneseText>装備者の術防御力を格段に上昇させる。
+術防御力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3616</PointerOffset>
+      <JapaneseText>ヒッターマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3620</PointerOffset>
+      <JapaneseText>装備者の命中力を上昇させる。
+命中力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3656</PointerOffset>
+      <JapaneseText>ヒッターシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3660</PointerOffset>
+      <JapaneseText>装備者の命中力を格段に上昇させる。
+命中力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3696</PointerOffset>
+      <JapaneseText>ドッヂリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3700</PointerOffset>
+      <JapaneseText>装備者の回避力を上昇させる。
+回避力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3736</PointerOffset>
+      <JapaneseText>ドッヂブレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3740</PointerOffset>
+      <JapaneseText>装備者の回避力を格段に上昇させる。
+回避力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3776</PointerOffset>
+      <JapaneseText>コンセントマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3780</PointerOffset>
+      <JapaneseText>装備者の集中力を上昇させる。
+集中力が１５％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3816</PointerOffset>
+      <JapaneseText>コンセントシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3820</PointerOffset>
+      <JapaneseText>装備者の集中力を格段に上昇させる。
+集中力が３０％アップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3856</PointerOffset>
+      <JapaneseText>ナイツシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3860</PointerOffset>
+      <JapaneseText>装備者のクリティカル率を上昇させる。
+剣士御用達の一品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3896</PointerOffset>
+      <JapaneseText>パラディンシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3900</PointerOffset>
+      <JapaneseText>クリティカル発生時に
+ＥＧがさらに回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3936</PointerOffset>
+      <JapaneseText>プリベントリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3940</PointerOffset>
+      <JapaneseText>より重たい一撃を放てるようになる。
+通常攻撃による敵硬直時間を延長。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3976</PointerOffset>
+      <JapaneseText>ピコハンリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3980</PointerOffset>
+      <JapaneseText>敵を気絶させた時の
+気絶時間を延長する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4016</PointerOffset>
+      <JapaneseText>ドレインリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4020</PointerOffset>
+      <JapaneseText>攻撃がヒットする度に
+ＨＰが微量に回復する指輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4056</PointerOffset>
+      <JapaneseText>ヒールバングル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4060</PointerOffset>
+      <JapaneseText>敵を撃破したときに
+最大ＨＰの１０％分が回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4096</PointerOffset>
+      <JapaneseText>メンタルバングル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4100</PointerOffset>
+      <JapaneseText>敵を撃破したときに
+ＥＧがさらに回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4136</PointerOffset>
+      <JapaneseText>エフィシャルリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4140</PointerOffset>
+      <JapaneseText>通常攻撃のＥＧ消費量が減少する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4176</PointerOffset>
+      <JapaneseText>ラッキーリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4180</PointerOffset>
+      <JapaneseText>思念術発動時、
+一定確率でＥＧ消費量が減少する指輪。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4216</PointerOffset>
+      <JapaneseText>ミスティマーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4220</PointerOffset>
+      <JapaneseText>思念術の詠唱時間を１５％短縮する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4256</PointerOffset>
+      <JapaneseText>ミスティシンボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4260</PointerOffset>
+      <JapaneseText>思念術の詠唱時間を２５％短縮する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4296</PointerOffset>
+      <JapaneseText>ミスティシール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4300</PointerOffset>
+      <JapaneseText>一定の確率で詠唱時間をキャンセルして
+思念術を発動できるようになる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4336</PointerOffset>
+      <JapaneseText>勇気の証</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4340</PointerOffset>
+      <JapaneseText>何事にも怯まぬ勇者の証明。
+ダッシュ中は仰け反らなくなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4376</PointerOffset>
+      <JapaneseText>叡智の印</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4380</PointerOffset>
+      <JapaneseText>万物の深遠を見通す賢者の証明。
+詠唱中に攻撃されても仰け反らなくなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4416</PointerOffset>
+      <JapaneseText>覇道の紋章</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4420</PointerOffset>
+      <JapaneseText>己が道を邁進する覇王の証明。
+全ての攻撃に対して、仰け反らなくなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>222</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4456</PointerOffset>
+      <JapaneseText>アメショスリッパ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>223</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4460</PointerOffset>
+      <JapaneseText>柔らかな履き心地が癖になる。
+ジャンプ着地時の硬直時間を短縮。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4496</PointerOffset>
+      <JapaneseText>薬士の手袋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4500</PointerOffset>
+      <JapaneseText>様々な薬物を扱う薬士の必需品。
+アイテム使用時の硬直時間が短くなる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>226</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4536</PointerOffset>
+      <JapaneseText>マジックミスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>227</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4540</PointerOffset>
+      <JapaneseText>逃走に掛かる時間が短くなる
+不思議なアイテム。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>228</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4576</PointerOffset>
+      <JapaneseText>ペルシアンブーツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>229</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4580</PointerOffset>
+      <JapaneseText>ネコ科の高い俊敏性を獲得。
+戦闘中の移動速度がアップ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4616</PointerOffset>
+      <JapaneseText>慈悲深き女神の涙</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4620</PointerOffset>
+      <JapaneseText>とある女神の力が宿る石。
+術やアイテムによるＨＰ回復効果が上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>232</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4656</PointerOffset>
+      <JapaneseText>３匹の招き猫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4660</PointerOffset>
+      <JapaneseText>縁起の良い招き猫を３匹セットでお届け。
+戦闘終了時のアイテム取得率が上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>234</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4696</PointerOffset>
+      <JapaneseText>１０１匹招き猫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>235</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4700</PointerOffset>
+      <JapaneseText>白黒ツートンカラーの招き猫が１０１匹！
+戦闘終了時のアイテム取得率が大幅上昇。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>236</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4736</PointerOffset>
+      <JapaneseText>スリ師の手袋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>237</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4740</PointerOffset>
+      <JapaneseText>ある大物スリ師が身につけていた手袋。
+通常攻撃に盗み効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>238</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4776</PointerOffset>
+      <JapaneseText>大盗賊の手甲</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4780</PointerOffset>
+      <JapaneseText>巷を騒がせた大盗賊の愛用した手甲。
+通常攻撃により高確率の盗み効果が付く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>240</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4816</PointerOffset>
+      <JapaneseText>セフィラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>241</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4820</PointerOffset>
+      <JapaneseText>戦闘終了時、一定の確率で
+取得ガルドが増える神秘の女神像。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>242</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4856</PointerOffset>
+      <JapaneseText>ブルーセフィラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4860</PointerOffset>
+      <JapaneseText>戦闘終了時、より高確率で
+取得ガルドが増える青き女神像。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>244</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4896</PointerOffset>
+      <JapaneseText>ダイス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4900</PointerOffset>
+      <JapaneseText>戦闘終了時の取得グレードが増加。
+不思議な効果を持つ謎の立方体。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>246</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4936</PointerOffset>
+      <JapaneseText>ブルーダイス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>247</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4940</PointerOffset>
+      <JapaneseText>戦闘終了時の取得グレードがさらに増加。
+より高い効果を持つ青き立方体。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4976</PointerOffset>
+      <JapaneseText>キュッポン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4980</PointerOffset>
+      <JapaneseText>トイレによく有るゴム製のアレ。
+イッタイコレヲドウシロト？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>250</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5016</PointerOffset>
+      <JapaneseText>ベルルの毛玉</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5020</PointerOffset>
+      <JapaneseText>ベニト家の一員、ベルルから貰った毛玉。
+静電気がたまり易いのでご注意を。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>252</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5056</PointerOffset>
+      <JapaneseText>ハッスルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>253</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5060</PointerOffset>
+      <JapaneseText>やたらとデカくてド派手なベルト。
+見ているだけで熱き魂が込み上げる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5096</PointerOffset>
+      <JapaneseText>イカリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5100</PointerOffset>
+      <JapaneseText>イカを輪切りにしてフライにした一品。
+………一体何に使うのだろうか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>256</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>

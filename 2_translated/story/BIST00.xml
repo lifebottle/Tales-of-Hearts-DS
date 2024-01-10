@@ -1,0 +1,3674 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <JapaneseText>商人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>防具屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Hisui&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>武器屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>？？？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>エカイユ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>女将</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Ines&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Kohaku&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>リチア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>海賊モヒカン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>海賊ハット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>海賊アフロ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>素材屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>&lt;Beryl&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>いらだち主婦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>おばさん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>ベテラン商人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>長老商人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>旅の少女</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>マセ少年</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <JapaneseText>Variable</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>67920</PointerOffset>
+      <JapaneseText>よう、そこの
+いい盾持ってる兄ちゃん！
+どこから来たんだい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68356</PointerOffset>
+      <JapaneseText>え、オレの事？
+シーブル村からだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68484</PointerOffset>
+      <JapaneseText>シーブル村！
+奇遇だなぁ〜！
+俺もそこの生まれなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68712</PointerOffset>
+      <JapaneseText>え、ホント!?
+偶然だねぇ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68940</PointerOffset>
+      <JapaneseText>ホント、ホント!!
+いやぁ、懐かしいなぁ！
+こりゃあ、他人とは思えねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68940</PointerOffset>
+      <JapaneseText>よっし、特別に半額にするから
+鎧買わないか？　それほどの
+盾には、いい鎧もなくちゃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>69144</PointerOffset>
+      <JapaneseText>スゴイよ、&lt;Hisui&gt;！
+鎧が半額だって!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>69376</PointerOffset>
+      <JapaneseText>バカ！　そんな簡単に
+のせられるんじゃねぇよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>69828</PointerOffset>
+      <JapaneseText>そう、だまされてはダメです。
+この店の防具はどれも
+半額の価値もない粗悪品ですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70268</PointerOffset>
+      <JapaneseText>なんだぁ、この野郎！
+言いがかりつける気か？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70396</PointerOffset>
+      <JapaneseText>では、試してみましょう。
+あなたがその鎧を着て
+私の店の剣で突くと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70604</PointerOffset>
+      <JapaneseText>そ、それは……
+くそぉ、覚えてやがれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70812</PointerOffset>
+      <JapaneseText>魔物が増えたせいで、素人をだます
+悪徳商人が増えましてね……
+同じ商人としてお詫びします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71068</PointerOffset>
+      <JapaneseText>シーブル村の人が
+人をだますなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71276</PointerOffset>
+      <JapaneseText>あのなぁ、同じ村出身なんて
+出まかせに決まってんだろ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71440</PointerOffset>
+      <JapaneseText>ははぁ、そちらの方は
+お若いのによくわかって
+いらっしゃる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71724</PointerOffset>
+      <JapaneseText>へっ、こいつと違って
+それなりに旅を
+してきてるんでね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71724</PointerOffset>
+      <JapaneseText>あんた、都会もんにしちゃ
+信用できそうだな。
+聞きたい事があんだけど？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71852</PointerOffset>
+      <JapaneseText>ほう……？
+では、私の店へ
+いらっしゃいませんか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73200</PointerOffset>
+      <JapaneseText>ぐふふ……狼は何匹？
+奴らは群れなす狩人。愚かな子羊は
+開いたアギトへ自ら飛びこむ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73768</PointerOffset>
+      <JapaneseText>そうだ、そちらのお嬢さんに
+ピッタリの軽量鎧があるんですよ。
+よかったら見てください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73976</PointerOffset>
+      <JapaneseText>うぉ!?　どれも高けぇなッ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74104</PointerOffset>
+      <JapaneseText>人が命を預ける武具は
+値段ではなく
+まず品質を見るものですよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74312</PointerOffset>
+      <JapaneseText>た、確かにモノは
+さっきの店とは大違い……
+……だな、うん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74652</PointerOffset>
+      <JapaneseText>鎧はいらないよ。最近この街で
+デスピル病が起こってないか
+聞きたいだけなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74940</PointerOffset>
+      <JapaneseText>ふむ……心当たりはありますが
+商人にとって情報こそが最大の
+商品でありまして……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>75068</PointerOffset>
+      <JapaneseText>……わかった。&lt;Kohaku&gt;用に
+鎧をひとつ買うぜ。その代わり
+情報はサービスしてくれよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>75312</PointerOffset>
+      <JapaneseText>ありがとうございます！
+さすが世慣れてる方は
+交渉がお上手だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>75440</PointerOffset>
+      <JapaneseText>……では、私もサービスで
+無料情報をひとつ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>75440</PointerOffset>
+      <JapaneseText>先ほどの商人と、この者は
+ふたり一組の悪徳商人ですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76280</PointerOffset>
+      <JapaneseText>あ、あなたは……
+チェン商館のエカイユさん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76568</PointerOffset>
+      <JapaneseText>ひとり目のインチキを、ふたり目
+が暴いて信用させ、同じ粗悪品を
+高値で売る……古い手口です</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76568</PointerOffset>
+      <JapaneseText>しかし、派手にやりすぎですね。
+街のギルドにまで
+苦情が届き始めています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76568</PointerOffset>
+      <JapaneseText>チェン大人（ターレン）からの
+お達しです。
+……『わきまえろ』と</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <BubbleId>3</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76816</PointerOffset>
+      <JapaneseText>くぅ、わ、わかりました……
+チェン大人に逆らっては商人の
+世界で生きていけませんからね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78168</PointerOffset>
+      <JapaneseText>……ここの鎧も『粗悪品』だって</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78916</PointerOffset>
+      <JapaneseText>うっせえーよ！
+てめぇは一段目で
+ひっかかっただろーが!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79044</PointerOffset>
+      <JapaneseText>彼らも、以前は真面目に商売を
+していたのですが……最近
+街の商売が荒れて困っています</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79440</PointerOffset>
+      <JapaneseText>お姉さんは、街の情報に詳しいの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79568</PointerOffset>
+      <JapaneseText>詳しいのは我が主、チェンです。
+大人（ターレン）は、街の全てを
+知っておられます。例えば……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79568</PointerOffset>
+      <JapaneseText>今、ソーマ使いの若者たちが
+何を探しているか……
+……という事までね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>79896</PointerOffset>
+      <JapaneseText>ぜひチェン商館をお尋ねください。
+ソーマ使いの方々となら、きっと
+よい取り引きができるでしょう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>7</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80168</PointerOffset>
+      <JapaneseText>……これも
+ふたり目のインチキを暴いて
+三人目を信用させる手口??</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80352</PointerOffset>
+      <JapaneseText>あ〜〜〜、この街はなんだッ！
+誰も信用できねぇよ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80596</PointerOffset>
+      <JapaneseText>でも、他にスピルーンの
+手がかりがない……とにかく
+チェンって人に会ってみようよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>81444</PointerOffset>
+      <JapaneseText>チェンめ、あのソーマ使い
+たちを雇う気なのか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84136</PointerOffset>
+      <JapaneseText>ああ！
+こっちだよ、あんたたち！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84136</PointerOffset>
+      <JapaneseText>あんたたちが、近くにいるはず
+だから、呼んできてくれって
+&lt;Ines&gt;さんに頼まれたのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84360</PointerOffset>
+      <JapaneseText>呼んできて？
+&lt;Ines&gt;は動けないほどの
+怪我をしてんのか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84568</PointerOffset>
+      <JapaneseText>……体は無事だけど、
+ひどくスピリアが
+傷ついてるんだよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84568</PointerOffset>
+      <JapaneseText>でも、あんたたち
+よく無事に、この街に
+たどり着けたねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84568</PointerOffset>
+      <JapaneseText>今、見た事のない凶暴な魔物が
+あふれ出して、行商人たちが
+何人も大怪我をしてるんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <BubbleId>3</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84736</PointerOffset>
+      <JapaneseText>見た事のない凶暴な魔物……
+やっぱりゼロムがあちこちで
+実体化してるのか</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84944</PointerOffset>
+      <JapaneseText>とにかく&lt;Ines&gt;さんに
+会っておくれよ。
+うちの宿の二階で休んでるから</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88628</PointerOffset>
+      <JapaneseText>ああ、みんな無事だったんだね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88756</PointerOffset>
+      <JapaneseText>女将さんこそ
+無事でよかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>88884</PointerOffset>
+      <JapaneseText>女将さん、ラピスは……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>9</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89128</PointerOffset>
+      <JapaneseText>……それが
+かなり弱まってるんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89128</PointerOffset>
+      <JapaneseText>世界はこんなありさまだし
+医者にも診せたんだけど
+どうにもならなくて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>8</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89256</PointerOffset>
+      <JapaneseText>&lt;Ines&gt;、急いで
+ラピスにスピルーンを戻そう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>10</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89480</PointerOffset>
+      <JapaneseText>え、ええ……
+でも…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>9</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89608</PointerOffset>
+      <JapaneseText>『でも』も
+『でもも』もないじゃない！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>10</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89808</PointerOffset>
+      <JapaneseText>ラピスを目覚めさせるために
+白い月と黒い月から
+帰ってきたんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>90352</PointerOffset>
+      <JapaneseText>ふたりとも、そんなに
+&lt;Ines&gt;を急かしては……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>11</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92560</PointerOffset>
+      <JapaneseText>げへへ、見つけたぜぇ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>12</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92688</PointerOffset>
+      <JapaneseText>エメラルドの髪の女と
+ソーマ使いどもだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>13</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>93008</PointerOffset>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>14</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96492</PointerOffset>
+      <JapaneseText>ごめんなさい。
+卵もトマトもほうれん草も
+品切れなのよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>15</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96492</PointerOffset>
+      <JapaneseText>こんな時こそ
+しっかり品物をそろえるのが
+商人の役目なのに……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>15</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96620</PointerOffset>
+      <JapaneseText>いえ、事情はわかります。
+こちらこそ無理を言って
+ごめんなさい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>9</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>97040</PointerOffset>
+      <JapaneseText>どうしよう……
+こんなに食料が不足してるなんて
+思わなかった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>10</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>97168</PointerOffset>
+      <JapaneseText>今の食材を
+そろえる心当たりがありますよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98120</PointerOffset>
+      <JapaneseText>あっ、オレを
+だまそうとした悪徳商人！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98436</PointerOffset>
+      <JapaneseText>今は真面目に商売してるってば！
+……全く、田舎者は
+古い事を根に持ちやがる……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98564</PointerOffset>
+      <JapaneseText>宿屋の女将さんから聞きました。
+娘さんのために必要なんですね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98692</PointerOffset>
+      <JapaneseText>今日、生鮮食品を満載した船が
+南の船着場に入るらしい。
+行ってみるといい</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98936</PointerOffset>
+      <JapaneseText>……ただで情報を教えるなんて
+どういうつもり？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>9</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99064</PointerOffset>
+      <JapaneseText>……俺たちにも子どもがいるんだ。
+必死になる親の気持ちはわかるぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99192</PointerOffset>
+      <JapaneseText>それに、今の状況は
+信頼を取り戻す絶好の
+チャンスでもあるんです</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99192</PointerOffset>
+      <JapaneseText>世界のピンチを乗り切って
+私たちは正義の商人として
+再出発してみせますよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99456</PointerOffset>
+      <JapaneseText>ありがとう。
+南の船着場に行ってみるわ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>9</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99696</PointerOffset>
+      <JapaneseText>ふたりの心意気
+買わせてもらうよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100020</PointerOffset>
+      <JapaneseText>毎度ありぃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100148</PointerOffset>
+      <JapaneseText>毎度ありぃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101656</PointerOffset>
+      <JapaneseText>……聞いたか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>13</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101784</PointerOffset>
+      <JapaneseText>ああ、あのソーマ女の娘か……
+使えそうだな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>12</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>102028</PointerOffset>
+      <JapaneseText>…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>14</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>103552</PointerOffset>
+      <JapaneseText>あっ、絵を描いてる子がいる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104400</PointerOffset>
+      <JapaneseText>見るなっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104676</PointerOffset>
+      <JapaneseText>……あんた、ボクの絵を盗作して
+帝国芸術院コンクールに
+応募するつもりなんでしょ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104856</PointerOffset>
+      <JapaneseText>盗作？
+芸術院コンクール??
+何を言ってるんだよ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105104</PointerOffset>
+      <JapaneseText>……ふん！
+『しばらっくれ』ても
+お見と〜しなんだよっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105320</PointerOffset>
+      <JapaneseText>……それを言うなら
+『しらばっくれる』じゃないの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105736</PointerOffset>
+      <JapaneseText>だ、だまされないぞ！
+芸術泥棒が『おこまがしい』よっ！
+あっちへ行けぇっ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>106028</PointerOffset>
+      <JapaneseText>な、なんだよ？
+街の人って訳わかんないな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>106892</PointerOffset>
+      <JapaneseText>ふん、盗作子羊め……
+さっさと狼のエサになっちゃえ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>6</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108756</PointerOffset>
+      <JapaneseText>きみたち……
+なんとか魔物退治を
+お願いできないだろうか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108892</PointerOffset>
+      <JapaneseText>『魔物の狩場』で
+また商隊がやられたか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108892</PointerOffset>
+      <JapaneseText>以前は、集団なら問題なく
+通リ抜けられる場所だったのに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109020</PointerOffset>
+      <JapaneseText>うむ、魔物どもが
+どんどん凶暴化している</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109020</PointerOffset>
+      <JapaneseText>このままではヘンゼラだけでなく
+このペンデローク大陸の
+流通が大打撃を受けるぞ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109504</PointerOffset>
+      <JapaneseText>『魔物の狩場』って……
+結晶騎士野郎と出会った場所か？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109980</PointerOffset>
+      <JapaneseText>結晶騎士だって！
+バレイア教会の結晶騎士様が
+近くにいるのかい？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109980</PointerOffset>
+      <JapaneseText>頼むよ、騎士様の
+居場所を教えてくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>110372</PointerOffset>
+      <JapaneseText>カルセドニーの居場所!?
+そ、それは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>110652</PointerOffset>
+      <JapaneseText>ああまで凶暴化した魔物は
+我々の手には負えない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>110652</PointerOffset>
+      <JapaneseText>ソーマを持つ
+結晶騎士様だけが
+頼りなんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111256</PointerOffset>
+      <JapaneseText>へっ、そーでもねぇさ。
+俺たちも、このソーマで
+魔物の狩場を抜けたんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111688</PointerOffset>
+      <JapaneseText>きみたちも
+ソーマ使いなのか!?</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111688</PointerOffset>
+      <JapaneseText>なら、狩場の魔物退治を
+お願いできないだろうか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112140</PointerOffset>
+      <JapaneseText>……いいよ。
+あんな危険な場所は
+なんとかしなくっちゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112384</PointerOffset>
+      <JapaneseText>えぇ〜!?
+そんな危ない寄り道は
+反対〜〜〜っ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>16</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112680</PointerOffset>
+      <JapaneseText>けど、オレたちだって
+カルセドニーが助けて
+くれなかったら死んでたよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112880</PointerOffset>
+      <JapaneseText>ごめんね、&lt;Kohaku&gt;。
+ちょっとだけ寄り道させてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113144</PointerOffset>
+      <JapaneseText>……うん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>10</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113272</PointerOffset>
+      <JapaneseText>……いいぜ。教会野郎の
+助けなんかなくたって魔物を
+倒せた事を証明してやるぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113596</PointerOffset>
+      <JapaneseText>おお、ありがとう！
+商品が届くのを待っている
+人々のためにもお願いします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113988</PointerOffset>
+      <JapaneseText>……悪ィが断るぜ。
+後戻りしている
+余裕はないんでな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>4</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>114116</PointerOffset>
+      <JapaneseText>ごめんなさい……
+オレたちの目的は
+スピルーンを探す事なんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>2</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>114360</PointerOffset>
+      <JapaneseText>ボクは、普通に怖いから
+断るよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>16</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>114604</PointerOffset>
+      <JapaneseText>……そうか。
+無理強いはできないな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115380</PointerOffset>
+      <JapaneseText>街道を北に進んだところが
+『魔物の狩場』だよ。
+頼む、旅商人たちの仇を討ってくれ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>1</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116064</PointerOffset>
+      <JapaneseText>痛てて……
+生きてますか……相棒？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116420</PointerOffset>
+      <JapaneseText>うう、なんとか……な。
+あの女騎士、ウチの鎧を
+全部切り裂いていきやがった</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116548</PointerOffset>
+      <JapaneseText>クズ鎧とはいえスゴイなぁ。
+だましちゃいけない客って
+いるんですねぇ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116944</PointerOffset>
+      <JapaneseText>……そもそもよぉ。
+なんで俺たち
+客をだましてたんだっけ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117072</PointerOffset>
+      <JapaneseText>そりゃ……客が信用できないから、
+先にだましてやろうと……
+……したんですよね？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117200</PointerOffset>
+      <JapaneseText>……こりゃあ
+天罰ってやつかなぁ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117328</PointerOffset>
+      <JapaneseText>……ですねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117732</PointerOffset>
+      <JapaneseText>あの騎士の武器すごかったな……
+俺もあんなすげぇ武器に負けない
+防具を扱ってみたいぜ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117832</PointerOffset>
+      <JapaneseText>あたた……体は痛いけど
+スピリアは、なんだか
+ほっとしたような……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117972</PointerOffset>
+      <JapaneseText>あ〜、もうっ！
+あ〜、もうっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>17</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117972</PointerOffset>
+      <JapaneseText>こんなに商品があふれてちゃ
+決められやしない!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>17</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117972</PointerOffset>
+      <JapaneseText>まったく困っちゃうわねっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <BubbleId>3</BubbleId>
+      <SpeakerId>17</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>NPC</Section>
+    <Entry>
+      <PointerOffset>36936</PointerOffset>
+      <JapaneseText>どこに出ますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36952</PointerOffset>
+      <JapaneseText>フィールドに出る
+街道に出る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45708</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47216</PointerOffset>
+      <JapaneseText>%sを%d個%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48472</PointerOffset>
+      <JapaneseText>%sが%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48756</PointerOffset>
+      <JapaneseText>%sを%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48908</PointerOffset>
+      <JapaneseText>%sを%d個%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49312</PointerOffset>
+      <JapaneseText>%s</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49548</PointerOffset>
+      <JapaneseText>−</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54428</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61760</PointerOffset>
+      <JapaneseText>shp_yw_00_e031</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64716</PointerOffset>
+      <JapaneseText>beryl00_e020</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>67548</PointerOffset>
+      <JapaneseText>beryl00_e020</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70960</PointerOffset>
+      <JapaneseText>shing00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73620</PointerOffset>
+      <JapaneseText>kohaku00_e029</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78468</PointerOffset>
+      <JapaneseText>hisui00_e029</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>80244</PointerOffset>
+      <JapaneseText>hisui00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>83140</PointerOffset>
+      <JapaneseText>hisui00_e038</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84212</PointerOffset>
+      <JapaneseText>shing00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>89332</PointerOffset>
+      <JapaneseText>innes00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98012</PointerOffset>
+      <JapaneseText>shing00_e100</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99268</PointerOffset>
+      <JapaneseText>innes00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104292</PointerOffset>
+      <JapaneseText>beryl00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104748</PointerOffset>
+      <JapaneseText>shing00_e030</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105212</PointerOffset>
+      <JapaneseText>shing00_e100</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105628</PointerOffset>
+      <JapaneseText>beryl00_e028</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105884</PointerOffset>
+      <JapaneseText>shing00_e013</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>106260</PointerOffset>
+      <JapaneseText>beryl00_e020</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>110808</PointerOffset>
+      <JapaneseText>hisui00_e014</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111800</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111816</PointerOffset>
+      <JapaneseText>依頼を受ける
+依頼を断る</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111960</PointerOffset>
+      <JapaneseText>shing00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112444</PointerOffset>
+      <JapaneseText>beryl00_e028</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>112956</PointerOffset>
+      <JapaneseText>kohaku00_e016</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118584</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118600</PointerOffset>
+      <JapaneseText>一旦、宿屋で休もう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118704</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118720</PointerOffset>
+      <JapaneseText>街を、もう少し調べてみよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118824</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118840</PointerOffset>
+      <JapaneseText>一旦、宿屋で休もう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118944</PointerOffset>
+      <JapaneseText>&lt;Shing&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118960</PointerOffset>
+      <JapaneseText>&lt;Ines&gt;たちと合流しよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>119024</PointerOffset>
+      <JapaneseText>fldm00</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>119124</PointerOffset>
+      <JapaneseText>e03f00</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122696</PointerOffset>
+      <JapaneseText>アクセサリ屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122712</PointerOffset>
+      <JapaneseText>いらっしゃいませ。
+当店自慢のアクセサリを
+見ていってね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122728</PointerOffset>
+      <JapaneseText>またおこしくださいね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>ヘンゼラは
+『ペンデローク大陸の台所』って
+呼ばれる街なのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>……けど、台所だけに、近頃は
+ゴキブリみたいな悪どい商売を
+する奴も増えてるから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>ヘンゼラは活気があって
+ビックリするでしょ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>この街の活気は
+商人が誇りを持って
+商売をしてる証さ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>いくつものキャラバン隊が
+夢を食べる魔物に襲われて
+壊滅しているらしいの</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>また、ぶっそうな
+世の中に戻っちまうのかねぇ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>チェン商会が各地に無料で
+救援物資を配って回ってるんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>さすがチェンだね……
+あたしらも協力しなきゃ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>122816</PointerOffset>
+      <JapaneseText>ヘンゼラの商人魂で
+世界を支えるんだよ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>18</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123112</PointerOffset>
+      <JapaneseText>道具屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123128</PointerOffset>
+      <JapaneseText>おう、らっしゃい！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123144</PointerOffset>
+      <JapaneseText>またよろしくなっ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>へい、へい、へい！
+ウチの防具を見てってくれ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>硬くて、軽くて、扱いやすい
+一級の防具がそろってるぜぇ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>チッ……
+カラクリがばれちまったか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>だが、だまされる方が悪いんだぜ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>買わないなら、あっちへ行けよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>こんな俺だけど
+昔は商売に夢をもってたんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>……もう汚い商売はしねぇよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>うおぉぉ！
+俺の商人ダマシィの見せどころだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>街の警護団に無料で
+最高の防具を貸し出すぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>123612</PointerOffset>
+      <JapaneseText>商人ダマシィで
+ダマシ商人を卒業するんだっ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>3</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>さぁ、いかがです？
+業物のブロードソードが
+入荷してますよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>近頃、魔物が凶暴化してますからね
+一流の武器を持たないと危険ですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>ふん、チェン大人に逆らっては
+商売を続けられません……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>けどね、だまされるのが
+悪いんですよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>そうさ、先にだました者の
+勝ちなんだ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>スピリアを入れ替えて
+マジメにやってますよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>わたしは子どもの頃から
+武器屋になりたかったんだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>……サギ師に
+なりたかった訳じゃない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>今こそ、正義の商人として
+生まれ変わるチャンスです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124084</PointerOffset>
+      <JapaneseText>わ、わたしはやりますよっ!!
+………………怖いけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>5</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124360</PointerOffset>
+      <JapaneseText>素材屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124376</PointerOffset>
+      <JapaneseText>いらっしゃいませ♪
+ロット鮎はヘンゼラの
+特産素材ですよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124392</PointerOffset>
+      <JapaneseText>ありがとうございましたぁ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>……売り上げが減ってる……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>となりの店がウチの悪口でも
+広めてるんじゃないだろうね……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>疑いたくないけど
+しょせん商売は食うか
+食われるかだからね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>隣の店には負けませんよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>隣のじぃさんとは
+もう三十年も
+競い合って商売してるのよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>こんな時一番怖いのは
+民衆のパニックだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>商人が冷静でないと
+パニックをあおる事になっちまう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>海運ギルドと陸運ギルドも
+協力して動きだしたよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124480</PointerOffset>
+      <JapaneseText>商人は商人のやり方で
+世界をひとつにつなげるのさ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>19</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>……売り上げがあがらん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>となりの奴が
+うちの店の悪口を
+流しとるのかもしれん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>油断して相手を信じたら
+バカをみるのが商人……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>……いや、人間だからのぅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>うちの店は毎日が特売日だ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>どれもワシがめききした
+一級品ばかりだぞ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>世の中が乱れた時、怖いのは
+人々がパニックになる事じゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>パニックにつけこんで
+もうけようとするのは
+最低最悪の商人じゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>真の商人は、人々を
+安心させるために知恵を
+しぼるはずなんじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124612</PointerOffset>
+      <JapaneseText>なんたって客が豊かでなきゃ
+商人はもうけられないんじゃから！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>20</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>ひどいわ……どの店も
+客をだまそうとするの……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>ヘンゼラって油断できない
+イヤな街ね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>欲しいものがたくさん
+ありすぎて迷っちゃうわ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>あなたが買って、私に
+プレゼントしてくれるといいのに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>統一戦争前には
+食べる物がない人が
+たくさんいたらしいけど</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>信じられないわねぇ？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>食べる物もないなんて
+どんな状態？
+信じられないわよね??</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>この交易の街で
+物が不足するなんて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124704</PointerOffset>
+      <JapaneseText>地方の街は
+もっとひどい事に
+なってるんじゃないかしら？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>21</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ここがバレイア教の
+教会だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>初対面のぼくの言う事なんて
+信じられないだろうけどね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ここがバレイア教の
+教会だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>信じられないなら、別に
+信じなくてもいいけどね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>2</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ぼくもいつか
+チェンさんみたいになりたいな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>3</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ぼくもえらくなって
+美人のメガネ秘書を
+はべらすんだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>4</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>おとぎ話のとおりに
+怪物がゲンジツに出てきた……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>……って事は
+おとぎ話のとおりに
+世界は消えちゃうのかな？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>5</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ぼくの美人秘書をはべらすユメは
+かなわないかもね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>6</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>さっきね、エカイユさんが
+『あきらめちゃだめ』って
+声をかけてくれたんだ……∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>7</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124796</PointerOffset>
+      <JapaneseText>ぼく、あきらめないよ！
+美人メガネ秘書をはべらす
+ユメをかなえるまではっ!!</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>22</SpeakerId>
+      <SubId>8</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124916</PointerOffset>
+      <JapaneseText>アクティブタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>124932</PointerOffset>
+      <JapaneseText>プギィ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>125048</PointerOffset>
+      <JapaneseText>アクティブタ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>125064</PointerOffset>
+      <JapaneseText>フゴッ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>125412</PointerOffset>
+      <JapaneseText>商人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>125428</PointerOffset>
+      <JapaneseText>商品が届くのを待っている
+人々のためにもお願いします</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>125908</PointerOffset>
+      <JapaneseText>あ〜、もうっ！
+あ〜、もうっ！
+まったく困っちゃうわねっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126140</PointerOffset>
+      <JapaneseText>いらだち主婦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126156</PointerOffset>
+      <JapaneseText>献立が決まってスッキリしたよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126232</PointerOffset>
+      <JapaneseText>いらだち主婦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126248</PointerOffset>
+      <JapaneseText>主婦っていうのは
+大変な職業なんだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>126880</PointerOffset>
+      <JapaneseText>%sじいさん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>127500</PointerOffset>
+      <JapaneseText>わしは%sじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>127696</PointerOffset>
+      <JapaneseText>%sの材料が
+足りないようじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>127880</PointerOffset>
+      <JapaneseText>%sを
+たくさん持っているようじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>127880</PointerOffset>
+      <JapaneseText>交換する必要はなさそうじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128044</PointerOffset>
+      <JapaneseText>%sの材料を
+持っているようじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128044</PointerOffset>
+      <JapaneseText>材料を%sと交換するか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128232</PointerOffset>
+      <JapaneseText>交換しない
+１個だけ交換する
+まとめて交換する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128296</PointerOffset>
+      <JapaneseText>交換しない
+交換する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128388</PointerOffset>
+      <JapaneseText>交換しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128836</PointerOffset>
+      <JapaneseText>材料を渡しました</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129172</PointerOffset>
+      <JapaneseText>おお、%sを%s個以上
+持っているようじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129172</PointerOffset>
+      <JapaneseText>%s%s個を
+%sと交換するか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129404</PointerOffset>
+      <JapaneseText>交換しない
+交換する</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129496</PointerOffset>
+      <JapaneseText>交換しますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129856</PointerOffset>
+      <JapaneseText>%sを
+たくさん持っているようじゃな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129856</PointerOffset>
+      <JapaneseText>交換する必要はなさそうじゃ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130032</PointerOffset>
+      <JapaneseText>材料を揃えてきたら
+%sと交換してあげよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130032</PointerOffset>
+      <JapaneseText>%sの材料は
+%sと%s、</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <BubbleId>2</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130032</PointerOffset>
+      <JapaneseText>%s、%s、
+%sを
+それぞれ１個だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <BubbleId>3</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130032</PointerOffset>
+      <JapaneseText>%sを%s個集めたら
+%s１個と
+交換することもできる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <BubbleId>4</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130408</PointerOffset>
+      <JapaneseText>宿屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130464</PointerOffset>
+      <JapaneseText>教会</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130520</PointerOffset>
+      <JapaneseText>アクセサリ屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130576</PointerOffset>
+      <JapaneseText>道具屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>130632</PointerOffset>
+      <JapaneseText>素材屋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <BubbleId>1</BubbleId>
+      <SpeakerId>23</SpeakerId>
+      <SubId>1</SubId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

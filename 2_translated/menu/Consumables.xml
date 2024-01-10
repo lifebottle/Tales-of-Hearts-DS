@@ -1,0 +1,718 @@
+<MenuText>
+  <Strings>
+    <Section>Items Name</Section>
+    <Entry>
+      <PointerOffset>16</PointerOffset>
+      <JapaneseText>アップルグミ</JapaneseText>
+      <EnglishText>Apple Gel</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>フレッシュな甘さ、アップル味のグミ。
+最大ＨＰの３０％分ＨＰが回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44</PointerOffset>
+      <JapaneseText>ピーチグミ</JapaneseText>
+      <EnglishText>Peach Gel</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Edited</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48</PointerOffset>
+      <JapaneseText>とろける甘さ、ピーチ味のグミ。
+最大ＨＰの５０％分ＨＰが回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72</PointerOffset>
+      <JapaneseText>グレープグミ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76</PointerOffset>
+      <JapaneseText>ジューシーな甘さ、グレープ味のグミ。
+最大ＨＰの７５％分ＨＰが回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100</PointerOffset>
+      <JapaneseText>パナシーアボトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104</PointerOffset>
+      <JapaneseText>全ての状態異常を回復する薬。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128</PointerOffset>
+      <JapaneseText>リキュールボトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132</PointerOffset>
+      <JapaneseText>全ての状態異常・減少効果を防止する薬。
+戦闘中のみ有効。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>156</PointerOffset>
+      <JapaneseText>ライフボトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>160</PointerOffset>
+      <JapaneseText>戦闘不能を回復し、
+最大ＨＰの４０％分ＨＰが回復する薬。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>184</PointerOffset>
+      <JapaneseText>エリクシール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>188</PointerOffset>
+      <JapaneseText>戦闘不能を回復＆ＨＰを全快にする薬。
+不老長寿の霊薬とも言われる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>212</PointerOffset>
+      <JapaneseText>オメガエリクシール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>216</PointerOffset>
+      <JapaneseText>全員の戦闘不能を回復し、
+ＨＰを全快にする薬。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>240</PointerOffset>
+      <JapaneseText>オールディバイド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>244</PointerOffset>
+      <JapaneseText>敵味方が受けるダメージを半減する。
+もう一度使うと元に戻る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268</PointerOffset>
+      <JapaneseText>アワーグラス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272</PointerOffset>
+      <JapaneseText>一定時間全ての敵の動きを止める。
+ピンチのときに使うのもアリ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>296</PointerOffset>
+      <JapaneseText>ホーリィボトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>300</PointerOffset>
+      <JapaneseText>一定時間、全ての敵が逃げ出すようになる
+聖なる薬品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>324</PointerOffset>
+      <JapaneseText>ダークボトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328</PointerOffset>
+      <JapaneseText>一定時間、敵の追跡速度が速くなる
+魔性の薬品。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>352</PointerOffset>
+      <JapaneseText>セージ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>356</PointerOffset>
+      <JapaneseText>最大ＨＰが１０上昇する薬草。
+心地よい香りで気分を和ませる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>380</PointerOffset>
+      <JapaneseText>ラベンダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>384</PointerOffset>
+      <JapaneseText>攻撃力が１上昇する薬草。
+ほのかに香るハーブの女王。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>408</PointerOffset>
+      <JapaneseText>ベルベーヌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>412</PointerOffset>
+      <JapaneseText>防御力が１上昇する薬草。
+レモンに似た香りがさわやか。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>436</PointerOffset>
+      <JapaneseText>ローズマリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>440</PointerOffset>
+      <JapaneseText>術攻撃力が１上昇する薬草。
+若返りのハーブと言われる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>464</PointerOffset>
+      <JapaneseText>サフラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>468</PointerOffset>
+      <JapaneseText>術防御力が１上昇する薬草。
+サフランライスが有名。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>492</PointerOffset>
+      <JapaneseText>カモミール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>496</PointerOffset>
+      <JapaneseText>命中率が１上昇する薬草。
+古くから使われるハーブ療法の代表。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>520</PointerOffset>
+      <JapaneseText>セボリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>524</PointerOffset>
+      <JapaneseText>回避率が１上昇する薬草。
+辛味と芳香があり料理などに使われる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>548</PointerOffset>
+      <JapaneseText>ジャスミン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>552</PointerOffset>
+      <JapaneseText>集中力が１上昇する薬草。
+幸福をもたらす甘い香りのハーブ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>576</PointerOffset>
+      <JapaneseText>ブルーセージ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>580</PointerOffset>
+      <JapaneseText>最大ＨＰが２０上昇する薬草。
+より高い効能を持つ、青いセージ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>604</PointerOffset>
+      <JapaneseText>ブルーラベンダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>608</PointerOffset>
+      <JapaneseText>攻撃力が２上昇する薬草。
+より高い効能を持つ、青いラベンダー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>632</PointerOffset>
+      <JapaneseText>ブルーベルベーヌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>636</PointerOffset>
+      <JapaneseText>防御力が２上昇する薬草。
+より高い効能を持つ、青いベルベーヌ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>660</PointerOffset>
+      <JapaneseText>ブルーローズマリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>664</PointerOffset>
+      <JapaneseText>術攻撃力が２上昇する薬草。
+より高い効能を持つ、青いローズマリー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>688</PointerOffset>
+      <JapaneseText>ブルーサフラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>692</PointerOffset>
+      <JapaneseText>術防御力が２上昇する薬草。
+より高い効能を持つ、青いサフラン。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>716</PointerOffset>
+      <JapaneseText>ブルーカモミール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>720</PointerOffset>
+      <JapaneseText>命中率が２上昇する薬草。
+より高い効能を持つ、青いカモミール。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>744</PointerOffset>
+      <JapaneseText>ブルーセボリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>748</PointerOffset>
+      <JapaneseText>回避率が２上昇する薬草。
+より高い効能を持つ、青いセボリー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>772</PointerOffset>
+      <JapaneseText>ブルージャスミン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>776</PointerOffset>
+      <JapaneseText>集中力が２上昇する薬草。
+より高い効能を持つ、青いジャスミン。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>800</PointerOffset>
+      <JapaneseText>レッドセージ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>804</PointerOffset>
+      <JapaneseText>最大ＨＰが３０上昇する薬草。
+抜群の効能を誇る、赤いセージ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>828</PointerOffset>
+      <JapaneseText>レッドラベンダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>832</PointerOffset>
+      <JapaneseText>攻撃力が３上昇する薬草。
+抜群の効能を誇る、赤いラベンダー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>856</PointerOffset>
+      <JapaneseText>レッドベルベーヌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>860</PointerOffset>
+      <JapaneseText>防御力が３上昇する薬草。
+抜群の効能を誇る、赤いベルベーヌ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>884</PointerOffset>
+      <JapaneseText>レッドローズマリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>888</PointerOffset>
+      <JapaneseText>術攻撃力が３上昇する薬草。
+抜群の効能を誇る、赤いローズマリー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>912</PointerOffset>
+      <JapaneseText>レッドサフラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>916</PointerOffset>
+      <JapaneseText>術防御力が３上昇する薬草。
+抜群の効能を誇る、赤いサフラン。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>940</PointerOffset>
+      <JapaneseText>レッドカモミール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>944</PointerOffset>
+      <JapaneseText>命中率が３上昇する薬草。
+抜群の効能を誇る、赤いカモミール。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>968</PointerOffset>
+      <JapaneseText>レッドセボリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>972</PointerOffset>
+      <JapaneseText>回避率が３上昇する薬草。
+抜群の効能を誇る、赤いセボリー。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>996</PointerOffset>
+      <JapaneseText>レッドジャスミン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1000</PointerOffset>
+      <JapaneseText>集中力が３上昇する薬草。
+抜群の効能を誇る、赤いジャスミン。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1024</PointerOffset>
+      <JapaneseText>ロートリキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1028</PointerOffset>
+      <JapaneseText>変な臭いのする謎の赤色液体。
+何かの薬品に重宝されるとか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1052</PointerOffset>
+      <JapaneseText>ブラオリキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1056</PointerOffset>
+      <JapaneseText>変な臭いのする謎の青色液体。
+何かの薬品に重宝されるとか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1080</PointerOffset>
+      <JapaneseText>グリューンリキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1084</PointerOffset>
+      <JapaneseText>変な臭いのする謎の緑色液体。
+何かの薬品に重宝されるとか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1108</PointerOffset>
+      <JapaneseText>ゲルプリキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1112</PointerOffset>
+      <JapaneseText>変な臭いのする謎の黄色液体。
+何かの薬品に重宝されるとか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1136</PointerOffset>
+      <JapaneseText>ヴィオレットリキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1140</PointerOffset>
+      <JapaneseText>変な臭いのする謎の紫色液体。
+何かの薬品に重宝されるとか……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1164</PointerOffset>
+      <JapaneseText>マジカルアロマ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1168</PointerOffset>
+      <JapaneseText>相手を惑わす不思議な香料。
+持っている数×１％分お店で割引される。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
