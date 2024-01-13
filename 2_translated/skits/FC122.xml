@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Ines&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Beryl&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,6 +18,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Variable</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -31,9 +34,9 @@
 南西の半島にある火山よ</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -44,9 +47,9 @@
 繰り返しているわ</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -56,9 +59,9 @@
 人食い竜を捕まえるなんて……</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -67,9 +70,9 @@
       <JapaneseText>……何の罰ゲーム？</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -81,9 +84,9 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>3</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>

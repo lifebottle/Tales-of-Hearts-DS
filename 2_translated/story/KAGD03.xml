@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Variable</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -16,9 +17,9 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -27,9 +28,9 @@
       <JapaneseText>−</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>

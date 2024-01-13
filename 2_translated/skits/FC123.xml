@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>リチア</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Variable</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -24,9 +26,9 @@
 転送術を発動中です！</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -37,9 +39,9 @@
 一気に突っこみましょう！</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -51,9 +53,9 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>

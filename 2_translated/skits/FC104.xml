@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>&lt;Hisui&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Variable</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -24,9 +26,9 @@
 &lt;Ines&gt;に会ってからだ</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -36,9 +38,9 @@
 こいつ…………重いな</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -50,9 +52,9 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>

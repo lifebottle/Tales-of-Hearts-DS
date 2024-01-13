@@ -2,6 +2,7 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>ガルデニア観測装置</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -9,6 +10,7 @@
       <Status>To Do</Status>
     </Entry>
     <Entry>
+      <PointerOffset/>
       <JapaneseText>Variable</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -25,9 +27,9 @@
 観測データ受信完了</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -38,9 +40,9 @@
 現在の原界の思念吸収率は１５％</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -50,9 +52,9 @@
 一斉吸収が発動可能となります</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>3</BubbleId>
-      <SpeakerId>1</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -64,9 +66,9 @@
       <JapaneseText>%s</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
@@ -75,9 +77,9 @@
       <JapaneseText>−</JapaneseText>
       <EnglishText/>
       <Notes/>
+      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <SpeakerId>2</SpeakerId>
       <SubId>1</SubId>
       <Status>To Do</Status>
     </Entry>
