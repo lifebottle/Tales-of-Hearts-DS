@@ -378,10 +378,10 @@ against spells.</EnglishText>
     <Entry>
       <PointerOffset>196</PointerOffset>
       <JapaneseText>パッシブ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Recover</EnglishText>
+      <Notes>Translates literally as "Passive", but the effect is the same as Recover in other games which lets you recover after being knocked down by pressing the guard button.</Notes>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>200</PointerOffset>
@@ -666,19 +666,20 @@ chance to inflict Fatigue.</EnglishText>
     <Entry>
       <PointerOffset>324</PointerOffset>
       <JapaneseText>リバースアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reverse Strike</EnglishText>
       <Notes/>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>328</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で反転を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Reverse.</EnglishText>
       <Notes/>
       <Id>78</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>332</PointerOffset>
@@ -719,155 +720,164 @@ chance to inflict Curse.</EnglishText>
     <Entry>
       <PointerOffset>348</PointerOffset>
       <JapaneseText>ブラインドアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blind Attack</EnglishText>
       <Notes/>
       <Id>83</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>352</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で暗闇を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Blind.</EnglishText>
       <Notes/>
       <Id>84</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>356</PointerOffset>
       <JapaneseText>ヘビィアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heavy Attack</EnglishText>
       <Notes/>
       <Id>85</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>360</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で加重を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Heavy.</EnglishText>
       <Notes/>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>364</PointerOffset>
       <JapaneseText>フェザーアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weightless Attack</EnglishText>
       <Notes/>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>368</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で減重を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Weightless.</EnglishText>
       <Notes/>
       <Id>88</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>372</PointerOffset>
       <JapaneseText>ポイズンガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Poison Guard</EnglishText>
       <Notes/>
       <Id>89</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>376</PointerOffset>
       <JapaneseText>ｎ％の確率で
 熱毒状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Poison.</EnglishText>
       <Notes/>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380</PointerOffset>
       <JapaneseText>ウェイストガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fatigue Guard</EnglishText>
       <Notes/>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384</PointerOffset>
       <JapaneseText>ｎ％の確率で
 疲労状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Fatigue.</EnglishText>
       <Notes/>
       <Id>92</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>388</PointerOffset>
       <JapaneseText>リバースガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reverse Guard</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>392</PointerOffset>
       <JapaneseText>ｎ％の確率で
 反転状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Reverse.</EnglishText>
       <Notes/>
       <Id>94</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>396</PointerOffset>
       <JapaneseText>ストーンガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Petrify Guard</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>400</PointerOffset>
       <JapaneseText>ｎ％の確率で
 石化状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Petrification.</EnglishText>
       <Notes/>
       <Id>96</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>404</PointerOffset>
       <JapaneseText>カーズガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curse Guard</EnglishText>
       <Notes/>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>408</PointerOffset>
       <JapaneseText>ｎ％の確率で
 呪い状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Curse.</EnglishText>
       <Notes/>
       <Id>98</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>412</PointerOffset>
       <JapaneseText>ブラインドガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blind Guard</EnglishText>
       <Notes/>
       <Id>99</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>416</PointerOffset>
       <JapaneseText>ｎ％の確率で
 暗闇状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance of
+preventing Blind.</EnglishText>
       <Notes/>
       <Id>100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>420</PointerOffset>
