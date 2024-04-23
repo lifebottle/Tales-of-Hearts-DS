@@ -157,10 +157,11 @@
       <PointerOffset>96</PointerOffset>
       <JapaneseText>全てのキャラでマニュアル操作が
 選択できるようになる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables the "Manual Mode"
+movement option during battle.</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100</PointerOffset>
@@ -174,10 +175,11 @@
       <PointerOffset>104</PointerOffset>
       <JapaneseText>ジャンプ後、
 さらにジャンプできるようになる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables the ability to
+jump in the air.</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108</PointerOffset>
@@ -217,18 +219,18 @@ to quickly move in the air.</EnglishText>
     <Entry>
       <PointerOffset>124</PointerOffset>
       <JapaneseText>ファストバック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fast Back</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128</PointerOffset>
       <JapaneseText>バックステップの速度が速くなる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases backstepping speed.</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132</PointerOffset>
@@ -385,231 +387,245 @@ against spells.</EnglishText>
       <PointerOffset>200</PointerOffset>
       <JapaneseText>吹き飛ばされたあと、着地時にタイミング
 よく&lt;icon:50&gt;を押すことで受身がとれる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After being knocked back, press &lt;icon:50&gt; 
+before hitting the ground to recover quickly.</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>204</PointerOffset>
       <JapaneseText>フラッシュガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flash Guard</EnglishText>
       <Notes/>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>208</PointerOffset>
       <JapaneseText>タイミングよくガードすることで
 ダメージを１０分の１に軽減できる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guard right before being hit to
+reduce damage received by 90%.</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>212</PointerOffset>
       <JapaneseText>プッシュガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Push Guard</EnglishText>
       <Notes/>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>216</PointerOffset>
       <JapaneseText>フラッシュガードを成功させることで、
 敵を吹き飛ばすことができる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A successful Flash Guard will
+push away enemies.</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>220</PointerOffset>
       <JapaneseText>ドレインガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Drain Guard</EnglishText>
       <Notes/>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>224</PointerOffset>
       <JapaneseText>フラッシュガードを成功させることで、
 ＨＰが回復する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A successful Flash Guard will
+restore HP.</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>228</PointerOffset>
       <JapaneseText>ドッジガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dodge Guard</EnglishText>
       <Notes/>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>232</PointerOffset>
       <JapaneseText>フラッシュガードを成功させることで、
 ダメージを無効化できる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A successful Flash Guard will
+nullify damage.</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>236</PointerOffset>
       <JapaneseText>ダメージブレイク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damage Break</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>240</PointerOffset>
       <JapaneseText>ダメージを受けているときに、&lt;icon:52&gt;ボタンで
 ＥＧを消費し、一時的に無敵になる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When taking damage, press &lt;icon:52&gt; to consume
+EG and become temporarily invincible.</EnglishText>
       <Notes/>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>244</PointerOffset>
       <JapaneseText>スペシャル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special</EnglishText>
       <Notes/>
       <Id>57</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>248</PointerOffset>
       <JapaneseText>攻撃ヒット中に&lt;icon:52&gt;ボタンでＣＧ１００消費し、
 コンビネーションブラスターが発動する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Activate your Combination Blaster by holding
+&lt;icon:52&gt; after hitting a foe. Consumes 100 CG.</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>252</PointerOffset>
       <JapaneseText>インパクトウェイブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Impact Wave</EnglishText>
       <Notes/>
       <Id>59</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>256</PointerOffset>
       <JapaneseText>ＨＰ最大時、通常攻撃に衝撃波が
 発生する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When at max HP, releases a
+shockwave from a normal attack.</EnglishText>
       <Notes/>
       <Id>60</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260</PointerOffset>
       <JapaneseText>チャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Charge</EnglishText>
       <Notes/>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 直後の攻撃にガードブレイク効果がつく。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to give your
+next attack a guard break effect.</EnglishText>
       <Notes/>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268</PointerOffset>
       <JapaneseText>ヒールチャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heal Charge</EnglishText>
       <Notes/>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 チャージでＨＰが小回復する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to heal
+a small amount of HP.</EnglishText>
       <Notes/>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276</PointerOffset>
       <JapaneseText>リカバーチャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Recover Charge</EnglishText>
       <Notes/>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 チャージで状態異常が回復する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to recover
+from status ailments.</EnglishText>
       <Notes/>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284</PointerOffset>
       <JapaneseText>インパクトチャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Impact Charge</EnglishText>
       <Notes/>
       <Id>67</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 チャージに攻撃判定が発生する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to deal
+damage with your charge.</EnglishText>
       <Notes/>
       <Id>68</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292</PointerOffset>
       <JapaneseText>バリアチャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Barrier Charge</EnglishText>
       <Notes/>
       <Id>69</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 発動中、全ての攻撃を無効化できる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to avoid
+all attacks during the charge.</EnglishText>
       <Notes/>
       <Id>70</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300</PointerOffset>
       <JapaneseText>ＣＧチャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ＣＧ Charge</EnglishText>
       <Notes/>
       <Id>71</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304</PointerOffset>
       <JapaneseText>&lt;icon:50&gt;＋&lt;Arrow_Down&gt;でチャージができるようになり、
 チャージでＣＧが上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Press &lt;icon:50&gt;＋&lt;Arrow_Down&gt; to increase
+your CG.</EnglishText>
       <Notes/>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308</PointerOffset>
@@ -623,27 +639,29 @@ against spells.</EnglishText>
       <PointerOffset>312</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で熱毒を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Poison.</EnglishText>
       <Notes/>
       <Id>74</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316</PointerOffset>
       <JapaneseText>ウェイストアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fatigue Attack</EnglishText>
       <Notes/>
       <Id>75</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>320</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で疲労を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Fatigue.</EnglishText>
       <Notes/>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324</PointerOffset>
@@ -665,19 +683,20 @@ against spells.</EnglishText>
     <Entry>
       <PointerOffset>332</PointerOffset>
       <JapaneseText>ストーンアタック</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Petrify Attack</EnglishText>
+      <Notes>Technically "Stone Attack"</Notes>
       <Id>79</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>336</PointerOffset>
       <JapaneseText>通常攻撃ヒット時に、
 確率で石化を付加させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal attacks have a
+chance to inflict Petrification.</EnglishText>
       <Notes/>
       <Id>80</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>340</PointerOffset>
