@@ -1309,27 +1309,28 @@ when &lt;30% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>620</PointerOffset>
       <JapaneseText>ストッパー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Disorienting Strike</EnglishText>
       <Notes/>
       <Id>151</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>624</PointerOffset>
       <JapaneseText>通常攻撃による
 敵硬直時間を延長する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Extends enemy stagger time
+from normal attacks.</EnglishText>
       <Notes/>
       <Id>152</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>628</PointerOffset>
       <JapaneseText>クリティカル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Critical</EnglishText>
       <Notes/>
       <Id>153</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>632</PointerOffset>
@@ -1360,10 +1361,10 @@ when &lt;30% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>644</PointerOffset>
       <JapaneseText>イミュニティ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Immunity</EnglishText>
       <Notes/>
       <Id>157</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>648</PointerOffset>
@@ -1393,69 +1394,72 @@ when &lt;30% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>660</PointerOffset>
       <JapaneseText>インバリッドアタック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Void Attack</EnglishText>
       <Notes/>
       <Id>161</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>664</PointerOffset>
       <JapaneseText>物理ダメージを
 ｎ％の確率で回避する。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>ｎ％chance of preventing stagger
+when receiving a physical attack.</EnglishText>
+      <Notes>I think this just prevents stagger - need to double check in-game</Notes>
       <Id>162</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>668</PointerOffset>
       <JapaneseText>インバリッドマジック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Void Magic</EnglishText>
       <Notes/>
       <Id>163</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>672</PointerOffset>
       <JapaneseText>思念術によるダメージを
 ｎ％の確率で回避する。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>ｎ％chance of preventing stagger
+when receiving a magical attack.</EnglishText>
+      <Notes>I think this just prevents stagger - need to double check in-game</Notes>
       <Id>164</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>676</PointerOffset>
       <JapaneseText>スペルラッキー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lucky Magic</EnglishText>
       <Notes/>
       <Id>165</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>680</PointerOffset>
       <JapaneseText>思念術の消費ＥＧがｎ％の確率で
 ２０％減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables a ｎ％ chance to
+reduce the EG cost of magic by 20%.</EnglishText>
       <Notes/>
       <Id>166</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>684</PointerOffset>
       <JapaneseText>スピードスペル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Speed Cast</EnglishText>
       <Notes/>
       <Id>167</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>688</PointerOffset>
       <JapaneseText>詠唱時間がｎ％減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces casting time by ｎ％</EnglishText>
       <Notes/>
       <Id>168</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>692</PointerOffset>
@@ -1746,9 +1750,9 @@ from backstepping.</EnglishText>
 無効化する。</JapaneseText>
       <EnglishText>ｎ％chance of nullifying damage
 when hit by a physical attack.</EnglishText>
-      <Notes/>
+      <Notes>I believe this actually nullifies damage; but there is another skill that has a similar description - I believe the other one just prevents stagger, but need to double check in-game</Notes>
       <Id>202</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>828</PointerOffset>
@@ -1764,9 +1768,9 @@ when hit by a physical attack.</EnglishText>
 ｎ％の確率で無効化する。</JapaneseText>
       <EnglishText>ｎ％chance of nullifying damage
 when hit by a spell attack.</EnglishText>
-      <Notes/>
+      <Notes>I believe this actually nullifies damage; but there is another skill that has a similar description - I believe the other one just prevents stagger, but need to double check in-game</Notes>
       <Id>204</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>836</PointerOffset>
