@@ -1336,27 +1336,28 @@ from normal attacks.</EnglishText>
       <PointerOffset>632</PointerOffset>
       <JapaneseText>クリティカル発生率が
 ｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases the chance of inflicting
+a critical hit by ｎ％.</EnglishText>
       <Notes/>
       <Id>154</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>636</PointerOffset>
       <JapaneseText>フェイント</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Stun Extender</EnglishText>
+      <Notes>Literally translated as Faint/Feint; but it's related to stunning. I added extender since the effect is similar to Stun Extender from Innocence R</Notes>
       <Id>155</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>640</PointerOffset>
       <JapaneseText>相手を気絶させたときの時間が
 ｎ％上昇する。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Increases enemy stun time by ｎ％.</EnglishText>
+      <Notes>Need to check if it increases the duration/time; or if it increases the chance of inflicting stun</Notes>
       <Id>156</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>644</PointerOffset>
@@ -1378,18 +1379,18 @@ from normal attacks.</EnglishText>
     <Entry>
       <PointerOffset>652</PointerOffset>
       <JapaneseText>エンデューロ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Endure</EnglishText>
       <Notes/>
       <Id>159</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>656</PointerOffset>
       <JapaneseText>ダメージ時の硬直時間が減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces stagger duration.</EnglishText>
       <Notes/>
       <Id>160</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>660</PointerOffset>
@@ -2142,10 +2143,10 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1004</PointerOffset>
       <JapaneseText>最大ＨＰアップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Max HP Up</EnglishText>
       <Notes/>
       <Id>247</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1012</PointerOffset>
@@ -2275,18 +2276,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1128</PointerOffset>
       <JapaneseText>盾によるボディブローで
 内部に衝撃を与える技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A body-blow with the shield whose
+impact inflicts internal damage.</EnglishText>
       <Notes/>
       <Id>263</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1148</PointerOffset>
       <JapaneseText>地砕衝</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Impact Event</EnglishText>
       <Notes/>
       <Id>264</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1152</PointerOffset>
@@ -2300,18 +2302,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1156</PointerOffset>
       <JapaneseText>強烈なジャンプ斬りから
 衝撃波を起こす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A jumping strike so violent that
+it causes a shockwave.</EnglishText>
       <Notes/>
       <Id>266</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1176</PointerOffset>
       <JapaneseText>翔星刃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rising Star</EnglishText>
       <Notes/>
       <Id>267</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1180</PointerOffset>
@@ -2325,18 +2328,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1184</PointerOffset>
       <JapaneseText>高速で前方にジャンプしながら
 強力な斬り上げを繰り出す技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A jumping blow that can hit
+the enemy up into the air.</EnglishText>
       <Notes/>
       <Id>269</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1204</PointerOffset>
       <JapaneseText>瞬刃衝</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meteor Shower</EnglishText>
       <Notes/>
       <Id>270</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1208</PointerOffset>
@@ -2349,18 +2353,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1212</PointerOffset>
       <JapaneseText>三連突きから盾で敵を吹き飛ばす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Three swift strikes followed
+by a charging shield smash.</EnglishText>
       <Notes/>
       <Id>272</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1232</PointerOffset>
       <JapaneseText>疾風閃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shining Gale</EnglishText>
       <Notes/>
       <Id>273</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1236</PointerOffset>
@@ -2373,18 +2378,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1240</PointerOffset>
       <JapaneseText>神速のタックルと突きを見舞う技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A well-aimed one-two combo consisting
+of a punch followed by a sword thrust.</EnglishText>
       <Notes/>
       <Id>275</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1260</PointerOffset>
       <JapaneseText>飛燕翔旋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Swallow Flight</EnglishText>
       <Notes/>
       <Id>276</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1264</PointerOffset>
@@ -2398,18 +2404,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1268</PointerOffset>
       <JapaneseText>目標を空中に斬り上げながら
 三連続の回転斬りを見舞う技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sends the enemy flying into the air, then
+follows with three swift spinning attacks.</EnglishText>
       <Notes/>
       <Id>278</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1288</PointerOffset>
       <JapaneseText>絶翔斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soaring Slash</EnglishText>
       <Notes/>
       <Id>279</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1292</PointerOffset>
@@ -2422,18 +2429,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1296</PointerOffset>
       <JapaneseText>上空に切り上げる衝撃で敵を斬り刻む技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An upward strike with a turn that
+sends the enemy into the air.</EnglishText>
       <Notes/>
       <Id>281</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1316</PointerOffset>
       <JapaneseText>獅子戦吼</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beast</EnglishText>
       <Notes/>
       <Id>282</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1320</PointerOffset>
@@ -2446,18 +2454,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1324</PointerOffset>
       <JapaneseText>盾で敵を大きく吹き飛ばす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A shield strike imbued with the spirit of
+the lion that can send enemies flying.</EnglishText>
       <Notes/>
       <Id>284</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1344</PointerOffset>
       <JapaneseText>爪吼牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tooth and Claw</EnglishText>
       <Notes/>
       <Id>285</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1348</PointerOffset>
@@ -2471,18 +2480,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1352</PointerOffset>
       <JapaneseText>怒れ狂う獣のように
 斬・打・斬の三連撃を繰り出す技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A three-strike cut-punch-cut combo
+with the ferocity of a raging beast.</EnglishText>
       <Notes/>
       <Id>287</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1372</PointerOffset>
       <JapaneseText>思刃金剛波</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meteoric Iron</EnglishText>
       <Notes/>
       <Id>288</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1376</PointerOffset>
@@ -2496,18 +2506,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1380</PointerOffset>
       <JapaneseText>祖父ゼクスが編み出した
 悪を斬り裂く驚異の三連撃。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A three-hit combo devised by Sydan Meteor
+for the purpose of vanquishing evil.</EnglishText>
       <Notes/>
       <Id>290</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1400</PointerOffset>
       <JapaneseText>屠龍連撃破</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Draco's Fury</EnglishText>
       <Notes/>
       <Id>291</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1404</PointerOffset>
@@ -2521,18 +2532,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1408</PointerOffset>
       <JapaneseText>眼前の敵に対し、目にも留まらぬ
 怒涛の連続攻撃を浴びせる技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rains down unstoppably fast and ferocious
+blows on the enemy immediately in front.</EnglishText>
       <Notes/>
       <Id>293</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1428</PointerOffset>
       <JapaneseText>獅吼烈破</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raging Beast</EnglishText>
       <Notes/>
       <Id>294</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1432</PointerOffset>
@@ -2546,18 +2558,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1436</PointerOffset>
       <JapaneseText>高速の三連撃から
 さらに止めの獅子戦吼へとつなぐ技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A high-speed three-hit combo that
+segues into the Beast attack.</EnglishText>
       <Notes/>
       <Id>296</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1456</PointerOffset>
       <JapaneseText>空裂閃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Solar Flare</EnglishText>
       <Notes/>
       <Id>297</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1460</PointerOffset>
@@ -2570,18 +2583,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1464</PointerOffset>
       <JapaneseText>剣先から光の念弾を放つ技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sends a beam of light racing from
+the end of the user's sword.</EnglishText>
       <Notes/>
       <Id>299</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1484</PointerOffset>
       <JapaneseText>爆炎剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hell Sword</EnglishText>
       <Notes/>
       <Id>300</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1488</PointerOffset>
@@ -2595,18 +2609,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1492</PointerOffset>
       <JapaneseText>剣に溜めた思念力を地面に叩き付け、
 爆発を引き起こす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A punishing downward slice
+with a flame-infused sword.</EnglishText>
       <Notes/>
       <Id>302</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1512</PointerOffset>
       <JapaneseText>雷神剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lightning Blade</EnglishText>
       <Notes/>
       <Id>303</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1516</PointerOffset>
@@ -2620,18 +2635,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1520</PointerOffset>
       <JapaneseText>雷を帯びた突きを繰り出し、
 雷撃を相手に落とす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An electrified sword thrust that causes
+lightning to strike the target.</EnglishText>
       <Notes/>
       <Id>305</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1540</PointerOffset>
       <JapaneseText>雷迅牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Blue Jet</EnglishText>
       <Notes/>
       <Id>306</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1544</PointerOffset>
@@ -2645,18 +2661,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1548</PointerOffset>
       <JapaneseText>自らが天より落ちる雷となって
 相手を串刺しにする技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The user leaps into the air, then
+strikes like a bolt of lightning.</EnglishText>
       <Notes/>
       <Id>308</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1568</PointerOffset>
       <JapaneseText>昇煌陣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Photon Conductor</EnglishText>
       <Notes/>
       <Id>309</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1572</PointerOffset>
@@ -2670,18 +2687,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1576</PointerOffset>
       <JapaneseText>地中に眠る光の思念を呼び起こし、
 周囲に衝撃波を起こす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summons light energy from the surrounding
+ground to create a violent shockwave.</EnglishText>
       <Notes/>
       <Id>311</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1596</PointerOffset>
       <JapaneseText>屠龍閃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dragon Slayer</EnglishText>
       <Notes/>
       <Id>312</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1600</PointerOffset>
@@ -2694,18 +2712,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1604</PointerOffset>
       <JapaneseText>上空まで発生する炎撃を繰り出す技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An attack that sends fire flying into
+the sky.</EnglishText>
       <Notes/>
       <Id>314</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1624</PointerOffset>
       <JapaneseText>襲爪雷斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lightning T.Blade</EnglishText>
       <Notes/>
       <Id>315</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1628</PointerOffset>
@@ -2719,18 +2738,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1632</PointerOffset>
       <JapaneseText>召喚した雷を剣に宿らせ、
 敵を縦一文字に斬り裂く技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Charges the sword with electricity, then
+sends it smashing down into the ground.</EnglishText>
       <Notes/>
       <Id>317</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1652</PointerOffset>
       <JapaneseText>星塵絶破</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Streaking Comet</EnglishText>
       <Notes/>
       <Id>318</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1656</PointerOffset>
@@ -2744,18 +2764,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1660</PointerOffset>
       <JapaneseText>剣にエネルギーを溜め、
 敵を突きぬけながら斬り刻む技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Concentrates energy in the sword's blade,
+then charges headlong into the enemy.</EnglishText>
       <Notes/>
       <Id>320</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1680</PointerOffset>
       <JapaneseText>星影連波</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Solar Parabola</EnglishText>
       <Notes/>
       <Id>321</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1684</PointerOffset>
@@ -2768,18 +2789,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1688</PointerOffset>
       <JapaneseText>光の剣影を三連続で飛ばす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sends out three arcs of blinding light
+in quick succession.</EnglishText>
       <Notes/>
       <Id>323</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1708</PointerOffset>
       <JapaneseText>空破天裂陣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Celestial Rupture</EnglishText>
       <Notes/>
       <Id>324</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1712</PointerOffset>
@@ -2793,18 +2815,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1716</PointerOffset>
       <JapaneseText>剣に込めた光の念が
 長大な刃となって敵を刺し貫く技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Focuses light in the blade, then impales
+the enemy with an eye-watering thrust.</EnglishText>
       <Notes/>
       <Id>326</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1736</PointerOffset>
       <JapaneseText>緋凰絶翔斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phoenix Ascendant</EnglishText>
       <Notes/>
       <Id>327</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1740</PointerOffset>
@@ -2818,18 +2841,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1744</PointerOffset>
       <JapaneseText>練り上げた思念力を全て熱量へと変換し
 刃にのせて敵を斬り上げる技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Converts stored Willpower into searing
+heat, then slices upwards into the enemy.</EnglishText>
       <Notes/>
       <Id>329</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1764</PointerOffset>
       <JapaneseText>岩斬滅砕陣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slag Assault</EnglishText>
       <Notes/>
       <Id>330</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1768</PointerOffset>
@@ -2843,18 +2867,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1772</PointerOffset>
       <JapaneseText>武器を地面にたたきつけ、
 岩の弾丸を飛ばす技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slams the sword into the ground
+to send rocks flying.</EnglishText>
       <Notes/>
       <Id>332</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1792</PointerOffset>
       <JapaneseText>閃光裂破</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Light Spear Blast</EnglishText>
       <Notes/>
       <Id>333</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796</PointerOffset>
@@ -2867,18 +2892,19 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1800</PointerOffset>
       <JapaneseText>光の高速突きが敵を貫く技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pierces the enemy with a flurry of blows
+faster than the speed of light.</EnglishText>
       <Notes/>
       <Id>335</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1820</PointerOffset>
       <JapaneseText>絶破雷迅衝</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gigantic Jet</EnglishText>
       <Notes/>
       <Id>336</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1824</PointerOffset>
@@ -2892,18 +2918,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1828</PointerOffset>
       <JapaneseText>自らを光の矢と化して敵を貫き
 雷鳴を従え舞い降りる神速の連撃。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>User becomes a streak of speeding light,
+then strikes the enemy like lightning.</EnglishText>
       <Notes/>
       <Id>338</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1848</PointerOffset>
       <JapaneseText>翔破裂閃光</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Light Burst</EnglishText>
       <Notes/>
       <Id>339</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1852</PointerOffset>
@@ -2917,18 +2944,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1856</PointerOffset>
       <JapaneseText>上空へ斬り上げた目標を
 強烈な一閃で天に縛りつける技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slashes the enemy into the air and
+impales it with a streak of light.</EnglishText>
       <Notes/>
       <Id>341</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1876</PointerOffset>
       <JapaneseText>獣哮雷波</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Voltaic Roar</EnglishText>
       <Notes/>
       <Id>342</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1880</PointerOffset>
@@ -2942,18 +2970,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1884</PointerOffset>
       <JapaneseText>獣のあげる咆哮のごとく
 雷の念を一気に解き放つ技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Discharges stored electrical energy with
+a cry like that of a bellowing beast.</EnglishText>
       <Notes/>
       <Id>344</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1904</PointerOffset>
       <JapaneseText>破邪十字星</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Obliteration Cross</EnglishText>
       <Notes/>
       <Id>345</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1908</PointerOffset>
@@ -2967,18 +2996,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1912</PointerOffset>
       <JapaneseText>光の裂波と己が斬撃、
 二つの光刃を交える神のごとき絶技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shoots an arc of light that converges
+with an instantaneous slash.</EnglishText>
       <Notes/>
       <Id>347</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1932</PointerOffset>
       <JapaneseText>閃麒耀翔斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tempestuous Flash</EnglishText>
       <Notes/>
       <Id>348</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1936</PointerOffset>
@@ -2992,18 +3022,19 @@ cast a spell.</EnglishText>
       <PointerOffset>1940</PointerOffset>
       <JapaneseText>憤怒に奮える麒麟をおもわせる、
 比類なき超神速の連続斬りを繰り出す技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unleash a flurry of high-speed
+slashes like an enraged Qilin.</EnglishText>
       <Notes/>
       <Id>350</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1960</PointerOffset>
       <JapaneseText>翔旺神影斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Solar Wind</EnglishText>
       <Notes/>
       <Id>351</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1964</PointerOffset>
