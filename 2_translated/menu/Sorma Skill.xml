@@ -1457,7 +1457,7 @@ reduce the EG cost of magic by 20%.</EnglishText>
     <Entry>
       <PointerOffset>688</PointerOffset>
       <JapaneseText>詠唱時間がｎ％減少する。</JapaneseText>
-      <EnglishText>Reduces casting time by ｎ％</EnglishText>
+      <EnglishText>Reduces casting time by ｎ％.</EnglishText>
       <Notes/>
       <Id>168</Id>
       <Status>Editing</Status>
@@ -1749,7 +1749,7 @@ from backstepping.</EnglishText>
       <PointerOffset>824</PointerOffset>
       <JapaneseText>物理ダメージをｎ％の確率で
 無効化する。</JapaneseText>
-      <EnglishText>ｎ％chance of nullifying damage
+      <EnglishText>ｎ％ chance of nullifying damage
 when hit by a physical attack.</EnglishText>
       <Notes>I believe this actually nullifies damage; but there is another skill that has a similar description - I believe the other one just prevents stagger, but need to double check in-game</Notes>
       <Id>202</Id>
@@ -1767,7 +1767,7 @@ when hit by a physical attack.</EnglishText>
       <PointerOffset>832</PointerOffset>
       <JapaneseText>思念術によるダメージを
 ｎ％の確率で無効化する。</JapaneseText>
-      <EnglishText>ｎ％chance of nullifying damage
+      <EnglishText>ｎ％ chance of nullifying damage
 when hit by a spell attack.</EnglishText>
       <Notes>I believe this actually nullifies damage; but there is another skill that has a similar description - I believe the other one just prevents stagger, but need to double check in-game</Notes>
       <Id>204</Id>
