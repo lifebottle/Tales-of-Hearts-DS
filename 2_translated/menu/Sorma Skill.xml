@@ -677,9 +677,9 @@ chance to inflict Fatigue.</EnglishText>
 確率で反転を付加させる。</JapaneseText>
       <EnglishText>Normal attacks have a
 chance to inflict Reverse.</EnglishText>
-      <Notes/>
+      <Notes>Should we call the status effect Reverse or Reversal?</Notes>
       <Id>78</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>332</PointerOffset>
@@ -757,9 +757,9 @@ chance to inflict Heavy.</EnglishText>
       <PointerOffset>364</PointerOffset>
       <JapaneseText>フェザーアタック</JapaneseText>
       <EnglishText>Weightless Attack</EnglishText>
-      <Notes/>
+      <Notes>Should we call the status effect Weightless?</Notes>
       <Id>87</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>368</PointerOffset>
@@ -769,7 +769,7 @@ chance to inflict Heavy.</EnglishText>
 chance to inflict Weightless.</EnglishText>
       <Notes/>
       <Id>88</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>372</PointerOffset>
@@ -926,10 +926,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>440</PointerOffset>
       <JapaneseText>火属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Fire-elemental
+damage by  ｎ％.</EnglishText>
       <Notes/>
       <Id>106</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>444</PointerOffset>
@@ -943,10 +944,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>448</PointerOffset>
       <JapaneseText>水属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Water-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>108</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>452</PointerOffset>
@@ -960,10 +962,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>456</PointerOffset>
       <JapaneseText>地属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Earth-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>110</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>460</PointerOffset>
@@ -977,10 +980,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>464</PointerOffset>
       <JapaneseText>風属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Wind-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>112</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>468</PointerOffset>
@@ -994,10 +998,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>472</PointerOffset>
       <JapaneseText>光属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Light-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>114</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>476</PointerOffset>
@@ -1011,10 +1016,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>480</PointerOffset>
       <JapaneseText>闇属性被ダメージを
 ｎ％減少させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces Dark-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>116</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>484</PointerOffset>
@@ -1028,10 +1034,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>488</PointerOffset>
       <JapaneseText>火属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Fire-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>118</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>492</PointerOffset>
@@ -1045,10 +1052,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>496</PointerOffset>
       <JapaneseText>水属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Water-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>120</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>500</PointerOffset>
@@ -1062,10 +1070,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>504</PointerOffset>
       <JapaneseText>地属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Earth-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>122</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>508</PointerOffset>
@@ -1079,10 +1088,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>512</PointerOffset>
       <JapaneseText>風属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Wind-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>124</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>516</PointerOffset>
@@ -1096,10 +1106,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>520</PointerOffset>
       <JapaneseText>光属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Light-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>126</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>524</PointerOffset>
@@ -1113,10 +1124,11 @@ preventing Heavy.</EnglishText>
       <PointerOffset>528</PointerOffset>
       <JapaneseText>闇属性攻撃ダメージを
 ｎ％上昇させる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases Dark-elemental
+damage by ｎ％.</EnglishText>
       <Notes/>
       <Id>128</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>532</PointerOffset>
@@ -1208,87 +1220,92 @@ when &lt;30% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>572</PointerOffset>
       <JapaneseText>ニアデスマジック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SOS Magical</EnglishText>
       <Notes/>
       <Id>139</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>576</PointerOffset>
       <JapaneseText>ＨＰ３０％以下のときに、
 術攻撃力がｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases magical attack by ｎ％
+when &lt;30% of max HP.</EnglishText>
       <Notes/>
       <Id>140</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>580</PointerOffset>
       <JapaneseText>ニアデスレジスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SOS Resist</EnglishText>
       <Notes/>
       <Id>141</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>584</PointerOffset>
       <JapaneseText>ＨＰ３０％以下のときに、
 術防御力がｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases magical defense by ｎ％
+when &lt;30% of max HP.</EnglishText>
       <Notes/>
       <Id>142</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>588</PointerOffset>
       <JapaneseText>ニアデススキル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SOS Arte</EnglishText>
       <Notes/>
       <Id>143</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>592</PointerOffset>
       <JapaneseText>ＨＰ３０％以下のときに、
 術技のダメージがｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases arte damage by ｎ％
+when &lt;30% of max HP.</EnglishText>
       <Notes/>
       <Id>144</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>596</PointerOffset>
       <JapaneseText>ニアデスシング</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SOS Chant</EnglishText>
       <Notes/>
       <Id>145</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>600</PointerOffset>
       <JapaneseText>ＨＰ３０％以下のときに、
 詠唱時間がｎ％減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces casting time by ｎ％
+when &lt;30% of max HP.</EnglishText>
       <Notes/>
       <Id>146</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>604</PointerOffset>
       <JapaneseText>ニアデスアイテム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SOS Item</EnglishText>
       <Notes/>
       <Id>147</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>608</PointerOffset>
       <JapaneseText>ＨＰ３０％以下のときに、
 アイテム使用不可時間が減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces time items are disabled
+when &lt;30% of max HP.</EnglishText>
       <Notes/>
       <Id>148</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>612</PointerOffset>
@@ -5422,10 +5439,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>6964</PointerOffset>
       <JapaneseText>シャープネス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sharpness</EnglishText>
       <Notes/>
       <Id>638</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6972</PointerOffset>
@@ -5438,10 +5455,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7008</PointerOffset>
       <JapaneseText>バリアー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Barrier</EnglishText>
       <Notes/>
       <Id>640</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7016</PointerOffset>
@@ -5454,10 +5471,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7052</PointerOffset>
       <JapaneseText>アスティオン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Astion</EnglishText>
       <Notes/>
       <Id>642</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7060</PointerOffset>
@@ -5471,10 +5488,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7096</PointerOffset>
       <JapaneseText>レジスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Resist</EnglishText>
       <Notes/>
       <Id>644</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7104</PointerOffset>
@@ -5488,10 +5505,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7140</PointerOffset>
       <JapaneseText>スポイル・ウェポン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suppress Weapon</EnglishText>
       <Notes/>
       <Id>646</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7148</PointerOffset>
@@ -5504,10 +5521,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7184</PointerOffset>
       <JapaneseText>スポイル・アーマー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suppress Armor</EnglishText>
       <Notes/>
       <Id>648</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7192</PointerOffset>
@@ -5520,10 +5537,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7228</PointerOffset>
       <JapaneseText>スポイル・マインド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suppress Mind</EnglishText>
       <Notes/>
       <Id>650</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7236</PointerOffset>
@@ -5536,10 +5553,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7272</PointerOffset>
       <JapaneseText>スポイル・レジスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suppress Aura</EnglishText>
       <Notes/>
       <Id>652</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7280</PointerOffset>
@@ -5552,10 +5569,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7316</PointerOffset>
       <JapaneseText>フレアボム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flare Bomb</EnglishText>
       <Notes/>
       <Id>654</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7324</PointerOffset>
@@ -5569,10 +5586,10 @@ with 75% HP.</EnglishText>
     <Entry>
       <PointerOffset>7360</PointerOffset>
       <JapaneseText>フレイムガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flame Gun</EnglishText>
       <Notes/>
       <Id>656</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7368</PointerOffset>
