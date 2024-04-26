@@ -343,55 +343,71 @@
 			{
 				"section": "Sorma Skill 3",
 				"pointers_start": 0x7FC,
-				"pointers_end": 0xC27,
+				"pointers_end": 0x9A3,
 				"style": "P24",
 				"pointers_alone":
 				[0x7E0, 0x7E4]
 			},
 			{
 				"section": "Sorma Skill 4",
+				"pointers_start": 0x9BC,
+				"pointers_end": 0xAF7,
+				"style": "PPP16",
+				"pointers_alone":
+				[0x7E0, 0x7E4]
+			},
+			{
+				"section": "Sorma Skill 5",
+				"pointers_start": 0xB0C,
+				"pointers_end": 0xC27,
+				"style": "P24",
+				"pointers_alone":
+				[0x7E0, 0x7E4]
+			},
+			{
+				"section": "Sorma Skill 6",
 				"pointers_start": 0xC40,
 				"pointers_end": 0xE07,
 				"style": "PPP16"
 			},
 			{
-				"section": "Sorma Skill 5",
+				"section": "Sorma Skill 7",
 				"pointers_start": 0xE38,
 				"pointers_end": 0xF53,
 				"style": "P24"
 			},
 			{
-				"section": "Sorma Skill 6",
+				"section": "Sorma Skill 8",
 				"pointers_start": 0xF6C,
 				"pointers_end": 0x12A3,
 				"style": "P4P16"
 			},
 			{
-				"section": "Sorma Skill 7",
+				"section": "Sorma Skill 9",
 				"pointers_start": 0x12B4,
 				"pointers_end": 0x143F,
 				"style": "P24"
 			},
 			{
-				"section": "Sorma Skill 8",
+				"section": "Sorma Skill 10",
 				"pointers_start": 0x1458,
 				"pointers_end": 0x1543,
 				"style": "P4P16"
 			},
 			{
-				"section": "Sorma Skill 9",
+				"section": "Sorma Skill 11",
 				"pointers_start": 0x1554,
 				"pointers_end": 0x1637,
 				"style": "P24"
 			},
 			{
-				"section": "Sorma Skill 10",
+				"section": "Sorma Skill 12",
 				"pointers_start": 0x1650,
 				"pointers_end": 0x1833,
 				"style": "PPP16"
 			},
 			{
-				"section": "Sorma Skill 11",
+				"section": "Sorma Skill 13",
 				"pointers_start": 0x1848,
 				"pointers_end": 0x1963,
 				"style": "P24"
@@ -399,10 +415,28 @@
 			{
 				"section": "Sorma Skill 14",
 				"pointers_start": 0x197C,
-				"pointers_end": 0x1CCB,
+				"pointers_end": 0x221F,
 				"style": "P4P32",
 				"pointers_alone":
 				[0x1960, 0x1964]
+			},
+			{
+				"section": "Sorma Skill 15",
+				"pointers_start": 0x2240,
+				"pointers_end": 0x24AB,
+				"style": "P40"
+			},
+			{
+				"section": "Sorma Skill 16",
+				"pointers_start": 0x24D4,
+				"pointers_end": 0x281F,
+				"style": "P4P12PPP12"
+			},
+			{
+				"section": "Sorma Skill 17",
+				"pointers_start": 0x2834,
+				"pointers_end": 0x2C57,
+				"style": "P20"
 			}
 		]
 	},

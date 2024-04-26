@@ -1482,10 +1482,10 @@ reduce the EG cost of magic by 20%.</EnglishText>
     <Entry>
       <PointerOffset>692</PointerOffset>
       <JapaneseText>レジスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Resist</EnglishText>
       <Notes/>
       <Id>169</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>696</PointerOffset>
@@ -3137,7 +3137,7 @@ slashes like an enraged Qilin.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2296,2884</PointerOffset>
+      <PointerOffset>2296</PointerOffset>
       <JapaneseText>獅吼爆炎陣</JapaneseText>
       <EnglishText>Fiery Beast</EnglishText>
       <Notes/>
@@ -3145,7 +3145,7 @@ slashes like an enraged Qilin.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2324,2912</PointerOffset>
+      <PointerOffset>2324</PointerOffset>
       <JapaneseText>光凰天駆</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -3153,7 +3153,7 @@ slashes like an enraged Qilin.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2352,2940</PointerOffset>
+      <PointerOffset>2352</PointerOffset>
       <JapaneseText>倒魔剛想波</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -3193,171 +3193,11 @@ slashes like an enraged Qilin.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2492</PointerOffset>
-      <JapaneseText>砕心脚</JapaneseText>
-      <EnglishText>Heartbreaker</EnglishText>
-      <Notes/>
-      <Id>369</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2520</PointerOffset>
-      <JapaneseText>疾風脚</JapaneseText>
-      <EnglishText>Pummel Kick</EnglishText>
-      <Notes/>
-      <Id>370</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2548</PointerOffset>
-      <JapaneseText>緋桜散華</JapaneseText>
-      <EnglishText>Cherry Hail</EnglishText>
-      <Notes/>
-      <Id>371</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2576</PointerOffset>
-      <JapaneseText>空牙嵐蹴旋</JapaneseText>
-      <EnglishText>Pirouette Kick</EnglishText>
-      <Notes/>
-      <Id>372</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2604</PointerOffset>
-      <JapaneseText>白花旋蓮弾</JapaneseText>
-      <EnglishText>Blossom Bomb</EnglishText>
-      <Notes/>
-      <Id>373</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2632</PointerOffset>
-      <JapaneseText>火旋輪</JapaneseText>
-      <EnglishText>Burning Wheel</EnglishText>
-      <Notes/>
-      <Id>374</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2660</PointerOffset>
-      <JapaneseText>炎舞陣</JapaneseText>
-      <EnglishText>Blazing Ring</EnglishText>
-      <Notes/>
-      <Id>375</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2688</PointerOffset>
-      <JapaneseText>鳳凰天駆</JapaneseText>
-      <EnglishText>Rising Phoenix</EnglishText>
-      <Notes/>
-      <Id>376</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2716</PointerOffset>
-      <JapaneseText>紅蓮皇輪</JapaneseText>
-      <EnglishText>Scarlet Halo</EnglishText>
-      <Notes/>
-      <Id>377</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2744</PointerOffset>
-      <JapaneseText>魔王炎撃波</JapaneseText>
-      <EnglishText>Infernal Torrent</EnglishText>
-      <Notes/>
-      <Id>378</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2772</PointerOffset>
-      <JapaneseText>紅雅曝炎舞</JapaneseText>
-      <EnglishText>Vermilion Ballet</EnglishText>
-      <Notes/>
-      <Id>379</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2800</PointerOffset>
-      <JapaneseText>殺劇舞荒拳</JapaneseText>
-      <EnglishText>Final Fury</EnglishText>
-      <Notes/>
-      <Id>380</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2828</PointerOffset>
-      <JapaneseText>空破爆炎弾</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>381</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2856</PointerOffset>
-      <JapaneseText>夜天翔桜旋</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>382</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2968</PointerOffset>
-      <JapaneseText>焔木菟</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>383</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2996</PointerOffset>
-      <JapaneseText>兄妹任侠蹴り</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>384</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3024</PointerOffset>
-      <JapaneseText>昴龍礫破</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>385</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3052</PointerOffset>
-      <JapaneseText>レイジングプリュイ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>386</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3080</PointerOffset>
-      <JapaneseText>氷月泡輪</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>387</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>3108</PointerOffset>
-      <JapaneseText>乙女メッタ蹴り</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <Id>388</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
       <PointerOffset>2016</PointerOffset>
       <JapaneseText>想煌絆翔剣</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>389</Id>
+      <Id>369</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3365,18 +3205,433 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ソウコウバンショウケン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>390</Id>
+      <Id>370</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Sorma Skill 4</Section>
     <Entry>
+      <PointerOffset>2492</PointerOffset>
+      <JapaneseText>砕心脚</JapaneseText>
+      <EnglishText>Heartbreaker</EnglishText>
+      <Notes/>
+      <Id>371</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2496</PointerOffset>
+      <JapaneseText>サイシンキャク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>372</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText>まだ幼かったあの日の夕暮れ……
+お兄ちゃんに教えてもらった思い出の技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>373</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2520</PointerOffset>
+      <JapaneseText>疾風脚</JapaneseText>
+      <EnglishText>Pummel Kick</EnglishText>
+      <Notes/>
+      <Id>374</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2524</PointerOffset>
+      <JapaneseText>シップウキャク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>375</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2528</PointerOffset>
+      <JapaneseText>空中で繰り出す高速三連蹴り。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>376</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2548</PointerOffset>
+      <JapaneseText>緋桜散華</JapaneseText>
+      <EnglishText>Cherry Hail</EnglishText>
+      <Notes/>
+      <Id>377</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2552</PointerOffset>
+      <JapaneseText>ヒオウザンカ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>378</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2556</PointerOffset>
+      <JapaneseText>打ち上げた相手に追い討ちをかける
+流れるような回転二連撃。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>379</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2576</PointerOffset>
+      <JapaneseText>空牙嵐蹴旋</JapaneseText>
+      <EnglishText>Pirouette Kick</EnglishText>
+      <Notes/>
+      <Id>380</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2580</PointerOffset>
+      <JapaneseText>クウガランシュウセン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>381</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2584</PointerOffset>
+      <JapaneseText>空へ舞い上がりながら繰り出す、
+凄絶なる空中回転蹴り六連。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>382</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2604</PointerOffset>
+      <JapaneseText>白花旋蓮弾</JapaneseText>
+      <EnglishText>Blossom Bomb</EnglishText>
+      <Notes/>
+      <Id>383</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2608</PointerOffset>
+      <JapaneseText>ビャッカセンレンダン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>384</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2612</PointerOffset>
+      <JapaneseText>闘う巫女が放つ華麗なる五連撃。
+白き蓮華が咲き誇り、そして舞う……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>385</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2632</PointerOffset>
+      <JapaneseText>火旋輪</JapaneseText>
+      <EnglishText>Burning Wheel</EnglishText>
+      <Notes/>
+      <Id>386</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2636</PointerOffset>
+      <JapaneseText>カセンリン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>387</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2640</PointerOffset>
+      <JapaneseText>火念を込めたバトンによる連続打撃技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>388</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2660</PointerOffset>
+      <JapaneseText>炎舞陣</JapaneseText>
+      <EnglishText>Blazing Ring</EnglishText>
+      <Notes/>
+      <Id>389</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2664</PointerOffset>
+      <JapaneseText>エンブジン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>390</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2668</PointerOffset>
+      <JapaneseText>火の念を込めた一撃で
+周囲の敵を弾き飛ばす技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>391</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2688</PointerOffset>
+      <JapaneseText>鳳凰天駆</JapaneseText>
+      <EnglishText>Rising Phoenix</EnglishText>
+      <Notes/>
+      <Id>392</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2692</PointerOffset>
+      <JapaneseText>ホウオウテンク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>393</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2696</PointerOffset>
+      <JapaneseText>荒ぶる炎念を込めた蹴りで
+上空から強襲する大技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>394</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2716</PointerOffset>
+      <JapaneseText>紅蓮皇輪</JapaneseText>
+      <EnglishText>Scarlet Halo</EnglishText>
+      <Notes/>
+      <Id>395</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2720</PointerOffset>
+      <JapaneseText>グレンコウリン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>396</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2724</PointerOffset>
+      <JapaneseText>バトンに込めた炎の念を
+灼熱の円輪と化して上空から撃ち出す技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>397</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2744</PointerOffset>
+      <JapaneseText>魔王炎撃波</JapaneseText>
+      <EnglishText>Infernal Torrent</EnglishText>
+      <Notes/>
+      <Id>398</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2748</PointerOffset>
+      <JapaneseText>マオウエンゲキハ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>399</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2752</PointerOffset>
+      <JapaneseText>地獄の業火を込めた一撃で
+眼前の敵を焼き尽くす技。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>400</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2772</PointerOffset>
+      <JapaneseText>紅雅曝炎舞</JapaneseText>
+      <EnglishText>Vermilion Ballet</EnglishText>
+      <Notes/>
+      <Id>401</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2776</PointerOffset>
+      <JapaneseText>コウガバクエンブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>402</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2780</PointerOffset>
+      <JapaneseText>熱き炎を秘めし者が辿り着く境地……
+猛る炎が龍と化し、己を包み敵を討つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>403</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2800</PointerOffset>
+      <JapaneseText>殺劇舞荒拳</JapaneseText>
+      <EnglishText>Final Fury</EnglishText>
+      <Notes/>
+      <Id>404</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2804</PointerOffset>
+      <JapaneseText>サツゲキブコウケン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>405</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2016</PointerOffset>
+      <JapaneseText>想煌絆翔剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>406</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2020</PointerOffset>
+      <JapaneseText>ソウコウバンショウケン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>407</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Sorma Skill 5</Section>
+    <Entry>
+      <PointerOffset>2828</PointerOffset>
+      <JapaneseText>空破爆炎弾</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>408</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2856</PointerOffset>
+      <JapaneseText>夜天翔桜旋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>409</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2884</PointerOffset>
+      <JapaneseText>獅吼爆炎陣</JapaneseText>
+      <EnglishText>Fiery Beast</EnglishText>
+      <Notes/>
+      <Id>410</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2912</PointerOffset>
+      <JapaneseText>光凰天駆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>411</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2940</PointerOffset>
+      <JapaneseText>倒魔剛想波</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>412</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2968</PointerOffset>
+      <JapaneseText>焔木菟</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>413</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2996</PointerOffset>
+      <JapaneseText>兄妹任侠蹴り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>414</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3024</PointerOffset>
+      <JapaneseText>昴龍礫破</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>415</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3052</PointerOffset>
+      <JapaneseText>レイジングプリュイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>416</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3080</PointerOffset>
+      <JapaneseText>氷月泡輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>417</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>乙女メッタ蹴り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>418</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2016</PointerOffset>
+      <JapaneseText>想煌絆翔剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>419</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2020</PointerOffset>
+      <JapaneseText>ソウコウバンショウケン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>420</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Sorma Skill 6</Section>
+    <Entry>
       <PointerOffset>3136</PointerOffset>
       <JapaneseText>針雀</JapaneseText>
       <EnglishText>Three Flights</EnglishText>
       <Notes/>
-      <Id>391</Id>
+      <Id>421</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -3384,7 +3639,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ハリスズメ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>392</Id>
+      <Id>422</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3392,7 +3647,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>三発の矢を高速で撃ち出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>393</Id>
+      <Id>423</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3400,7 +3655,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>裂想蹴</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>394</Id>
+      <Id>424</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3408,7 +3663,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レッソウシュウ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>395</Id>
+      <Id>425</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3417,7 +3672,7 @@ slashes like an enraged Qilin.</EnglishText>
 相手を弾き飛ばす効果がある。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>396</Id>
+      <Id>426</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3425,7 +3680,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>斬燕</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>397</Id>
+      <Id>427</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3433,7 +3688,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>キリツバメ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>398</Id>
+      <Id>428</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3442,7 +3697,7 @@ slashes like an enraged Qilin.</EnglishText>
 跳弾させて空中の敵を撃ち落とす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>399</Id>
+      <Id>429</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3450,7 +3705,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>荒鷹</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>400</Id>
+      <Id>430</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3458,7 +3713,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>アラタカ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>401</Id>
+      <Id>431</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3467,7 +3722,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵を貫通する矢を放つ技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>402</Id>
+      <Id>432</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3475,7 +3730,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>華鴛鴦</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>403</Id>
+      <Id>433</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3483,7 +3738,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ハナオシドリ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>404</Id>
+      <Id>434</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3492,7 +3747,7 @@ slashes like an enraged Qilin.</EnglishText>
 それぞれ四発の矢を発射する技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>405</Id>
+      <Id>435</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3500,7 +3755,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>槍鴎</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>406</Id>
+      <Id>436</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3508,7 +3763,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヤリカモメ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>407</Id>
+      <Id>437</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3516,7 +3771,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>両手から計六発の矢を高速で撃ち出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>408</Id>
+      <Id>438</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3524,7 +3779,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>鬼隼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>409</Id>
+      <Id>439</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3532,7 +3787,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>オニハヤブサ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>410</Id>
+      <Id>440</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3541,7 +3796,7 @@ slashes like an enraged Qilin.</EnglishText>
 全十二発の跳弾の嵐を見舞う技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>411</Id>
+      <Id>441</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3549,7 +3804,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>雉薙</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>412</Id>
+      <Id>442</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3557,7 +3812,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>キジナギ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>413</Id>
+      <Id>443</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3566,7 +3821,7 @@ slashes like an enraged Qilin.</EnglishText>
 三本の風の矢を放つ技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>414</Id>
+      <Id>444</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3574,7 +3829,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>旋風鴉</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>415</Id>
+      <Id>445</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3582,7 +3837,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ツムジガラス</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>416</Id>
+      <Id>446</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3591,7 +3846,7 @@ slashes like an enraged Qilin.</EnglishText>
 目標を上空へと巻き上げる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>417</Id>
+      <Id>447</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3599,7 +3854,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>天鶴</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>418</Id>
+      <Id>448</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3607,7 +3862,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>アマヅル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>419</Id>
+      <Id>449</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3616,7 +3871,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵を押しつぶす強風を招く技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>420</Id>
+      <Id>450</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3624,7 +3879,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>鳶氷雨</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>421</Id>
+      <Id>451</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3632,7 +3887,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>トビヒサメ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>422</Id>
+      <Id>452</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3640,7 +3895,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>広範囲に風矢の雨を降らせる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>423</Id>
+      <Id>453</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3648,7 +3903,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>舞鶉</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>424</Id>
+      <Id>454</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3656,7 +3911,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マイウズラ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>425</Id>
+      <Id>455</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3665,7 +3920,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵の真下から大空へと舞い上がる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>426</Id>
+      <Id>456</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3673,7 +3928,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>朱鷺椿</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>427</Id>
+      <Id>457</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3681,7 +3936,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>トキツバキ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>428</Id>
+      <Id>458</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3690,7 +3945,7 @@ slashes like an enraged Qilin.</EnglishText>
 込められた思念力が敵を弾き飛ばす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>429</Id>
+      <Id>459</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3698,7 +3953,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>風梟</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>430</Id>
+      <Id>460</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3706,7 +3961,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>カゼフクロウ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>431</Id>
+      <Id>461</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3715,7 +3970,7 @@ slashes like an enraged Qilin.</EnglishText>
 巨大な風の塊として撃ち出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>432</Id>
+      <Id>462</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3723,7 +3978,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>散鷺</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>433</Id>
+      <Id>463</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3731,7 +3986,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>チリサギ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>434</Id>
+      <Id>464</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3740,7 +3995,7 @@ slashes like an enraged Qilin.</EnglishText>
 特殊な散弾を撃ち出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>435</Id>
+      <Id>465</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3748,7 +4003,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>神射鶏</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>436</Id>
+      <Id>466</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3756,7 +4011,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>カムイドリ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>437</Id>
+      <Id>467</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3765,7 +4020,7 @@ slashes like an enraged Qilin.</EnglishText>
 強力な一撃を繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>438</Id>
+      <Id>468</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3773,7 +4028,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>銃狗鷲・番風</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>439</Id>
+      <Id>469</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3781,18 +4036,18 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ツツイヌワシ・ツガイカゼ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>440</Id>
+      <Id>470</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 5</Section>
+    <Section>Sorma Skill 7</Section>
     <Entry>
       <PointerOffset>3640</PointerOffset>
       <JapaneseText>めでぃかＬＯＯＰ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>441</Id>
+      <Id>471</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3800,7 +4055,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>千鳥飛沫</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>442</Id>
+      <Id>472</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3808,7 +4063,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>風迅剣</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>443</Id>
+      <Id>473</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3816,7 +4071,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヤキ入れコンボ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>444</Id>
+      <Id>474</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3824,7 +4079,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>焔木菟</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>445</Id>
+      <Id>475</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3832,7 +4087,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>兄妹任侠蹴り</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>446</Id>
+      <Id>476</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3840,7 +4095,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>風塵封縛殺</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>447</Id>
+      <Id>477</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3848,7 +4103,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>屠龍</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>448</Id>
+      <Id>478</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3856,7 +4111,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>蒼破刃</JapaneseText>
       <EnglishText>Azure Edge</EnglishText>
       <Notes/>
-      <Id>449</Id>
+      <Id>479</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -3864,7 +4119,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヴォルテックライン</JapaneseText>
       <EnglishText>Voltaic Line</EnglishText>
       <Notes/>
-      <Id>450</Id>
+      <Id>480</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -3872,18 +4127,18 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>緋鳳</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>451</Id>
+      <Id>481</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 6</Section>
+    <Section>Sorma Skill 8</Section>
     <Entry>
       <PointerOffset>3948</PointerOffset>
       <JapaneseText>シャルジュシャーク</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>452</Id>
+      <Id>482</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3891,7 +4146,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>強力な突きで敵を大きく吹き飛ばす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>453</Id>
+      <Id>483</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3899,7 +4154,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>フォルスルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>454</Id>
+      <Id>484</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3907,7 +4162,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>一定時間攻撃力をアップする自己強化技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>455</Id>
+      <Id>485</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3915,7 +4170,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マーメイドジュヌ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>456</Id>
+      <Id>486</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3923,7 +4178,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>高速の天駆ける膝蹴り。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>457</Id>
+      <Id>487</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3931,7 +4186,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>アンクルプレス</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>458</Id>
+      <Id>488</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3940,7 +4195,7 @@ slashes like an enraged Qilin.</EnglishText>
 その勢いにのせて刃を叩きつける技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>459</Id>
+      <Id>489</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3948,7 +4203,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>モールスファング</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>460</Id>
+      <Id>490</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3957,7 +4212,7 @@ slashes like an enraged Qilin.</EnglishText>
 腕力にまかせた豪快な一振り。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>461</Id>
+      <Id>491</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3965,7 +4220,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>エンジェルロゼ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>462</Id>
+      <Id>492</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3974,7 +4229,7 @@ slashes like an enraged Qilin.</EnglishText>
 使用者のキズを癒す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>463</Id>
+      <Id>493</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3982,7 +4237,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ペルセシャーク</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>464</Id>
+      <Id>494</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3991,7 +4246,7 @@ slashes like an enraged Qilin.</EnglishText>
 三連突きを繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>465</Id>
+      <Id>495</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3999,7 +4254,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マーメイドグリフ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>466</Id>
+      <Id>496</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4008,7 +4263,7 @@ slashes like an enraged Qilin.</EnglishText>
 強烈な斬り下ろしで地面に叩きつける技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>467</Id>
+      <Id>497</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4016,7 +4271,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>オルクディバウア</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>468</Id>
+      <Id>498</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4024,7 +4279,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>前進しながら強斬りを三発繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>469</Id>
+      <Id>499</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4032,7 +4287,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>アンクルスナッグ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>470</Id>
+      <Id>500</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4041,7 +4296,7 @@ slashes like an enraged Qilin.</EnglishText>
 放り投げる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>471</Id>
+      <Id>501</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4049,7 +4304,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ゲリエルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>472</Id>
+      <Id>502</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4058,7 +4313,7 @@ slashes like an enraged Qilin.</EnglishText>
 ガードブレイク効果が付く自己強化技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>473</Id>
+      <Id>503</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4066,7 +4321,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ラファールルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>474</Id>
+      <Id>504</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4075,7 +4330,7 @@ slashes like an enraged Qilin.</EnglishText>
 ダッシュの速度もアップする。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>475</Id>
+      <Id>505</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4083,7 +4338,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>モールスチャージ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>476</Id>
+      <Id>506</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4091,7 +4346,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>気合を込めた一撃から爆走する技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>477</Id>
+      <Id>507</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4099,7 +4354,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>エスプリルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>478</Id>
+      <Id>508</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4108,7 +4363,7 @@ slashes like an enraged Qilin.</EnglishText>
 に対して鋼体になる自己強化技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>479</Id>
+      <Id>509</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4116,7 +4371,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヴォルテクスバル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>480</Id>
+      <Id>510</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4125,7 +4380,7 @@ slashes like an enraged Qilin.</EnglishText>
 切り刻む技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>481</Id>
+      <Id>511</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4133,7 +4388,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>フィジックルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>482</Id>
+      <Id>512</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4142,7 +4397,7 @@ slashes like an enraged Qilin.</EnglishText>
 に対して鋼体になる自己強化技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>483</Id>
+      <Id>513</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4150,7 +4405,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レイジングオルク</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>484</Id>
+      <Id>514</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4158,7 +4413,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>強烈な八連撃を見舞う技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>485</Id>
+      <Id>515</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4166,7 +4421,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヴィーナスルージュ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>486</Id>
+      <Id>516</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4175,7 +4430,7 @@ slashes like an enraged Qilin.</EnglishText>
 全ての攻撃に対し鋼体になる自己強化技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>487</Id>
+      <Id>517</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4183,7 +4438,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>バーストグラス</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>488</Id>
+      <Id>518</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4192,7 +4447,7 @@ slashes like an enraged Qilin.</EnglishText>
 凍らないが、硬直は長い。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>489</Id>
+      <Id>519</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4200,7 +4455,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>バレーヌブレス</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>490</Id>
+      <Id>520</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4209,7 +4464,7 @@ slashes like an enraged Qilin.</EnglishText>
 水柱を巻き起こす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>491</Id>
+      <Id>521</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4217,7 +4472,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>バレーヌハウル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>492</Id>
+      <Id>522</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4226,7 +4481,7 @@ slashes like an enraged Qilin.</EnglishText>
 無理やり持ち上げる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>493</Id>
+      <Id>523</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4234,7 +4489,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ドルフィンバレ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>494</Id>
+      <Id>524</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4243,7 +4498,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵を打ち上げる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>495</Id>
+      <Id>525</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4251,7 +4506,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ビュルブレイド</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>496</Id>
+      <Id>526</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4259,7 +4514,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>放物線上に水泡を飛ばす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>497</Id>
+      <Id>527</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4267,7 +4522,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ドルフィンシルク</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>498</Id>
+      <Id>528</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4276,7 +4531,7 @@ slashes like an enraged Qilin.</EnglishText>
 自らも追従する。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>499</Id>
+      <Id>529</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4284,7 +4539,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>グロスヴァーグ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>500</Id>
+      <Id>530</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4293,7 +4548,7 @@ slashes like an enraged Qilin.</EnglishText>
 津波のごとき水刃を発生させる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>501</Id>
+      <Id>531</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4301,7 +4556,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>カルマールグリップ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>502</Id>
+      <Id>532</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4310,7 +4565,7 @@ slashes like an enraged Qilin.</EnglishText>
 何故かまれにアイテムが盗れる……</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>503</Id>
+      <Id>533</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4318,7 +4573,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>メールトルネード</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>504</Id>
+      <Id>534</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4327,7 +4582,7 @@ slashes like an enraged Qilin.</EnglishText>
 で水の渦を巻き起こす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>505</Id>
+      <Id>535</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4335,7 +4590,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>アイシクルエペ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>506</Id>
+      <Id>536</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4344,7 +4599,7 @@ slashes like an enraged Qilin.</EnglishText>
 氷の針を発射する技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>507</Id>
+      <Id>537</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4352,7 +4607,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>グラシエバイト</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>508</Id>
+      <Id>538</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4361,7 +4616,7 @@ slashes like an enraged Qilin.</EnglishText>
 牙もつ氷河として敵に喰らいつかせる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>509</Id>
+      <Id>539</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4369,7 +4624,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>オーシャンベルレーヌ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>510</Id>
+      <Id>540</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4378,18 +4633,18 @@ slashes like an enraged Qilin.</EnglishText>
 怒涛の連続水刃を繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>511</Id>
+      <Id>541</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 7</Section>
+    <Section>Sorma Skill 9</Section>
     <Entry>
       <PointerOffset>4788</PointerOffset>
       <JapaneseText>ネプテューヌレイジ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>512</Id>
+      <Id>542</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4397,7 +4652,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レイジングプリュイ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>513</Id>
+      <Id>543</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4405,7 +4660,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>氷月泡輪</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>514</Id>
+      <Id>544</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4413,7 +4668,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>乙女メッタ蹴り</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>515</Id>
+      <Id>545</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4421,7 +4676,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ノワールペルル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>516</Id>
+      <Id>546</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4429,7 +4684,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>氷月翔閃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>517</Id>
+      <Id>547</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4437,7 +4692,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔皇刃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>518</Id>
+      <Id>548</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4445,7 +4700,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>守護氷槍陣</JapaneseText>
       <EnglishText>Guardian Frost</EnglishText>
       <Notes/>
-      <Id>519</Id>
+      <Id>549</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -4453,7 +4708,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>灼光拳</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>520</Id>
+      <Id>550</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4461,7 +4716,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>まんぼう戦吼</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>521</Id>
+      <Id>551</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4469,7 +4724,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>千鳥飛沫</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>522</Id>
+      <Id>552</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4477,7 +4732,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>風迅剣</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>523</Id>
+      <Id>553</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4485,7 +4740,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヤキ入れコンボ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>524</Id>
+      <Id>554</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4493,7 +4748,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>瞬殺轟衝撃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>525</Id>
+      <Id>555</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4501,18 +4756,18 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ビューティはりけーん</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>526</Id>
+      <Id>556</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 8</Section>
+    <Section>Sorma Skill 10</Section>
     <Entry>
       <PointerOffset>5208</PointerOffset>
       <JapaneseText>パニックくりぃむ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>527</Id>
+      <Id>557</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4521,7 +4776,7 @@ slashes like an enraged Qilin.</EnglishText>
 「暗闇」状態におとしいれる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>528</Id>
+      <Id>558</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4529,7 +4784,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>おらおＲＵＳＨ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>529</Id>
+      <Id>559</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4538,7 +4793,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵の脳天を三連続で殴打する技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>530</Id>
+      <Id>560</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4546,7 +4801,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>でぃじータイフーン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>531</Id>
+      <Id>561</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4555,7 +4810,7 @@ slashes like an enraged Qilin.</EnglishText>
 渾身の大回転を繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>532</Id>
+      <Id>562</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4563,7 +4818,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ブリッドもんすたぁ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>533</Id>
+      <Id>563</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4572,7 +4827,7 @@ slashes like an enraged Qilin.</EnglishText>
 一発の弾丸としてぶっ飛ばす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>534</Id>
+      <Id>564</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4580,7 +4835,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ぐろりあすアーチ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>535</Id>
+      <Id>565</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4589,7 +4844,7 @@ slashes like an enraged Qilin.</EnglishText>
 豪快かつファンシーな一発。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>536</Id>
+      <Id>566</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4597,7 +4852,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ちれちれサンド</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>537</Id>
+      <Id>567</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4606,7 +4861,7 @@ slashes like an enraged Qilin.</EnglishText>
 周囲の砂と一緒に叩きつける技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>538</Id>
+      <Id>568</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4614,7 +4869,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>スラッシュからぁず</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>539</Id>
+      <Id>569</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4623,7 +4878,7 @@ slashes like an enraged Qilin.</EnglishText>
 発射する遠距離技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>540</Id>
+      <Id>570</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4631,7 +4886,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ぐるぐるリボン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>541</Id>
+      <Id>571</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4640,7 +4895,7 @@ slashes like an enraged Qilin.</EnglishText>
 描き出し、敵を容赦なく抉りたおす技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>542</Id>
+      <Id>572</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4648,7 +4903,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>はなまＬＯＯＰ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>543</Id>
+      <Id>573</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4657,18 +4912,18 @@ slashes like an enraged Qilin.</EnglishText>
 展開して敵を巻き込む技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>544</Id>
+      <Id>574</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 9</Section>
+    <Section>Sorma Skill 11</Section>
     <Entry>
       <PointerOffset>5460</PointerOffset>
       <JapaneseText>瞬殺轟衝撃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>545</Id>
+      <Id>575</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4676,7 +4931,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ビューティはりけーん</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>546</Id>
+      <Id>576</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4684,7 +4939,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>昴龍礫破</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>547</Id>
+      <Id>577</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4692,7 +4947,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>でふれスパイラル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>548</Id>
+      <Id>578</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4700,7 +4955,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>烈震天衝</JapaneseText>
       <EnglishText>Rending Quake</EnglishText>
       <Notes/>
-      <Id>549</Id>
+      <Id>579</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -4708,7 +4963,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>お〜らにっくスピン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>550</Id>
+      <Id>580</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4716,7 +4971,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ボコボコハンマー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>551</Id>
+      <Id>581</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4724,7 +4979,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ＧＯ ｔｏ へぶん</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>552</Id>
+      <Id>582</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4732,18 +4987,18 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>めでぃかＬＯＯＰ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>553</Id>
+      <Id>583</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 10</Section>
+    <Section>Sorma Skill 12</Section>
     <Entry>
       <PointerOffset>5712</PointerOffset>
       <JapaneseText>魔神剣</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>554</Id>
+      <Id>584</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4751,7 +5006,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マジンケン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>555</Id>
+      <Id>585</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4759,7 +5014,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>己の一振りで衝撃波を飛ばす遠距離技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>556</Id>
+      <Id>586</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4767,7 +5022,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔神剣・翔牙</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>557</Id>
+      <Id>587</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4775,7 +5030,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マジンケン・ショウガ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>558</Id>
+      <Id>588</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4784,7 +5039,7 @@ slashes like an enraged Qilin.</EnglishText>
 魔神剣の変形技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>559</Id>
+      <Id>589</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4792,7 +5047,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>虎牙破斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>560</Id>
+      <Id>590</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4800,7 +5055,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>コガハザン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>561</Id>
+      <Id>591</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4809,7 +5064,7 @@ slashes like an enraged Qilin.</EnglishText>
 上下二連撃を見舞う技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>562</Id>
+      <Id>592</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4817,7 +5072,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>烈空斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>563</Id>
+      <Id>593</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4825,7 +5080,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レックウザン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>564</Id>
+      <Id>594</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4834,7 +5089,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵を斬り刻む技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>565</Id>
+      <Id>595</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4842,7 +5097,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>空破双龍掌</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>566</Id>
+      <Id>596</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4850,7 +5105,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>クウハソウリュウショウ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>567</Id>
+      <Id>597</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4859,7 +5114,7 @@ slashes like an enraged Qilin.</EnglishText>
 左右二回の強烈な突きを繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>568</Id>
+      <Id>598</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4867,7 +5122,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔神連斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>569</Id>
+      <Id>599</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4875,7 +5130,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マジンレンザン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>570</Id>
+      <Id>600</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4884,7 +5139,7 @@ slashes like an enraged Qilin.</EnglishText>
 四連続の魔神剣。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>571</Id>
+      <Id>601</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4892,7 +5147,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>咬龍牙連</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>572</Id>
+      <Id>602</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4900,7 +5155,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>コウリュウガレン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>573</Id>
+      <Id>603</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4909,7 +5164,7 @@ slashes like an enraged Qilin.</EnglishText>
 自らの手でメッタ刺しにする技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>574</Id>
+      <Id>604</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4917,7 +5172,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>餓龍滅衝旋</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>575</Id>
+      <Id>605</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4925,7 +5180,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ガリュウメッショウセン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>576</Id>
+      <Id>606</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4934,7 +5189,7 @@ slashes like an enraged Qilin.</EnglishText>
 驚異の連続斬りを見舞う技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>577</Id>
+      <Id>607</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4942,7 +5197,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>空破穿命弾</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>578</Id>
+      <Id>608</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4950,7 +5205,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>クウハセンメイダン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>579</Id>
+      <Id>609</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4959,7 +5214,7 @@ slashes like an enraged Qilin.</EnglishText>
 錐揉み回転の突進技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>580</Id>
+      <Id>610</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4967,7 +5222,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>穿空鏡影陣</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>581</Id>
+      <Id>611</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4975,7 +5230,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>センクウキョウエイジン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>582</Id>
+      <Id>612</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4984,7 +5239,7 @@ slashes like an enraged Qilin.</EnglishText>
 斬り上げにつなぐ高速攻撃。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>583</Id>
+      <Id>613</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -4992,7 +5247,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>蛇龍交牙</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>584</Id>
+      <Id>614</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5000,7 +5255,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ジャリュウコウガ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>585</Id>
+      <Id>615</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5009,7 +5264,7 @@ slashes like an enraged Qilin.</EnglishText>
 獲物を四方に斬り開く技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>586</Id>
+      <Id>616</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5017,7 +5272,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>蛇影裂襲顎</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>587</Id>
+      <Id>617</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5025,7 +5280,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ジャエイレッシュウガク</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>588</Id>
+      <Id>618</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5034,7 +5289,7 @@ slashes like an enraged Qilin.</EnglishText>
 襲い掛かる、超高速の連続斬り。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>589</Id>
+      <Id>619</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5042,7 +5297,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>真空裂斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>590</Id>
+      <Id>620</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5050,7 +5305,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>シンクウレツザン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>591</Id>
+      <Id>621</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5059,7 +5314,7 @@ slashes like an enraged Qilin.</EnglishText>
 敵を上空へと斬り上げる技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>592</Id>
+      <Id>622</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5067,7 +5322,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔空牙</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>593</Id>
+      <Id>623</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5075,7 +5330,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マクウガ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>594</Id>
+      <Id>624</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5084,7 +5339,7 @@ slashes like an enraged Qilin.</EnglishText>
 全てを貫く黒き凶牙に変換する技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>595</Id>
+      <Id>625</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5092,7 +5347,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>瞬影刹</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>596</Id>
+      <Id>626</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5100,7 +5355,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>シュンエイサツ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>597</Id>
+      <Id>627</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5109,7 +5364,7 @@ slashes like an enraged Qilin.</EnglishText>
 絶対不可避のデルタ斬りを繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>598</Id>
+      <Id>628</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5117,7 +5372,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>刺龍穿影斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>599</Id>
+      <Id>629</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5125,7 +5380,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>シリュウセンエイザン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>600</Id>
+      <Id>630</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5134,7 +5389,7 @@ slashes like an enraged Qilin.</EnglishText>
 絶え間ない闇の連続突きを見舞う技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>601</Id>
+      <Id>631</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5142,7 +5397,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔瘴刃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>602</Id>
+      <Id>632</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5150,7 +5405,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>マショウジン</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>603</Id>
+      <Id>633</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5159,7 +5414,7 @@ slashes like an enraged Qilin.</EnglishText>
 幾重もの黒き闇の斬撃を繰り出す技。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>604</Id>
+      <Id>634</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5167,7 +5422,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>修羅閻獄殺</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>605</Id>
+      <Id>635</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5175,18 +5430,18 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>シュラエンゴクサツ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>606</Id>
+      <Id>636</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
   <Strings>
-    <Section>Sorma Skill 11</Section>
+    <Section>Sorma Skill 13</Section>
     <Entry>
       <PointerOffset>6216</PointerOffset>
       <JapaneseText>閃闇裂破刃</JapaneseText>
       <EnglishText>Shimmering Darkness</EnglishText>
       <Notes/>
-      <Id>607</Id>
+      <Id>637</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5194,7 +5449,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>穿雷牙</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>608</Id>
+      <Id>638</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5202,7 +5457,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔神連牙斬</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>609</Id>
+      <Id>639</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5210,7 +5465,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>風塵封縛殺</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>610</Id>
+      <Id>640</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5218,7 +5473,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>屠龍</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>611</Id>
+      <Id>641</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5226,7 +5481,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>でふれスパイラル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>612</Id>
+      <Id>642</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5234,7 +5489,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ノワールペルル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>613</Id>
+      <Id>643</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5242,7 +5497,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>氷月翔閃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>614</Id>
+      <Id>644</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5250,7 +5505,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>魔皇刃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>615</Id>
+      <Id>645</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5258,7 +5513,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>空破爆炎弾</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>616</Id>
+      <Id>646</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5266,7 +5521,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>夜天翔桜旋</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>617</Id>
+      <Id>647</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -5277,7 +5532,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ファーストエイド</JapaneseText>
       <EnglishText>First Aid</EnglishText>
       <Notes/>
-      <Id>618</Id>
+      <Id>648</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5285,7 +5540,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ＨＰを３０％回復する。</JapaneseText>
       <EnglishText>Heals 30% HP to one ally.</EnglishText>
       <Notes/>
-      <Id>619</Id>
+      <Id>649</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5293,7 +5548,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ヒール</JapaneseText>
       <EnglishText>Heal</EnglishText>
       <Notes/>
-      <Id>620</Id>
+      <Id>650</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5301,7 +5556,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ＨＰを５０％回復する。</JapaneseText>
       <EnglishText>Heals 50% HP to one ally.</EnglishText>
       <Notes/>
-      <Id>621</Id>
+      <Id>651</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5309,7 +5564,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>キュア</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>622</Id>
+      <Id>652</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5317,7 +5572,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ＨＰを７０％回復する。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>623</Id>
+      <Id>653</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5325,7 +5580,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ハートレスサークル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>624</Id>
+      <Id>654</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5333,7 +5588,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>範囲内のキャラのＨＰを３０％回復する。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>625</Id>
+      <Id>655</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5341,7 +5596,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>ナース</JapaneseText>
       <EnglishText>Nurse</EnglishText>
       <Notes/>
-      <Id>626</Id>
+      <Id>656</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5349,7 +5604,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>味方全員のＨＰを４５％回復する。</JapaneseText>
       <EnglishText>Heals 45% HP to all allies.</EnglishText>
       <Notes/>
-      <Id>627</Id>
+      <Id>657</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5357,7 +5612,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>リザレクション</JapaneseText>
       <EnglishText>Revitalize</EnglishText>
       <Notes/>
-      <Id>628</Id>
+      <Id>658</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5365,7 +5620,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>範囲内のキャラのＨＰを６０％回復する。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>629</Id>
+      <Id>659</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5373,7 +5628,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レイズウィル</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>630</Id>
+      <Id>660</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5382,7 +5637,7 @@ slashes like an enraged Qilin.</EnglishText>
 ＨＰを５０％回復させる</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>631</Id>
+      <Id>661</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5390,7 +5645,7 @@ slashes like an enraged Qilin.</EnglishText>
       <JapaneseText>レイズデッド</JapaneseText>
       <EnglishText>Resurrection</EnglishText>
       <Notes/>
-      <Id>632</Id>
+      <Id>662</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5400,7 +5655,7 @@ slashes like an enraged Qilin.</EnglishText>
       <EnglishText>Revives one KO'd ally
 with 75% HP.</EnglishText>
       <Notes/>
-      <Id>633</Id>
+      <Id>663</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5408,7 +5663,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>アンチドート</JapaneseText>
       <EnglishText>Antidote</EnglishText>
       <Notes/>
-      <Id>634</Id>
+      <Id>664</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5417,7 +5672,7 @@ with 75% HP.</EnglishText>
 の状態異常を回復する。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>635</Id>
+      <Id>665</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5425,7 +5680,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>リカバー</JapaneseText>
       <EnglishText>Recover</EnglishText>
       <Notes/>
-      <Id>636</Id>
+      <Id>666</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5433,7 +5688,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>戦闘不能以外の状態異常を回復する。</JapaneseText>
       <EnglishText>Cures all status ailments for one ally.</EnglishText>
       <Notes/>
-      <Id>637</Id>
+      <Id>667</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5441,7 +5696,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>シャープネス</JapaneseText>
       <EnglishText>Sharpness</EnglishText>
       <Notes/>
-      <Id>638</Id>
+      <Id>668</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5449,7 +5704,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>味方一人の攻撃力を３０％アップさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>639</Id>
+      <Id>669</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5457,7 +5712,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>バリアー</JapaneseText>
       <EnglishText>Barrier</EnglishText>
       <Notes/>
-      <Id>640</Id>
+      <Id>670</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5465,7 +5720,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>味方一人の防御力を３０％アップさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>641</Id>
+      <Id>671</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5473,7 +5728,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>アスティオン</JapaneseText>
       <EnglishText>Astion</EnglishText>
       <Notes/>
-      <Id>642</Id>
+      <Id>672</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5482,7 +5737,7 @@ with 75% HP.</EnglishText>
 ３０％アップさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>643</Id>
+      <Id>673</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5490,7 +5745,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>レジスト</JapaneseText>
       <EnglishText>Resist</EnglishText>
       <Notes/>
-      <Id>644</Id>
+      <Id>674</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5499,7 +5754,7 @@ with 75% HP.</EnglishText>
 ３０％アップさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>645</Id>
+      <Id>675</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5507,7 +5762,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>スポイル・ウェポン</JapaneseText>
       <EnglishText>Suppress Weapon</EnglishText>
       <Notes/>
-      <Id>646</Id>
+      <Id>676</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5515,7 +5770,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>敵一人の攻撃力を３０％ダウンさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>647</Id>
+      <Id>677</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5523,7 +5778,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>スポイル・アーマー</JapaneseText>
       <EnglishText>Suppress Armor</EnglishText>
       <Notes/>
-      <Id>648</Id>
+      <Id>678</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5531,7 +5786,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>敵一人の防御力を３０％ダウンさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>649</Id>
+      <Id>679</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5539,7 +5794,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>スポイル・マインド</JapaneseText>
       <EnglishText>Suppress Mind</EnglishText>
       <Notes/>
-      <Id>650</Id>
+      <Id>680</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5547,7 +5802,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>敵一人の術攻撃力を３０％ダウンさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>651</Id>
+      <Id>681</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5555,7 +5810,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>スポイル・レジスト</JapaneseText>
       <EnglishText>Suppress Aura</EnglishText>
       <Notes/>
-      <Id>652</Id>
+      <Id>682</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5563,7 +5818,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>敵一人の術防御力を３０％ダウンさせる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>653</Id>
+      <Id>683</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5571,7 +5826,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>フレアボム</JapaneseText>
       <EnglishText>Flare Bomb</EnglishText>
       <Notes/>
-      <Id>654</Id>
+      <Id>684</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5580,7 +5835,7 @@ with 75% HP.</EnglishText>
 小さな炎の矢を放つ術。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>655</Id>
+      <Id>685</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5588,7 +5843,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>フレイムガン</JapaneseText>
       <EnglishText>Flame Gun</EnglishText>
       <Notes/>
-      <Id>656</Id>
+      <Id>686</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -5596,7 +5851,525 @@ with 75% HP.</EnglishText>
       <JapaneseText>目標に向けて強力な火炎を放射する術。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>657</Id>
+      <Id>687</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7404</PointerOffset>
+      <JapaneseText>バーンストライク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>688</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7412</PointerOffset>
+      <JapaneseText>目標周辺に上空から火の玉を降らせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>689</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7448</PointerOffset>
+      <JapaneseText>エクスプロード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>690</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7456</PointerOffset>
+      <JapaneseText>敵のいる場所に大爆発を引き起こす術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>691</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7492</PointerOffset>
+      <JapaneseText>サンバーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>692</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7500</PointerOffset>
+      <JapaneseText>炎念を凝縮して小太陽を生み出し、
+辺り一面を焼き尽くす術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>693</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7536</PointerOffset>
+      <JapaneseText>アイスニードル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>694</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7544</PointerOffset>
+      <JapaneseText>敵に向かって五つの氷塊を撃ち出す術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>695</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7580</PointerOffset>
+      <JapaneseText>スプラッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>696</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7588</PointerOffset>
+      <JapaneseText>目標の足元から大量の水を噴出させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>697</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7624</PointerOffset>
+      <JapaneseText>レイニードル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>698</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7632</PointerOffset>
+      <JapaneseText>目標上空から針のような
+高水圧の豪雨を降らせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>699</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7668</PointerOffset>
+      <JapaneseText>アクアゲイザー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>700</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7676</PointerOffset>
+      <JapaneseText>圧縮した水の思念を
+敵に向けて一気に放出する術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>701</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7712</PointerOffset>
+      <JapaneseText>インブレイスエンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>702</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7720</PointerOffset>
+      <JapaneseText>相手を凍てつく氷の思念に閉じ込め、
+絶対零度の終焉を迎えさせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>703</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7756</PointerOffset>
+      <JapaneseText>グレイブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>704</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7764</PointerOffset>
+      <JapaneseText>敵の目前に岩の棘を出現させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>705</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7800</PointerOffset>
+      <JapaneseText>スパイクストーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>706</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7808</PointerOffset>
+      <JapaneseText>術者前方の地面を
+針山のように毛羽立たせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>707</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7844</PointerOffset>
+      <JapaneseText>ストーンウォール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>708</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7852</PointerOffset>
+      <JapaneseText>術者の前後に岩の壁を突き出させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>709</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7888</PointerOffset>
+      <JapaneseText>マッシブロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>710</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7896</PointerOffset>
+      <JapaneseText>周辺の塵や小石を凝縮して巨岩を生成し、
+敵に向かって転がす術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>711</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7932</PointerOffset>
+      <JapaneseText>グランドダッシャー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>712</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7940</PointerOffset>
+      <JapaneseText>広大なる大地の思念に干渉し、
+巨大な岩石を突き出させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>713</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7976</PointerOffset>
+      <JapaneseText>ウィンドカッター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>714</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7984</PointerOffset>
+      <JapaneseText>自身の頭上から風の刃を撃ち出す術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>715</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8020</PointerOffset>
+      <JapaneseText>ストリームアロー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>716</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8028</PointerOffset>
+      <JapaneseText>周辺の風の思念を掌握し、
+真空の刃で敵を斬りつける術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>717</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8064</PointerOffset>
+      <JapaneseText>クロスウィンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>718</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8072</PointerOffset>
+      <JapaneseText>目標の周囲四方向に風の刃を発生させ
+十字型に斬り裂く術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>719</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8108</PointerOffset>
+      <JapaneseText>エアスラスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>720</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8116</PointerOffset>
+      <JapaneseText>敵周辺に荒巻く疾風の刃を
+多数出現させ、相手を斬り刻む術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>721</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8152</PointerOffset>
+      <JapaneseText>サイクロン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>722</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8160</PointerOffset>
+      <JapaneseText>大気に満ちる思念を操り
+壮絶な竜巻を発生させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>723</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8196</PointerOffset>
+      <JapaneseText>フォトン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>724</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8204</PointerOffset>
+      <JapaneseText>敵に向けて光の念を集束させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>725</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8240</PointerOffset>
+      <JapaneseText>スパークウェブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>726</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8248</PointerOffset>
+      <JapaneseText>術者のいる場所に敵を寄せ付けない
+光の結界を展開させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>727</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8284</PointerOffset>
+      <JapaneseText>レイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>728</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8292</PointerOffset>
+      <JapaneseText>自身の頭上に輝念を練り上げ
+そこから無数の光線を撃ち出す術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>729</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8328</PointerOffset>
+      <JapaneseText>フラッシュティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>730</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8336</PointerOffset>
+      <JapaneseText>目標を中心として、十字を描く
+聖なる結界を出現させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>731</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8372</PointerOffset>
+      <JapaneseText>スターライト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>732</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8380</PointerOffset>
+      <JapaneseText>空に瞬く星々の強大な力を
+一斉に降り注がせる神秘の術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>733</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8416</PointerOffset>
+      <JapaneseText>シャドウエッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>734</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8424</PointerOffset>
+      <JapaneseText>敵の足元から闇の刃を出現させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>735</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8460</PointerOffset>
+      <JapaneseText>デッドソウル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>736</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8468</PointerOffset>
+      <JapaneseText>術者の周囲に
+暗い闇の思念を立ち昇らせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>737</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8504</PointerOffset>
+      <JapaneseText>ネガティブゲイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>738</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8512</PointerOffset>
+      <JapaneseText>地の底から表れる、黒く冷たい空間で
+目標を捕縛する術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>739</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8548</PointerOffset>
+      <JapaneseText>プラークマゴッツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>740</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8556</PointerOffset>
+      <JapaneseText>生者の魂に群がる謎の思念が
+敵の覇気を奪い、はいつくばらせる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>741</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8592</PointerOffset>
+      <JapaneseText>ブラックホール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>742</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8600</PointerOffset>
+      <JapaneseText>その場所に、光すら飲み込む
+無限の虚無を作り出す術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>743</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8636</PointerOffset>
+      <JapaneseText>ピコハン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>744</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8644</PointerOffset>
+      <JapaneseText>敵の目の前に
+小さなハンマーを出現させる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>745</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8680</PointerOffset>
+      <JapaneseText>ピコピコハンマー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>746</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8688</PointerOffset>
+      <JapaneseText>敵の頭上に大きなハンマーを落とし
+相手を押しつぶす術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>747</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8724</PointerOffset>
+      <JapaneseText>メテオスウォーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>748</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8732</PointerOffset>
+      <JapaneseText>遠く空の彼方から
+無数の星々を呼び寄せる術。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>749</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5604,7 +6377,7 @@ with 75% HP.</EnglishText>
       <JapaneseText>夜天翔桜旋</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>658</Id>
+      <Id>750</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -5612,7 +6385,1203 @@ with 75% HP.</EnglishText>
       <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>659</Id>
+      <Id>751</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Sorma Skill 15</Section>
+    <Entry>
+      <PointerOffset>8768</PointerOffset>
+      <JapaneseText>デッドスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>752</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8812</PointerOffset>
+      <JapaneseText>ブラックアウト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>753</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8856</PointerOffset>
+      <JapaneseText>クレイジー・コメット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>754</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8900</PointerOffset>
+      <JapaneseText>トゥィンクル・スター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>755</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8944</PointerOffset>
+      <JapaneseText>ミックス・マスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>756</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8988</PointerOffset>
+      <JapaneseText>プリンセス・オブ・マーメイド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>757</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9032</PointerOffset>
+      <JapaneseText>アドプレッシャー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>758</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9076</PointerOffset>
+      <JapaneseText>フェアリーサークル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>759</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9120</PointerOffset>
+      <JapaneseText>デモンズランス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>760</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9164</PointerOffset>
+      <JapaneseText>コチコチハンマー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>761</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9208</PointerOffset>
+      <JapaneseText>イグニートプリズン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>762</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9252</PointerOffset>
+      <JapaneseText>レイジングミスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>763</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9296</PointerOffset>
+      <JapaneseText>グラビティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>764</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9340</PointerOffset>
+      <JapaneseText>アブソリュート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>765</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9384</PointerOffset>
+      <JapaneseText>ブラッディハウリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>766</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Sorma Skill 16</Section>
+    <Entry>
+      <PointerOffset>9428</PointerOffset>
+      <JapaneseText>ＧＲＯＯＶＹアーチェ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>767</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9436</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ファンタジアから参戦！
+アーチェがＧＲＯＯＶＹアーチェで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>768</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9452</PointerOffset>
+      <JapaneseText>魔神剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>769</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9456</PointerOffset>
+      <JapaneseText>マジンケン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>770</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9460</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニーから参戦！
+スタンが魔神剣で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>771</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9476</PointerOffset>
+      <JapaneseText>ローバーアイテム</JapaneseText>
+      <EnglishText>Theivery</EnglishText>
+      <Notes/>
+      <Id>772</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9484</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニーから参戦！
+ルーティがローバーアイテムで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>773</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9500</PointerOffset>
+      <JapaneseText>極光壁</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>774</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9504</PointerOffset>
+      <JapaneseText>キョッコウヘキ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>775</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9508</PointerOffset>
+      <JapaneseText>テイルズ  オブ  エターニアから参戦！
+リッドが極光壁で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>776</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9524</PointerOffset>
+      <JapaneseText>空破特攻弾</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>777</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9532</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニー２から参戦！
+ロニが空破特攻弾で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>778</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9548</PointerOffset>
+      <JapaneseText>スパイラルドライバー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>779</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9552,9696,9888,10128,10224</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>780</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9556</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニー２から参戦！
+ロニがスパイラルドライバーで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>781</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9572</PointerOffset>
+      <JapaneseText>ファイナルプレイヤー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>782</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9580</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニー２から参戦！
+ロニがファイナルプレイヤーで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>783</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9596</PointerOffset>
+      <JapaneseText>千裂虚光閃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>784</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9600</PointerOffset>
+      <JapaneseText>センレツココウセン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>785</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9604</PointerOffset>
+      <JapaneseText>テイルズ  オブ  デスティニー２から参戦！
+ジューダスが千裂虚光閃で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>786</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9620</PointerOffset>
+      <JapaneseText>虎牙連斬</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>787</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9628</PointerOffset>
+      <JapaneseText>テイルズ  オブ  シンフォニアから参戦！
+ロイドが虎牙連斬で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>788</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9644</PointerOffset>
+      <JapaneseText>弧月閃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>789</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9648</PointerOffset>
+      <JapaneseText>コゲツセン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>790</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9652</PointerOffset>
+      <JapaneseText>テイルズ  オブ  シンフォニアから参戦！
+プレセアが弧月閃で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>791</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9668</PointerOffset>
+      <JapaneseText>翔月双閃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>792</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9676</PointerOffset>
+      <JapaneseText>テイルズ  オブ  シンフォニアから参戦！
+プレセアが翔月双閃で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>793</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9692</PointerOffset>
+      <JapaneseText>Ｆ・フレイム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>794</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9700</PointerOffset>
+      <JapaneseText>テイルズ  オブ  リバースから参戦！
+マオがＦ・フレイムで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>795</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9716</PointerOffset>
+      <JapaneseText>緋桜轟衝牙</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>796</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9724</PointerOffset>
+      <JapaneseText>テイルズ  オブ  リバースから参戦！
+ティトレイが緋桜轟衝牙で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>797</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9740</PointerOffset>
+      <JapaneseText>軽岩砕落撃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>798</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9744</PointerOffset>
+      <JapaneseText>ケイガンサイラクゲキ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>799</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9748</PointerOffset>
+      <JapaneseText>テイルズ  オブ  レジェンディアから参戦！
+セネルが軽岩砕落撃で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>800</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9764</PointerOffset>
+      <JapaneseText>イグニートプリズン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>801</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9772</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ジ  アビスから参戦！
+ジェイドがイグニートプリズンで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>802</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9788</PointerOffset>
+      <JapaneseText>双旋牙</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>803</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9792</PointerOffset>
+      <JapaneseText>ソウセンガ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>804</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9796</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ジ  アビスから参戦！
+アニスが双旋牙で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>805</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9812</PointerOffset>
+      <JapaneseText>Ｘバスター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>806</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9820</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ジ  アビスから参戦！
+アニスがＸバスターで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>807</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9836</PointerOffset>
+      <JapaneseText>秋沙雨</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>808</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9840</PointerOffset>
+      <JapaneseText>アキサザメ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>809</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9844</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ジ  アビスから参戦！
+ガイが秋沙雨で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>810</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9860</PointerOffset>
+      <JapaneseText>ピアシスライン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>811</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9868</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ジ  アビスから参戦！
+ナタリアがピアシスラインで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>812</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9884</PointerOffset>
+      <JapaneseText>ビーストブロウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>813</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9892</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ザ  テンペストから参戦！
+カイウスがビーストブロウで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>814</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9908</PointerOffset>
+      <JapaneseText>レイズデッド</JapaneseText>
+      <EnglishText>Resurrection</EnglishText>
+      <Notes/>
+      <Id>815</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9916</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ザ  テンペストから参戦！
+ルビアがレイズデッドで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>816</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9932</PointerOffset>
+      <JapaneseText>崩昇襲斬</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>817</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9936</PointerOffset>
+      <JapaneseText>ホウショウシュウザン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>818</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9940</PointerOffset>
+      <JapaneseText>テイルズ  オブ  イノセンスから参戦！
+ルカが崩昇襲斬で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>819</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9956</PointerOffset>
+      <JapaneseText>タイドバレット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>820</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9964</PointerOffset>
+      <JapaneseText>テイルズ  オブ  イノセンスから参戦！
+イリアがタイドバレットで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>821</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9980</PointerOffset>
+      <JapaneseText>円閃牙</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>822</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9984</PointerOffset>
+      <JapaneseText>エンセンガ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>823</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9988</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ヴェスペリアから参戦！
+ユーリが円閃牙で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>824</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10004</PointerOffset>
+      <JapaneseText>裂翔翼</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>825</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10012</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ハーツから参戦！
+カルセドニーが裂翔翼で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>826</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10028</PointerOffset>
+      <JapaneseText>コラン流星落し</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>827</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10032</PointerOffset>
+      <JapaneseText>コランリュウセイオトシ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>828</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10036</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ハーツから参戦！
+コランダームがコラン流星落しで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>829</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10052</PointerOffset>
+      <JapaneseText>クイルバンカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>830</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10060</PointerOffset>
+      <JapaneseText>テイルズ  オブ  ハーツから参戦！
+テツ＝ハガネがクイルバンカーで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>831</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10076</PointerOffset>
+      <JapaneseText>クロムの魔剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>832</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10080</PointerOffset>
+      <JapaneseText>クロムノマケン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>833</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10084</PointerOffset>
+      <JapaneseText>ドルアーガの塔から参戦！
+ギルガメスがクロムの魔剣で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>834</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10100</PointerOffset>
+      <JapaneseText>サイクロン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>835</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10108</PointerOffset>
+      <JapaneseText>ワルキューレの冒険から参戦！
+ワルキューレがサイクロンで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>836</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10124</PointerOffset>
+      <JapaneseText>ワギャナイザー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>837</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10132</PointerOffset>
+      <JapaneseText>ワギャンランドから参戦！
+ワギャンがワギャナイザーで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>838</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10148</PointerOffset>
+      <JapaneseText>瓦割り槍掌</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>839</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10156</PointerOffset>
+      <JapaneseText>鉄拳から参戦！
+三島平八が瓦割り槍掌で援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>840</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10172</PointerOffset>
+      <JapaneseText>風だま</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>841</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10176</PointerOffset>
+      <JapaneseText>カゼダマ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>842</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10180</PointerOffset>
+      <JapaneseText>風のクロノアから参戦！
+クロノアが風だまで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>843</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10196</PointerOffset>
+      <JapaneseText>Ｒ．ＣＡＮＮＯＮ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>844</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10204</PointerOffset>
+      <JapaneseText>ゼノサーガから参戦！
+ＫＯＳ‐ＭＯＳがＲ．ＣＡＮＮＯＮで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>845</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10220</PointerOffset>
+      <JapaneseText>Ｇ．ＳＨＯＴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>846</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10228</PointerOffset>
+      <JapaneseText>ゼノサーガから参戦！
+ＫＯＳ‐ＭＯＳがＧ．ＳＨＯＴで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>847</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10244</PointerOffset>
+      <JapaneseText>ハイタッチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>848</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10252</PointerOffset>
+      <JapaneseText>アイドルマスターから参戦！
+高槻やよいがハイタッチで援護！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>849</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10268</PointerOffset>
+      <JapaneseText>蒼破刃</JapaneseText>
+      <EnglishText>Azure Edge</EnglishText>
+      <Notes/>
+      <Id>850</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Sorma Skill 17</Section>
+    <Entry>
+      <PointerOffset>10292</PointerOffset>
+      <JapaneseText>ヴォルテックライン</JapaneseText>
+      <EnglishText>Voltaic Line</EnglishText>
+      <Notes/>
+      <Id>851</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10316</PointerOffset>
+      <JapaneseText>緋鳳</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>852</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10340</PointerOffset>
+      <JapaneseText>烈震天衝</JapaneseText>
+      <EnglishText>Rending Quake</EnglishText>
+      <Notes/>
+      <Id>853</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10364</PointerOffset>
+      <JapaneseText>お〜らにっくスピン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>854</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10388</PointerOffset>
+      <JapaneseText>ボコボコハンマー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>855</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10412</PointerOffset>
+      <JapaneseText>守護氷槍陣</JapaneseText>
+      <EnglishText>Guardian Frost</EnglishText>
+      <Notes/>
+      <Id>856</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10436</PointerOffset>
+      <JapaneseText>灼光拳</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>857</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10460</PointerOffset>
+      <JapaneseText>まんぼう戦吼</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>858</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10484</PointerOffset>
+      <JapaneseText>獅吼爆炎陣</JapaneseText>
+      <EnglishText>Fiery Beast</EnglishText>
+      <Notes/>
+      <Id>859</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10508</PointerOffset>
+      <JapaneseText>光凰天駆</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>860</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10532</PointerOffset>
+      <JapaneseText>倒魔剛想波</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>861</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10556</PointerOffset>
+      <JapaneseText>閃闇裂破刃</JapaneseText>
+      <EnglishText>Shimmering Darkness</EnglishText>
+      <Notes/>
+      <Id>862</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10580</PointerOffset>
+      <JapaneseText>穿雷牙</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>863</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10604</PointerOffset>
+      <JapaneseText>魔神連牙斬</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>864</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10628</PointerOffset>
+      <JapaneseText>アドプレッシャー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>865</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10652</PointerOffset>
+      <JapaneseText>ＧＯ ｔｏ へぶん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>866</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10676</PointerOffset>
+      <JapaneseText>めでぃかＬＯＯＰ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>867</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10700</PointerOffset>
+      <JapaneseText>千鳥飛沫</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>868</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10724</PointerOffset>
+      <JapaneseText>風迅剣</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>869</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10748</PointerOffset>
+      <JapaneseText>ヤキ入れコンボ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>870</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10772</PointerOffset>
+      <JapaneseText>焔木菟</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>871</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10796</PointerOffset>
+      <JapaneseText>フェアリーサークル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>872</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10820</PointerOffset>
+      <JapaneseText>兄妹任侠蹴り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>873</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10844</PointerOffset>
+      <JapaneseText>デモンズランス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>874</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10868</PointerOffset>
+      <JapaneseText>風塵封縛殺</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>875</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10892</PointerOffset>
+      <JapaneseText>屠龍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>876</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10916</PointerOffset>
+      <JapaneseText>コチコチハンマー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>877</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10940</PointerOffset>
+      <JapaneseText>瞬殺轟衝撃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>878</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10964</PointerOffset>
+      <JapaneseText>ビューティはりけーん</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>879</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10988</PointerOffset>
+      <JapaneseText>イグニートプリズン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>880</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11012</PointerOffset>
+      <JapaneseText>昴龍礫破</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>881</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11036</PointerOffset>
+      <JapaneseText>レイジングミスト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>882</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11060</PointerOffset>
+      <JapaneseText>でふれスパイラル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>883</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11084</PointerOffset>
+      <JapaneseText>グラビティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>884</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11108</PointerOffset>
+      <JapaneseText>アブソリュート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>885</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11132</PointerOffset>
+      <JapaneseText>レイジングプリュイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>886</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11156</PointerOffset>
+      <JapaneseText>氷月泡輪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>887</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11180</PointerOffset>
+      <JapaneseText>乙女メッタ蹴り</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>888</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11204</PointerOffset>
+      <JapaneseText>ノワールペルル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>889</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11228</PointerOffset>
+      <JapaneseText>氷月翔閃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>890</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11252</PointerOffset>
+      <JapaneseText>魔皇刃</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>891</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11276</PointerOffset>
+      <JapaneseText>ブラッディハウリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>892</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11300</PointerOffset>
+      <JapaneseText>空破爆炎弾</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>893</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11324</PointerOffset>
+      <JapaneseText>夜天翔桜旋</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>894</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11348</PointerOffset>
+      <JapaneseText>烈星十字翔</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>895</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
