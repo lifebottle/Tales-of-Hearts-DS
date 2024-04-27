@@ -1,0 +1,3009 @@
+<MenuText>
+  <Strings>
+    <Section>Soma Data 1</Section>
+    <Entry>
+      <PointerOffset>16</PointerOffset>
+      <JapaneseText>アステリア</JapaneseText>
+      <EnglishText>Asteria</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <JapaneseText>古き言葉で「星の輝き」という意味を持つ
+剣を内蔵する盾のソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140</PointerOffset>
+      <JapaneseText>へメロス</JapaneseText>
+      <EnglishText>Gemini</EnglishText>
+      <Notes>transliteration is Gemelos</Notes>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>144</PointerOffset>
+      <JapaneseText>攻撃力に傾向したソーマ。名の由来は、
+人と神に別れた仲睦まじい双子の名から。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264</PointerOffset>
+      <JapaneseText>ヴィルト</JapaneseText>
+      <EnglishText>Virgo</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268</PointerOffset>
+      <JapaneseText>バックステップ時の硬直時間を短縮する
+効果のある、アステリア第二形態の一つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>388</PointerOffset>
+      <JapaneseText>シェダル</JapaneseText>
+      <EnglishText>Schedar</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>392</PointerOffset>
+      <JapaneseText>光属性のダメージを軽減する力を持つ。
+淡く橙色に輝く星の名を授かりしソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>512</PointerOffset>
+      <JapaneseText>リブラ</JapaneseText>
+      <EnglishText>Libra</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>516</PointerOffset>
+      <JapaneseText>正義を量る天秤の名が付けられたソーマ。
+敵を撃破することで己の体力が回復する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>636</PointerOffset>
+      <JapaneseText>ラッセル</JapaneseText>
+      <EnglishText>Rosselia</EnglishText>
+      <Notes>Don't know what the star equivalent is</Notes>
+      <Id>11</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>640</PointerOffset>
+      <JapaneseText>ある彗星にちなんで名付けられたソーマ。
+純粋な切れ味に特化した形態。</JapaneseText>
+      <EnglishText>A Soma named after a certain comet.
+This form specializes in its cutting edge.</EnglishText>
+      <Notes>May use Sharp Edge or just offensive power if it's for all the Soma</Notes>
+      <Id>12</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>760</PointerOffset>
+      <JapaneseText>ウェズン</JapaneseText>
+      <EnglishText>Aries</EnglishText>
+      <Notes>Widder in German -&gt; in astrology is Aries</Notes>
+      <Id>13</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>764</PointerOffset>
+      <JapaneseText>遠く空の彼方、
+薄黄色に輝く超巨星の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>884</PointerOffset>
+      <JapaneseText>シュティア</JapaneseText>
+      <EnglishText>Taurus</EnglishText>
+      <Notes>Stier- German for Taurus</Notes>
+      <Id>15</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>888</PointerOffset>
+      <JapaneseText>神が化けた牡牛の名を与えられたソーマ。
+敵の気絶時間を延長させる効果がある。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1008</PointerOffset>
+      <JapaneseText>ロヴァシュ</JapaneseText>
+      <EnglishText>Leo</EnglishText>
+      <Notes>Lowe in German; translated as Lovas in Rays</Notes>
+      <Id>17</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1012</PointerOffset>
+      <JapaneseText>斬りつけた相手に「反転」の状態異常を
+引き起こさせる力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1132</PointerOffset>
+      <JapaneseText>アルナイル</JapaneseText>
+      <EnglishText>Alnair</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1136</PointerOffset>
+      <JapaneseText>ずばり「輝くもの」という意味を持つ
+巨星の輝きを想わせるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Soma Data 2</Section>
+    <Entry>
+      <PointerOffset>1256</PointerOffset>
+      <JapaneseText>カルキノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1260</PointerOffset>
+      <JapaneseText>嫉妬深き女神が遣わしたとされる
+巨大なカニの化け物の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1380</PointerOffset>
+      <JapaneseText>ジェディク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1384</PointerOffset>
+      <JapaneseText>死に瀕した時、通常よりも
+技のキレが冴え渡る効果を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1504</PointerOffset>
+      <JapaneseText>ベラトリクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1508</PointerOffset>
+      <JapaneseText>例え死に至るほどの傷を負おうとも
+生に踏み止まる力を与えてくれるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1628</PointerOffset>
+      <JapaneseText>スコルピオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1632</PointerOffset>
+      <JapaneseText>戦闘中のダッシュ速度が上昇する効果を
+持った、アステリア第六形態の一つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1752</PointerOffset>
+      <JapaneseText>ヴォルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1756</PointerOffset>
+      <JapaneseText>夜空に遠く煌くホウキ星の名を持つ姿。
+輝きは小さくとも、その攻撃力は高い。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1876</PointerOffset>
+      <JapaneseText>シャウラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1880</PointerOffset>
+      <JapaneseText>「反転」の状態異常に
+抵抗する力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2000</PointerOffset>
+      <JapaneseText>クリーオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2004</PointerOffset>
+      <JapaneseText>攻撃中の敵に対するダメージが
+増加する効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2124</PointerOffset>
+      <JapaneseText>ミュラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2128</PointerOffset>
+      <JapaneseText>敵を撃破した時のＥＧ回復量を
+上昇させる効果を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2248</PointerOffset>
+      <JapaneseText>レグルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2252</PointerOffset>
+      <JapaneseText>その名の意味は「小さな王」。静かに、
+しかし煌々と輝く巨星の名を冠した姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2372</PointerOffset>
+      <JapaneseText>パルテノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2376</PointerOffset>
+      <JapaneseText>人々に正しき道を説いたとされる
+正義を司る女神の名を授かりしソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2496</PointerOffset>
+      <JapaneseText>ハートレー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText>クリティカル発生時に
+ＥＧが回復する力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2620</PointerOffset>
+      <JapaneseText>アルデバラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2624</PointerOffset>
+      <JapaneseText>全ての状態異常に対し、
+抵抗する力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2744</PointerOffset>
+      <JapaneseText>アクアリウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2748</PointerOffset>
+      <JapaneseText>クリティカル発生率を上昇させ、さらに
+敵の硬直時間を延長する力を持った姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2868</PointerOffset>
+      <JapaneseText>ロングモア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2872</PointerOffset>
+      <JapaneseText>七年に一度訪れる彗星の名を持つソーマ。
+切れ味に優れ、鋭い斬撃が敵を裂く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2992</PointerOffset>
+      <JapaneseText>ベテルギウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2996</PointerOffset>
+      <JapaneseText>夜空に赤く揺らめく
+赤色超巨星の名を冠するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3116</PointerOffset>
+      <JapaneseText>イクテュエス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3120</PointerOffset>
+      <JapaneseText>斬りつけた相手から
+生命力を奪い取る力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3240</PointerOffset>
+      <JapaneseText>ゲーレルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3244</PointerOffset>
+      <JapaneseText>ダッシュ中であれば、ダメージを受けても
+決して仰け反らなくなるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3364</PointerOffset>
+      <JapaneseText>ヴェガ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3368</PointerOffset>
+      <JapaneseText>夜空に澄んだ蒼白の光を放つ
+強く煌く恒星の名を与えられた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3488</PointerOffset>
+      <JapaneseText>レーヴェ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3492</PointerOffset>
+      <JapaneseText>威嚇するかのように光り輝くその剣は、
+伝説にある強大な獅子の牙を連想させる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3612</PointerOffset>
+      <JapaneseText>サギタリウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3616</PointerOffset>
+      <JapaneseText>弓持つ馬人の放つ矢のごとく
+その刃、刹那に滅びをもたらさん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3736</PointerOffset>
+      <JapaneseText>ビーラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3740</PointerOffset>
+      <JapaneseText>かつて、壮大な流星雨をもたらした
+今は無き大彗星の名を授かりしソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3860</PointerOffset>
+      <JapaneseText>マックノート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3864</PointerOffset>
+      <JapaneseText>彗星はときに災いの兆しと言われる……
+その太刀筋は、悪に訪れる凶兆の光。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3984</PointerOffset>
+      <JapaneseText>ヘリオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3988</PointerOffset>
+      <JapaneseText>万物を照らし、あらゆる生命を育む
+「太陽」の恵みと威厳を象った最終形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4108</PointerOffset>
+      <JapaneseText>アークツルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4112</PointerOffset>
+      <JapaneseText>朱に燃える巨星のごとき閃光を放つ剣。
+それはまさに「星の輝き」の進化の証明。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4232</PointerOffset>
+      <JapaneseText>ゲイルアーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4236</PointerOffset>
+      <JapaneseText>古の言葉で「疾風の弓」の名を与えられた
+弓に展開変形する小手型のソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4356</PointerOffset>
+      <JapaneseText>インバット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4360</PointerOffset>
+      <JapaneseText>灼熱の大地の暑さを和らげるという
+爽やかな海風の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4480</PointerOffset>
+      <JapaneseText>ラウム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4484</PointerOffset>
+      <JapaneseText>アイテム使用不可時間を
+短縮する効果のあるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4604</PointerOffset>
+      <JapaneseText>ファルケ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4608</PointerOffset>
+      <JapaneseText>戦闘終了時にＨＰを小回復させる
+癒しの力を与えられし姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4728</PointerOffset>
+      <JapaneseText>チヌーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4732</PointerOffset>
+      <JapaneseText>ガードしたダメージを敵に反射し、さらに
+崖っぷちで死を回避する力を秘めた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4852</PointerOffset>
+      <JapaneseText>シャックス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4856</PointerOffset>
+      <JapaneseText>「コウノトリ」の姿で現れるという
+とある悪魔の姿を模したソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4976</PointerOffset>
+      <JapaneseText>シュヴァルベ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4980</PointerOffset>
+      <JapaneseText>身を翻し空を切る「燕」の名を持つ姿。
+両の手から飛び立つ燕が敵を斬り裂く。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5100</PointerOffset>
+      <JapaneseText>スコール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5104</PointerOffset>
+      <JapaneseText>吹き荒れる強風のごとき
+高速のダッシュを可能にするソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5224</PointerOffset>
+      <JapaneseText>マルファス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5228</PointerOffset>
+      <JapaneseText>「疲労」の状態異常に
+抵抗する力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5348</PointerOffset>
+      <JapaneseText>パシアノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5352</PointerOffset>
+      <JapaneseText>オスは色鮮やかな青緑色の羽を持つ
+「キジ」の名前を授けられし姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5472</PointerOffset>
+      <JapaneseText>ヘルム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5476</PointerOffset>
+      <JapaneseText>風属性に耐性を持ち、
+敵を「疲労」に陥れる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5596</PointerOffset>
+      <JapaneseText>ナベルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5600</PointerOffset>
+      <JapaneseText>ゲイルアーク第五形態の中で
+最高の威力を誇る、悪魔の名を持つ形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5720</PointerOffset>
+      <JapaneseText>コルニクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5724</PointerOffset>
+      <JapaneseText>黒き凶鳥「カラス」の名を持つソーマ。
+禍つ風が敵を空へと巻き上げる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5844</PointerOffset>
+      <JapaneseText>サンタアナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5848</PointerOffset>
+      <JapaneseText>南国に吹く乾いた熱風を象徴する形態。
+クリティカル発生率を上昇させる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5968</PointerOffset>
+      <JapaneseText>フィニクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5972</PointerOffset>
+      <JapaneseText>猛き炎を身にまとう、終わり忘れし
+巨鳥を思わせるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6092</PointerOffset>
+      <JapaneseText>クレイン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6096</PointerOffset>
+      <JapaneseText>攻撃行動中の敵に対するダメージを
+上昇させる効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6216</PointerOffset>
+      <JapaneseText>ロンバルド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6220</PointerOffset>
+      <JapaneseText>天にそびえる大山脈を越えて吹き降ろす
+風炎の名を与えられし姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6340</PointerOffset>
+      <JapaneseText>ガルダ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6344</PointerOffset>
+      <JapaneseText>気絶を防ぐ効果があり、マジックガードの
+効果時間をも延長する力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6464</PointerOffset>
+      <JapaneseText>オルテュクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6468</PointerOffset>
+      <JapaneseText>「ウズラ」の名を与えられた姿。
+地をはうウズラが舞い上がり、敵を射る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6588</PointerOffset>
+      <JapaneseText>アウストル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6592</PointerOffset>
+      <JapaneseText>大河に寄りそい吹くと言われる
+爽やかなる西風の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6712</PointerOffset>
+      <JapaneseText>ロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6716</PointerOffset>
+      <JapaneseText>世界中に広く知られる
+伝説の白き巨鳥の名を冠する形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6836</PointerOffset>
+      <JapaneseText>ラルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6840</PointerOffset>
+      <JapaneseText>通常攻撃の消費ＥＧを減少させ、
+さらに着地時の硬直時間を短縮する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6960</PointerOffset>
+      <JapaneseText>ミストラル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6964</PointerOffset>
+      <JapaneseText>風属性の攻撃を強化してくれる
+効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7084</PointerOffset>
+      <JapaneseText>シームルグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7088</PointerOffset>
+      <JapaneseText>敵の気絶時間を延長するソーマ。
+雨と豊穣をもたらす霊鳥の名を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7208</PointerOffset>
+      <JapaneseText>グラウクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7212</PointerOffset>
+      <JapaneseText>「森の賢者」と「不吉の鳥」、二つの顔を
+持つ「フクロウ」の名を冠するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7332</PointerOffset>
+      <JapaneseText>バギオ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7336</PointerOffset>
+      <JapaneseText>その名は南国の古き言葉で台風を指す。
+荒ぶる風の威力を想わせるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7456</PointerOffset>
+      <JapaneseText>アムルゼス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7460</PointerOffset>
+      <JapaneseText>通常攻撃による敵硬直時間を延長し、
+低確率ながら物理攻撃を無効化する形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7580</PointerOffset>
+      <JapaneseText>イービス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7584</PointerOffset>
+      <JapaneseText>純白の体に赤顔が映える
+「トキ」の名を与えられた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7704</PointerOffset>
+      <JapaneseText>アブロホロス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7708</PointerOffset>
+      <JapaneseText>激しき雷雨を伴う、暴風を象徴する姿。
+それはまさに風の力の具現……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7828</PointerOffset>
+      <JapaneseText>ブラン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7832</PointerOffset>
+      <JapaneseText>全てを氷に閉ざす極寒の雪嵐。凍れる敵を
+狙うように、その矢は決して外れない。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7952</PointerOffset>
+      <JapaneseText>ヴィゾフニル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7956</PointerOffset>
+      <JapaneseText>光り輝く身体を持つと言われる、
+伝説の鷹の名を授けられた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8076</PointerOffset>
+      <JapaneseText>フレズベルグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8080</PointerOffset>
+      <JapaneseText>この世のあらゆる風を生み出すとされる
+大鷲の名を与えられた最終形態の一つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8200</PointerOffset>
+      <JapaneseText>ペレグリノ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8204</PointerOffset>
+      <JapaneseText>疾風の狩人「ハヤブサ」の名を持つ形態。
+その矢から、逃れられる者はいない……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8324</PointerOffset>
+      <JapaneseText>アレクトリス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8328</PointerOffset>
+      <JapaneseText>神の遣いとも言われる「ニワトリ」の名を
+持つ弓は、神にすら抗う強き意思の証。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8448</PointerOffset>
+      <JapaneseText>ティエール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8452</PointerOffset>
+      <JapaneseText>「大地の色」という意味を冠された
+帽子型のソーマ。コアから筆が出てくる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8572</PointerOffset>
+      <JapaneseText>エリュトロス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8576</PointerOffset>
+      <JapaneseText>死に瀕した時の術威力を上昇させ、
+さらに支援系思念術の効果を延長する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8696</PointerOffset>
+      <JapaneseText>モダン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8700</PointerOffset>
+      <JapaneseText>時代の最先端を行く、
+現代美術を体現する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8820</PointerOffset>
+      <JapaneseText>デューラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8824</PointerOffset>
+      <JapaneseText>絵画だけでなく、版画でも偉大な作品を
+残した画家の名を与えられたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8944</PointerOffset>
+      <JapaneseText>プルプァ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8948</PointerOffset>
+      <JapaneseText>マジックガードの展開時間を
+延長する効果のあるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9068</PointerOffset>
+      <JapaneseText>レアリスム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9072</PointerOffset>
+      <JapaneseText>あらゆる存在を在りのままに捉える、
+写実主義的アートを象徴する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9192</PointerOffset>
+      <JapaneseText>ゴーギャン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9196</PointerOffset>
+      <JapaneseText>術やアイテムによるＨＰ回復効果を
+上昇させる力を秘めた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9316</PointerOffset>
+      <JapaneseText>クロロテス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9320</PointerOffset>
+      <JapaneseText>あふれる生命力を象徴する
+「緑」の名を与えられた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9440</PointerOffset>
+      <JapaneseText>ロマン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9444</PointerOffset>
+      <JapaneseText>殴りつけた相手を
+「石化」させる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9564</PointerOffset>
+      <JapaneseText>ミレー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9568</PointerOffset>
+      <JapaneseText>敵を打ち破ったときの
+ＥＧ回復量が増加する効果を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9688</PointerOffset>
+      <JapaneseText>ウィオラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9692</PointerOffset>
+      <JapaneseText>強く色付く「すみれ色」の名を持つ。
+印象深きその姿が、人々の心に刻まれる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9812</PointerOffset>
+      <JapaneseText>ロココ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9816</PointerOffset>
+      <JapaneseText>敵の「石化」攻撃に対する
+耐性を与えてくれるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9936</PointerOffset>
+      <JapaneseText>ラファエロ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9940</PointerOffset>
+      <JapaneseText>地属性の攻撃を
+強化する力を秘めた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10060</PointerOffset>
+      <JapaneseText>リノン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10064</PointerOffset>
+      <JapaneseText>思念術の消費ＥＧを、時折
+減少させる効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10184</PointerOffset>
+      <JapaneseText>バロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10188</PointerOffset>
+      <JapaneseText>高い流動性と装飾性を誇った
+動的かつ劇的なアートを象徴する形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10308</PointerOffset>
+      <JapaneseText>モネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10312</PointerOffset>
+      <JapaneseText>地属性に対する耐性を
+高める効果のあるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10432</PointerOffset>
+      <JapaneseText>ヘルブラオ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10436</PointerOffset>
+      <JapaneseText>遥か天空を連想させる
+透き通る「水色」の名を授かりし姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10556</PointerOffset>
+      <JapaneseText>マニエリスム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10560</PointerOffset>
+      <JapaneseText>気絶する確率を低下させ、さらに
+マジックガード時のダメージも減少する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10680</PointerOffset>
+      <JapaneseText>ターナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10684</PointerOffset>
+      <JapaneseText>黄の色をこよなく愛した、先駆的な
+風景画家の名前を与えられたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10804</PointerOffset>
+      <JapaneseText>キュアノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10808</PointerOffset>
+      <JapaneseText>命生まれし場所、母なる大海を象徴する
+「コバルトブルー」の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10928</PointerOffset>
+      <JapaneseText>ルネサンス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10932</PointerOffset>
+      <JapaneseText>敵の気絶時間を延長する力を持つ。
+古典文化の復興を掲げる美術思想の象徴。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11052</PointerOffset>
+      <JapaneseText>シャルダン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11056</PointerOffset>
+      <JapaneseText>ガード時の被ダメージを
+さらに減少させる効果を持った形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11176</PointerOffset>
+      <JapaneseText>ウィステリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11180,16636</PointerOffset>
+      <JapaneseText>戦闘中のダッシュ速度を
+上昇させる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11300</PointerOffset>
+      <JapaneseText>ゴシック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11304</PointerOffset>
+      <JapaneseText>長きに渡り不当な差別的評価を受けた
+中世後期の美術様式の名を持つ姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11424</PointerOffset>
+      <JapaneseText>ヴァザーリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11428</PointerOffset>
+      <JapaneseText>戦闘終了時のアイテムドロップ率を
+上昇させる効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11548</PointerOffset>
+      <JapaneseText>ヴェルクレル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11552</PointerOffset>
+      <JapaneseText>目覚める生命力の具現。春の訪れを告げる
+「もえぎ色」の名を冠されたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11672</PointerOffset>
+      <JapaneseText>ガラクテノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11676</PointerOffset>
+      <JapaneseText>すべてを優しく包み込む、柔らかな
+「乳白色」の名を与えられたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11796</PointerOffset>
+      <JapaneseText>ビザンティン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11800</PointerOffset>
+      <JapaneseText>二つの様式が混合し誕生した、独特で
+宗教色豊かな美術体系を象徴する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11920</PointerOffset>
+      <JapaneseText>ロマネスク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11924</PointerOffset>
+      <JapaneseText>優れた宗教画を残した、信仰心あふれる
+古典美術の名を授かりし形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12044</PointerOffset>
+      <JapaneseText>フェルメール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12048</PointerOffset>
+      <JapaneseText>天才の名を持つ筆がその力を見せた時、
+戦場は絵画のごとき静寂を得る。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12168</PointerOffset>
+      <JapaneseText>レンブラント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12172</PointerOffset>
+      <JapaneseText>光の画家の名を持つその筆は
+人々の善を照らし、悪を鎮める。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12292</PointerOffset>
+      <JapaneseText>フォルセウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12296</PointerOffset>
+      <JapaneseText>与えられた名の意味は「一途な力」。
+巨大な斧刃を形成するすね当のソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12416</PointerOffset>
+      <JapaneseText>ザロプス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12420</PointerOffset>
+      <JapaneseText>水属性のダメージを
+軽減する効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12540</PointerOffset>
+      <JapaneseText>ヘスティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12544</PointerOffset>
+      <JapaneseText>家庭、国家を守護すると伝えられる
+女神の名を授けられた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12664</PointerOffset>
+      <JapaneseText>ドロップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12668</PointerOffset>
+      <JapaneseText>戦闘中のダッシュ速度を
+上昇させる力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12788</PointerOffset>
+      <JapaneseText>カロリヌス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12792</PointerOffset>
+      <JapaneseText>ときに「海の熊」ともよばれる
+黒き獣の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12912</PointerOffset>
+      <JapaneseText>アルテミス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12916</PointerOffset>
+      <JapaneseText>狩猟と純潔を司る気高き女神。
+その女神の姿と力を模したソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13036</PointerOffset>
+      <JapaneseText>リュビア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13040</PointerOffset>
+      <JapaneseText>通常攻撃による敵硬直時間を延長し、
+さらに「暗闇」攻撃も可能にする形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13160</PointerOffset>
+      <JapaneseText>クシピアース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13164</PointerOffset>
+      <JapaneseText>マジックガードの発動時間を
+延長させる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13284</PointerOffset>
+      <JapaneseText>ペルセポネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13288</PointerOffset>
+      <JapaneseText>水属性の攻撃を
+強化する効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13408</PointerOffset>
+      <JapaneseText>フォンテーヌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13412</PointerOffset>
+      <JapaneseText>命の源たる水が沸き出す
+「泉」の名を授かりしソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13532</PointerOffset>
+      <JapaneseText>モールス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13536</PointerOffset>
+      <JapaneseText>圧倒的重量と突進力を誇る
+「セイウチ」の力を象徴する形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13656</PointerOffset>
+      <JapaneseText>デメテール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13660</PointerOffset>
+      <JapaneseText>死に瀕した時に攻撃力を上昇させ、
+敵撃破時のＥＧ回復率も増加させる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>222</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13780</PointerOffset>
+      <JapaneseText>リウルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>223</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13784</PointerOffset>
+      <JapaneseText>穏やかなせせらぎを奏でる
+「小川」の意味を与えられたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13904</PointerOffset>
+      <JapaneseText>ダシアティス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13908</PointerOffset>
+      <JapaneseText>低確率ながら、思念術を受けても
+仰け反らなくなる効果を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>226</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14028</PointerOffset>
+      <JapaneseText>アプロディ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>227</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14032</PointerOffset>
+      <JapaneseText>愛と美を司る、最も美しき
+女神の名を冠する形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>228</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14152</PointerOffset>
+      <JapaneseText>リヴィエール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>229</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14156</PointerOffset>
+      <JapaneseText>敵の気絶時間を
+延長させる力を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14276</PointerOffset>
+      <JapaneseText>デルピーヌス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14280</PointerOffset>
+      <JapaneseText>ガードしたダメージを敵に反射し、
+アイテム使用不可時間も短縮するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>232</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14400</PointerOffset>
+      <JapaneseText>ガイア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14404</PointerOffset>
+      <JapaneseText>人々から厚き信仰を受ける、
+豊穣の大地を司る女神を象徴するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>234</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14524</PointerOffset>
+      <JapaneseText>フルーヴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>235</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14528</PointerOffset>
+      <JapaneseText>轟音響かせ流れゆく文明発祥の源、
+「大河」の力と品格を模した姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>236</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14648</PointerOffset>
+      <JapaneseText>カルカリアス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>237</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14652</PointerOffset>
+      <JapaneseText>冷酷無慈悲なる海の狩人、
+「サメ」のどう猛さを内包した形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>238</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14772</PointerOffset>
+      <JapaneseText>ディオーネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14776</PointerOffset>
+      <JapaneseText>ダッシュ中ならばダメージを受けても
+決して仰け反らなくなる力を秘めた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>240</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14896</PointerOffset>
+      <JapaneseText>オケアノス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>241</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14900</PointerOffset>
+      <JapaneseText>低確率ながら思念術によるダメージを
+完全に無効化する効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>242</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15020</PointerOffset>
+      <JapaneseText>バーラエナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15024</PointerOffset>
+      <JapaneseText>大海原に悠然と横たわる巨体の旅人
+「クジラ」の威厳を形にしたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>244</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15144</PointerOffset>
+      <JapaneseText>オルキヌス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15148</PointerOffset>
+      <JapaneseText>力と知恵を持ち合わせた海の暴君、
+「シャチ」の凶暴さを具現化した姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>246</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15268</PointerOffset>
+      <JapaneseText>アテナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>247</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15272</PointerOffset>
+      <JapaneseText>鎧まといし知略の女神を象徴する姿。
+装備者はまさに勝利の女神となる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15392</PointerOffset>
+      <JapaneseText>レア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15396</PointerOffset>
+      <JapaneseText>数多くの輝ける神々を生み出した
+母なる女神を想わせるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>250</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15516</PointerOffset>
+      <JapaneseText>アトラティス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15520</PointerOffset>
+      <JapaneseText>数多くの謎と伝説に彩られた西の大海。
+その神秘と浪漫を感じさせるソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>252</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15640</PointerOffset>
+      <JapaneseText>パシフィクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>253</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15644</PointerOffset>
+      <JapaneseText>生きとし生けるもの全ての故郷、
+遥かなる海の力と愛を具現化したソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15764</PointerOffset>
+      <JapaneseText>エルロンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15768</PointerOffset>
+      <JapaneseText>「希望の輪舞」という意味を持つ
+バトンを形成する足環型のソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>256</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15888</PointerOffset>
+      <JapaneseText>エピオテース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>257</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15892</PointerOffset>
+      <JapaneseText>わけ隔て無き思いやりと共感の心、
+「優しさ」の意味を込められた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>258</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16012</PointerOffset>
+      <JapaneseText>ルンバ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>259</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16016</PointerOffset>
+      <JapaneseText>クリティカル発生率を
+上昇させる効果を秘めた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>260</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16136</PointerOffset>
+      <JapaneseText>オールダー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>261</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16140</PointerOffset>
+      <JapaneseText>通常攻撃に「熱毒｣発生効果を
+付与する効果を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>262</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16260</PointerOffset>
+      <JapaneseText>オリーブル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>263</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16264</PointerOffset>
+      <JapaneseText>攻撃を受けた時の硬直時間を
+短縮する力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>264</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16384</PointerOffset>
+      <JapaneseText>タップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>265</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16388</PointerOffset>
+      <JapaneseText>敵撃破時のＥＧ回復率を
+上昇させる効果を持った形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>266</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16508</PointerOffset>
+      <JapaneseText>アエスクルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>267</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16512</PointerOffset>
+      <JapaneseText>粉雪のような白き花を咲かせる
+「トチ」の木の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>268</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16632</PointerOffset>
+      <JapaneseText>ピスティス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>269</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16756</PointerOffset>
+      <JapaneseText>サルサ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>270</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16760</PointerOffset>
+      <JapaneseText>軽やかなリズムが人の心を掻き立てる
+南国の大衆的ダンスを連想させる形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>271</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16880</PointerOffset>
+      <JapaneseText>メリアー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>272</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16884</PointerOffset>
+      <JapaneseText>火属性のダメージを
+軽減する効果を持った姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>273</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17004</PointerOffset>
+      <JapaneseText>トゥリステス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>274</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17008</PointerOffset>
+      <JapaneseText>その痛みがあるから人は強くなれる……
+「悲しみ」の感情を象徴するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>275</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17128</PointerOffset>
+      <JapaneseText>タンゴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>276</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17132</PointerOffset>
+      <JapaneseText>強烈なリズムの上にロマンティックな
+メロディーが響く社交舞踊の名を持つ姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>277</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17252</PointerOffset>
+      <JapaneseText>ティリア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>278</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17256</PointerOffset>
+      <JapaneseText>状態異常にかかっている時間を短縮し、
+マジックガードの発動時間も延長する。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>279</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17376</PointerOffset>
+      <JapaneseText>クラージュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>280</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17380</PointerOffset>
+      <JapaneseText>ヒット数に応じて、ＨＰを微回復させる
+力を秘めたエルロンド進化形態の一つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>281</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17500</PointerOffset>
+      <JapaneseText>ジャズ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>282</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17504</PointerOffset>
+      <JapaneseText>力強い特徴的なリズムを持つ
+心躍る民衆舞踊の名を与えられた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>283</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17624</PointerOffset>
+      <JapaneseText>サンタルム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>284</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17628</PointerOffset>
+      <JapaneseText>アイテム使用不可時間を
+短縮する力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>285</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17748</PointerOffset>
+      <JapaneseText>メーニス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>286</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17752</PointerOffset>
+      <JapaneseText>低確率ながら、物理ダメージを
+完全に無効化する力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>287</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17872</PointerOffset>
+      <JapaneseText>バチャータ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>288</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17876</PointerOffset>
+      <JapaneseText>思念術の詠唱時間を
+短縮する効果を秘めた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>289</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17996</PointerOffset>
+      <JapaneseText>ロリエ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>290</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18000</PointerOffset>
+      <JapaneseText>勝利と栄光のシンボルとされる
+「月桂樹」の名を与えられた形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>291</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18120</PointerOffset>
+      <JapaneseText>アグラード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>292</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18124</PointerOffset>
+      <JapaneseText>人間に生きる意思と活力を与えてくれる
+「喜び」の感情を表すソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>293</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18244</PointerOffset>
+      <JapaneseText>ピリアー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>294</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18248</PointerOffset>
+      <JapaneseText>人間の宿命的孤独を埋める
+「愛」の心を象徴する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>295</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18368</PointerOffset>
+      <JapaneseText>ヴァルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>296</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18372</PointerOffset>
+      <JapaneseText>上品な振る舞いに熱き情熱を秘めた
+最も洗練された舞踊を象徴する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>297</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18492</PointerOffset>
+      <JapaneseText>バレ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>298</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18496</PointerOffset>
+      <JapaneseText>躍動感あふれる跳躍と回転を特徴とした
+舞台舞踊の魅力を体現するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>299</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18616</PointerOffset>
+      <JapaneseText>クラネイア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>300</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18620</PointerOffset>
+      <JapaneseText>花弁のような大きく美しい苞葉が映える
+「ハナミズキ」の美を体現するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>301</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18740</PointerOffset>
+      <JapaneseText>イーレクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>302</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18744</PointerOffset>
+      <JapaneseText>古来より、悪鬼を寄せ付けぬといわれる
+「ヒイラギ」の名を与えられしソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>303</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18864</PointerOffset>
+      <JapaneseText>ヴェックス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>304</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18868</PointerOffset>
+      <JapaneseText>伸縮自在の腕を生み出す多目的型ソーマ。
+古代語で「古の機士」という意味を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>305</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18988</PointerOffset>
+      <JapaneseText>カレッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>306</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18992</PointerOffset>
+      <JapaneseText>思念術やアイテムによる回復効果を
+上昇させる効果を持った形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>307</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19112</PointerOffset>
+      <JapaneseText>ナーガ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>308</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19116</PointerOffset>
+      <JapaneseText>天候を制御する力を持つといわれる
+半人半蛇の神の力を象徴するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>309</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19236</PointerOffset>
+      <JapaneseText>ザッハーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>310</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19240</PointerOffset>
+      <JapaneseText>支援系思念術の効果時間を
+延長させる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>311</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19360</PointerOffset>
+      <JapaneseText>フェイス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>312</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19364</PointerOffset>
+      <JapaneseText>信じる道を貫く。それが機士の生き様。
+折れること無き「信念」を表すソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>313</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19484</PointerOffset>
+      <JapaneseText>ヴァスキ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>314</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19488</PointerOffset>
+      <JapaneseText>千の頭を持つと伝えられる
+蛇神の名を与えられた姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>315</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19608</PointerOffset>
+      <JapaneseText>ウロボロス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>316</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19612</PointerOffset>
+      <JapaneseText>闇属性と「呪い」の状態異常に対する
+耐性を持ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>317</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19732</PointerOffset>
+      <JapaneseText>コートスィ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>318</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19736</PointerOffset>
+      <JapaneseText>クリティカル発生時に
+ＥＧを回復させる効果を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>319</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19856</PointerOffset>
+      <JapaneseText>ガンダルヴァ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>320</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19860</PointerOffset>
+      <JapaneseText>闇属性の攻撃を強化する力を秘めた
+異教の神の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>321</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19980</PointerOffset>
+      <JapaneseText>リンドヴルム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>322</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19984</PointerOffset>
+      <JapaneseText>翼竜とも大海竜であるとも伝えられる
+巨大な竜の姿を模した形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>323</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20104</PointerOffset>
+      <JapaneseText>ロイアルティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>324</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20108</PointerOffset>
+      <JapaneseText>身を賭して主に仕えるが機士の役目。
+不滅の「忠誠心」を表すソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>325</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20228</PointerOffset>
+      <JapaneseText>アグニ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>326</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20232</PointerOffset>
+      <JapaneseText>敵の気絶時間を延長し、一部のアイテムの
+効果を上昇させる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>327</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20352</PointerOffset>
+      <JapaneseText>テュポーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>328</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20356</PointerOffset>
+      <JapaneseText>肩から百の蛇が生えた、
+半人半蛇の風の魔神を象ったソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>329</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20476</PointerOffset>
+      <JapaneseText>ジネロスティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>330</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20480</PointerOffset>
+      <JapaneseText>思念術の攻撃を受けたとき、
+確率で仰け反りを回避する効果を持つ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>331</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20600</PointerOffset>
+      <JapaneseText>ディヤウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>332</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20604</PointerOffset>
+      <JapaneseText>ダメージを受けた時の
+硬直時間を短縮する効果がある。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>333</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20724</PointerOffset>
+      <JapaneseText>リヴァイア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>334</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20728</PointerOffset>
+      <JapaneseText>津波の如き凶暴さと強固な鱗を併せ持つ
+強大な海の魔物の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>335</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20848</PointerOffset>
+      <JapaneseText>フランサイズ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>336</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20852</PointerOffset>
+      <JapaneseText>機士はいつ如何なる時も気高くあれ……
+機士の「崇高さ」を形に変えたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>337</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20972</PointerOffset>
+      <JapaneseText>ヴァーユ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>338</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20976</PointerOffset>
+      <JapaneseText>空界を統べるとされる、
+古き風神の姿を象った形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>339</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21096</PointerOffset>
+      <JapaneseText>ファフニール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>340</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21100</PointerOffset>
+      <JapaneseText>通常攻撃でアイテムを盗めるようになり、
+攻撃ヒット時にはＨＰが回復するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>341</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21220</PointerOffset>
+      <JapaneseText>プラウウェス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>342</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21224</PointerOffset>
+      <JapaneseText>機士とは戦うことを義務付けられた存在。
+その高き「戦闘力」を象徴するソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>343</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21344</PointerOffset>
+      <JapaneseText>オネスティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>344</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21348</PointerOffset>
+      <JapaneseText>機士は決して虚偽を働いてはならない。
+己を偽らぬ「正直さ」を意味する姿。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>345</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21468</PointerOffset>
+      <JapaneseText>ヴィシュヌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>346</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21472</PointerOffset>
+      <JapaneseText>四つの武器を持ち、世界を維持する役目を
+持つという最高神の名を持つソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>347</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21592</PointerOffset>
+      <JapaneseText>ルドラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>348</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21596</PointerOffset>
+      <JapaneseText>咆哮を上げる者と呼ばれる、
+荒ぶる神の姿を模した形態。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>349</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21716</PointerOffset>
+      <JapaneseText>ヨルムガンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>350</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21720</PointerOffset>
+      <JapaneseText>世界を飲み込む大蛇の名を持つソーマ。
+その力が目覚めしとき、全てが終わる。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>351</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21840</PointerOffset>
+      <JapaneseText>ニーズヘッグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>352</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21844</PointerOffset>
+      <JapaneseText>わらう虐殺者の名でも呼ばれる、
+強大な黒竜を想わせる力を秘めたソーマ。</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>353</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
