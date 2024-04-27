@@ -75,7 +75,7 @@
 	},
 	{
 		"file_path": "./data/item/TODS9_SormaData.dat",
-		"friendly_name": "Sorma Data",
+		"friendly_name": "Soma Data",
 		"is_compressed": false,
 		"pad":false,
 		"base_offset": 0x0,
@@ -84,9 +84,15 @@
 		],
 		"sections": [
 			{
-				"section": "Sorma Data",
-				"pointers_start": 16,
-				"pointers_end": 1171,
+				"section": "Soma Data 1",
+				"pointers_start": 0x10,
+				"pointers_end": 0x473,
+				"style": "PP116"
+			},
+			{
+				"section": "Soma Data 2",
+				"pointers_start": 0x4E8,
+				"pointers_end": 0x55C7,
 				"style": "PP116"
 			}
 		]
