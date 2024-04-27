@@ -783,8 +783,7 @@ chance to inflict Weightless.</EnglishText>
       <PointerOffset>376</PointerOffset>
       <JapaneseText>ｎ％の確率で
 熱毒状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Poison.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Poison.</EnglishText>
       <Notes/>
       <Id>90</Id>
       <Status>Editing</Status>
@@ -801,8 +800,7 @@ preventing Poison.</EnglishText>
       <PointerOffset>384</PointerOffset>
       <JapaneseText>ｎ％の確率で
 疲労状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Fatigue.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Fatigue.</EnglishText>
       <Notes/>
       <Id>92</Id>
       <Status>Editing</Status>
@@ -819,8 +817,7 @@ preventing Fatigue.</EnglishText>
       <PointerOffset>392</PointerOffset>
       <JapaneseText>ｎ％の確率で
 反転状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Reverse.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Reverse.</EnglishText>
       <Notes/>
       <Id>94</Id>
       <Status>Editing</Status>
@@ -837,8 +834,7 @@ preventing Reverse.</EnglishText>
       <PointerOffset>400</PointerOffset>
       <JapaneseText>ｎ％の確率で
 石化状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Petrification.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Petrification.</EnglishText>
       <Notes/>
       <Id>96</Id>
       <Status>Editing</Status>
@@ -855,8 +851,7 @@ preventing Petrification.</EnglishText>
       <PointerOffset>408</PointerOffset>
       <JapaneseText>ｎ％の確率で
 呪い状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Curse.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Curse.</EnglishText>
       <Notes/>
       <Id>98</Id>
       <Status>Editing</Status>
@@ -873,8 +868,7 @@ preventing Curse.</EnglishText>
       <PointerOffset>416</PointerOffset>
       <JapaneseText>ｎ％の確率で
 暗闇状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Blind.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Blind.</EnglishText>
       <Notes/>
       <Id>100</Id>
       <Status>Editing</Status>
@@ -891,8 +885,7 @@ preventing Blind.</EnglishText>
       <PointerOffset>424</PointerOffset>
       <JapaneseText>ｎ％の確率で
 加重状態を回避する。</JapaneseText>
-      <EnglishText>ｎ％ chance of
-preventing Heavy.</EnglishText>
+      <EnglishText>ｎ％ chance to prevent Heavy.</EnglishText>
       <Notes/>
       <Id>102</Id>
       <Status>Editing</Status>
@@ -900,19 +893,19 @@ preventing Heavy.</EnglishText>
     <Entry>
       <PointerOffset>428</PointerOffset>
       <JapaneseText>フェザーガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Weightless Guard</EnglishText>
       <Notes/>
       <Id>103</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>432</PointerOffset>
       <JapaneseText>ｎ％の確率で
 減重状態を回避する。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>ｎ％ chance to prevent Weightless.</EnglishText>
+      <Notes>Not sure if we should use weightless as the translation for the status effect</Notes>
       <Id>104</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>436</PointerOffset>
@@ -1310,18 +1303,18 @@ when &lt;30% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>612</PointerOffset>
       <JapaneseText>フェイントショート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stun Guard</EnglishText>
       <Notes/>
       <Id>149</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>616</PointerOffset>
       <JapaneseText>ｎ％の確率で気絶状態を回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ｎ％ chance to prevent stun.</EnglishText>
       <Notes/>
       <Id>150</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>620</PointerOffset>
@@ -1388,10 +1381,11 @@ a critical hit by ｎ％.</EnglishText>
       <PointerOffset>648</PointerOffset>
       <JapaneseText>全ての状態異常を
 ｎ％の確率で回避する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables a ｎ％ chance to
+prevent all status ailments.</EnglishText>
       <Notes/>
       <Id>158</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>652</PointerOffset>
@@ -1457,8 +1451,8 @@ when receiving a magical attack.</EnglishText>
       <PointerOffset>680</PointerOffset>
       <JapaneseText>思念術の消費ＥＧがｎ％の確率で
 ２０％減少する。</JapaneseText>
-      <EnglishText>Enables a ｎ％ chance to
-reduce the EG cost of magic by 20%.</EnglishText>
+      <EnglishText>Enables a ｎ％ chance to reduce
+the EG cost of magic by 20%.</EnglishText>
       <Notes/>
       <Id>166</Id>
       <Status>Editing</Status>
@@ -1491,161 +1485,167 @@ reduce the EG cost of magic by 20%.</EnglishText>
       <PointerOffset>696</PointerOffset>
       <JapaneseText>状態異常の効果時間が
 ｎ％減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces duration of status 
+ailments by ｎ％.</EnglishText>
       <Notes/>
       <Id>170</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>700</PointerOffset>
       <JapaneseText>アンエレメンタル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anti-Element</EnglishText>
       <Notes/>
       <Id>171</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>704</PointerOffset>
       <JapaneseText>思念属性が付加された攻撃の
 ダメージがｎ％の確率で半減する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables a ｎ％ chance to reduce
+elemental damage received by 50%</EnglishText>
       <Notes/>
       <Id>172</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>708</PointerOffset>
       <JapaneseText>ウェルガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guard Plus</EnglishText>
       <Notes/>
       <Id>173</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>712</PointerOffset>
       <JapaneseText>ガード時のダメージ減少率が
 ｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces physical damage received
+by ｎ％ while guarding.</EnglishText>
       <Notes/>
       <Id>174</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>716</PointerOffset>
       <JapaneseText>マジックウェルガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magic Guard Plus</EnglishText>
       <Notes/>
       <Id>175</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>720</PointerOffset>
       <JapaneseText>マジックガード時の
 ダメージ減少率がｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces magical damage received
+by ｎ％ while using magic guard.</EnglishText>
       <Notes/>
       <Id>176</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>724</PointerOffset>
       <JapaneseText>ライフアップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Life Up</EnglishText>
       <Notes/>
       <Id>177</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>728</PointerOffset>
       <JapaneseText>戦闘終了時にｎ％の確率で
 最大ＨＰが１０上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enables a ｎ％ chance to increase
+max HP by 10.</EnglishText>
       <Notes/>
       <Id>178</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732</PointerOffset>
       <JapaneseText>ライフヒール</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Life Healer</EnglishText>
       <Notes/>
       <Id>179</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736</PointerOffset>
       <JapaneseText>戦闘終了時にＨＰが
 ｎ％回復する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After battle, heals ｎ％of max HP.</EnglishText>
       <Notes/>
       <Id>180</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740</PointerOffset>
       <JapaneseText>ＨＰリカバー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heal Up</EnglishText>
       <Notes/>
       <Id>181</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>744</PointerOffset>
       <JapaneseText>回復思念術やＨＰ回復アイテムの
 回復効果がｎ％上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases the effect of healing
+artes and items by ｎ％.</EnglishText>
       <Notes/>
       <Id>182</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>748</PointerOffset>
       <JapaneseText>ダッシュ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dash</EnglishText>
       <Notes/>
       <Id>183</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>752</PointerOffset>
       <JapaneseText>戦闘中のダッシュ速度が上昇する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases dash speed in combat.</EnglishText>
       <Notes/>
       <Id>184</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>756</PointerOffset>
       <JapaneseText>サプレスガード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dash Guard</EnglishText>
       <Notes/>
       <Id>185</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>760</PointerOffset>
       <JapaneseText>ダッシュ中に攻撃を受けても
 回避する。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Prevents stagger while running.</EnglishText>
+      <Notes>Need to check effect.</Notes>
       <Id>186</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>764</PointerOffset>
       <JapaneseText>エスケープ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Escape</EnglishText>
       <Notes/>
       <Id>187</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>768</PointerOffset>
       <JapaneseText>逃走時間がｎ％減少する。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reduces escape time by ｎ％.</EnglishText>
       <Notes/>
       <Id>188</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>772</PointerOffset>
@@ -2144,18 +2144,18 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>996</PointerOffset>
       <JapaneseText>治癒石アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Healing Stone Up</EnglishText>
       <Notes/>
       <Id>245</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1000,1008,1016,1024,1032,1040,1048,1056,1064,1072,1080,1088</PointerOffset>
       <JapaneseText>アクセサリーのみの効果</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessory Only Skill</EnglishText>
       <Notes/>
       <Id>246</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1004</PointerOffset>
@@ -2176,74 +2176,74 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1020</PointerOffset>
       <JapaneseText>ＥＧ回復力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EG Recovery Up</EnglishText>
       <Notes/>
       <Id>249</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1028</PointerOffset>
       <JapaneseText>攻撃力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P. ATK Up</EnglishText>
       <Notes/>
       <Id>250</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1036</PointerOffset>
       <JapaneseText>術攻撃力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A. ATK Up</EnglishText>
       <Notes/>
       <Id>251</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1044</PointerOffset>
       <JapaneseText>防御力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P. DEF Up</EnglishText>
       <Notes/>
       <Id>252</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1052</PointerOffset>
       <JapaneseText>術防御力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A. DEF Up</EnglishText>
       <Notes/>
       <Id>253</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1060</PointerOffset>
       <JapaneseText>命中力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ACC Up</EnglishText>
       <Notes/>
       <Id>254</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1068</PointerOffset>
       <JapaneseText>回避力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EVA Up</EnglishText>
       <Notes/>
       <Id>255</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1076</PointerOffset>
       <JapaneseText>集中力アップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>CRT Up</EnglishText>
       <Notes/>
       <Id>256</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1084</PointerOffset>
       <JapaneseText>グレードアップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grade Up</EnglishText>
       <Notes/>
       <Id>257</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1092</PointerOffset>
@@ -2256,19 +2256,20 @@ cast a spell.</EnglishText>
     <Entry>
       <PointerOffset>1096</PointerOffset>
       <JapaneseText>カイレンジン</JapaneseText>
-      <EnglishText/>
+      <EnglishText> </EnglishText>
       <Notes/>
       <Id>259</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1100</PointerOffset>
       <JapaneseText>素早い斬り上げと共に真空波を起こして
 敵を斬り刻む技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A swift strike that creates a
+damage dealing vacuum.</EnglishText>
       <Notes/>
       <Id>260</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
