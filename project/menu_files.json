@@ -19,8 +19,8 @@
 		"sections": [
 			{
 				"section": "Arm9",
-				"pointers_start": 730532,
-				"pointers_end": 740279,
+				"pointers_start": 0xB25A4,
+				"pointers_end": 0xB4BB7,
 				"style": "P12"
 			},
 			{
@@ -250,7 +250,7 @@
 		"pad":false,
 		"base_offset": 0x0,
 		"safe_areas": [
-			[0xF8, 0x588],
+			[0xF8, 0x700],
 		],
 		"sections": [
 			{
