@@ -308,58 +308,58 @@
     <Entry>
       <PointerOffset>731460,732500,732772,733380,734548</PointerOffset>
       <JapaneseText>攻撃力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.ATK</EnglishText>
       <Notes/>
       <Id>39</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731476,734564</PointerOffset>
       <JapaneseText>術攻撃力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A.ATK</EnglishText>
       <Notes/>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731492,734580</PointerOffset>
       <JapaneseText>防御力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.DEF</EnglishText>
       <Notes/>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731508,734596</PointerOffset>
       <JapaneseText>術防御力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A.DEF</EnglishText>
       <Notes/>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731524,734612</PointerOffset>
       <JapaneseText>命中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ACC</EnglishText>
       <Notes/>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731540,734628</PointerOffset>
       <JapaneseText>回避力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EVA</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731556,734644</PointerOffset>
       <JapaneseText>集中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>FOC</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>731572</PointerOffset>
@@ -372,7 +372,7 @@
     <Entry>
       <PointerOffset>731588</PointerOffset>
       <JapaneseText>攻撃力＋</JapaneseText>
-      <EnglishText>PATK+</EnglishText>
+      <EnglishText>P.ATK+</EnglishText>
       <Notes/>
       <Id>47</Id>
       <Status>Editing</Status>
@@ -380,7 +380,7 @@
     <Entry>
       <PointerOffset>731604</PointerOffset>
       <JapaneseText>防御力＋</JapaneseText>
-      <EnglishText>PDEF+</EnglishText>
+      <EnglishText>P.DEF+</EnglishText>
       <Notes/>
       <Id>48</Id>
       <Status>Editing</Status>
@@ -388,7 +388,7 @@
     <Entry>
       <PointerOffset>731620</PointerOffset>
       <JapaneseText>術攻撃力＋</JapaneseText>
-      <EnglishText>MATK+</EnglishText>
+      <EnglishText>M.ATK+</EnglishText>
       <Notes/>
       <Id>49</Id>
       <Status>Editing</Status>
@@ -396,7 +396,7 @@
     <Entry>
       <PointerOffset>731636</PointerOffset>
       <JapaneseText>術防御力＋</JapaneseText>
-      <EnglishText>ADEF+</EnglishText>
+      <EnglishText>A.DEF+</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>Editing</Status>
@@ -673,9 +673,9 @@ to throw it away?</EnglishText>
       <PointerOffset>732372</PointerOffset>
       <JapaneseText>装飾品</JapaneseText>
       <EnglishText>ornament</EnglishText>
-      <Notes/>
+      <Notes>I think this is Accessory</Notes>
       <Id>84</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>732404,739188</PointerOffset>
