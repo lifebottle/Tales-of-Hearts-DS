@@ -228,7 +228,7 @@ monsters from all around.</EnglishText>
       <PointerOffset>356</PointerOffset>
       <JapaneseText>最大ＨＰが１０上昇する薬草。
 心地よい香りで気分を和ませる。</JapaneseText>
-      <EnglishText>A medicinal herb that increases Max HP by 10.
+      <EnglishText>An herb that increases Max HP by 10.
 Its pleasant fragrance soothes the mind.</EnglishText>
       <Notes/>
       <Id>26</Id>
@@ -246,10 +246,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>384</PointerOffset>
       <JapaneseText>攻撃力が１上昇する薬草。
 ほのかに香るハーブの女王。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases P.ATK by 1.
+This queen of herbs has a subtle fragrance.</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>408</PointerOffset>
@@ -263,10 +264,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>412</PointerOffset>
       <JapaneseText>防御力が１上昇する薬草。
 レモンに似た香りがさわやか。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases P.DEF by 1.
+It exudes a refreshing lemon-like aroma.</EnglishText>
       <Notes/>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>436</PointerOffset>
@@ -280,10 +282,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>440</PointerOffset>
       <JapaneseText>術攻撃力が１上昇する薬草。
 若返りのハーブと言われる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases A.ATK by 1.
+It is said to rejuvenate those who use it.</EnglishText>
       <Notes/>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>464</PointerOffset>
@@ -297,10 +300,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>468</PointerOffset>
       <JapaneseText>術防御力が１上昇する薬草。
 サフランライスが有名。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases A.DEF by 1.
+It's well-known thanks to saffron rice.</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>492</PointerOffset>
@@ -314,10 +318,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>496</PointerOffset>
       <JapaneseText>命中率が１上昇する薬草。
 古くから使われるハーブ療法の代表。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases ACC by 1.
+It's been commonly used since ancient times.</EnglishText>
       <Notes/>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>520</PointerOffset>
@@ -331,10 +336,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>524</PointerOffset>
       <JapaneseText>回避率が１上昇する薬草。
 辛味と芳香があり料理などに使われる。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases EVA by 1.
+It's used in cooking thanks to its
+pungent and aromatic flavors</EnglishText>
       <Notes/>
       <Id>38</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>548</PointerOffset>
@@ -348,10 +355,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>552</PointerOffset>
       <JapaneseText>集中力が１上昇する薬草。
 幸福をもたらす甘い香りのハーブ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases FOC by 1.
+This sweet smelling herb is said
+to bring happiness.</EnglishText>
       <Notes/>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>576</PointerOffset>
@@ -365,10 +374,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>580</PointerOffset>
       <JapaneseText>最大ＨＰが２０上昇する薬草。
 より高い効能を持つ、青いセージ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases Max HP by 20.
+It's far more potent than your normal sage.</EnglishText>
       <Notes/>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>604</PointerOffset>
@@ -382,10 +392,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>608</PointerOffset>
       <JapaneseText>攻撃力が２上昇する薬草。
 より高い効能を持つ、青いラベンダー。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases P.ATK by 2.
+It's far more potent than your normal
+lavendar.</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>632</PointerOffset>
@@ -399,10 +411,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>636</PointerOffset>
       <JapaneseText>防御力が２上昇する薬草。
 より高い効能を持つ、青いベルベーヌ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases P.DEF by 2.
+It's far more potent than your normal
+verbana.</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>660</PointerOffset>
@@ -416,10 +430,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>664</PointerOffset>
       <JapaneseText>術攻撃力が２上昇する薬草。
 より高い効能を持つ、青いローズマリー。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases A.ATK by 2.
+It's far more potent than your normal
+rosemary.</EnglishText>
       <Notes/>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>688</PointerOffset>
@@ -433,10 +449,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>692</PointerOffset>
       <JapaneseText>術防御力が２上昇する薬草。
 より高い効能を持つ、青いサフラン。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases A.DEF by 2.
+It's far more potent than your normal
+saffron.</EnglishText>
       <Notes/>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>716</PointerOffset>
@@ -450,10 +468,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>720</PointerOffset>
       <JapaneseText>命中率が２上昇する薬草。
 より高い効能を持つ、青いカモミール。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases ACC by 2.
+It's far more potent than your normal
+chamomile.</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>744</PointerOffset>
@@ -467,10 +487,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>748</PointerOffset>
       <JapaneseText>回避率が２上昇する薬草。
 より高い効能を持つ、青いセボリー。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases EVA by 2.
+It's far more potent than your normal
+savory.</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>772</PointerOffset>
@@ -484,10 +506,12 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>776</PointerOffset>
       <JapaneseText>集中力が２上昇する薬草。
 より高い効能を持つ、青いジャスミン。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases FOC by 2.
+It's far more potent than your normal
+jasmine.</EnglishText>
       <Notes/>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>800</PointerOffset>
@@ -501,10 +525,11 @@ Its pleasant fragrance soothes the mind.</EnglishText>
       <PointerOffset>804</PointerOffset>
       <JapaneseText>最大ＨＰが３０上昇する薬草。
 抜群の効能を誇る、赤いセージ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An herb that increases Max HP by 30.
+Its efficacy among sages is beyond compare.</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>828</PointerOffset>
