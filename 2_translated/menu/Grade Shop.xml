@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset>16</PointerOffset>
       <JapaneseText>プレイ時間引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Play Time</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20</PointerOffset>
@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset>28</PointerOffset>
       <JapaneseText>モンスター図鑑引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enemy Book</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32</PointerOffset>
@@ -36,10 +36,10 @@
     <Entry>
       <PointerOffset>40</PointerOffset>
       <JapaneseText>コレクター図鑑引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Collector's Book</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44</PointerOffset>
@@ -52,10 +52,10 @@
     <Entry>
       <PointerOffset>52</PointerOffset>
       <JapaneseText>あらすじ引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Synopsis</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56</PointerOffset>
@@ -68,10 +68,10 @@
     <Entry>
       <PointerOffset>64</PointerOffset>
       <JapaneseText>バトルメモ引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Memo</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68</PointerOffset>
@@ -101,10 +101,10 @@
     <Entry>
       <PointerOffset>88</PointerOffset>
       <JapaneseText>アクセサリ引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessories</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92</PointerOffset>
@@ -118,10 +118,10 @@
     <Entry>
       <PointerOffset>100</PointerOffset>
       <JapaneseText>素材アイテム５個まで引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carry Over 5 Materials</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>104</PointerOffset>
@@ -134,10 +134,10 @@
     <Entry>
       <PointerOffset>112</PointerOffset>
       <JapaneseText>素材アイテム１０個まで引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carry Over 10 Materials</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>116</PointerOffset>
@@ -150,10 +150,10 @@
     <Entry>
       <PointerOffset>124</PointerOffset>
       <JapaneseText>素材アイテム１５個まで引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carry Over 15 Materials</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>128</PointerOffset>
@@ -167,10 +167,10 @@
     <Entry>
       <PointerOffset>136</PointerOffset>
       <JapaneseText>術技使用回数引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arte Usage</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140</PointerOffset>
@@ -184,10 +184,10 @@
     <Entry>
       <PointerOffset>148</PointerOffset>
       <JapaneseText>称号引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Titles</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>152</PointerOffset>
@@ -201,10 +201,10 @@
     <Entry>
       <PointerOffset>160</PointerOffset>
       <JapaneseText>治癒石引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Healing Stone</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>164</PointerOffset>
@@ -218,10 +218,10 @@
     <Entry>
       <PointerOffset>172</PointerOffset>
       <JapaneseText>ソーマリンクポイント引継ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Somalink</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>176</PointerOffset>
@@ -267,19 +267,20 @@
     <Entry>
       <PointerOffset>208</PointerOffset>
       <JapaneseText>移動制限解除</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Movement Restriction Lifted</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>212</PointerOffset>
       <JapaneseText>エイミングステップ、バックステップ、
 ジャンプのＥＧ消費がなくなります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aiming Step, Backstep, and jumping
+will no longer consume EG.</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>220</PointerOffset>
@@ -301,10 +302,10 @@
     <Entry>
       <PointerOffset>232</PointerOffset>
       <JapaneseText>アイテム取得率上昇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increased Item Drop Rate</EnglishText>
       <Notes/>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>236</PointerOffset>
@@ -318,10 +319,10 @@
     <Entry>
       <PointerOffset>244</PointerOffset>
       <JapaneseText>取得ＧＲＡＤＥ２倍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>2x Grade</EnglishText>
       <Notes/>
       <Id>39</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>248</PointerOffset>
@@ -335,10 +336,10 @@
     <Entry>
       <PointerOffset>256</PointerOffset>
       <JapaneseText>ガルド２倍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>2x Gald</EnglishText>
       <Notes/>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260</PointerOffset>
@@ -351,10 +352,10 @@
     <Entry>
       <PointerOffset>268</PointerOffset>
       <JapaneseText>経験値２倍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Double Experience</EnglishText>
       <Notes/>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272</PointerOffset>
