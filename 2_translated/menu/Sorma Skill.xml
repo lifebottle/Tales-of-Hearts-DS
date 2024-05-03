@@ -4189,10 +4189,10 @@ enemy off their feet.</EnglishText>
     <Entry>
       <PointerOffset>3984</PointerOffset>
       <JapaneseText>一定時間攻撃力をアップする自己強化技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Boost your attack power temporarily.</EnglishText>
       <Notes/>
       <Id>485</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4004</PointerOffset>
@@ -4240,10 +4240,11 @@ make a powerful strike with the blade.</EnglishText>
       <PointerOffset>4068</PointerOffset>
       <JapaneseText>ガードブレイク効果のある
 腕力にまかせた豪快な一振り。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A single swing that uses brute strength
+to break through your enemies' guard.</EnglishText>
       <Notes/>
       <Id>491</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4088</PointerOffset>
@@ -4346,10 +4347,12 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4236</PointerOffset>
       <JapaneseText>ＥＧ消費を二倍にし、一定時間通常攻撃に
 ガードブレイク効果が付く自己強化技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Adds a guard-breaking property to
+your normal attacks, but doubles
+your EG consumption. </EnglishText>
       <Notes/>
       <Id>503</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4256</PointerOffset>
@@ -4363,10 +4366,11 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4264</PointerOffset>
       <JapaneseText>ダッシュ中鋼体状態になる自己強化技。
 ダッシュの速度もアップする。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increases the user's run speed and
+prevents stagger while running.</EnglishText>
       <Notes/>
       <Id>505</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4284</PointerOffset>
@@ -4379,10 +4383,11 @@ weapon, then flings them skyward.</EnglishText>
     <Entry>
       <PointerOffset>4292</PointerOffset>
       <JapaneseText>気合を込めた一撃から爆走する技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gathers your fighting spirit to mow
+down enemies in front of you.</EnglishText>
       <Notes/>
       <Id>507</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4312</PointerOffset>
@@ -4396,10 +4401,11 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4320</PointerOffset>
       <JapaneseText>防御力を犠牲にし、一定時間術攻撃
 に対して鋼体になる自己強化技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sacrifices P.DEF to temporarily
+prevent stagger against spells.</EnglishText>
       <Notes/>
       <Id>509</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4340</PointerOffset>
@@ -4413,10 +4419,11 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4348</PointerOffset>
       <JapaneseText>敵を頭上に打ち上げ武器を回転させて
 切り刻む技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Launch the enemy over your head and spin
+your weapon to cut them into pieces.</EnglishText>
       <Notes/>
       <Id>511</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4368</PointerOffset>
@@ -4430,10 +4437,11 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4376</PointerOffset>
       <JapaneseText>術防御力を犠牲にし、一定時間物理攻撃
 に対して鋼体になる自己強化技。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sacrifices M.DEF to temporarily prevent
+stagger against physical attacks.</EnglishText>
       <Notes/>
       <Id>513</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4396</PointerOffset>
@@ -4463,11 +4471,11 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4432</PointerOffset>
       <JapaneseText>防御力、術防御力を犠牲にし、一定時間
 全ての攻撃に対し鋼体になる自己強化技。</JapaneseText>
-      <EnglishText>Sacrifices physical and Will defense to
-briefly reduce chance of being staggered.</EnglishText>
+      <EnglishText>Sacrifices P.DEF and M.DEF to temporarily
+prevent stagger against all attacks.</EnglishText>
       <Notes/>
       <Id>517</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4452</PointerOffset>
