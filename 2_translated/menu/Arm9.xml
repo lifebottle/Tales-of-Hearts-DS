@@ -688,18 +688,18 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>732420,739204</PointerOffset>
       <JapaneseText>最大使用回数</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Max Number of Uses</EnglishText>
       <Notes/>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732436,739236</PointerOffset>
       <JapaneseText>最大セット数</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Max Number of Sets</EnglishText>
+      <Notes>May need to correct</Notes>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732468,732724,733348</PointerOffset>
@@ -736,7 +736,7 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>732580</PointerOffset>
       <JapaneseText>オート使用オン・オフ</JapaneseText>
-      <EnglishText>Arte Toggle</EnglishText>
+      <EnglishText>Toggle Arte</EnglishText>
       <Notes/>
       <Id>92</Id>
       <Status>Editing</Status>
@@ -800,10 +800,10 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>733028,737620</PointerOffset>
       <JapaneseText>ターゲット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Target</EnglishText>
       <Notes/>
       <Id>100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733044</PointerOffset>
@@ -1346,26 +1346,26 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>735092</PointerOffset>
       <JapaneseText>道具取得率</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Drop Rate</EnglishText>
       <Notes/>
       <Id>168</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735108</PointerOffset>
       <JapaneseText>素材取得率</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Material Drop Rate</EnglishText>
       <Notes/>
       <Id>169</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735124</PointerOffset>
       <JapaneseText>アクセサリ取得率</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessory Drop Rate</EnglishText>
       <Notes/>
       <Id>170</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735140</PointerOffset>
@@ -1394,18 +1394,18 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>735284,740244</PointerOffset>
       <JapaneseText>タウン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Town</EnglishText>
       <Notes/>
       <Id>174</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735300,740260</PointerOffset>
       <JapaneseText>ダンジョン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dungeon</EnglishText>
       <Notes/>
       <Id>175</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735316,735444</PointerOffset>
@@ -1522,10 +1522,10 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>735732</PointerOffset>
       <JapaneseText>データがありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No save file exists.</EnglishText>
       <Notes/>
       <Id>190</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736100</PointerOffset>
@@ -1682,66 +1682,66 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>736516,736836</PointerOffset>
       <JapaneseText>メッセージ速度</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Message Speed</EnglishText>
       <Notes/>
       <Id>210</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736532,736852</PointerOffset>
       <JapaneseText>自動メッセージ送り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Auto-Message</EnglishText>
       <Notes/>
       <Id>211</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736548,736612,736868</PointerOffset>
       <JapaneseText>ボリューム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Volume</EnglishText>
       <Notes/>
       <Id>212</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736564,736884</PointerOffset>
       <JapaneseText>戦闘ランク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Difficulty</EnglishText>
       <Notes/>
       <Id>213</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736580,736900</PointerOffset>
       <JapaneseText>戦闘中カメラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Camera</EnglishText>
       <Notes/>
       <Id>214</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736596,736692,736916</PointerOffset>
       <JapaneseText>戦闘ボタンカスタマイズ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Button Configuration</EnglishText>
       <Notes/>
       <Id>215</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736628</PointerOffset>
       <JapaneseText>BGM</JapaneseText>
-      <EnglishText/>
+      <EnglishText>BGM</EnglishText>
       <Notes/>
       <Id>216</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736644</PointerOffset>
       <JapaneseText>SE</JapaneseText>
-      <EnglishText/>
+      <EnglishText>SE</EnglishText>
       <Notes/>
       <Id>217</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736660,739764</PointerOffset>
@@ -1938,7 +1938,7 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>737188</PointerOffset>
       <JapaneseText>戦闘中のボタン入力をカスタマイズします。</JapaneseText>
-      <EnglishText>Adjust the battle configuration for battles.</EnglishText>
+      <EnglishText>Adjust the button configuration for battles.</EnglishText>
       <Notes/>
       <Id>242</Id>
       <Status>Editing</Status>
@@ -2037,122 +2037,122 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>737380</PointerOffset>
       <JapaneseText>1</JapaneseText>
-      <EnglishText/>
+      <EnglishText>1</EnglishText>
       <Notes/>
       <Id>254</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737396</PointerOffset>
       <JapaneseText>2</JapaneseText>
-      <EnglishText/>
+      <EnglishText>2</EnglishText>
       <Notes/>
       <Id>255</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737412</PointerOffset>
       <JapaneseText>3</JapaneseText>
-      <EnglishText/>
+      <EnglishText>3</EnglishText>
       <Notes/>
       <Id>256</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737428</PointerOffset>
       <JapaneseText>4</JapaneseText>
-      <EnglishText/>
+      <EnglishText>4</EnglishText>
       <Notes/>
       <Id>257</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737444</PointerOffset>
       <JapaneseText>5</JapaneseText>
-      <EnglishText/>
+      <EnglishText>5</EnglishText>
       <Notes/>
       <Id>258</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737460</PointerOffset>
       <JapaneseText>6</JapaneseText>
-      <EnglishText/>
+      <EnglishText>6</EnglishText>
       <Notes/>
       <Id>259</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737476</PointerOffset>
       <JapaneseText>7</JapaneseText>
-      <EnglishText/>
+      <EnglishText>7</EnglishText>
       <Notes/>
       <Id>260</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737492</PointerOffset>
       <JapaneseText>8</JapaneseText>
-      <EnglishText/>
+      <EnglishText>8</EnglishText>
       <Notes/>
       <Id>261</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737508</PointerOffset>
       <JapaneseText>オン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>On</EnglishText>
       <Notes/>
       <Id>262</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737524</PointerOffset>
       <JapaneseText>オフ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Off</EnglishText>
       <Notes/>
       <Id>263</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737540</PointerOffset>
       <JapaneseText>Simple</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Simple</EnglishText>
       <Notes/>
       <Id>264</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737556</PointerOffset>
       <JapaneseText>Normal</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal</EnglishText>
       <Notes/>
       <Id>265</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737572</PointerOffset>
       <JapaneseText>Hard</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hard</EnglishText>
       <Notes/>
       <Id>266</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737588</PointerOffset>
       <JapaneseText>Mania</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mania</EnglishText>
       <Notes/>
       <Id>267</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737604</PointerOffset>
       <JapaneseText>Unknown</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unknown</EnglishText>
       <Notes/>
       <Id>268</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737636</PointerOffset>
@@ -2207,7 +2207,7 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>737780</PointerOffset>
       <JapaneseText>ボリューム最大</JapaneseText>
-      <EnglishText>Raise Volume</EnglishText>
+      <EnglishText>Set Volume to Max</EnglishText>
       <Notes/>
       <Id>275</Id>
       <Status>Editing</Status>
@@ -2215,7 +2215,7 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>737796</PointerOffset>
       <JapaneseText>ボリューム最小</JapaneseText>
-      <EnglishText>Lower Volume</EnglishText>
+      <EnglishText>Set Volume to Min</EnglishText>
       <Notes/>
       <Id>276</Id>
       <Status>Editing</Status>
@@ -2231,10 +2231,10 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>737844</PointerOffset>
       <JapaneseText>道具屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item Shop</EnglishText>
       <Notes/>
       <Id>278</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737860</PointerOffset>
@@ -2599,18 +2599,18 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>739748</PointerOffset>
       <JapaneseText>ＢＧＭ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ＢＧＭ</EnglishText>
       <Notes/>
       <Id>324</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739780</PointerOffset>
       <JapaneseText>ムービー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Movies</EnglishText>
       <Notes/>
       <Id>325</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739796</PointerOffset>
@@ -2623,18 +2623,18 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>739812</PointerOffset>
       <JapaneseText>お気に入り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Favorite</EnglishText>
       <Notes/>
       <Id>327</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739828</PointerOffset>
       <JapaneseText>お気に入りを保存しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Save it to your favorites?</EnglishText>
       <Notes/>
       <Id>328</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739844</PointerOffset>
