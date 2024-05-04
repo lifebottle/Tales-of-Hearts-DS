@@ -5927,10 +5927,11 @@ one enemy by 30%.</EnglishText>
       <PointerOffset>7324</PointerOffset>
       <JapaneseText>着弾すると爆発する
 小さな炎の矢を放つ術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shoots a flaming arrow at the target
+that explodes upon impact.</EnglishText>
       <Notes/>
       <Id>685</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7360</PointerOffset>
@@ -5977,10 +5978,11 @@ fireballs on the target from on high.</EnglishText>
     <Entry>
       <PointerOffset>7456</PointerOffset>
       <JapaneseText>敵のいる場所に大爆発を引き起こす術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures a catastrophic explosion at
+your target's location.</EnglishText>
       <Notes/>
       <Id>691</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7492</PointerOffset>
@@ -5994,10 +5996,11 @@ fireballs on the target from on high.</EnglishText>
       <PointerOffset>7500</PointerOffset>
       <JapaneseText>炎念を凝縮して小太陽を生み出し、
 辺り一面を焼き尽くす術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Concentrates the power of fire in a small
+sun which scorches the surrounding area.</EnglishText>
       <Notes/>
       <Id>693</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7536</PointerOffset>
@@ -6010,7 +6013,8 @@ fireballs on the target from on high.</EnglishText>
     <Entry>
       <PointerOffset>7544</PointerOffset>
       <JapaneseText>敵に向かって五つの氷塊を撃ち出す術。</JapaneseText>
-      <EnglishText>Shoots five icicles at the target.</EnglishText>
+      <EnglishText>Conjures five icicles that are shot
+at the target.</EnglishText>
       <Notes/>
       <Id>695</Id>
       <Status>Editing</Status>
@@ -6062,10 +6066,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>7676</PointerOffset>
       <JapaneseText>圧縮した水の思念を
 敵に向けて一気に放出する術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shoots a stream of compressed water all
+at once towards the enemy.</EnglishText>
       <Notes/>
       <Id>701</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7712</PointerOffset>
@@ -6079,10 +6084,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>7720</PointerOffset>
       <JapaneseText>相手を凍てつく氷の思念に閉じ込め、
 絶対零度の終焉を迎えさせる術。</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Imprison the target in a glacier to send
+them to their grave at absolute zero.</EnglishText>
+      <Notes>Used a different translation from Hearts R</Notes>
       <Id>703</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>7756</PointerOffset>
@@ -6095,10 +6101,11 @@ rains down a torrent of water needles.</EnglishText>
     <Entry>
       <PointerOffset>7764</PointerOffset>
       <JapaneseText>敵の目前に岩の棘を出現させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures a stalagmite that pierces the
+target from the front. </EnglishText>
       <Notes/>
       <Id>705</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7800</PointerOffset>
@@ -6112,10 +6119,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>7808</PointerOffset>
       <JapaneseText>術者前方の地面を
 針山のように毛羽立たせる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Transforms the ground in front of
+the user into a field of spikes.</EnglishText>
       <Notes/>
       <Id>707</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7844</PointerOffset>
@@ -6128,10 +6136,11 @@ rains down a torrent of water needles.</EnglishText>
     <Entry>
       <PointerOffset>7852</PointerOffset>
       <JapaneseText>術者の前後に岩の壁を突き出させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures stone walls that extrude from
+the ground around the user.</EnglishText>
       <Notes/>
       <Id>709</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7888</PointerOffset>
@@ -6145,10 +6154,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>7896</PointerOffset>
       <JapaneseText>周辺の塵や小石を凝縮して巨岩を生成し、
 敵に向かって転がす術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Condenses dirt and gravel into a boulder
+and sends it tumbling towards the enemy.</EnglishText>
       <Notes/>
       <Id>711</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7932</PointerOffset>
@@ -6162,10 +6172,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>7940</PointerOffset>
       <JapaneseText>広大なる大地の思念に干渉し、
 巨大な岩石を突き出させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An arte that opens up a boulder-spewing
+fissure from the earth.</EnglishText>
       <Notes/>
       <Id>713</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7976</PointerOffset>
@@ -6178,10 +6189,11 @@ rains down a torrent of water needles.</EnglishText>
     <Entry>
       <PointerOffset>7984</PointerOffset>
       <JapaneseText>自身の頭上から風の刃を撃ち出す術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjure blades of wind above the user
+and send them flying at the enemy.</EnglishText>
       <Notes/>
       <Id>715</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8020</PointerOffset>
@@ -6195,10 +6207,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>8028</PointerOffset>
       <JapaneseText>周辺の風の思念を掌握し、
 真空の刃で敵を斬りつける術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seizes the surrounding wind to cut
+down your enemy.</EnglishText>
       <Notes/>
       <Id>717</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8064</PointerOffset>
@@ -6212,10 +6225,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>8072</PointerOffset>
       <JapaneseText>目標の周囲四方向に風の刃を発生させ
 十字型に斬り裂く術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures blades of winds around the target
+that slices the enemy in a cross shape.</EnglishText>
       <Notes/>
       <Id>719</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8108</PointerOffset>
@@ -6229,10 +6243,11 @@ rains down a torrent of water needles.</EnglishText>
       <PointerOffset>8116</PointerOffset>
       <JapaneseText>敵周辺に荒巻く疾風の刃を
 多数出現させ、相手を斬り刻む術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whip up a ball of wind that
+cut the enemy to ribbons.</EnglishText>
       <Notes/>
       <Id>721</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8152</PointerOffset>
@@ -6366,10 +6381,11 @@ to stab the target from beneath their feet.</EnglishText>
       <PointerOffset>8468</PointerOffset>
       <JapaneseText>術者の周囲に
 暗い闇の思念を立ち昇らせる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Materializes your negative thoughts to
+hurt enemies around the user.</EnglishText>
       <Notes/>
       <Id>737</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8504</PointerOffset>
@@ -6383,7 +6399,7 @@ to stab the target from beneath their feet.</EnglishText>
       <PointerOffset>8512</PointerOffset>
       <JapaneseText>地の底から表れる、黒く冷たい空間で
 目標を捕縛する術。</JapaneseText>
-      <EnglishText>An arte for adepts that condemns the enemy
+      <EnglishText>An arte that condemns the enemy
 to suffer in a vacuum of blackness.</EnglishText>
       <Notes/>
       <Id>739</Id>
@@ -6401,10 +6417,11 @@ to suffer in a vacuum of blackness.</EnglishText>
       <PointerOffset>8556</PointerOffset>
       <JapaneseText>生者の魂に群がる謎の思念が
 敵の覇気を奪い、はいつくばらせる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures the souls of the dead to
+rob the enemy of their life.</EnglishText>
       <Notes/>
       <Id>741</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8592</PointerOffset>
