@@ -359,7 +359,7 @@
       <EnglishText>FOC</EnglishText>
       <Notes/>
       <Id>45</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>731572</PointerOffset>
@@ -604,7 +604,7 @@
     <Entry>
       <PointerOffset>732164</PointerOffset>
       <JapaneseText>ホーリボトル</JapaneseText>
-      <EnglishText>Light Bottle</EnglishText>
+      <EnglishText>Holy Bottle</EnglishText>
       <Notes/>
       <Id>76</Id>
       <Status>Editing</Status>
@@ -784,10 +784,10 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>732756,735396</PointerOffset>
       <JapaneseText>所持数</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Holding</EnglishText>
       <Notes/>
       <Id>98</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732852,732964</PointerOffset>
@@ -808,10 +808,10 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>733044</PointerOffset>
       <JapaneseText>攻守バランス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Balance</EnglishText>
       <Notes/>
       <Id>101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733060</PointerOffset>
@@ -1274,7 +1274,7 @@ surrounding you.</EnglishText>
     <Entry>
       <PointerOffset>734836</PointerOffset>
       <JapaneseText>ハ虫類</JapaneseText>
-      <EnglishText>Worm</EnglishText>
+      <EnglishText>Reptile</EnglishText>
       <Notes/>
       <Id>159</Id>
       <Status>Editing</Status>
@@ -1419,42 +1419,42 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>735332</PointerOffset>
       <JapaneseText>商品リスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Item List</EnglishText>
       <Notes/>
       <Id>177</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735348,737876,737940,737972,738148,738212,738308,738372,738676,738964,739428</PointerOffset>
       <JapaneseText>購入</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buy</EnglishText>
       <Notes/>
       <Id>178</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735364</PointerOffset>
       <JapaneseText>合成</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Synthesize</EnglishText>
       <Notes/>
       <Id>179</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735380</PointerOffset>
       <JapaneseText>価格</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Price</EnglishText>
       <Notes/>
       <Id>180</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735476</PointerOffset>
       <JapaneseText>ワールド切り替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Switch Worlds</EnglishText>
       <Notes/>
       <Id>181</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735524</PointerOffset>
@@ -1467,10 +1467,10 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>735540</PointerOffset>
       <JapaneseText>ヒット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combo</EnglishText>
       <Notes/>
       <Id>183</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735588</PointerOffset>
@@ -1547,50 +1547,50 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>736132</PointerOffset>
       <JapaneseText>データをロードします。よろしいですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to load this save file?</EnglishText>
       <Notes/>
       <Id>193</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736148</PointerOffset>
       <JapaneseText>クリアデータをロードします。よろしいですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to load your clear data?</EnglishText>
       <Notes/>
       <Id>194</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736196</PointerOffset>
       <JapaneseText>セーブ中です。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Saving...</EnglishText>
       <Notes/>
       <Id>195</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736212,736244,736276</PointerOffset>
       <JapaneseText>電源をＯＦＦにしないでください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do not turn off your system.</EnglishText>
       <Notes/>
       <Id>196</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736228</PointerOffset>
       <JapaneseText>ロード中です。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Loading...</EnglishText>
       <Notes/>
       <Id>197</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736260</PointerOffset>
       <JapaneseText>消去中です。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Deleting Save...</EnglishText>
       <Notes/>
       <Id>198</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736292</PointerOffset>
@@ -1603,34 +1603,35 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>736308</PointerOffset>
       <JapaneseText>ロードしました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Loaded</EnglishText>
       <Notes/>
       <Id>200</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736324</PointerOffset>
       <JapaneseText>消去しました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Deleted</EnglishText>
       <Notes/>
       <Id>201</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736340</PointerOffset>
       <JapaneseText>を読めませんでした。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>File could not be read.</EnglishText>
       <Notes/>
       <Id>202</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736356,736420,739860</PointerOffset>
       <JapaneseText>電源を切って、カードを差し込み直してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please turn off the system and
+reinsert the cartridge.</EnglishText>
       <Notes/>
       <Id>203</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736372</PointerOffset>
@@ -1659,10 +1660,10 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>736436</PointerOffset>
       <JapaneseText>セーブを終了します。よろしいですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to exit the Save Menu?</EnglishText>
       <Notes/>
       <Id>207</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736452</PointerOffset>
@@ -2240,26 +2241,26 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>737860</PointerOffset>
       <JapaneseText>素材屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grocer</EnglishText>
       <Notes/>
       <Id>279</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737892,737956,737988,738164,738228,738324,738388,738692,738804,738948,738980,739444</PointerOffset>
       <JapaneseText>売却</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sell</EnglishText>
       <Notes/>
       <Id>280</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>737924,738292,738836</PointerOffset>
       <JapaneseText>店を出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leave</EnglishText>
       <Notes/>
       <Id>281</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738004,738404,738996</PointerOffset>
