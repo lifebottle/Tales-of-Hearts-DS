@@ -4347,9 +4347,8 @@ weapon, then flings them skyward.</EnglishText>
       <PointerOffset>4236</PointerOffset>
       <JapaneseText>ＥＧ消費を二倍にし、一定時間通常攻撃に
 ガードブレイク効果が付く自己強化技。</JapaneseText>
-      <EnglishText>Adds a guard-breaking property to
-your normal attacks, but doubles
-your EG consumption. </EnglishText>
+      <EnglishText>Allows your normal attacks to break
+guards, but doubles your EG use.</EnglishText>
       <Notes/>
       <Id>503</Id>
       <Status>Editing</Status>
@@ -4490,9 +4489,8 @@ prevent stagger against all attacks.</EnglishText>
       <PointerOffset>4460</PointerOffset>
       <JapaneseText>冷気を込めた一撃を見舞う技。
 凍らないが、硬直は長い。</JapaneseText>
-      <EnglishText>Performs a single ice-infused attack.
-It doesn't freeze but staggers the
-enemy for quite long.</EnglishText>
+      <EnglishText>Performs a single ice-infused attack that
+staggers the enemy for quite long.</EnglishText>
       <Notes/>
       <Id>519</Id>
       <Status>Editing</Status>
@@ -6088,7 +6086,7 @@ at once towards the enemy.</EnglishText>
 them to their grave at absolute zero.</EnglishText>
       <Notes>Used a different translation from Hearts R</Notes>
       <Id>703</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7756</PointerOffset>
@@ -6110,10 +6108,10 @@ target from the front. </EnglishText>
     <Entry>
       <PointerOffset>7800</PointerOffset>
       <JapaneseText>スパイクストーン</JapaneseText>
-      <EnglishText>Spike Stone</EnglishText>
-      <Notes>Transliteration</Notes>
+      <EnglishText>Stone Spikes</EnglishText>
+      <Notes>I think Stone Spikes sounds betters in English</Notes>
       <Id>706</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7808</PointerOffset>
@@ -6261,10 +6259,11 @@ cut the enemy to ribbons.</EnglishText>
       <PointerOffset>8160</PointerOffset>
       <JapaneseText>大気に満ちる思念を操り
 壮絶な竜巻を発生させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Manipulate the surrounding atmosphere to
+engulf the target in a devestating twister.</EnglishText>
       <Notes/>
       <Id>723</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8196</PointerOffset>
@@ -6277,16 +6276,16 @@ cut the enemy to ribbons.</EnglishText>
     <Entry>
       <PointerOffset>8204</PointerOffset>
       <JapaneseText>敵に向けて光の念を集束させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bombard the target with particles of light.</EnglishText>
       <Notes/>
       <Id>725</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8240</PointerOffset>
       <JapaneseText>スパークウェブ</JapaneseText>
-      <EnglishText>Spark Wave</EnglishText>
-      <Notes/>
+      <EnglishText>Spark Web</EnglishText>
+      <Notes>Localized name is Spark Wave, but the way is works is distinct enough (and forms an actual web) that there's enough justification to use Spark Web.</Notes>
       <Id>726</Id>
       <Status>Editing</Status>
     </Entry>
@@ -6294,10 +6293,11 @@ cut the enemy to ribbons.</EnglishText>
       <PointerOffset>8248</PointerOffset>
       <JapaneseText>術者のいる場所に敵を寄せ付けない
 光の結界を展開させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures a light-based web that keeps
+enemies away from the user.</EnglishText>
       <Notes/>
       <Id>727</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8284</PointerOffset>
@@ -6311,9 +6311,8 @@ cut the enemy to ribbons.</EnglishText>
       <PointerOffset>8292</PointerOffset>
       <JapaneseText>自身の頭上に輝念を練り上げ
 そこから無数の光線を撃ち出す術。</JapaneseText>
-      <EnglishText>An arte that gathers light above the user's
-head and shoots countless rays of light at
-the enemy.</EnglishText>
+      <EnglishText>Gathers light above the user's head and
+shoot countless rays of light at the enemy.</EnglishText>
       <Notes/>
       <Id>729</Id>
       <Status>Editing</Status>
@@ -6330,10 +6329,11 @@ the enemy.</EnglishText>
       <PointerOffset>8336</PointerOffset>
       <JapaneseText>目標を中心として、十字を描く
 聖なる結界を出現させる術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carves out a holy cross-shaped ward with
+the target at the center.</EnglishText>
       <Notes/>
       <Id>731</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8372</PointerOffset>
@@ -6347,10 +6347,11 @@ the enemy.</EnglishText>
       <PointerOffset>8380</PointerOffset>
       <JapaneseText>空に瞬く星々の強大な力を
 一斉に降り注がせる神秘の術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mystical arte that rains down the
+mighty power of the stars all at once.</EnglishText>
       <Notes/>
       <Id>733</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8416</PointerOffset>
@@ -6375,7 +6376,7 @@ to stab the target from beneath their feet.</EnglishText>
       <EnglishText>Dead Soul</EnglishText>
       <Notes>Transliteration</Notes>
       <Id>736</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8468</PointerOffset>
@@ -6418,7 +6419,7 @@ to suffer in a vacuum of blackness.</EnglishText>
       <JapaneseText>生者の魂に群がる謎の思念が
 敵の覇気を奪い、はいつくばらせる術。</JapaneseText>
       <EnglishText>Conjures the souls of the dead to
-rob the enemy of their life.</EnglishText>
+rob your enemies of their life.</EnglishText>
       <Notes/>
       <Id>741</Id>
       <Status>Editing</Status>
@@ -6435,10 +6436,11 @@ rob the enemy of their life.</EnglishText>
       <PointerOffset>8600</PointerOffset>
       <JapaneseText>その場所に、光すら飲み込む
 無限の虚無を作り出す術。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Conjures an infinite void that swallows
+even light at its singularity.</EnglishText>
       <Notes/>
       <Id>743</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8636</PointerOffset>
