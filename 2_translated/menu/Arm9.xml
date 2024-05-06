@@ -292,7 +292,7 @@
     <Entry>
       <PointerOffset>731428</PointerOffset>
       <JapaneseText>EG回復力</JapaneseText>
-      <EnglishText>EG Recovery</EnglishText>
+      <EnglishText>EG Regen</EnglishText>
       <Notes/>
       <Id>37</Id>
       <Status>Editing</Status>
@@ -436,7 +436,7 @@
     <Entry>
       <PointerOffset>731716</PointerOffset>
       <JapaneseText>ＥＧ回復力＋</JapaneseText>
-      <EnglishText>EG Resilience +</EnglishText>
+      <EnglishText>EG Regen+</EnglishText>
       <Notes/>
       <Id>55</Id>
       <Status>Editing</Status>
@@ -1379,18 +1379,18 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>735188</PointerOffset>
       <JapaneseText>所持モンスター検索</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Monster Search</EnglishText>
       <Notes/>
       <Id>172</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>735236</PointerOffset>
       <JapaneseText>エピソード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Episode</EnglishText>
       <Notes/>
       <Id>173</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>735284,740244</PointerOffset>
@@ -2377,18 +2377,18 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>738772</PointerOffset>
       <JapaneseText>補充</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refill</EnglishText>
       <Notes/>
       <Id>296</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738788</PointerOffset>
       <JapaneseText>強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reinforce</EnglishText>
       <Notes/>
       <Id>297</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738852,739076</PointerOffset>
@@ -2831,90 +2831,90 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>721004</PointerOffset>
       <JapaneseText>火属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fire</EnglishText>
       <Notes/>
       <Id>352</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721008</PointerOffset>
       <JapaneseText>水属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aqua</EnglishText>
       <Notes/>
       <Id>353</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721012</PointerOffset>
       <JapaneseText>地属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Earth</EnglishText>
       <Notes/>
       <Id>354</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721016</PointerOffset>
       <JapaneseText>風属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wind</EnglishText>
       <Notes/>
       <Id>355</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721020</PointerOffset>
       <JapaneseText>光属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Light</EnglishText>
       <Notes/>
       <Id>356</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721024</PointerOffset>
       <JapaneseText>闇属性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dark</EnglishText>
       <Notes/>
       <Id>357</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721028</PointerOffset>
       <JapaneseText>ノーマル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Neutral</EnglishText>
       <Notes/>
       <Id>358</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721032</PointerOffset>
       <JapaneseText>熱毒</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Poison</EnglishText>
       <Notes/>
       <Id>359</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721036</PointerOffset>
       <JapaneseText>疲労</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fatigue</EnglishText>
       <Notes/>
       <Id>360</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721040</PointerOffset>
       <JapaneseText>反転</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reverse</EnglishText>
       <Notes/>
       <Id>361</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721044</PointerOffset>
       <JapaneseText>石化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Petrification</EnglishText>
       <Notes/>
       <Id>362</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721048</PointerOffset>
@@ -2959,58 +2959,58 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>721068,721096</PointerOffset>
       <JapaneseText>攻撃力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.ATK</EnglishText>
       <Notes/>
       <Id>368</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721072,721100</PointerOffset>
       <JapaneseText>防御力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>P.DEF</EnglishText>
       <Notes/>
       <Id>369</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721076,721104</PointerOffset>
       <JapaneseText>術攻撃力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A.ATK</EnglishText>
       <Notes/>
       <Id>370</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721080,721108</PointerOffset>
       <JapaneseText>術防御力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A.DEF</EnglishText>
       <Notes/>
       <Id>371</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721084,721112</PointerOffset>
       <JapaneseText>命中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ACC</EnglishText>
       <Notes/>
       <Id>372</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721088,721116</PointerOffset>
       <JapaneseText>回避力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>EVA</EnglishText>
       <Notes/>
       <Id>373</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>721092,721120</PointerOffset>
       <JapaneseText>集中力</JapaneseText>
-      <EnglishText/>
+      <EnglishText>FOC</EnglishText>
       <Notes/>
       <Id>374</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
