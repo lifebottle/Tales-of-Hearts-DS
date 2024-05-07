@@ -683,7 +683,7 @@ surrounds you.</EnglishText>
       <EnglishText>Heal Energy</EnglishText>
       <Notes>Not sure what this means yet</Notes>
       <Id>85</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>732420,739204</PointerOffset>
@@ -704,7 +704,7 @@ surrounds you.</EnglishText>
     <Entry>
       <PointerOffset>732468,732724,733348</PointerOffset>
       <JapaneseText>消費EG</JapaneseText>
-      <EnglishText>EG Use</EnglishText>
+      <EnglishText>EG Cost</EnglishText>
       <Notes/>
       <Id>88</Id>
       <Status>Editing</Status>
@@ -712,7 +712,7 @@ surrounds you.</EnglishText>
     <Entry>
       <PointerOffset>732484,732740,733364</PointerOffset>
       <JapaneseText>消費CG</JapaneseText>
-      <EnglishText>CG Use</EnglishText>
+      <EnglishText>CG Cost</EnglishText>
       <Notes/>
       <Id>89</Id>
       <Status>Editing</Status>
@@ -816,10 +816,10 @@ surrounds you.</EnglishText>
     <Entry>
       <PointerOffset>733060</PointerOffset>
       <JapaneseText>EG消費</JapaneseText>
-      <EnglishText>EG Use</EnglishText>
+      <EnglishText>EG Cost</EnglishText>
       <Notes/>
       <Id>102</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>733076</PointerOffset>
@@ -1371,10 +1371,10 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>735140</PointerOffset>
       <JapaneseText>貴重品取得率</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Valuables Drop Rate</EnglishText>
       <Notes/>
       <Id>171</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>735188</PointerOffset>
@@ -1387,7 +1387,7 @@ Category</EnglishText>
     <Entry>
       <PointerOffset>735236</PointerOffset>
       <JapaneseText>エピソード</JapaneseText>
-      <EnglishText>Episode</EnglishText>
+      <EnglishText>Chapters</EnglishText>
       <Notes/>
       <Id>173</Id>
       <Status>Editing</Status>
@@ -1636,10 +1636,10 @@ reinsert the cartridge.</EnglishText>
     <Entry>
       <PointerOffset>736372</PointerOffset>
       <JapaneseText>が破壊されています。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>has been destroyed.</EnglishText>
       <Notes/>
       <Id>204</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>736388</PointerOffset>
@@ -1668,18 +1668,18 @@ reinsert the cartridge.</EnglishText>
     <Entry>
       <PointerOffset>736452</PointerOffset>
       <JapaneseText>データを引継いで周回プレイを開始</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Start a New Game +</EnglishText>
       <Notes/>
       <Id>208</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>736500</PointerOffset>
       <JapaneseText>カスタム項目</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Custom Item</EnglishText>
       <Notes/>
       <Id>209</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>736516,736836</PointerOffset>
@@ -2265,114 +2265,114 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>738004,738404,738996</PointerOffset>
       <JapaneseText>購入しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to buy?</EnglishText>
       <Notes/>
       <Id>282</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738020,738420,739012</PointerOffset>
       <JapaneseText>売却しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to sell?</EnglishText>
       <Notes/>
       <Id>283</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738036,738436,739028</PointerOffset>
       <JapaneseText>やめますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you finished?</EnglishText>
       <Notes/>
       <Id>284</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738196</PointerOffset>
       <JapaneseText>アクセサリ屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessory Shop</EnglishText>
       <Notes/>
       <Id>285</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738244,738340,738708</PointerOffset>
       <JapaneseText>素材合成</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Material Synthesis</EnglishText>
       <Notes/>
       <Id>286</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738260,738356,738724</PointerOffset>
       <JapaneseText>素材還元</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Material Dismantling</EnglishText>
       <Notes/>
       <Id>287</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738452</PointerOffset>
       <JapaneseText>必要素材</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Required Materials</EnglishText>
       <Notes/>
       <Id>288</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738468</PointerOffset>
       <JapaneseText>合成しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to synthesize?</EnglishText>
       <Notes/>
       <Id>289</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738484</PointerOffset>
       <JapaneseText>還元しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to dismantle?</EnglishText>
       <Notes/>
       <Id>290</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738516,739316</PointerOffset>
       <JapaneseText>所持金が足りません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You do not have enough gald</EnglishText>
       <Notes/>
       <Id>291</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738532</PointerOffset>
       <JapaneseText>素材が一杯です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Material limit reached</EnglishText>
       <Notes/>
       <Id>292</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738548</PointerOffset>
       <JapaneseText>所持金・素材が足りません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You do not have enough money or materials.</EnglishText>
       <Notes/>
       <Id>293</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738564</PointerOffset>
       <JapaneseText>アクセサリが一杯です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accessory limit reached</EnglishText>
       <Notes/>
       <Id>294</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738756</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Healing Stone Shop</EnglishText>
       <Notes/>
       <Id>295</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738772</PointerOffset>
@@ -2393,210 +2393,210 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>738852,739076</PointerOffset>
       <JapaneseText>使用条件強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance usage conditions</EnglishText>
       <Notes/>
       <Id>298</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738868,739092</PointerOffset>
       <JapaneseText>回復量強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance Recovery</EnglishText>
       <Notes/>
       <Id>299</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738884,739108</PointerOffset>
       <JapaneseText>付加効果強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Add Effects</EnglishText>
       <Notes/>
       <Id>300</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738900,739172</PointerOffset>
       <JapaneseText>最大セット数強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance Max Sets</EnglishText>
       <Notes/>
       <Id>301</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738916,739140</PointerOffset>
       <JapaneseText>最大使用回数強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance Number of Uses</EnglishText>
       <Notes/>
       <Id>302</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>738932</PointerOffset>
       <JapaneseText>最大エナジー強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance Max Energy</EnglishText>
       <Notes/>
       <Id>303</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739124</PointerOffset>
       <JapaneseText>ヒールエナジー補充</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Replenish Energy</EnglishText>
       <Notes/>
       <Id>304</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739156</PointerOffset>
       <JapaneseText>最大ヒールエナジー強化</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maximum Heal Energy</EnglishText>
       <Notes/>
       <Id>305</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739220</PointerOffset>
       <JapaneseText>最大ヒールエナジー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maximum Heal</EnglishText>
       <Notes/>
       <Id>306</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739252</PointerOffset>
       <JapaneseText>強化しますか?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enhance?</EnglishText>
       <Notes/>
       <Id>307</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739268</PointerOffset>
       <JapaneseText>補充しますか?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Replenish?</EnglishText>
       <Notes/>
       <Id>308</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739332</PointerOffset>
       <JapaneseText>これ以上強化できません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cannot be further enhanced</EnglishText>
       <Notes/>
       <Id>309</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739348</PointerOffset>
       <JapaneseText>これ以上補充できません</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Cannot replenish more</EnglishText>
+      <Notes>Alternative: Max Energy Reached</Notes>
       <Id>310</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739476</PointerOffset>
       <JapaneseText>グレードショップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grade Shop</EnglishText>
       <Notes/>
       <Id>311</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739492</PointerOffset>
       <JapaneseText>引継ぎ項目</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inherit Item</EnglishText>
       <Notes/>
       <Id>312</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739508</PointerOffset>
       <JapaneseText>グレード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grade</EnglishText>
       <Notes/>
       <Id>313</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739524</PointerOffset>
       <JapaneseText>所持グレード</JapaneseText>
-      <EnglishText>Grade</EnglishText>
+      <EnglishText>Grade Acquired</EnglishText>
       <Notes/>
       <Id>314</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739540</PointerOffset>
       <JapaneseText>合計</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Total Amount</EnglishText>
       <Notes/>
       <Id>315</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739556</PointerOffset>
       <JapaneseText>終了</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Close</EnglishText>
       <Notes/>
       <Id>316</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739572</PointerOffset>
       <JapaneseText>この設定でゲームを開始します。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Start a new game with these.</EnglishText>
       <Notes/>
       <Id>317</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739588</PointerOffset>
       <JapaneseText>何も引き継がれませんが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do not inherit anything</EnglishText>
       <Notes/>
       <Id>318</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739604</PointerOffset>
       <JapaneseText>タイトルに戻りますが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Back to title screen</EnglishText>
       <Notes/>
       <Id>319</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739620</PointerOffset>
       <JapaneseText>すべてのチェックを外します。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uncheck all options.</EnglishText>
       <Notes/>
       <Id>320</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739684</PointerOffset>
       <JapaneseText>タイトルに戻る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Back to Title</EnglishText>
       <Notes/>
       <Id>321</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739700</PointerOffset>
       <JapaneseText>リセット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reset</EnglishText>
       <Notes/>
       <Id>322</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739732</PointerOffset>
       <JapaneseText>ミュージアム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Museum</EnglishText>
       <Notes/>
       <Id>323</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739748</PointerOffset>
@@ -2617,10 +2617,10 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>739796</PointerOffset>
       <JapaneseText>チャット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skits</EnglishText>
       <Notes/>
       <Id>326</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739812</PointerOffset>
@@ -2641,10 +2641,10 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>739844</PointerOffset>
       <JapaneseText>データを書き込めませんでした。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could not write data.</EnglishText>
       <Notes/>
       <Id>329</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>739940</PointerOffset>
@@ -2665,18 +2665,18 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>740004</PointerOffset>
       <JapaneseText>登録</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Register</EnglishText>
       <Notes/>
       <Id>332</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740036</PointerOffset>
       <JapaneseText>並べ替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sort</EnglishText>
       <Notes/>
       <Id>333</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740068</PointerOffset>
@@ -2697,10 +2697,10 @@ change targets.</EnglishText>
     <Entry>
       <PointerOffset>740212</PointerOffset>
       <JapaneseText>階層</JapaneseText>
-      <EnglishText/>
+      <EnglishText>LVL</EnglishText>
       <Notes/>
       <Id>336</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>740276</PointerOffset>
