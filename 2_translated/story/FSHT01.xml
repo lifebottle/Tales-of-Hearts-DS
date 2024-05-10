@@ -105,39 +105,42 @@ technique.</EnglishText>
       <VoiceId>S010702</VoiceId>
       <JapaneseText>『大丈夫』……って
 『彼女』が言ってる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"It's not a problem"...
+"She" says.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55356</PointerOffset>
       <VoiceId>S010703</VoiceId>
       <JapaneseText>アンクレット……
 これって女用のソーマなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An anklet...
+Is it a Soma used by women?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55484</PointerOffset>
       <VoiceId>S010704</VoiceId>
       <JapaneseText>うん、オレの死んだ母さんの
 ……たったひとつの形見なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it's the only memento I have of...
+my late mom.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55764</PointerOffset>
@@ -145,13 +148,14 @@ technique.</EnglishText>
       <JapaneseText>そっか、きみのお母さんも
 ソーマ使いで……
 もう亡くなっちゃってるんだね</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>I see, you're mom was also a Soma user...
+My condolences for your loss.</EnglishText>
+      <Notes>Better way to say second sentence.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>55764</PointerOffset>
@@ -159,25 +163,26 @@ technique.</EnglishText>
       <JapaneseText>わたしたちの母も同じなの。
 でも、形見のソーマは、今どこに
 あるのかわからないんだ……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Our mother's the same, but we
+don't know where her Soma is...</EnglishText>
+      <Notes>Need to incorporate memento/keepsake into the second sentence</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56072</PointerOffset>
       <VoiceId>S010707</VoiceId>
       <JapaneseText>そう……なんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56568</PointerOffset>
@@ -185,25 +190,27 @@ technique.</EnglishText>
       <JapaneseText>でも、オレは寂しくないんだ。
 やたらうるさい
 ジィちゃんがいるからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But you know, I'm not lonely.
+I've got that nagging old man
+with me!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56796</PointerOffset>
       <VoiceId>S010709</VoiceId>
       <JapaneseText>きっと、&lt;Kohaku&gt;も同じだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've also got someone, right &lt;Kohaku&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57112</PointerOffset>
@@ -211,26 +218,29 @@ technique.</EnglishText>
       <JapaneseText>あははは、うん！
 わたしも、全然寂しくないよ。
 超〜〜変なお兄ちゃんがいるから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahaha, yup!
+I'm not lonely at all. I have my seriously
+weird brother with me, after all!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57528</PointerOffset>
       <VoiceId>S010711</VoiceId>
       <JapaneseText>&lt;Shing&gt;って、いい人だね。
 色々……疑っちゃって、ごめんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You’re a good person, &lt;Shing&gt;.
+Really... I'm sorry for doubting you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57820</PointerOffset>
@@ -238,13 +248,14 @@ technique.</EnglishText>
       <JapaneseText>わ……
 え、えっと、いいんだ！
 そんなの全然気にしてないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh... um, it's okay!
+I don't really mind.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58820</PointerOffset>
@@ -252,26 +263,28 @@ technique.</EnglishText>
       <JapaneseText>なごんでる場合じゃねぇだろーが!?
 さっさと、このソーマを
 借りるか奪うかしねーと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This isn't the time to play around!
+Let's hurry up and just take this thing...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60412</PointerOffset>
       <VoiceId>S010714</VoiceId>
       <JapaneseText>『奪う』って何よ、お兄ちゃん!?
 助けてもらってるのに！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hisui, what do you mean "just take"!?
+He's helping us!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60692</PointerOffset>
@@ -279,62 +292,64 @@ technique.</EnglishText>
       <JapaneseText>あのさ、&lt;Kohaku&gt;たちは
 なぜそんなにソーマの力を
 必要としてるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, why do you guys need the Soma
+so badly?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61240</PointerOffset>
       <VoiceId>S010716</VoiceId>
       <JapaneseText>それは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>63472</PointerOffset>
       <VoiceId>S010717</VoiceId>
       <JapaneseText>見つけた……ぞ。
 今度は……逃がさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've found you...
+This time... you won't escape.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65876</PointerOffset>
       <VoiceId>S010718</VoiceId>
       <JapaneseText>きゃあぁぁぁッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kyaaaaaa!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>66756</PointerOffset>
       <VoiceId>S010719</VoiceId>
       <JapaneseText>&lt;Kohaku&gt;ッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Kohaku&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>67744</PointerOffset>
@@ -342,25 +357,26 @@ technique.</EnglishText>
       <JapaneseText>心配するな、殺しはしない。
 アレの『眠り』を
 覚ますまでは……な</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't worry, I won't kill her.
+Not until I wake it up from its "slumber"...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>67988</PointerOffset>
       <VoiceId>S010721</VoiceId>
       <JapaneseText>お前、&lt;Kohaku&gt;に何をしたッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What'd you do to &lt;Kohaku&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>69892</PointerOffset>
@@ -368,25 +384,27 @@ technique.</EnglishText>
       <JapaneseText>ほう、ソーマ……か。
 ……その形状、見覚えがあるぞ。
 オマエ、ゼクスの血縁者……か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, that Soma...
+That shape looks familiar...
+Are you perhaps... related to Zeks?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>70128</PointerOffset>
       <VoiceId>S010723</VoiceId>
       <JapaneseText>だったらなんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So what if I am!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>70436</PointerOffset>
@@ -394,38 +412,40 @@ technique.</EnglishText>
       <JapaneseText>別に。オマエを殺して
 生きているならゼクスも殺す。
 それだけ……だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing at all. I'll just kill you, and
+then I'll kill Zeks if he's still alive.
+That's all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72372</PointerOffset>
       <VoiceId>S010725</VoiceId>
       <JapaneseText>あ……ッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ack!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>74644</PointerOffset>
       <VoiceId>S010726</VoiceId>
       <JapaneseText>ぐわぁぁッ!!　&lt;Shing&gt;……
 に、逃げろぉぉぉッ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gwaaah!! &lt;Shing&gt;... get out of here!!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>75824</PointerOffset>
@@ -433,201 +453,212 @@ technique.</EnglishText>
       <JapaneseText>ゼクスか？　老いたな。
 だが喜べ。もうこれ以上
 老いる事は……ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zeks? My, you've aged.
+But rejoice, from now on... you won't have
+to worry about that anymore.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>78000</PointerOffset>
       <VoiceId>S010728</VoiceId>
       <JapaneseText>やめ……ろ……お前……
 オレのジィちゃんに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop... it...You...
+...to Gramps!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>78272</PointerOffset>
       <VoiceId>S010729</VoiceId>
       <JapaneseText>何しやがんだぁぁーーーッ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the hell did you do to Gramps!!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83584</PointerOffset>
       <VoiceId>S010730</VoiceId>
       <JapaneseText>こ、この……力は……!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-This power...!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83712</PointerOffset>
       <VoiceId>S010731</VoiceId>
       <JapaneseText>&lt;Shing&gt;……い、いかん！
 がふ……ッ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Shing&gt;... N-No!
+Gah...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>84408</PointerOffset>
       <VoiceId>S010732</VoiceId>
       <JapaneseText>ジィちゃん！
 しっかりしてよ、ジィちゃん!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gramps! Get a hold of yourself, Gramps!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>85352</PointerOffset>
       <VoiceId>S010733</VoiceId>
       <JapaneseText>しっかりすんのは、てめぇだ！
 ソッコーで逃げんだよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the one who need to get a grip!
+Let's book it out of here!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>85580</PointerOffset>
       <VoiceId>S010734</VoiceId>
       <JapaneseText>う、うん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y-Yeah!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>86644</PointerOffset>
       <VoiceId>S010735</VoiceId>
       <JapaneseText>……見つけ……ましたぞッ！
 『彼女』は、その娘の中にィ!!</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>...I've... found it!
+He's inside of that boy!</EnglishText>
+      <Notes>Uses female; but I'm pretty sure this is supposed to be about Creed being inside Shing, who are both guys; not Lithia</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>89336</PointerOffset>
       <JapaneseText>母さん……
 母さんのソーマは
 &lt;Kohaku&gt;に預けたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mom... I've entrusted your Soma to &lt;Kohaku&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89560</PointerOffset>
       <JapaneseText>ソーマ……
 とってもあたたかいです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Her Soma...
+It feels so warm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89688</PointerOffset>
       <JapaneseText>……&lt;Kohaku&gt;を
 守ってあげてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Please continue to protect &lt;Kohaku&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92696</PointerOffset>
       <JapaneseText>ああ、ドナ……
 こんな形で会う事になるなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, Danah...
+I never thought we'd meet like this...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92968</PointerOffset>
       <JapaneseText>悲しまないで、リチア。
 ドナさんのスピリアは
 このソーマに息づいてる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please don't be sad, Lithia.
+Danah's Spiria continues to
+live on in this Soma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92968</PointerOffset>
       <JapaneseText>今も、リチアを助けて
 クリードをぶっとばせって
 強く、熱く励ましてくれるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even now, she's been encouraging me
+to help you and take down Creed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93232</PointerOffset>
       <JapaneseText>ああ、ジィちゃんの
 スピリアも同じだよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it's the same with Gramps' Spiria!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>95696</PointerOffset>
