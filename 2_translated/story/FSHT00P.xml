@@ -233,26 +233,29 @@
       <JapaneseText>…………を探し出せッ！
 …………を手に入れろッ！
 …………のためにッ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Find it...!
+Obtain it...!
+For the sake of...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51084</PointerOffset>
       <VoiceId>S010101</VoiceId>
       <JapaneseText>……を探せ……手に……ろ
 ……のために……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Find...Obtain...
+...For the sake of...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51212</PointerOffset>
@@ -300,7 +303,7 @@ this old man?</EnglishText>
       <JapaneseText>痛てて……そっか。
 ジィちゃんと剣術の特訓してて
 またぶっとばされたのか</JapaneseText>
-      <EnglishText>O-Ouch... that's right.
+      <EnglishText>O-Ouch... That's right.
 I was training with Gramps and got
 knocked out again.</EnglishText>
       <Notes/>
@@ -364,7 +367,7 @@ weapon.</EnglishText>
 あと十年、真面目に修行すれば
 打ちこめるようになるかもな</JapaneseText>
       <EnglishText>...Well, your skill isn't too bad.
-Train diligently for another 10 years,
+Start training diligently now for 10 years,
 and you might just surpass me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -483,8 +486,8 @@ the most fragile thing in this world.</EnglishText>
 怒りや憎しみ、恐怖……また時には
 愛や夢ゆえに乱れ、壊れてしまう</JapaneseText>
       <EnglishText>Strong emotions - like anger, hatred, fear,
-and even love or hope can be disrupted
-and broken.</EnglishText>
+and even love or hope can disrupt
+and break it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -498,13 +501,16 @@ and broken.</EnglishText>
       <JapaneseText>ソーマには、それを癒す力がある。
 だからこそソーマ使いは誰よりも
 己のスピリアを鍛えねばならん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A Soma has the power to heal it. That's
+why, more any anyone, a Soma user
+must train his Spiria
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>4</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56904</PointerOffset>
@@ -512,13 +518,15 @@ and broken.</EnglishText>
       <JapaneseText>&lt;Shing&gt;よ、一時の感情に
 流されない、本当に強い
 スピリアを見極め、育てるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Shing&gt;, don't let fleeting emotions get the
+better of you, nurture a Spiria that is
+discerning and firm.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>5</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57348</PointerOffset>
@@ -526,25 +534,27 @@ and broken.</EnglishText>
       <JapaneseText>ジィちゃん、ごはんにしよう！
 強いスピリアも
 腹ペコにはかなわないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gramps, let's have dinner already!
+Even the mightiest Spiria is no match
+for a hungry belly.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57568</PointerOffset>
       <VoiceId>S010121</VoiceId>
       <JapaneseText>まったく、お前という奴は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Honestly, this rascal...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58144</PointerOffset>
@@ -552,238 +562,261 @@ and broken.</EnglishText>
       <JapaneseText>そうだな、メシにするか。
 ………………遅れて家に
 入った方が後片付けだぞッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But all right, let's eat.
+...Last one to get home has to clean up
+after!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58972</PointerOffset>
       <VoiceId>S010123</VoiceId>
       <JapaneseText>な、何ぃ!?
 卑怯だぞ、ジィちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-What!?
+That so unfair, Gramps!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60412</PointerOffset>
       <JapaneseText>くそ、なんで村から出ちゃだめ
 なんだ!?　十六にもなって外の世界
 を知らないなんてオレだけだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn it, why can't I leave the village!?
+I'm the only 16 year old who doesn't know
+anything about the outside world.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60752</PointerOffset>
       <JapaneseText>……けど、約束を破ったら
 『スピリアが弱い』って
 ジィちゃんに笑われるしな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But if I break my promise now, Gramps
+is gonna totally mock me again and say
+that my "Spiria is weak..."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61028</PointerOffset>
       <JapaneseText>浜にでも行くか……
 『この狭い村で、オレの
 スピリアを刺激するのは——』</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Guess I'll just go to the beach...
+"In this small village, what inspires
+my Spiria-"</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>61028</PointerOffset>
       <JapaneseText>『大いなる海の眺め
 だけなのであった』
 〒〒〒〒〒ＢＹ&lt;Shing&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"is the only thing I have: a singular view
+of the great Sea."
+By &lt;Shing&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>62248</PointerOffset>
       <JapaneseText>&lt;Hisui&gt;……
 ジィちゃんの墓を作るの
 手伝ってくれてありがとう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Hisui&gt;... Thanks for helping me with
+Gramps' grave.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>62376</PointerOffset>
       <JapaneseText>……妹が借りたソーマの礼だ。
 これであの魔道士の術からは
 &lt;Kohaku&gt;を守れっからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...It's thanks for the Soma my sister
+borrowed. Now I can protect &lt;Kohaku&gt;
+from that witch.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>62616</PointerOffset>
       <JapaneseText>…………ソーマ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Soma.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>64560</PointerOffset>
       <JapaneseText>これは……
 スピルーンの欠片を指してるのか？
 行ってみよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is... Are you pointing us to a piece
+of your Spirune? Let's go after it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65192</PointerOffset>
       <JapaneseText>オイ、調子に乗んなよ。てめぇ
 まだ&lt;Kohaku&gt;に関わる資格が
 あると思ってんのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, don't get any bright ideas.
+You think you even have the right to
+help &lt;Kohaku&gt; after that stunt you pulled?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65476</PointerOffset>
       <JapaneseText>…………思う？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Think?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65792</PointerOffset>
       <JapaneseText>思わないけど、連れてってくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think that, but let me help anyways!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65792</PointerOffset>
       <JapaneseText>オレの……責任なんだ。
 なんでもするから……
 ……お願い……します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's... It's my responsibility.
+I'll do anything... so please...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>66712</PointerOffset>
       <JapaneseText>…………お前はともかく
 お前のソーマは必要……か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I couldn't give a rat's ass about you...
+but I need that Soma of yours.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>66712</PointerOffset>
       <JapaneseText>村の入口で待っててやっから
 ソッコーで仕度してこい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be waiting for you at the entrance
+of the village.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>66892</PointerOffset>
       <JapaneseText>う、うん！
 ありがとう!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>S-Sure!
+Thank you!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68060</PointerOffset>
       <JapaneseText>ジィちゃん、このソーマに力を
 貸してください……オレじゃなく
 &lt;Kohaku&gt;のために……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gramps, please help me through this Soma...
+not for my sake, but &lt;Kohaku&gt;'s.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68060</PointerOffset>
       <JapaneseText>オレは、大丈夫だからさ。
 強いスピリアを持つって
 『約束』したから……ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be okay. I promise I'll have a
+strong Spiria.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68948</PointerOffset>
@@ -801,60 +834,63 @@ and broken.</EnglishText>
     <Entry>
       <PointerOffset>74908</PointerOffset>
       <JapaneseText>もう大丈夫だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're safe now.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>75708</PointerOffset>
       <JapaneseText>ふぅ、助かったよ……
 あんた、強いんだねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phew, thanks for the help...
+You're really strong.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>75836</PointerOffset>
       <JapaneseText>あはは、こんな魔物の
 相手は朝飯前だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahaha, I can take care of these
+monsters in no time.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>76408</PointerOffset>
       <JapaneseText>本当にご飯前みたいだねぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It almost looks like dinner, doesn't it?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>76984</PointerOffset>
       <JapaneseText>この魔物……
 食べられないかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This monster...
+Can we eat it?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>77596</PointerOffset>
