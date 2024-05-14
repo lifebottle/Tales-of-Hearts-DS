@@ -4,10 +4,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>不良中年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bad Egg</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -36,18 +36,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>野次馬たち</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bystanders</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>お喋りオバさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gossiping Lady</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -60,18 +60,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>リチア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lithia</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>旅の商人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Traveling Merchant</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -92,34 +92,34 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>少年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Boy</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Girl</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>八百屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grocer</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>野良ネコ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stray Cat</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -175,7 +175,7 @@ You sure have some small peanuts.</EnglishText>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>66680</PointerOffset>
@@ -662,9 +662,9 @@ give in to despair-</EnglishText>
       <JapaneseText>グオゥオゥ……！
 どきやがれぇぇーーーッ！
 商売の……邪魔だぁッッ！</JapaneseText>
-      <EnglishText>Gwwwoooo-!
+      <EnglishText>Gaaargh!
 Out of my way!
-You're in the way... of business!</EnglishText>
+You're blocking customers!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
@@ -705,502 +705,550 @@ They all disrespect me...</EnglishText>
       <JapaneseText>な、なんて人だ。
 『流星核』の降り注ぐ場所を
 聞いただけなのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's that guys problem?
+I just wanted to know where to find
+some meteorite fragments...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99216</PointerOffset>
       <JapaneseText>それに商売の邪魔といっても
 お客なんかひとりも
 いないじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Blocking customers?" Hah!
+They must be invisible, because
+I sure don't see any.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>32</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99692</PointerOffset>
       <JapaneseText>……『流星核』？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you say "meteorite fragments"?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99896</PointerOffset>
       <JapaneseText>このキュノスの特産品で
 天から流れ落ちた星の欠片と
 言われているものです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sure did. Cynos is famous for 'em.
+Folks say they're bits of a shooting star
+that came down in these parts.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99896</PointerOffset>
       <JapaneseText>私は、お得意様から入手を
 依頼され、帝都エストレーガから
 はるばるやって来たのですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Truth is, I actually came here from
+Straga. One of my best customers
+made a special request.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>34</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100024</PointerOffset>
       <JapaneseText>星の欠片だと？
 &lt;Kohaku&gt;の
 スピルーンかもしれねぇ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A piece of a star? &lt;Kohaku&gt;, maybe
+it could be one of your Spiria Cores!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100024</PointerOffset>
       <JapaneseText>何か感じるか、&lt;Kohaku&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You sense any nearby, &lt;Kohaku&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100400</PointerOffset>
       <JapaneseText>……わかんない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't know...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100604</PointerOffset>
       <JapaneseText>どうやら、あのアヒルボート屋が
 流星核のある場所を知っている
 らしいのですが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sure the fellow running the
+duck boat knows where to look.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>100604</PointerOffset>
       <JapaneseText>なんだか様子がおかしくて
 とりつくしまもないのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I'm not asking that lunatic
+anything ever again!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>101040</PointerOffset>
       <JapaneseText>スピルーンかもしれないんだ。
 なんとかして流星核のある場所を
 聞き出そう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It could be a Spiria Core.
+Let's find out where these meteorite
+fragments are!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>101824</PointerOffset>
       <JapaneseText>もし流星核を見つけてくれたら
 相応のお礼をしますよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you can find a meteorite fragment,
+I'd be willing to reward you.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>103072</PointerOffset>
       <JapaneseText>あの、おじさん。
 ちょっと聞きたいんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, excuse me.
+Can I ask you something?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>103284</PointerOffset>
       <JapaneseText>て、てめぇ〜はぁ……
 俺をボコりやがった小僧ッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-It's you again...
+The kid who beat me up!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>103284</PointerOffset>
       <JapaneseText>うううぅ……てめぇ〜……
 誰かに頼まれて……また俺を
 いたぶりに来やがったんだなッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ughh... Screw you...
+Who put you up to it, huh!?
+Who told you to poke fun at me!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>103964</PointerOffset>
       <JapaneseText>頼まれていたぶる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To poke fun at you?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>103964</PointerOffset>
       <JapaneseText>何言ってるの？
 オレは流星核のある場所を
 教えて欲しいだけで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you talking about?
+We just want to know where the
+meteorite fragment is...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>42</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>105888</PointerOffset>
       <JapaneseText>うるせぇぇぇーーーッ！
 どうせ俺は短気で乱暴な
 街一番の嫌われ者だァッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gimme a freakin' break already! I
+already know I'm short-tempered,
+violent, and the most hated guy in town!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>105888</PointerOffset>
       <JapaneseText>わかってる！
 わかってるんだよッ！
 コラァァァ〜〜〜ッッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know, okay!?
+I freakin' know already!
+GYAAAAARGH!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>43</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>106296</PointerOffset>
       <JapaneseText>おい、こいつおかしいぞ！
 デスピル病じゃないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This guy's nuttier than an almond!
+It's gotta be Despir!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>106424</PointerOffset>
       <JapaneseText>うん。
 スピルリンクしてみよう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Let's do a Spiria Link!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108612</PointerOffset>
       <JapaneseText>……オウ、コラ……
 これ……持ってけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Oh, let's see...
+Here, take it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108740</PointerOffset>
       <JapaneseText>『アヒルチケット』？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A "Duck-Boat Pass?"</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108944</PointerOffset>
       <JapaneseText>それを持ってれば
 ウチのアヒルボートは
 いつだってフリーパスだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yessir! With that, you can ride the
+duck boat as much as you like,
+whenever you like!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>109284</PointerOffset>
       <JapaneseText>俺たちは、流星核の在りかを
 聞きたいんだっつーの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No one gives a rip about your boat!
+We just need to know where the
+meteorite fragments are!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>109524</PointerOffset>
       <JapaneseText>だからッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what I'm TRYIN' to tell ya!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>109764</PointerOffset>
       <JapaneseText>……それでボートに
 乗ってみろってんだ、コラァ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You gotta get on my boat to
+reach it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110016</PointerOffset>
       <JapaneseText>わかったよ。
 ありがとう、おじさん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Got it.
+Thanks, old man!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110628</PointerOffset>
       <JapaneseText>……アヒルは水の下で
 いつだって必死に足掻いてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ducks have to paddle like mad under
+the water just to keep goin'!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110628</PointerOffset>
       <JapaneseText>俺も、みんなに
 信じてもらえるまで
 もう少し足掻いてみるか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I could learn a thing or two from 'em.
+Gotta keep goin' until folks trust ya.
+Well, I ain't giving up yet!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110784</PointerOffset>
       <JapaneseText>出発しますガァ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take the Duck Boat?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>115292</PointerOffset>
       <JapaneseText>素晴らしい！
 流星核を見つけたんですね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Incredible!
+You found a meteorite fragment!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>115292</PointerOffset>
       <JapaneseText>お願いします。
 私にもわけていただけませんか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you consider parting with it?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>55</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116116</PointerOffset>
       <JapaneseText>ああ、ありがとう！
 もちろんお代はお支払いしますよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, thank you!
+Let me reward you for it.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116244</PointerOffset>
       <JapaneseText>代金なんていらないよ。
 それより商人さんに
 お願いがあるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Actually we don't want your money.
+But could you do us a favor instead?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116244</PointerOffset>
       <JapaneseText>アヒルボート屋のおじさんに
 商売のコツを教えてあげてよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could you give that uncle at the
+duck boat shop a few business
+tricks?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>57</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116244</PointerOffset>
       <JapaneseText>ちょっと気が短いけど
 悪い人じゃないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's a bit hot-headed, but he's
+not a bad guy.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>57</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116856</PointerOffset>
       <JapaneseText>ええ!?
 あの怖い人に……ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh!? You want me to help that
+scary man?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>117136</PointerOffset>
       <JapaneseText>……わかりました。
 流星核をわけてもらったお礼です。
 やってみましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Understood, I'll do it.
+Thanks for the meteorite
+fragment.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>118896</PointerOffset>
       <JapaneseText>せっかくの礼を断りやがって！
 ほとんどただ働きに
 なっちまったじゃねぇか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you really just turn down
+the reward!? We did all that
+for nothing!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>60</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>119168</PointerOffset>
       <JapaneseText>え〜、そんな事ないよ。
 きっとアヒルボート屋は
 繁盛するようになるからさ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ehh~, it wasn't for nothing.
+It'll help the duck-boat guy
+make something of himself!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>61</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>120220</PointerOffset>
