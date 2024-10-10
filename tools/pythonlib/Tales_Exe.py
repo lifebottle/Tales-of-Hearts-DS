@@ -199,23 +199,9 @@ if __name__ == "__main__":
                 tales_instance.pack_all_skits()
                 tales_instance.pack_all_story()
                 tales_instance.pack_all_menu()
+                tales_instance.update_font()
                 tales_instance.save_iso(Path(args.iso))
                 tales_instance.update_save_file(Path(args.des), args.save)
-
-        elif args.file_type == "Main":
-            tales_instance.pack_main_archive()
-
-        elif args.file_type == "Story":
-            tales_instance.pack_all_story()
-
-        elif args.file_type == "Skits":
-            tales_instance.pack_all_skits()
-
-        elif args.file_type == "Menu":
-            tales_instance.pack_all_menu()
-
-        elif args.file_type == "Asm":
-            tales_instance.patch_binaries()
 
         elif args.file_type == "All":
             tales_instance.pack_all_story()

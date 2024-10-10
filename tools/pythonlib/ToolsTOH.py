@@ -133,6 +133,10 @@ class ToolsTOH():
 
         subprocess.run(args, cwd=self.paths["game_builds"], stdout = subprocess.DEVNULL)
 
+    def update_font(self):
+        shutil.copyfile(self.paths['new_font'] / 'trialFont10.NFTR', self.paths['final_files'] / 'data' / 'trialFont10.NFTR')
+        shutil.copyfile(self.paths['new_font'] / 'trialFont12.NFTR', self.paths['final_files'] / 'data' / 'trialFont12.NFTR')
+        
     def update_arm9_size(self, game_iso:Path):
 
         with FileIO(game_iso, 'rb') as f:
