@@ -200,6 +200,7 @@ if __name__ == "__main__":
                 tales_instance.pack_all_story()
                 tales_instance.pack_all_menu()
                 tales_instance.update_font()
+                tales_instance.patch_binaries()
                 tales_instance.save_iso(Path(args.iso))
                 tales_instance.update_save_file(Path(args.des), args.save)
 
