@@ -136,7 +136,25 @@ class ToolsTOH():
     def update_font(self):
         shutil.copyfile(self.paths['new_font'] / 'trialFont10.NFTR', self.paths['final_files'] / 'data' / 'trialFont10.NFTR')
         shutil.copyfile(self.paths['new_font'] / 'trialFont12.NFTR', self.paths['final_files'] / 'data' / 'trialFont12.NFTR')
-        
+
+    def patch_binaries(self):
+        asm_path = self.paths["tools"] / "asm"
+
+        env = os.environ.copy()
+        env["PATH"] = f"{asm_path.as_posix()};{env['PATH']}"
+
+        r = subprocess.run(
+            [
+                str(self.paths["tools"] / "asm" / "armips.exe"),
+                str(self.paths["tools"] / "asm" / self.asm_file),
+                "-strequ",
+                "__OVERLAY3_PATH__",
+                str(self.paths["temp_files"] / 'overlay' / 'overlay_0003.bin')
+            ])
+        if r.returncode != 0:
+            raise ValueError("Error building code")
+
+
     def update_arm9_size(self, game_iso:Path):
 
         with FileIO(game_iso, 'rb') as f:
