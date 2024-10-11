@@ -3,7 +3,6 @@ from dataclasses import dataclass
 import struct
 from typing import Optional
 from .FileIO import FileIO
-from .tss import Tss
 import os
 from pathlib import Path
 import subprocess

@@ -2,7 +2,7 @@ import re
 import struct
 import pyjson5 as json
 import string
-from tools.pythonlib.formats.FileIO import FileIO
+from .FileIO import FileIO
 
 VALID_VOICEID = [r'(VSM_\w+)', r'(VCT_\w+)', r'(S\d+)', r'(C\d+)']
 COMMON_TAG = r"(<[\w/]+:?\w+>)"

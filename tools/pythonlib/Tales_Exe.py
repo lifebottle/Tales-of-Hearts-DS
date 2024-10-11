@@ -41,10 +41,10 @@ def get_arguments(argv=None):
     sp_extract.add_argument(
         "-ft",
         "--file_type",
-        choices=["Iso", "Main", "Menu", "Story", "Skits"],
+        choices=["Iso", "Menu", "Story", "Skits", "All"],
         required=True,
         metavar="file_type",
-        help="(Required) - Options: Iso, Init, Main, Menu, Story, Skits",
+        help="(Required) - Options: Iso, Menu, Story, Skits, All",
     )
 
     sp_extract.add_argument(
@@ -203,14 +203,6 @@ if __name__ == "__main__":
                 tales_instance.save_iso(Path(args.iso))
                 tales_instance.update_save_file(Path(args.des), args.save)
 
-        elif args.file_type == "All":
-            tales_instance.pack_all_story()
-            tales_instance.pack_all_skits()
-            tales_instance.pack_all_menu()
-            tales_instance.patch_binaries()
-            tales_instance.make_iso()
-
-
     if args.action == "extract":
 
         if game_name == "TOH":
@@ -219,29 +211,21 @@ if __name__ == "__main__":
                 #tales_instance.unpack_menu_files()
                 tales_instance.extract_all_menu(keep_translations=True)
 
-            if args.file_type == "Iso":
+            elif args.file_type == "Iso":
                 tales_instance.extract_Iso(Path(args.iso))
                 tales_instance.decompress_arm9()
                 tales_instance.decompress_overlays()
 
-            if args.file_type == "Skits":
+            elif args.file_type == "Skits":
                 tales_instance.extract_all_skits(args.replace)
 
             elif args.file_type == "Story":
                 tales_instance.extract_all_story(args.replace)
-        else:
-            if args.file_type == "Iso":
+
+            elif args.file_type == "All":
                 tales_instance.extract_Iso(Path(args.iso))
-                tales_instance.extract_main_archive()
-
-            if args.file_type == "Main":
-                tales_instance.extract_main_archive()
-
-            if args.file_type == "Menu":
-                tales_instance.extract_all_menu()
-
-            if args.file_type == "Story":
-                tales_instance.extract_all_story()
-
-            if args.file_type == "Skits":
+                tales_instance.decompress_arm9()
+                tales_instance.decompress_overlays()
+                tales_instance.extract_all_menu(keep_translations=True)
                 tales_instance.extract_all_skits(args.replace)
+                tales_instance.extract_all_story(args.replace)

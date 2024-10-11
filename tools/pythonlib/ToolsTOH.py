@@ -9,11 +9,11 @@ import pyjson5 as json
 import subprocess
 import datetime
 import lxml.etree as etree
-from tools.pythonlib.formats.FileIO import FileIO
-from tools.pythonlib.formats.fps4 import Fps4
-from tools.pythonlib.formats.tss import Tss
-from tools.pythonlib.utils.dsv2sav import sav_to_dsv
-from tools.pythonlib.formats.text_toh import text_to_bytes, bytes_to_text
+from formats.FileIO import FileIO
+from formats.fps4 import Fps4
+from formats.tss import Tss
+from utils.dsv2sav import sav_to_dsv
+from formats.text_toh import text_to_bytes, bytes_to_text
 import re
 from itertools import chain
 import io

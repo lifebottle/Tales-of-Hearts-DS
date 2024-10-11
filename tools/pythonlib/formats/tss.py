@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 import struct
 from typing import Optional
-from ..formats.FileIO import FileIO
-from ..formats.structnode import StructNode, Speaker, Bubble
+from .FileIO import FileIO
+from .structnode import StructNode, Speaker, Bubble
 import os
 from pathlib import Path
 import re
