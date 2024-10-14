@@ -688,7 +688,6 @@ class ToolsTOH():
 
     def pack_all_skits(self):
         type = 'skit'
-
         fps4 = Fps4(detail_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.dat',
                     header_path=self.paths['original_files'] / 'data' / 'fc' / 'fcscr.b')
 
@@ -704,7 +703,7 @@ class ToolsTOH():
             self.pack_tss(destination_path=tss_path,
                           xml_path=self.paths['skit_xml'] / f'{archive}.xml')
 
-            args = ['lzss', '-evn', tss_path]
+            args = [self.paths['tools'] / 'pythonlib' / 'utils' / 'lzss', '-evn', tss_path]
             subprocess.run(args, stdout=subprocess.DEVNULL)
 
         #Repack FPS4 archive
@@ -743,7 +742,7 @@ class ToolsTOH():
                     self.pack_tss(destination_path=tss_path,
                                   xml_path=xml_path)
 
-                    args = ['lzss', '-evn', tss_path]
+                    args = [self.paths['tools'] / 'pythonlib' / 'utils' / 'lzss', '-evn', tss_path]
                     subprocess.run(args, stdout = subprocess.DEVNULL)
 
             # Find all the xmls that has changed recently
