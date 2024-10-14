@@ -489,36 +489,69 @@
 		"file_path": "./overlay/overlay_0001.bin",
 		"friendly_name": "Overlay 1",
 		"is_compressed": false,
-		"pad":false,
+		"pad":true,
 		"base_offset": 0x213A4E0,
 		"safe_areas": [
 			[0x8A5F8, 0x8B0A3],
-			[0x8B3A8, 0x8C3BF],
-			[0x8C3D0, 0x8C4DF], 
-			[0x8C4F0, 0x8D508],
-			[0x8DCD4, 0x8DEFF]
+			[0x8B3A8, 0x8B3D3],
+			[0x8B5A0, 0x8B5BF],
+			[0x8B600, 0x8B6A4],
+			[0x8B6FC, 0x8B74F],
+			[0x8C600, 0x8C6D7],
+			[0x8C77C, 0x8C841],
+			[0x8C858, 0x8C8CE],
+			[0x8C8E4, 0x8C91F],
+			[0x8C970, 0x8CB9B],
+			[0x8CC00, 0x8D0A3],
+			[0x8D0EC, 0x8D13D],
+			[0x8D160, 0x8D17F],
+			[0x8D1A0, 0x8D1DF],
+			[0x8D2E0, 0x8D333],
+			[0x8D370, 0x8D4B3],
+			[0x8E9D0, 0x8F000]
 		],
 		"sections": [
 			{
-				"section": "Overlay_0",
+				"section": "Section 1",
 				"pointers_start": 0x8B0A8,
 				"pointers_end": 0x8B3A3,
 				"style": "P"
 			},
 			{
-				"section": "Overlay_1",
+				"section": "Section 2",
 				"pointers_start": 0x8D50C,
-				"pointers_end": 0x8DCD3,
+				"pointers_end": 0x8D714,
 				"style": "P"
 			},
 			{
-				"section": "Misc",
-				"pointer_start": 0x8E910,
-				"pointer_end": 0x8E937,
-				"pointers_alone":
-				[0x8C3C0, 0x8C3C4, 0x8C3C8, 0x8C3CC,
-				0x8C4E0, 0x8C4E4, 0x8C4E8, 0x8C4EC,
-				0x8E310, 0x8E314, 0x8E318, 0x8E31C, 0x8E320, 0x8E324]
+				"section": "Section 3",
+				"pointers_start": 0x8D7A0,
+				"pointers_end": 0x8D7AB,
+				"style": "P"
+			},
+			{
+				"section": "Section 4",
+				"pointers_start": 0x8D850,
+				"pointers_end": 0x8D874,
+				"style": "P"
+			},
+			{
+				"section": "Section 5",
+				"pointers_start": 0x8D938,
+				"pointers_end": 0x8D9BB,
+				"style": "P"
+			},
+			{
+				"section": "Section 6",
+				"pointers_start": 0x8DBB8,
+				"pointers_end": 0x8DBD4,
+				"style": "P"
+			},
+			{
+				"section": "Section 7",
+				"pointers_start": 0x8DC28,
+				"pointers_end": 0x8DC64,
+				"style": "P"
 			}
 		]
 	},

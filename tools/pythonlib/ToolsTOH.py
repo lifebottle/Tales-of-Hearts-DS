@@ -237,7 +237,7 @@ class ToolsTOH():
                     path_file = path_file.replace('data/', '')
                     romnds.setFileByName(path_file, data)
 
-        self.update_overlays(romnds, [0,3])
+        self.update_overlays(romnds, [0,1,3])
         romnds.saveToFile(self.paths['game_builds'] / self.new_iso)
 
 
@@ -371,7 +371,7 @@ class ToolsTOH():
                     off = file.read_uint32()
                     if base_offset != 0 and off == 0: continue
 
-                    if file.tell() - 4 < ptr_range[1]:
+                    if (file.tell() - 4 < ptr_range[1]) and (off > base_offset):
                         pointers_offset.append(file.tell() - 4)
                         pointers_value.append(off - base_offset)
                 elif step == "T":
@@ -436,7 +436,8 @@ class ToolsTOH():
                     off = f.read_uint32() - base_offset
                     pointers_value.append(off)
 
-            #print([hex(pointer_off) for pointer_off in pointers_offset])
+
+            print(f"{section['section']} - Offset Min: {hex(min(pointers_value))} - Max: {hex(max(pointers_value))}")
             # Make a list, we also merge the emb pointers with the
             # other kind in the case they point to the same text
             temp = dict()
@@ -524,7 +525,7 @@ class ToolsTOH():
         for entry in tqdm(menu_json, total=len(menu_json), desc='Inserting Menu Files'):
 
 
-            if entry["friendly_name"] in ['Arm9', 'Consumables', 'Sorma Skill', 'Outline', 'Overlay 0', 'Overlay 3', 'Soma Data', 'Strategy', 'Battle Memo']:
+            if entry["friendly_name"] in ['Arm9', 'Consumables', 'Sorma Skill', 'Outline', 'Overlay 0', 'Overlay 1', 'Overlay 3', 'Soma Data', 'Strategy', 'Battle Memo']:
                 # Copy original files
 
                 orig = self.paths["extracted_files"] / entry["file_path"]
@@ -572,6 +573,7 @@ class ToolsTOH():
         else:
             entries = root.iter("Entry")
 
+        line_counter = 0
         for line in entries:
             hi = []
             lo = []
@@ -613,8 +615,9 @@ class ToolsTOH():
                     break
             else:
                 print("Ran out of space")
-                raise ValueError(f'Ran out of space in file: {root.find("Strings").find("Section").text}')
+                raise ValueError(f'Ran out of space in file: {root.find("Strings").find("Section").text} - line:{line_counter}')
 
+            line_counter+= 1
             f.seek(str_pos)
             f.write(text_bytes)
             virt_pos = str_pos + base_offset
