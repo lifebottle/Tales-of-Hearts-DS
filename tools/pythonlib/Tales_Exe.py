@@ -91,9 +91,10 @@ def get_arguments(argv=None):
         "-i",
         "--iso",
         required=False,
+        type=Path,
         default="",
         metavar="iso",
-        help="(Deprecated) - No longer in use for insertion",
+        help="(Required) - Can be relative path to the Repo folder",
     )
 
     sp_insert.add_argument(
@@ -197,12 +198,14 @@ if __name__ == "__main__":
                 tales_instance.pack_all_story()
 
             elif args.file_type == "All":
+                print(args.iso.resolve())
                 tales_instance.pack_all_skits()
                 tales_instance.pack_all_story()
                 tales_instance.pack_all_menu()
                 tales_instance.update_font()
                 tales_instance.patch_binaries()
-                tales_instance.save_iso(Path(args.iso))
+
+                tales_instance.save_iso(args.iso.resolve())
                 tales_instance.update_save_file(Path(args.des), args.save)
 
     if args.action == "extract":
