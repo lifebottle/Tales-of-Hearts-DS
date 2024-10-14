@@ -85,7 +85,7 @@ class ToolsTOH():
         #self.clean_folder(extract_to)
 
         path = self.folder_name / extract_to
-        args = ['ndstool', '-x', os.path.basename(game_iso),
+        args = ['ndstool', '-x', game_iso,
                 '-9', path/'arm9.bin',
                 '-7', path/'arm7.bin',
                 '-y9', path/'y9.bin',
@@ -95,7 +95,7 @@ class ToolsTOH():
                 '-t', path/'banner.bin',
                 '-h', path/'header.bin']
 
-        wrk_dir = os.path.normpath(os.getcwd() + os.sep + os.pardir)
+        wrk_dir = self.paths['tools'] / 'pythonlib' / 'utils'
         subprocess.run(args, cwd=wrk_dir, stdout = subprocess.DEVNULL)
 
         #Update crappy arm9.bin to tinke's version
