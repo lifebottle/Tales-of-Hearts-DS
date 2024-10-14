@@ -131,8 +131,8 @@ class Fps4():
 
             #Decompress using LZ10 or LZ11
             if decompressed:
-                args = ['lzss', '-d', destination_path / file.name]
-                subprocess.run(args, cwd=Path.cwd() / 'tools/pythonlib/utils', stdout = subprocess.DEVNULL)
+                args = [Path.cwd() / 'tools/pythonlib/utils/lzss', '-d', destination_path / file.name]
+                subprocess.run(args, stdout = subprocess.DEVNULL)
 
             with open(destination_path / file.name, 'rb') as f:
                 head = f.read(4)
@@ -145,10 +145,10 @@ class Fps4():
     def compress_file(self, updated_file_path:Path, file_name:str, c_type:str):
         args = []
         if c_type == 'LZ10':
-            args = ['lzss', '-evn', updated_file_path / file_name]
+            args = [Path.cwd() / 'tools/pythonlib/utils/lzss', '-evn', updated_file_path / file_name]
         elif c_type == "LZ11":
-            args = ['lzx', '-evb', updated_file_path / file_name]
-        subprocess.run(args, cwd=Path.cwd() / 'tools/pythonlib/utils', stdout = subprocess.DEVNULL)
+            args = [Path.cwd() / 'tools/pythonlib/utils/lzx', '-evb', updated_file_path / file_name]
+        subprocess.run(args, stdout = subprocess.DEVNULL)
 
     def pack_fps4_type1(self, updated_file_path:Path, destination_folder:Path):
         buffer = 0
