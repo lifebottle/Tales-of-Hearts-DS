@@ -51,6 +51,7 @@ def get_arguments(argv=None):
         "-i",
         "--iso",
         required=False,
+        type=Path,
         default="../b-topndxj.iso",
         metavar="iso",
         help="(Optional) - Only for extract Iso command",
@@ -187,7 +188,7 @@ if __name__ == "__main__":
 
             if args.file_type == "Iso":
                 tales_instance.compress_arm9()
-                tales_instance.make_iso(Path(args.iso))
+                tales_instance.make_iso(args.iso.resolve())
 
             elif args.file_type == "Skits":
                 tales_instance.pack_all_skits()
@@ -213,7 +214,7 @@ if __name__ == "__main__":
                 tales_instance.extract_all_menu(keep_translations=True)
 
             elif args.file_type == "Iso":
-                tales_instance.extract_Iso(Path(args.iso))
+                tales_instance.extract_Iso(args.iso.resolve())
                 tales_instance.decompress_arm9()
                 tales_instance.decompress_overlays()
 
@@ -224,7 +225,7 @@ if __name__ == "__main__":
                 tales_instance.extract_all_story(args.replace)
 
             elif args.file_type == "All":
-                tales_instance.extract_Iso(Path(args.iso))
+                tales_instance.extract_Iso(args.iso.resolve())
                 tales_instance.decompress_arm9()
                 tales_instance.decompress_overlays()
                 tales_instance.extract_all_menu(keep_translations=True)
