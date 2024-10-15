@@ -261,8 +261,8 @@ class ToolsTOH():
 
         #Compress the file using blz
         print('Compressing Arm9 and Overlays...')
-        args = ['blz', '-en9', self.paths['final_files'] / 'arm9.bin']
-        subprocess.run(args, cwd=self.paths['tools'] / 'pythonlib' / 'utils', stdout = subprocess.DEVNULL)
+        args = [self.paths['tools'] / 'pythonlib' / 'utils' / 'blz', '-en9', self.paths['final_files'] / 'arm9.bin']
+        subprocess.run(args, stdout = subprocess.DEVNULL)
 
         # Update crappy arm9.bin to tinke's version
         #with open(self.paths['final_files'] / 'arm9.bin', "rb+") as f:
