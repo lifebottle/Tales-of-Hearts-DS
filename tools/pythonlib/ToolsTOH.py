@@ -665,6 +665,16 @@ class ToolsTOH():
 
         return bytes_entry
 
+    def extract_menu_bg(self):
+        file_name = 'MENU_BG'
+        base_path = self.paths['extracted_files'] / 'data' / 'menu'
+        fps4 = Fps4(detail_path=self.paths['original_files'] / f'data/menu/{file_name}.dat',
+                    header_path=self.paths['original_files'] / f'data/menu/{file_name}.b')
+
+        (base_path / file_name).mkdir(parents=True, exist_ok=True)
+        fps4.extract_files(destination_path= base_path / file_name, copy_path=self.paths['temp_files'] / 'menu',
+                           decompressed=False)
+
     def extract_all_skits(self, keep_translations=False):
         type = 'skit'
         base_path = self.paths['extracted_files'] / self.file_dict[type]

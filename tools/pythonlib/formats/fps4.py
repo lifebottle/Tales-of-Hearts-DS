@@ -130,9 +130,13 @@ class Fps4():
             shutil.copy(destination_path / file.name, copy_path / file.name)
 
             #Decompress using LZ10 or LZ11
-            if decompressed:
+            if file.c_type == "LZ10":
                 args = [Path.cwd() / 'tools/pythonlib/utils/lzss', '-d', destination_path / file.name]
                 subprocess.run(args, stdout = subprocess.DEVNULL)
+
+            elif file.c_type == "LZ11":
+                args = [Path.cwd() / 'tools/pythonlib/utils/lzx', '-d', destination_path / file.name]
+                subprocess.run(args, stdout=subprocess.DEVNULL)
 
             with open(destination_path / file.name, 'rb') as f:
                 head = f.read(4)
