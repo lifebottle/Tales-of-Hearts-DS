@@ -20,10 +20,10 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>ゼクス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Zex</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -52,26 +52,26 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>インカローズ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Incarose</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>おばさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Old Lady</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>リチア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lithia</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -84,18 +84,18 @@
     <Entry>
       <PointerOffset/>
       <JapaneseText>砂浜の少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beach Girl</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
       <JapaneseText>近所のおじさん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Old Man</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -320,7 +320,8 @@ knocked out again.</EnglishText>
 誰かが『探し出せ』って
 叫んでて……</JapaneseText>
       <EnglishText>Hmm... but that strange dream I had.
-Someone was shouting to at me to "find it"...</EnglishText>
+Someone was shouting at me to
+"find it"...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -334,9 +335,9 @@ Someone was shouting to at me to "find it"...</EnglishText>
       <JapaneseText>ま、今は夢なんかより『ソーマ』
 だ！　ジィちゃんから一本とって
 『ソーマ』を譲ってもらうんだ!!</JapaneseText>
-      <EnglishText>Oh well, who cares about some dream, it's
-a Soma I want! I'll land a hit on you and
-get you to give me your Soma!</EnglishText>
+      <EnglishText>Oh well, who cares about some dream,
+it's a Soma I want! I'll land a hit on you
+and get you to give me your Soma!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -398,9 +399,9 @@ I managed to win against you then...</EnglishText>
       <JapaneseText>ばかもん！　ワシは長寿
 世界一の座を狙っとるんだ!!
 あと十年や二十年くらい……</JapaneseText>
-      <EnglishText>You fool! I'll be taking the title for the
-longest living person in the world!
-I've still got a good 10 or 20 years left...</EnglishText>
+      <EnglishText>You fool! I'll be taking the title as
+the oldest person alive! I've still
+got a good 10 or 20 years...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -429,7 +430,8 @@ two feet, I won't be retiring anytime soon.</EnglishText>
       <JapaneseText>いいか、&lt;Shing&gt;。
 真に鍛えるべきは『ここ』だ</JapaneseText>
       <EnglishText>Listen up, &lt;Shing&gt;.
-What you really need to work on is "here!"</EnglishText>
+What you really need to work on is
+"here!"</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
@@ -455,23 +457,24 @@ What you really need to work on is "here!"</EnglishText>
       <JapaneseText>違う。
 人の精神と意思を司る
 生命の根源……『スピリア』だ</JapaneseText>
-      <EnglishText>Wrong. I'm talking about the root of life...
-our "Spiria" that controls the spirit and
-will of man!</EnglishText>
+      <EnglishText>Wrong. I'm talking about the root
+of life...our "Spiria" that controls
+the spirit and will of man!</EnglishText>
       <Notes>Need to check "thoughts" or "will"</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56904</PointerOffset>
       <VoiceId>S010116</VoiceId>
       <JapaneseText>スピリアは、この世界で一番強く
 ……そして一番脆いものだ</JapaneseText>
-      <EnglishText>A Spiria is extremely powerful... yet is also
-the most fragile thing in this world.</EnglishText>
+      <EnglishText>A Spiria is extremely powerful...
+yet is also the most fragile thing
+in this world.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -485,9 +488,9 @@ the most fragile thing in this world.</EnglishText>
       <JapaneseText>激しい感情——
 怒りや憎しみ、恐怖……また時には
 愛や夢ゆえに乱れ、壊れてしまう</JapaneseText>
-      <EnglishText>Strong emotions - like anger, hatred, fear,
-and even love or hope can disrupt
-and break it.</EnglishText>
+      <EnglishText>Strong emotions - like anger,
+hatred, fear, and even love or
+hope can disrupt and break it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -501,10 +504,9 @@ and break it.</EnglishText>
       <JapaneseText>ソーマには、それを癒す力がある。
 だからこそソーマ使いは誰よりも
 己のスピリアを鍛えねばならん</JapaneseText>
-      <EnglishText>A Soma has the power to heal it. That's
-why, more any anyone, a Soma user
-must train his Spiria
-</EnglishText>
+      <EnglishText>A Soma has the power to heal it.
+That's why, more any anyone,
+a Somatic must train his Spiria.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -518,9 +520,9 @@ must train his Spiria
       <JapaneseText>&lt;Shing&gt;よ、一時の感情に
 流されない、本当に強い
 スピリアを見極め、育てるんだ</JapaneseText>
-      <EnglishText>&lt;Shing&gt;, don't let fleeting emotions get the
-better of you, nurture a Spiria that is
-discerning and firm.</EnglishText>
+      <EnglishText>&lt;Shing&gt;, don't let fleeting emotions
+get the better of you, nurture a
+Spiria that is discerning and firm.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -535,8 +537,8 @@ discerning and firm.</EnglishText>
 強いスピリアも
 腹ペコにはかなわないよ</JapaneseText>
       <EnglishText>Gramps, let's have dinner already!
-Even the mightiest Spiria is no match
-for a hungry belly.</EnglishText>
+Even the mightiest Spiria is no
+match for a hungry belly.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
@@ -563,8 +565,8 @@ for a hungry belly.</EnglishText>
 ………………遅れて家に
 入った方が後片付けだぞッ！</JapaneseText>
       <EnglishText>But all right, let's eat.
-...Last one to get home has to clean up
-after!</EnglishText>
+...Last one to get home has to
+clean up after!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -592,8 +594,8 @@ That so unfair, Gramps!</EnglishText>
 なんだ!?　十六にもなって外の世界
 を知らないなんてオレだけだよ</JapaneseText>
       <EnglishText>Damn it, why can't I leave the village!?
-I'm the only 16 year old who doesn't know
-anything about the outside world.</EnglishText>
+I'm the only 16 year old who doesn't
+know anything about the outside world.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
@@ -606,9 +608,9 @@ anything about the outside world.</EnglishText>
       <JapaneseText>……けど、約束を破ったら
 『スピリアが弱い』って
 ジィちゃんに笑われるしな……</JapaneseText>
-      <EnglishText>...But if I break my promise now, Gramps
-is gonna totally mock me again and say
-that my "Spiria is weak..."</EnglishText>
+      <EnglishText>...But if I break my promise now,
+Gramps is gonna totally mock me
+again and say that my "Spiria is weak..."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
@@ -636,15 +638,15 @@ my Spiria-"</EnglishText>
       <JapaneseText>『大いなる海の眺め
 だけなのであった』
 〒〒〒〒〒ＢＹ&lt;Shing&gt;</JapaneseText>
-      <EnglishText>"is the only thing I have: a singular view
-of the great Sea."
+      <EnglishText>"is the only thing I have: a singular
+view of the great Sea."
 By &lt;Shing&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>62248</PointerOffset>
