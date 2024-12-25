@@ -113,52 +113,57 @@
       <VoiceId>S000101</VoiceId>
       <JapaneseText>『いばらの森』の　ねむり姫
 千年夢見て　ねむる姫</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>There lies a princess fair and dear,
+who has slept for over a thousand years,</EnglishText>
+      <Notes>Missing "amidst a bramble of thorny spear." since this actually isn't part of the translation; there's no jp that corresponds.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48056</PointerOffset>
       <VoiceId>S000102</VoiceId>
       <JapaneseText>流れる髪は　エメラルド
 恥らう頬は　バラ水晶</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Her streaming hair is emerald green.
+Her rose quartz cheeks a blushing sheen.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48184</PointerOffset>
       <VoiceId>S000103</VoiceId>
       <JapaneseText>『いばらの森』の　ねむり姫
 目覚めぬ哀れな　とりこ姫</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But while she rests in the forest of thorns,
+the rocks call out and the sea forewarns:</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48312</PointerOffset>
       <VoiceId>S000104</VoiceId>
       <JapaneseText>緋色の髪の魔王が紡ぐ
 毒の想いに呪われて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Look for the man with scarlet hair,
+who seeks to end our world so fair.
+It is his curse you must beware.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48440</PointerOffset>
@@ -166,26 +171,29 @@
       <JapaneseText>『いばらの森』のトゲの奥
 ずっとずっと　夢みてる
 世界が消える　夢をみる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O Princess trapped in slumber's claim,
+your dream is evermore the same.
+A world snuffed out, a smothered flame.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49040</PointerOffset>
       <VoiceId>S000501</VoiceId>
       <JapaneseText>いつか落ちる　黒い月
 いつか崩れる　白い月</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The ebony moon is doomed to tumble.
+The ivory moon is fated to crumble.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49168</PointerOffset>
@@ -193,13 +201,15 @@
       <JapaneseText>とどめる祈りも　夢に棲む
 魔物に喰われ　枯れ果てて
 真珠の涙も　砕け散る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You cannot hope. You cannot pray.
+Your tears of pearl will shatter away.
+For eaters of dreams come forth this day.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49296</PointerOffset>
@@ -207,25 +217,28 @@
       <JapaneseText>『いばらの森』の　ねむり姫
 トゲに包まれ　ねむる姫
 悪夢が　現となる日まで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The princess rests in her forest of thorns
+waiting for nightmares to finally be born.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49424</PointerOffset>
       <VoiceId>S000504</VoiceId>
       <JapaneseText>勇者が悪夢を　とめるまで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is one chance
+for the world we hold dear.
+The young warrior of legend must appear.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49900</PointerOffset>
@@ -287,9 +300,9 @@ Did you find it?</EnglishText>
       <VoiceId>S010104</VoiceId>
       <JapaneseText>な〜にを言っとる!?
 ワシより先にボケたか？</JapaneseText>
-      <EnglishText>What the hell are you moaning about!?
-You're going senile even before
-this old man?</EnglishText>
+      <EnglishText>What the hell are you moaning
+about!? You're going senile
+even before this old man?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -304,8 +317,8 @@ this old man?</EnglishText>
 ジィちゃんと剣術の特訓してて
 またぶっとばされたのか</JapaneseText>
       <EnglishText>O-Ouch... That's right.
-I was training with Gramps and got
-knocked out again.</EnglishText>
+I was training with Gramps
+and got knocked out again.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -320,7 +333,7 @@ knocked out again.</EnglishText>
 誰かが『探し出せ』って
 叫んでて……</JapaneseText>
       <EnglishText>Hmm... but that strange dream I had.
-Someone was shouting at me to
+Someone was shouting to at me to
 "find it"...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -351,9 +364,9 @@ and get you to give me your Soma!</EnglishText>
       <JapaneseText>ふん、ソーマをただの
 武器だと思っとる孫なんぞに
 ワシが負けるか</JapaneseText>
-      <EnglishText>Hmph, I refuse to be defeated by my idiot
-grandson who thinks a Soma is just some
-weapon.</EnglishText>
+      <EnglishText>Hmph, I refuse to be defeated
+by my idiot grandson who thinks
+a Soma is just some weapon.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -368,8 +381,8 @@ weapon.</EnglishText>
 あと十年、真面目に修行すれば
 打ちこめるようになるかもな</JapaneseText>
       <EnglishText>...Well, your skill isn't too bad.
-Start training diligently now for 10 years,
-and you might just surpass me.</EnglishText>
+Start training diligently now for 10
+years, and you might just surpass me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -383,8 +396,8 @@ and you might just surpass me.</EnglishText>
       <JapaneseText>十年!?　その頃ジィちゃんは
 ヨボヨボだろ？　そんな
 ジィちゃんに勝ってもなぁ……</JapaneseText>
-      <EnglishText>10 whole years!? But won't you be a
-senile old man by then? Even if
+      <EnglishText>10 whole years!? But won't you be
+a senile old man by then? Even if
 I managed to win against you then...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -415,8 +428,9 @@ got a good 10 or 20 years...</EnglishText>
       <JapaneseText>……お前が
 一人前になるまでは
 現役でおるわい</JapaneseText>
-      <EnglishText>...Until you've managed to stand on your own
-two feet, I won't be retiring anytime soon.</EnglishText>
+      <EnglishText>...Until you've learned to stand
+on your own two feet, I won't be
+retiring anytime soon.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -473,8 +487,8 @@ the spirit and will of man!</EnglishText>
       <JapaneseText>スピリアは、この世界で一番強く
 ……そして一番脆いものだ</JapaneseText>
       <EnglishText>A Spiria is extremely powerful...
-yet is also the most fragile thing
-in this world.</EnglishText>
+yet is also the most fragile
+thing in this world.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -694,7 +708,7 @@ from that witch.</EnglishText>
 スピルーンの欠片を指してるのか？
 行ってみよう！</JapaneseText>
       <EnglishText>This is... Are you pointing us to a piece
-of your Spirune? Let's go after it!</EnglishText>
+of your Spiria Core? Let's go after it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>

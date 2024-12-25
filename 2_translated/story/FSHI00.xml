@@ -261,7 +261,7 @@ linked and calmed him down.</EnglishText>
       <JapaneseText>でもオレ、死んだ母さんが
 ソーマ使いだったとは聞いてたけど</JapaneseText>
       <EnglishText>I heard that my late mom was a
-Soma user...</EnglishText>
+Somatic...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -274,7 +274,7 @@ Soma user...</EnglishText>
       <VoiceId>S010215</VoiceId>
       <JapaneseText>ジィちゃんもソーマが使えるなんて
 あの時まで知らなかったなぁ</JapaneseText>
-      <EnglishText>but I didn’t know you could use it
+      <EnglishText>but I didn't know you could use it
 too up until then, Gramps.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -337,7 +337,7 @@ we only have you to rely on Mr. Zex.</EnglishText>
       <JapaneseText>ジィちゃん
 人のスピリアを救うのが
 ソーマ使いの役目じゃないの？</JapaneseText>
-      <EnglishText>Gramps, isn't it the duty of a Soma user
+      <EnglishText>Gramps, isn't it the duty of a Somatic
 to save people?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -596,7 +596,7 @@ Look, I'll show you the Soma as proof!</EnglishText>
 ジィちゃんが書いた
 ソーマ使いの心得書だ</JapaneseText>
       <EnglishText>Let's see...
-It's a guide that Gramps wrote for Soma users.</EnglishText>
+It's a guide that Gramps wrote for Somatics.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -1253,7 +1253,8 @@ What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
 &lt;Kohaku&gt;のスピルーンを
 …………バラバラにしちゃった</JapaneseText>
       <EnglishText>I'm sorry, I...
-&lt;Kohaku&gt;'s Spirune... I ended up breaking it.</EnglishText>
+&lt;Kohaku&gt;'s Spiria Core...
+I ended up breaking it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>73</Id>
@@ -1265,7 +1266,7 @@ What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
       <PointerOffset>91092</PointerOffset>
       <VoiceId>S011510</VoiceId>
       <JapaneseText>…………スピルーン？</JapaneseText>
-      <EnglishText>...Her Spirune?</EnglishText>
+      <EnglishText>...Her Spiria Core?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>74</Id>
@@ -1345,7 +1346,8 @@ Stop... it...</EnglishText>
       <PointerOffset>95236</PointerOffset>
       <VoiceId>S011516</VoiceId>
       <JapaneseText>スピルーンが……まだ残ってる!?</JapaneseText>
-      <EnglishText>She still... has a part of her Spirune!?</EnglishText>
+      <EnglishText>She still... has a part of her
+Spiria Core!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>80</Id>
@@ -1359,13 +1361,14 @@ Stop... it...</EnglishText>
       <JapaneseText>……&lt;Kohaku&gt;は
 ケンカや弱いものイジメが
 大嫌いなんだ</JapaneseText>
-      <EnglishText>...&lt;Kohaku&gt; would always hate fighting and bullying.</EnglishText>
+      <EnglishText>...&lt;Kohaku&gt; always hated fighting
+and bullies.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>95764</PointerOffset>
@@ -1403,13 +1406,14 @@ may have forgotten her anger, but...</EnglishText>
 まだ、その娘のスピルーンは
 失われてはいない……</JapaneseText>
       <EnglishText>Ugh... Indeed.
-That girl's Spirune has not been lost yet...</EnglishText>
+That girl's Spirune has not yet
+been lost...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>96708</PointerOffset>
@@ -1475,8 +1479,8 @@ Use your healing artes on Gramps...</EnglishText>
       <JapaneseText>いや、その青年は
 十分やって……くれたよ。
 ワシがもう無駄だと……言ったのだ</JapaneseText>
-      <EnglishText>No, this boy… did all he could.
-I told him it’s… no use.</EnglishText>
+      <EnglishText>No, this boy... did all he could.
+I told him it's... no use.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>87</Id>
@@ -1533,8 +1537,8 @@ get the better of you again?</EnglishText>
       <VoiceId>S011529</VoiceId>
       <JapaneseText>感情に流されない……
 強いスピリアを育てるんだ</JapaneseText>
-      <EnglishText>Don’t let your emotions get the better of
-you... and raise a strong Spiria…</EnglishText>
+      <EnglishText>Don't let your emotions get the better of
+you... and raise a strong Spiria...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>90</Id>
@@ -1576,15 +1580,15 @@ It's a "promise"!</EnglishText>
       <JapaneseText>いい子だ。信じて……いるぞ……
 お前の真っ直ぐなスピリア……は
 ……に……ないと…………</JapaneseText>
-      <EnglishText>Good boy. I believe… in you…
-You must make your Spiria…
+      <EnglishText>Good boy. I believe... in you...
+You must make your Spiria...
 Strong... and firm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99880</PointerOffset>

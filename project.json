@@ -10,13 +10,14 @@
 		"story_original":  "./1.5_original_translated/story/",
         "menu_xml":        "./2_translated/menu/",
         "story_xml":       "./2_translated/story/",
-        "skit_xml":        "./2_Translated/skits/",
+        "skit_xml":        "./2_translated/skits/",
+		"new_font":			   "./2_translated/font/",
         "final_files":     "./3_patched/",
         "temp_files":      "./3_patched/patched_temp/",
         "game_builds":     "./4_builds/",
 		"saved_files":	   "./tools/saved_files/",
         "tools":           "./tools/"
     },
-    "asm_file":        "main.asm",
+    "asm_file":        "adjust_textbox.asm",
     "main_exe_name":   "arm9.bin"
 }
