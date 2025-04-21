@@ -675,6 +675,17 @@ class ToolsTOH():
         fps4.extract_files(destination_path= base_path / file_name, copy_path=self.paths['temp_files'] / 'menu',
                            decompressed=False)
 
+    def pack_menu_bg(self):
+        file_name = 'MENU_BG'
+        base_path = self.paths['extracted_files'] / 'data' / 'menu'
+        fps4 = Fps4(detail_path=self.paths['original_files'] / f'data/menu/{file_name}.dat',
+                    header_path=self.paths['original_files'] / f'data/menu/{file_name}.b')
+
+        (base_path / file_name).mkdir(parents=True, exist_ok=True)
+        fps4.pack_fps4_bg(self.paths['temp_files'] / 'data' / 'menu' / file_name, self.paths['final_files'] / 'data' / 'menu')
+        #fps4.extract_files(destination_path=base_path / file_name, copy_path=self.paths['temp_files'] / 'menu',
+        #                   decompressed=False)
+
     def extract_all_skits(self, keep_translations=False):
         type = 'skit'
         base_path = self.paths['extracted_files'] / self.file_dict[type]
@@ -736,15 +747,17 @@ class ToolsTOH():
                                     destination_folder=self.paths['temp_files'] / self.file_dict[type])
     def pack_all_story(self):
         type = 'story'
-        # Copy original TSS files in the "updated" folder
-        dest = self.paths['temp_files'] / self.file_dict[type]
+        # Copy original FPS4 MAPBIN and B
+        for file in (self.paths['extracted_files'] / 'data' / 'm').iterdir():
+            if file.stem.endswith('.B') or file.stem.endswith('.MAPBIN'):
+                shutil.copy(src = file, dst = self.paths['temp_files'] / 'data' / 'm' / file.stem)
+
 
         #Repack all the TSS that need to be updated based on status changed
         xml_list, archive_list = self.find_changes('story')
 
         if len(xml_list) > 0:
             for xml_path in tqdm(xml_list, total=len(xml_list), desc='Inserting Story Files'):
-
                 if os.path.exists(xml_path):
                     archive_name = xml_path.stem if not xml_path.stem.endswith('P') else xml_path.stem[0:-1]
                     end_name = f"{self.file_dict['story']}/{archive_name}/{xml_path.stem}.SCP"
@@ -762,13 +775,12 @@ class ToolsTOH():
             for archive in archive_list:
                 self.pack_mapbin_story(archive, type)
 
-            folder = 'm'
-            base_path = self.paths['extracted_files'] / 'data' / folder
-            (self.paths['final_files'] / self.file_dict[type]).mkdir(parents=True, exist_ok=True)
-            fps4_m = Fps4(detail_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.dat',
-                        header_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.b')
-            fps4_m.pack_fps4_type1(updated_file_path=self.paths['temp_files'] / self.file_dict[type],
-                                   destination_folder=self.paths['final_files'] / self.file_dict[type])
+        folder = 'm'
+        (self.paths['final_files'] / self.file_dict[type]).mkdir(parents=True, exist_ok=True)
+        fps4_m = Fps4(detail_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.dat',
+                    header_path=self.paths['original_files'] / self.file_dict['story'] / f'{folder}.b')
+        fps4_m.pack_fps4_type1(updated_file_path=self.paths['temp_files'] / self.file_dict[type],
+                               destination_folder=self.paths['final_files'] / self.file_dict[type])
 
     def find_changes(self, type):
 
@@ -804,10 +816,11 @@ class ToolsTOH():
         folder = 'm'
         base_path = self.paths['extracted_files'] / 'data' / folder
 
+        #Extract m.dat / m.b FPS4
         fps4 = Fps4(detail_path=self.paths['original_files'] / 'data' / folder / f'{folder}.dat',
                     header_path=self.paths['original_files'] / 'data' / folder / f'{folder}.b')
         copy_path = self.paths['temp_files'] / self.file_dict['story']
-        fps4.extract_files(destination_path=base_path, copy_path=copy_path)
+        fps4.extract_files(destination_path=base_path, copy_path=copy_path, decompressed=False)
 
         self.paths['story_xml'].mkdir(parents=True, exist_ok=True)
         self.paths['story_original'].mkdir(parents=True, exist_ok=True)

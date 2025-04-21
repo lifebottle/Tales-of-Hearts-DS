@@ -3,6 +3,7 @@ import struct
 import pyjson5 as json
 import string
 from .FileIO import FileIO
+from itertools import chain
 
 VALID_VOICEID = [r'(VSM_\w+)', r'(VCT_\w+)', r'(S\d+)', r'(C\d+)']
 COMMON_TAG = r"(<[\w/]+:?\w+>)"
@@ -23,6 +24,19 @@ for k, v in jsonTblTags.items():
     else:
         ijsonTblTags[k] = {v2: hex(k2).replace('0x', '').upper() for k2, v2 in v.items()}
 iTags = {v2.upper(): k2 for k2, v2 in jsonTblTags['TAGS'].items()}
+
+letter_values = {}
+letter_path = '../Tales-of-Hearts-DS/Project/letter_values.txt'
+try:
+    with open(letter_path, 'r',encoding='utf-8') as file:
+        for line in file:
+            letter, value = line.strip().split()
+            letter_values[letter] = int(value)
+except FileNotFoundError:
+    print(f"Error: File '{letter_path}' not found.")
+except ValueError:
+    print(f"Error: Invalid format in file '{letter_path}'.")
+
 def bytes_to_text(src: FileIO, offset: int = -1) -> (str, bytes):
     finalText = ""
     chars = jsonTblTags['TBL']
@@ -181,3 +195,67 @@ def text_to_bytes(text:str):
 
 
     return output
+
+def calculate_word_sum(word, letter_space):
+    word_sum = 0
+
+    for letter in word:
+        # Check if the letter is in the dictionary
+        if letter in letter_values:
+            # Add the value of the letter to the sum
+            word_sum += letter_values[letter]
+            # add the 1 pixel of space between word
+            word_sum += letter_space  # story has +2 letter spacing
+        else:
+            # Handle the case where the letter is not in the dictionary
+            print(f"Warning: Letter '{letter}' not found in the dictionary.")
+
+    return word_sum
+
+
+def wordwrap_column(text, wrap_length, space_length):
+
+    # Wordwrap the text in the specified column of each row
+    # Remove trailing white space
+    text = text.rstrip()
+    # Remove double white spaces
+    text = " ".join(text.split())
+    # Remove existing line breaks
+    text = text.replace("\n", " ")
+    wrapped_text = ""
+    line = ""
+    line_length = 0
+    nb_lines = 0
+    letter_space = 1
+
+    multi_regex = (HEX_TAG + "|" + COMMON_TAG + r"|(\n)")
+    tokens = [sh.split(" ") for sh in re.split(multi_regex, text) if sh is not None and sh != ""]
+    tokens = [ele for ele in list(chain.from_iterable(tokens)) if ele != '']
+
+    for word in tokens:
+
+        if word in letter_values.keys():
+            line_length += letter_values[word]
+        else:
+            line_length += calculate_word_sum(word, letter_space) - letter_space  # -2 remove the last letter spacing
+
+        if line_length > wrap_length:
+            # If so, add the current line to the wrapped text and start a new line
+            wrapped_text += line.rstrip(" ") + "\n"  # removing trailing white space
+            line = word + ' '
+            line_length = calculate_word_sum(word, letter_space) + space_length  # for white spaces
+            nb_lines += 1
+        else:
+            # Add the word to the current line
+            line += word + " "
+            # line_length += calculate_word_sum(word, letter_values)+17 #for white spaces
+            line_length += space_length  # for white spaces
+
+    # Add the remaining line to the wrapped text
+    wrapped_text += line
+
+    if nb_lines > 3:
+        print("Cell has more than 3 lines after wordwrapping" + '\n')
+        print(wrapped_text + "\n====================\n")
+
+    return wrapped_text

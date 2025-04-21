@@ -199,6 +199,7 @@ if __name__ == "__main__":
 
             elif args.file_type == "All":
                 print(args.iso.resolve())
+                tales_instance.pack_menu_bg()
                 tales_instance.pack_all_skits()
                 tales_instance.pack_all_story()
                 tales_instance.pack_all_menu()
