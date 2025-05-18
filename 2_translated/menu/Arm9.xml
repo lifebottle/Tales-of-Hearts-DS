@@ -268,7 +268,7 @@
     <Entry>
       <PointerOffset>731300,731892,732324,732628,732884,732996,733108,733460,733556,733844,733956,734116,734340,734996,735204,735252,735492,735556,735636,736468,737828,738180,738740,739460,740052</PointerOffset>
       <JapaneseText>メニュー終了</JapaneseText>
-      <EnglishText>Menu End</EnglishText>
+      <EnglishText>Exit Menu</EnglishText>
       <Notes/>
       <Id>34</Id>
       <Status>Editing</Status>
@@ -2218,9 +2218,9 @@ change targets.</EnglishText>
       <PointerOffset>737796</PointerOffset>
       <JapaneseText>ボリューム最小</JapaneseText>
       <EnglishText>Set Volume to Min</EnglishText>
-      <Notes/>
+      <Notes>the n in min is cutoff a little bit in the game</Notes>
       <Id>276</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>737812</PointerOffset>
