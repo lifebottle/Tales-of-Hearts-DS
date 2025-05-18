@@ -149,7 +149,7 @@ It’s our only memento of her.</EnglishText>
 もう亡くなっちゃってるんだね</JapaneseText>
       <EnglishText>I see, so your mother was a Somatic too.
 I’m sorry to hear she’s already passed.</EnglishText>
-      <Notes/>
+      <Notes>Better way to say second sentence.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
@@ -165,7 +165,7 @@ I’m sorry to hear she’s already passed.</EnglishText>
       <EnglishText>Our mother passed away too.
 But we have no idea where
 her Soma went...</EnglishText>
-      <Notes/>
+      <Notes>Need to incorporate memento/keepsake into the second sentence</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
@@ -564,7 +564,7 @@ We're getting out of here, NOW!</EnglishText>
 『彼女』は、その娘の中にィ!!</JapaneseText>
       <EnglishText>Finally… I’ve finally found her!
 “She” resides within that girl!</EnglishText>
-      <Notes/>
+      <Notes>Uses female; but I'm pretty sure this is supposed to be about Creed being inside Shing, who are both guys; not Lithia</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
@@ -576,87 +576,92 @@ We're getting out of here, NOW!</EnglishText>
       <JapaneseText>母さん……
 母さんのソーマは
 &lt;Kohaku&gt;に預けたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mom... I've entrusted your Soma to &lt;Kohaku&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89560</PointerOffset>
       <JapaneseText>ソーマ……
 とってもあたたかいです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Her Soma...
+It feels so warm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89688</PointerOffset>
       <JapaneseText>……&lt;Kohaku&gt;を
 守ってあげてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Please continue to protect &lt;Kohaku&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92696</PointerOffset>
       <JapaneseText>ああ、ドナ……
 こんな形で会う事になるなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, Danah...
+I never thought we'd meet like this...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92968</PointerOffset>
       <JapaneseText>悲しまないで、リチア。
 ドナさんのスピリアは
 このソーマに息づいてる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please don't be sad, Lithia.
+Danah's Spiria continues to
+live on in this Soma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92968</PointerOffset>
       <JapaneseText>今も、リチアを助けて
 クリードをぶっとばせって
 強く、熱く励ましてくれるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even now, she's been encouraging me
+to help you and take down Creed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93232</PointerOffset>
       <JapaneseText>ああ、ジィちゃんの
 スピリアも同じだよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it's the same with Gramps' Spiria!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>95696</PointerOffset>
@@ -1336,7 +1341,7 @@ We're getting out of here, NOW!</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>73904</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>10</SpeakerId>
@@ -1391,7 +1396,7 @@ We're getting out of here, NOW!</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>80640</PointerOffset>
-      <JapaneseText/>
+      <JapaneseText></JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>10</SpeakerId>
