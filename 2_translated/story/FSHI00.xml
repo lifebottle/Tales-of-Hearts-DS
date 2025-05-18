@@ -58,9 +58,9 @@
       <JapaneseText>はぁ〜〜〜食べた、食べた！
 やっぱ、ジィちゃんの作る
 アクティブタの角煮は最高だなぁ</JapaneseText>
-      <EnglishText>Mhhhh~ How tasty!
-As I thought, Gramp's stewed pork
-belly is really the best!</EnglishText>
+      <EnglishText>Phew, I can't eat another bite!
+Your powerhog stew always
+hits the spot!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -74,9 +74,9 @@ belly is really the best!</EnglishText>
       <JapaneseText>だろ？
 グミ焼酎をいれて煮こむのが
 秘訣なんだぞ</JapaneseText>
-      <EnglishText>See?
-The secret is to cook it in some liquer gel.</EnglishText>
-      <Notes>Maybe "That's right" for the first phrase</Notes>
+      <EnglishText>Right? The secret is to let
+it simmer in the gel liquor.</EnglishText>
+      <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
@@ -89,9 +89,9 @@ The secret is to cook it in some liquer gel.</EnglishText>
       <JapaneseText>ゼクスさん……となり街の
 兄の娘が、もう何日も口もきかず
 部屋からも出てこないらしい</JapaneseText>
-      <EnglishText>Mr. Zeks... My brother says his daughter
-hasn't spoken or come out of her room for
-days now. They're in the next city over.</EnglishText>
+      <EnglishText>Excuse me, Zektz? My niece from
+the town over hasn’t said a word
+or left her room for days now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -105,9 +105,9 @@ days now. They're in the next city over.</EnglishText>
       <JapaneseText>兄は、例の『デスピル病』じゃ
 ないかって心配してるんだ……
 ソーマで診てはもらえんかねぇ？</JapaneseText>
-      <EnglishText>He's worried that she might have contracted
-that disease called "Despir." Could you
-check up on her with your Soma?</EnglishText>
+      <EnglishText>My brother's worried it might
+be a case of despir. Could you use
+your Soma to take a look at her?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -121,9 +121,7 @@ check up on her with your Soma?</EnglishText>
       <JapaneseText>デスピル病！　最近、流行って
 るんだってね。スピリアが
 暴走する原因不明の奇病なんだろ？</JapaneseText>
-      <EnglishText>Despir! It seems to be rampant these days.
-It's that strange disease which causes people's
-Spiria to go out of control, right?</EnglishText>
+      <EnglishText>Despir? There’s been a lot of cases popping up recently. Isn't that the weird illness that makes your Spiria lose control?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -136,8 +134,9 @@ Spiria to go out of control, right?</EnglishText>
       <VoiceId>S010206</VoiceId>
       <JapaneseText>その上、普通の医者や薬では
 どうにもできないときている</JapaneseText>
-      <EnglishText>On top of that, ordinary doctors and
-medicines can't do anything to treat it.</EnglishText>
+      <EnglishText>What’s worse is there's nothing
+your average doctor or medicine
+can do to cure it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -151,15 +150,15 @@ medicines can't do anything to treat it.</EnglishText>
       <JapaneseText>う〜ん、『スピリア』ってのは
 難しく言うと精神と意思を生み出す
 『生命の根源』だからねぇ</JapaneseText>
-      <EnglishText>Let's see, to put it simply, "Spiria" is the
-"root of life" that gives birth to our spirit
-and will.</EnglishText>
+      <EnglishText>Hmm. Spiria is the “origin of all life”
+which governs your mind
+and soul, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59884</PointerOffset>
@@ -167,15 +166,15 @@ and will.</EnglishText>
       <JapaneseText>それを癒せるのは、人の
 スピリアの中に『リンク』できる
 神秘の武具『ソーマ』だけさ！</JapaneseText>
-      <EnglishText>Only Somas, which are a type of magical
-weapon, can "link" with a person's Spiria
-and heal them.</EnglishText>
+      <EnglishText>And the only cure are secret
+weapons that can “link” with
+a person's Spiria—Soma!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60092</PointerOffset>
@@ -183,9 +182,9 @@ and heal them.</EnglishText>
       <JapaneseText>お前はだまっとれ！
 ……スマンが、ワシはソーマを
 気軽に使う訳にはいかんのだ</JapaneseText>
-      <EnglishText>Stay quiet you fool!
-...Look, I'm sorry, but I can't just go using
-my Soma willy-nilly.</EnglishText>
+      <EnglishText>Pipe down, would ya!
+I’m sorry,  but I’m afraid I
+can’t use my Soma so readily.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -199,9 +198,9 @@ my Soma willy-nilly.</EnglishText>
       <JapaneseText>なんでさ？　いつも『人が困って
 たら助けろ。美人が困ってたら
 絶対助けろ』って言ってるクセに</JapaneseText>
-      <EnglishText>Why not? You always say to "help out
-someone in need." And "if it's a beautiful
-lady, then definitely help her out."</EnglishText>
+      <EnglishText>Why not?! You're always saying
+I should "lend a hand to those in
+need, especially for a pretty lady!"</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -214,7 +213,8 @@ lady, then definitely help her out."</EnglishText>
       <VoiceId>S010211</VoiceId>
       <JapaneseText>兄の娘は
 なかなかの美人ですが……</JapaneseText>
-      <EnglishText>Well, she is quite the beauty...</EnglishText>
+      <EnglishText>You know, my niece
+is quite the looker.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -228,8 +228,8 @@ lady, then definitely help her out."</EnglishText>
       <JapaneseText>ほほう!?
 …………いやいや
 そういう問題ではなくて</JapaneseText>
-      <EnglishText>Oh-ho!?
-...Err, that's not the point here.</EnglishText>
+      <EnglishText>Oho?!
+…No no, that’s not the issue here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -243,9 +243,9 @@ lady, then definitely help her out."</EnglishText>
       <JapaneseText>この前は、村の広場で
 突然暴れだした奴にリンクして
 すぐにおとなしくさせたじゃないか</JapaneseText>
-      <EnglishText>But the other day, when that guy started
-acting up in the village square, you linked
-with him and got him to calm down.</EnglishText>
+      <EnglishText>What about that guy who suddenly
+went berserk? You linked and he
+calmed down right away!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -258,8 +258,8 @@ with him and got him to calm down.</EnglishText>
       <VoiceId>S010214</VoiceId>
       <JapaneseText>でもオレ、死んだ母さんが
 ソーマ使いだったとは聞いてたけど</JapaneseText>
-      <EnglishText>I heard that my late mom was a
-Soma user...</EnglishText>
+      <EnglishText>You know, I knew my
+late mom was a Somatic, but…</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -272,8 +272,8 @@ Soma user...</EnglishText>
       <VoiceId>S010215</VoiceId>
       <JapaneseText>ジィちゃんもソーマが使えるなんて
 あの時まで知らなかったなぁ</JapaneseText>
-      <EnglishText>but I didn’t know you could use it
-too up until then, Gramps.</EnglishText>
+      <EnglishText>I had no idea you were a Somatic
+too until that happened!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -287,9 +287,9 @@ too up until then, Gramps.</EnglishText>
       <JapaneseText>明かす気はなかったが
 暴れた男には『ゼロム』が
 憑いておったからな……</JapaneseText>
-      <EnglishText>I hadn't intended to reveal it, but the
-man who was acting up had been
-possessed by a "Xerom...."</EnglishText>
+      <EnglishText>I didn’t plan to tell you, but the
+matter was pressing given that
+man was haunted by xerom.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -303,9 +303,9 @@ possessed by a "Xerom...."</EnglishText>
       <JapaneseText>まさか、『彼女』の身に何かが？
 ソーマリンクの感触では、かなり
 力が衰えているようだったが……</JapaneseText>
-      <EnglishText>Could it be that something happened to "her?"
-From the Soma Link, it seems that her
-strength has diminished greatly...</EnglishText>
+      <EnglishText>I wonder if something
+ happened to "her?" I felt pretty
+unstable when I'd Somalinked.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -319,9 +319,9 @@ strength has diminished greatly...</EnglishText>
       <JapaneseText>……無理は言いたくないが
 教会もないこんな辺境では
 ゼクスさんを頼るしかないんだよ</JapaneseText>
-      <EnglishText>...I don't want to impose on you, but in
-such a remote place that has no church, we
-have no choice but to rely on you Mr. Zeks.</EnglishText>
+      <EnglishText>I can’t force you, but there’s
+no church around to rely on.
+You're our only hope!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -335,8 +335,9 @@ have no choice but to rely on you Mr. Zeks.</EnglishText>
       <JapaneseText>ジィちゃん
 人のスピリアを救うのが
 ソーマ使いの役目じゃないの？</JapaneseText>
-      <EnglishText>Gramps, isn't it the duty of a Soma user
-to save people?</EnglishText>
+      <EnglishText>Gramps, I thought saving
+people's Spiria was the
+whole point of being a Somatic?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -350,9 +351,9 @@ to save people?</EnglishText>
       <JapaneseText>放ってもおけんか。
 とにかく一度様子を診て
 ソーマを使うかどうか判断しよう</JapaneseText>
-      <EnglishText>I suppose I can't just ignore this. In any case,
-let me first take a look at her and see if
-we need to use the Soma.</EnglishText>
+      <EnglishText>Well I can't just ignore this, can I?
+For now I'll give her a look over,
+then decide if I use my Soma or not.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
@@ -365,7 +366,7 @@ we need to use the Soma.</EnglishText>
       <VoiceId>S010221</VoiceId>
       <JapaneseText>ありがたい！
 お願いします</JapaneseText>
-      <EnglishText>Thank you so much!</EnglishText>
+      <EnglishText>Ah, I can't thank you enough!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
@@ -377,7 +378,7 @@ we need to use the Soma.</EnglishText>
       <PointerOffset>62856</PointerOffset>
       <VoiceId>S010222</VoiceId>
       <JapaneseText>そうこなくっちゃ！</JapaneseText>
-      <EnglishText>That's what I'm talking about!</EnglishText>
+      <EnglishText>Well, what are we waiting for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
@@ -391,8 +392,8 @@ we need to use the Soma.</EnglishText>
       <JapaneseText>……&lt;Shing&gt;
 お前は連れていかんぞ。
 となり街だからな</JapaneseText>
-      <EnglishText>...&lt;Shing&gt;, I'm not taking you with me.
-It's in the next city over.</EnglishText>
+      <EnglishText>&lt;Shing&gt;, you’re not going anywhere.
+This is in the next town over.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
@@ -406,9 +407,8 @@ It's in the next city over.</EnglishText>
       <JapaneseText>ええ、またかよ!?
 なんでジィちゃんはオレを村から
 出してくれないんだよ!?</JapaneseText>
-      <EnglishText>Ehhh, again!?
-Why won't you ever let me leave
-the village!?</EnglishText>
+      <EnglishText>Man, this again?
+Why won’t you ever let me leave the village?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -422,8 +422,9 @@ the village!?</EnglishText>
       <JapaneseText>オレは、もう子どもじゃないんだ！
 訳のわからない命令は
 いいかげんにしてくれッ!!</JapaneseText>
-      <EnglishText>I'm not a child anymore!
-Why won't you ever explain it to me!</EnglishText>
+      <EnglishText>I'm not a little kid anymore!
+You can't just boss me 
+around for no reason!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
@@ -435,7 +436,8 @@ Why won't you ever explain it to me!</EnglishText>
       <PointerOffset>64032</PointerOffset>
       <VoiceId>S010226</VoiceId>
       <JapaneseText>理由はそれだ</JapaneseText>
-      <EnglishText>That's the reason.</EnglishText>
+      <EnglishText>That attitude is exactly
+why I don't let you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
@@ -449,9 +451,9 @@ Why won't you ever explain it to me!</EnglishText>
       <JapaneseText>&lt;Shing&gt;、教えたはずだぞ。
 怒りや憎しみ……強い感情に
 のみこまれてはいかん、と</JapaneseText>
-      <EnglishText>&lt;Shing&gt;, I've told you countless times before.
-Don't let yourself be consumed by strong
-emotions such as anger and hate.</EnglishText>
+      <EnglishText>&lt;Shing&gt;, how many times must I say this―
+You musn't let yourself be consumed by
+intense feelings of anger or hatred.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
@@ -477,8 +479,9 @@ emotions such as anger and hate.</EnglishText>
       <JapaneseText>そんな弱いスピリアじゃ、街の
 美人に会ったら、一発でとろけて
 しまうからなぁ〜</JapaneseText>
-      <EnglishText>If your Spiria is that weak, you'd melt
-at your first sight of a beautiful city girl~. </EnglishText>
+      <EnglishText>Heh, with a Spiria like yours, you'd
+melt on the spot if a cute girl even
+so much as looked at you!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -490,7 +493,7 @@ at your first sight of a beautiful city girl~. </EnglishText>
       <PointerOffset>64896</PointerOffset>
       <VoiceId>S010230</VoiceId>
       <JapaneseText>そ、それは自分だろ！</JapaneseText>
-      <EnglishText>T-That's totally your problem!</EnglishText>
+      <EnglishText>That's what YOU'D do!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
@@ -504,9 +507,9 @@ at your first sight of a beautiful city girl~. </EnglishText>
       <JapaneseText>ははは、お前に色気はまだ早い！
 土産に『グミ大福』を買ってきて
 やるから、おとなしく待ってろ</JapaneseText>
-      <EnglishText>Hahaha, you're not ready to handle that kind
-of sexiness yet! Look, I'll get you daifuku
-gels as a souvenir, so sit still and relax.</EnglishText>
+      <EnglishText>True, you're a bit too green for that yet!
+How's this, I'll bring you back a gel cake,
+so be a good boy and stay put.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -520,8 +523,9 @@ gels as a souvenir, so sit still and relax.</EnglishText>
       <JapaneseText>なんだよ！　留守番なんか
 してたって、スピリアが
 強くなるわけないだろ！</JapaneseText>
-      <EnglishText>But why!? Staying at home won't
-make my Spiria any stronger!</EnglishText>
+      <EnglishText>Seriously?! How am I supposed to
+forge a strong Spiria if all I do is
+sit around the house?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
@@ -535,8 +539,9 @@ make my Spiria any stronger!</EnglishText>
       <JapaneseText>ゼクスさん！　ゼクスさん！
 ねぇ、きみ、お祖父さんは
 どこなの？</JapaneseText>
-      <EnglishText>Mr. Zeks! Mr. Zeks!
-Hey, you, where's your grandpa?</EnglishText>
+      <EnglishText>Mr. Zektz! Are you here?
+Hey, do you know where
+your grandfather went?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
@@ -549,8 +554,8 @@ Hey, you, where's your grandpa?</EnglishText>
       <VoiceId>S010502</VoiceId>
       <JapaneseText>ジィちゃんは出かけてるんだ。
 夕方には帰るはずだよ</JapaneseText>
-      <EnglishText>Gramps is out right now. He should be
-back in the evening.</EnglishText>
+      <EnglishText>Gramps is out of town right now.
+He should be back by evening.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -564,8 +569,9 @@ back in the evening.</EnglishText>
       <JapaneseText>……てめぇ、&lt;Kohaku&gt;を
 家に連れこむために
 うそをついたんじゃねぇだろうな!?</JapaneseText>
-      <EnglishText>...You asshole, you lied to lure &lt;Kohaku&gt;
-into the house, didn't you!?</EnglishText>
+      <EnglishText>You little punk! Thought you could
+lie your way into luring &lt;Kohaku&gt;
+back to your house, huh?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
@@ -578,8 +584,8 @@ into the house, didn't you!?</EnglishText>
       <VoiceId>S010504</VoiceId>
       <JapaneseText>うそじゃないよ！
 よし、証拠のソーマを見せてやる！</JapaneseText>
-      <EnglishText>I'm not lying!
-Look, I'll show you the Soma as proof!</EnglishText>
+      <EnglishText>That's not it at all! Here, I'll show you
+his Soma. That'll prove I'm not lying!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -593,8 +599,7 @@ Look, I'll show you the Soma as proof!</EnglishText>
       <JapaneseText>これは……
 ジィちゃんが書いた
 ソーマ使いの心得書だ</JapaneseText>
-      <EnglishText>Let's see...
-It's a guide that Gramps wrote for Soma users.</EnglishText>
+      <EnglishText>This is a handbook for Somatics. Gramps wrote it himself.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -608,8 +613,8 @@ It's a guide that Gramps wrote for Soma users.</EnglishText>
       <JapaneseText>ジィちゃんめ……やっぱ
 カギかけてるな？　でもカギの
 隠し場所なんてお見通しだぜ</JapaneseText>
-      <EnglishText>Just as I thought, Gramps locked it away.
-But I know where he hid the key.</EnglishText>
+      <EnglishText>Dang it, Gramps locked this up tight.
+Lucky for me, I know where you hid the key!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
@@ -622,8 +627,8 @@ But I know where he hid the key.</EnglishText>
       <VoiceId>S010506</VoiceId>
       <JapaneseText>ウチの妹に妙な真似しやがったら
 マジで殺すからな</JapaneseText>
-      <EnglishText>If you try anything weird with my sister,
-I'mma kill you for real.</EnglishText>
+      <EnglishText>If you’re trying to pull one over
+on my sister, I’ll kill you for real.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
@@ -637,21 +642,21 @@ I'mma kill you for real.</EnglishText>
       <JapaneseText>カギは『グミ焼酎』の
 タルの裏……と、見せかけて
 こっちの『ぬか漬け』の中だ！</JapaneseText>
-      <EnglishText>The key is behind the gel shochu... or so
-he pretended to place it, but it's actually
-hidden under the nukazuke!</EnglishText>
-      <Notes>Is there an english equivalent to use for shochu and nukazuke?</Notes>
+      <EnglishText>He makes it look like it's behind the
+gel liquor barrel, but... I knew it!
+He actually put it in the pickle jar!</EnglishText>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>71504</PointerOffset>
       <VoiceId>S010510</VoiceId>
       <JapaneseText>ほ〜らね♪</JapaneseText>
-      <EnglishText>Got it♪</EnglishText>
+      <EnglishText>Found it! ♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
@@ -663,7 +668,7 @@ hidden under the nukazuke!</EnglishText>
       <PointerOffset>72164</PointerOffset>
       <VoiceId>S010511</VoiceId>
       <JapaneseText>よっし、開いた！</JapaneseText>
-      <EnglishText>Okay, it's open!</EnglishText>
+      <EnglishText>All right, it’s open!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
@@ -675,7 +680,7 @@ hidden under the nukazuke!</EnglishText>
       <PointerOffset>72672</PointerOffset>
       <VoiceId>S010512</VoiceId>
       <JapaneseText>これが……ソーマ……</JapaneseText>
-      <EnglishText>So this is... a Soma...</EnglishText>
+      <EnglishText>So this is a Soma…</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -689,9 +694,9 @@ hidden under the nukazuke!</EnglishText>
       <JapaneseText>そうさ！
 思念術を操り人間のスピリアに
 リンクできる神秘の武具なんだ！</JapaneseText>
-      <EnglishText>Yup! It's a magical weapon that can manipulate
-the power of Will and link to human
-Spirias!</EnglishText>
+      <EnglishText>Yup! They’re these mysterious weapons
+that can link with a person's Spiria
+using Will artes!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
@@ -704,7 +709,8 @@ Spirias!</EnglishText>
       <VoiceId>S010514</VoiceId>
       <JapaneseText>ここには、もうひとつ
 ソーマがあるはずなんだけど……</JapaneseText>
-      <EnglishText>There should be another Soma around here...</EnglishText>
+      <EnglishText>I heard there was supposed to be
+another Soma around here too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
@@ -718,9 +724,9 @@ Spirias!</EnglishText>
       <JapaneseText>うん。
 岬に別のソーマを奉った
 ほこらがあるけど？</JapaneseText>
-      <EnglishText>Yeah. It's at that shrine of the
-nearby cape though.</EnglishText>
-      <Notes>Is it a shrine or grave?</Notes>
+      <EnglishText>There is. You mean the one
+enshrined at the cape?</EnglishText>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
@@ -734,7 +740,8 @@ nearby cape though.</EnglishText>
 今すぐ俺たちを
 そこに連れて行きやがれ!!</JapaneseText>
       <EnglishText>That's the place!
-Hurry up and take us there right now!</EnglishText>
+What're you dawdling for?!
+Take us there already!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>40</Id>
@@ -747,8 +754,8 @@ Hurry up and take us there right now!</EnglishText>
       <VoiceId>S010517</VoiceId>
       <JapaneseText>失礼でしょ、お兄ちゃん！
 ……あの、えっと</JapaneseText>
-      <EnglishText>You're being rude, &lt;Hisui&gt;!
-...Umm, you're...</EnglishText>
+      <EnglishText>C'mon, don’t be so rude!
+…So, um. You are?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
@@ -761,7 +768,7 @@ Hurry up and take us there right now!</EnglishText>
       <VoiceId>S010518</VoiceId>
       <JapaneseText>……オレは、&lt;Shing&gt;。
 &lt;Shing&gt;＝メテオライト</JapaneseText>
-      <EnglishText>...It's &lt;Shing&gt;.
+      <EnglishText>I’m &lt;Shing&gt;.
 &lt;Shing&gt; Meteoryte.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -775,8 +782,8 @@ Hurry up and take us there right now!</EnglishText>
       <VoiceId>S010519</VoiceId>
       <JapaneseText>&lt;Shing&gt;、わたしは
 &lt;Kohaku&gt;＝ハーツ</JapaneseText>
-      <EnglishText>Got it, &lt;Shing&gt;.
-I'm &lt;Kohaku&gt; Hearts.</EnglishText>
+      <EnglishText>Nice to meet you, &lt;Shing&gt;.
+I’m &lt;Kohaku&gt; Hearts.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -790,8 +797,8 @@ I'm &lt;Kohaku&gt; Hearts.</EnglishText>
       <JapaneseText>……と、こっちは兄の
 &lt;Hisui&gt;＝ハーツです。
 疑ってごめんなさい</JapaneseText>
-      <EnglishText>...And over there is my brother, &lt;Hisui&gt; Hearts.
-Sorry we were suspicious of you earlier.</EnglishText>
+      <EnglishText>This is my brother &lt;Hisui&gt;.
+We're sorry for doubting you.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -805,8 +812,8 @@ Sorry we were suspicious of you earlier.</EnglishText>
       <JapaneseText>でも、わたしたちは、どうしても
 ソーマの力が必要なの。ほこら
 まで案内してもらえませんか？</JapaneseText>
-      <EnglishText>But we really need that Soma.
-Could you lead us to that shrine?</EnglishText>
+      <EnglishText>We’re in desperate need of Soma, you see.
+Would you mind leading us to the shrine?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
@@ -820,8 +827,8 @@ Could you lead us to that shrine?</EnglishText>
       <JapaneseText>オレが変な事しようと
 してたんじゃないって
 信じてくれるなら……いいよ</JapaneseText>
-      <EnglishText>Just as long as you trust I wasn't doing
-any funny... it should be fine.</EnglishText>
+      <EnglishText>As long as you believe I wasn't up to
+anything weird earlier, then… sure.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
@@ -835,9 +842,8 @@ any funny... it should be fine.</EnglishText>
       <JapaneseText>うん、信じるよ。
 変な人にソーマを
 使えるはずないもんね</JapaneseText>
-      <EnglishText>Yeah, I trust you.
-There's no way some pervert could
-use a Soma.</EnglishText>
+      <EnglishText>Yes. I believe you.
+A bad person couldn't use a Soma anyway.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
@@ -850,8 +856,7 @@ use a Soma.</EnglishText>
       <VoiceId>S010524</VoiceId>
       <JapaneseText>……いや、実際に使うのは
 初めてなんだけど……</JapaneseText>
-      <EnglishText>...Err, this is actually my first time
-using it...</EnglishText>
+      <EnglishText>Actually, this will be my first time using it…</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
@@ -863,7 +868,7 @@ using it...</EnglishText>
       <PointerOffset>77416</PointerOffset>
       <VoiceId>S010525</VoiceId>
       <JapaneseText>え!?</JapaneseText>
-      <EnglishText>Huh!?</EnglishText>
+      <EnglishText>Huh?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
@@ -877,9 +882,7 @@ using it...</EnglishText>
       <JapaneseText>な、なんでもないよ！
 最近は、この辺も魔物が増えて
 ぶっそうなんだ</JapaneseText>
-      <EnglishText>I-It's nothing!
-More importantly, there's a lot more monsters
-around here these days.</EnglishText>
+      <EnglishText>N-Nothing! Anyway, there's been a lot more monster around here lately, so we should be careful.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
@@ -892,8 +895,8 @@ around here these days.</EnglishText>
       <VoiceId>S010527</VoiceId>
       <JapaneseText>……だから、まずは
 ソーマの解放をしなくちゃ</JapaneseText>
-      <EnglishText>...And so the first thing I have to do
-is release the Soma.</EnglishText>
+      <EnglishText>First things first,
+I gotta unlock this Soma.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
@@ -907,9 +910,9 @@ is release the Soma.</EnglishText>
       <JapaneseText>よし、これで魔物と戦える。
 さぁ、行こう！
 ソーマのほこらは岬にあるんだ</JapaneseText>
-      <EnglishText>There, that should let me fight the monsters.
-Come on, let's go! The shrine is at the
-cape.</EnglishText>
+      <EnglishText>All right, now I can fend off the monsters.
+Let’s get going to the shrine.
+It's on the cape.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>49</Id>
@@ -921,7 +924,7 @@ cape.</EnglishText>
       <PointerOffset>79660</PointerOffset>
       <VoiceId>S010901</VoiceId>
       <JapaneseText>ジィちゃん！　ジィちゃん!!</JapaneseText>
-      <EnglishText>Gramps! Gramps!</EnglishText>
+      <EnglishText>Gramps! Speak to me!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>50</Id>
@@ -946,7 +949,7 @@ cape.</EnglishText>
       <VoiceId>S010903</VoiceId>
       <JapaneseText>&lt;Hisui&gt;は……
 ……回復術が使えるの？</JapaneseText>
-      <EnglishText>&lt;Hisui&gt;... you can use healing artes?</EnglishText>
+      <EnglishText>&lt;Hisui&gt;, you can use healing artes?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>52</Id>
@@ -960,14 +963,13 @@ cape.</EnglishText>
       <JapaneseText>ああ。
 だが、この傷は
 俺程度の回復術じゃあ……</JapaneseText>
-      <EnglishText>Yeah. But for wounds this bad, my skills
-aren't enough...</EnglishText>
+      <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Editing</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>81740</PointerOffset>
@@ -975,9 +977,9 @@ aren't enough...</EnglishText>
       <JapaneseText>オレのせいだ……オレじゃなく
 ジィちゃんがソーマをつけてれば
 こんな事にはならなかったのに！</JapaneseText>
-      <EnglishText>It's all my fault... If only Gramps had been
-using the Soma and not me, none of this
-would've happened!</EnglishText>
+      <EnglishText>This is all my fault…
+If Gramps had the Soma instead of me,
+this never would have happened!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>54</Id>
@@ -989,7 +991,7 @@ would've happened!</EnglishText>
       <PointerOffset>81924</PointerOffset>
       <VoiceId>S010906</VoiceId>
       <JapaneseText>うう……うぁぁッ！</JapaneseText>
-      <EnglishText>Uhh... Ughhhh!</EnglishText>
+      <EnglishText>Ngh… UGH!!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>55</Id>
@@ -1003,7 +1005,7 @@ would've happened!</EnglishText>
       <JapaneseText>ああッ……
 &lt;Kohaku&gt;にも回復術を
 かけてあげてよ！</JapaneseText>
-      <EnglishText>Ah... Use your healing artes on &lt;Kohaku&gt; too!</EnglishText>
+      <EnglishText>Oh no! Please, you've gotta heal &lt;Kohaku&gt; too!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
@@ -1017,9 +1019,9 @@ would've happened!</EnglishText>
       <JapaneseText>いや、&lt;Kohaku&gt;に外傷はねぇ。
 あの野郎、&lt;Kohaku&gt;の
 スピリアに術をかけやがったんだ</JapaneseText>
-      <EnglishText>It won't work, &lt;Kohaku&gt;'s injuries aren't physical.
-That asshole used some sort of arte
-on her Spiria.</EnglishText>
+      <EnglishText>I can't. What &lt;Kohaku&gt;'s afflicted by
+isn't anything physical. That freak 
+put a seal on her Spiria.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>57</Id>
@@ -1032,8 +1034,8 @@ on her Spiria.</EnglishText>
       <VoiceId>S010909</VoiceId>
       <JapaneseText>スピリアが蝕まれたら
 回復術じゃどうしようもない……</JapaneseText>
-      <EnglishText>If it's her Spiria that's damaged then
-healing artes won't do squat...</EnglishText>
+      <EnglishText>My healing artes can’t do
+anything for a damaged Spiria...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>57</Id>
@@ -1045,7 +1047,7 @@ healing artes won't do squat...</EnglishText>
       <PointerOffset>82968</PointerOffset>
       <VoiceId>S010910</VoiceId>
       <JapaneseText>はぁ、はぁ……うぐぅ！</JapaneseText>
-      <EnglishText>Ha... Ha... Ugh!</EnglishText>
+      <EnglishText>Hah… ARRGH!!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
@@ -1059,8 +1061,9 @@ healing artes won't do squat...</EnglishText>
       <JapaneseText>…………オレがやる。オレが
 &lt;Kohaku&gt;のスピリアに
 ソーマでリンクして術を解く！</JapaneseText>
-      <EnglishText>...I'll do it then. I'll link to &lt;Kohaku&gt;'s Spiria
-using the Soma to break the arte.</EnglishText>
+      <EnglishText>…Leave this to me.
+I’ll use this Soma to link with
+her Spiria and break the seal!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>59</Id>
@@ -1074,23 +1077,23 @@ using the Soma to break the arte.</EnglishText>
       <JapaneseText>待て、待て、待てッ！
 手引書見てるよーな奴に
 できんのかよ!?</JapaneseText>
-      <EnglishText>Hold your horses!
-There's no way you'll succeed if you're still
-on training wheels with the damn manual!?</EnglishText>
+      <EnglishText>Now hold on just a damn minute!
+Just skimming the handbook
+ain't gonna cut it for a job like this!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>60</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83900</PointerOffset>
       <VoiceId>S010913</VoiceId>
       <JapaneseText>できなくてもやるんだ！
 ジィちゃんの代わりに!!</JapaneseText>
-      <EnglishText>Even if I don't know how, I just gotta do it.
-In Gramps' place!</EnglishText>
+      <EnglishText>What other choice do we have?!
+I’ll do it in Gramps’ place!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>61</Id>
@@ -1102,7 +1105,7 @@ In Gramps' place!</EnglishText>
       <PointerOffset>84068</PointerOffset>
       <VoiceId>S010914</VoiceId>
       <JapaneseText>ああ……うぅぅッ！</JapaneseText>
-      <EnglishText>Ahh.. Ahhhh!</EnglishText>
+      <EnglishText>Aah... Ugh!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>62</Id>
@@ -1114,7 +1117,8 @@ In Gramps' place!</EnglishText>
       <PointerOffset>84360</PointerOffset>
       <VoiceId>S010915</VoiceId>
       <JapaneseText>くそッ、最悪すぎだろ!?</JapaneseText>
-      <EnglishText>Damn it, this really is the worst!</EnglishText>
+      <EnglishText>Dammit, could this 
+possibly get any worse?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>63</Id>
@@ -1126,7 +1130,7 @@ In Gramps' place!</EnglishText>
       <PointerOffset>84652</PointerOffset>
       <VoiceId>S010916</VoiceId>
       <JapaneseText>じゃあ、行くよ!!</JapaneseText>
-      <EnglishText>Alright, I'm going in!</EnglishText>
+      <EnglishText>Here goes nothing!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
@@ -1140,8 +1144,7 @@ In Gramps' place!</EnglishText>
       <JapaneseText>おい、てめぇ！　何を
 しやがった!?　&lt;Kohaku&gt;は
 大丈夫なんだろうな？</JapaneseText>
-      <EnglishText>Hey, you! What the hell did you do!?
-Is &lt;Kohaku&gt; gonna be okay?</EnglishText>
+      <EnglishText>You! What the hell did you do?! Is &lt;Kohaku&gt; okay?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>65</Id>
@@ -1153,7 +1156,7 @@ Is &lt;Kohaku&gt; gonna be okay?</EnglishText>
       <PointerOffset>89196</PointerOffset>
       <VoiceId>S011502</VoiceId>
       <JapaneseText>…………大丈……夫</JapaneseText>
-      <EnglishText>Big... bro...</EnglishText>
+      <EnglishText>…I’m okay.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -1167,9 +1170,7 @@ Is &lt;Kohaku&gt; gonna be okay?</EnglishText>
       <JapaneseText>&lt;Kohaku&gt;ッ！
 よかった…………
 兄ちゃん、心配したんだぞ？</JapaneseText>
-      <EnglishText>&lt;Kohaku&gt;!
-Thank goodnes...
-Boy, you had us worried there, didn'tcha?</EnglishText>
+      <EnglishText>&lt;Kohaku&gt;! Oh, what a relief! Your poor brother was worried sick!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>67</Id>
@@ -1182,8 +1183,7 @@ Boy, you had us worried there, didn'tcha?</EnglishText>
       <VoiceId>S011504</VoiceId>
       <JapaneseText>……よかった……
 ……心……配……</JapaneseText>
-      <EnglishText>...Goodness...
-...Worr...ied...</EnglishText>
+      <EnglishText> …Relief…? Worried sick…?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
@@ -1196,8 +1196,7 @@ Boy, you had us worried there, didn'tcha?</EnglishText>
       <VoiceId>S011505</VoiceId>
       <JapaneseText>…………やめろよ、&lt;Kohaku&gt;。
 ふざけてっと怒るぞ？</JapaneseText>
-      <EnglishText>...Stop messing around &lt;Kohaku&gt;.
-I'mma get angry if you're playing around.</EnglishText>
+      <EnglishText>…C’mon, cut it out &lt;Kohaku&gt;. I’ll get mad if you’re jokin’ around, y’know?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>69</Id>
@@ -1209,7 +1208,7 @@ I'mma get angry if you're playing around.</EnglishText>
       <PointerOffset>90200</PointerOffset>
       <VoiceId>S011506</VoiceId>
       <JapaneseText>……怒る……って……</JapaneseText>
-      <EnglishText>...Ang...ry...</EnglishText>
+      <EnglishText>...Mad?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>70</Id>
@@ -1221,7 +1220,7 @@ I'mma get angry if you're playing around.</EnglishText>
       <PointerOffset>90364</PointerOffset>
       <VoiceId>S011507</VoiceId>
       <JapaneseText>…………何？</JapaneseText>
-      <EnglishText>...What is that?</EnglishText>
+      <EnglishText>...What's that?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
@@ -1235,8 +1234,7 @@ I'mma get angry if you're playing around.</EnglishText>
       <JapaneseText>おい……もう一回聞くぞ。
 お前、&lt;Kohaku&gt;に
 何をしてくれた？</JapaneseText>
-      <EnglishText>Hey... I'mma ask you one more time.
-What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
+      <EnglishText>Hey. I’m only gonna ask one more time. What the hell did you do to my sister?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>72</Id>
@@ -1250,8 +1248,8 @@ What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
       <JapaneseText>ごめん、オレ…………
 &lt;Kohaku&gt;のスピルーンを
 …………バラバラにしちゃった</JapaneseText>
-      <EnglishText>I'm sorry, I...
-&lt;Kohaku&gt;'s Spirune... I ended up breaking it.</EnglishText>
+      <EnglishText>I’m sorry, I…
+...I shattered &lt;Kohaku&gt;’s Spirune.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>73</Id>
@@ -1263,7 +1261,7 @@ What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
       <PointerOffset>91092</PointerOffset>
       <VoiceId>S011510</VoiceId>
       <JapaneseText>…………スピルーン？</JapaneseText>
-      <EnglishText>...Her Spirune?</EnglishText>
+      <EnglishText>…Spirune?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>74</Id>
@@ -1276,8 +1274,8 @@ What the hell did you do to &lt;Kohaku&gt;?</EnglishText>
       <VoiceId>S011511</VoiceId>
       <JapaneseText>スピリアの……核で……
 人の感情を生み出す源……です</JapaneseText>
-      <EnglishText>It's... the core of the Spiria...
-and the source of human emotions...</EnglishText>
+      <EnglishText>The core of the Spiria…
+It's... where all your emotions are born…</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>75</Id>
@@ -1291,8 +1289,9 @@ and the source of human emotions...</EnglishText>
       <JapaneseText>……それをぶっ壊してくれ
 たってか？　つまり&lt;Kohaku&gt;は
 もう二度と笑う事も……</JapaneseText>
-      <EnglishText>...And you destroyed it?
-Then, &lt;Kohaku&gt; will never laugh again...</EnglishText>
+      <EnglishText>…And you smashed it?
+So you’re telling me &lt;Kohaku&gt;
+won’t smile…</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
@@ -1304,7 +1303,7 @@ Then, &lt;Kohaku&gt; will never laugh again...</EnglishText>
       <PointerOffset>92464</PointerOffset>
       <VoiceId>S011513</VoiceId>
       <JapaneseText>怒る事も…………</JapaneseText>
-      <EnglishText>She'll never get angry...</EnglishText>
+      <EnglishText>Or get mad…</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>77</Id>
@@ -1317,7 +1316,7 @@ Then, &lt;Kohaku&gt; will never laugh again...</EnglishText>
       <VoiceId>S011514</VoiceId>
       <JapaneseText>…………悲しむ事すら
 ねぇって事かぁぁーーーッ！！！</JapaneseText>
-      <EnglishText>...She'll never feel sad ever again!!!</EnglishText>
+      <EnglishText>…Or even feel sad EVER AGAIN?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>78</Id>
@@ -1330,7 +1329,7 @@ Then, &lt;Kohaku&gt; will never laugh again...</EnglishText>
       <VoiceId>S011515</VoiceId>
       <JapaneseText>お兄……ちゃん……
 ………………やめて</JapaneseText>
-      <EnglishText>&lt;Hisui&gt;...
+      <EnglishText>&lt;Hisui&gt;…
 Stop... it...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -1343,7 +1342,7 @@ Stop... it...</EnglishText>
       <PointerOffset>95236</PointerOffset>
       <VoiceId>S011516</VoiceId>
       <JapaneseText>スピルーンが……まだ残ってる!?</JapaneseText>
-      <EnglishText>She still... has a part of her Spirune!?</EnglishText>
+      <EnglishText>There's still a part of her Spirune left?!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>80</Id>
@@ -1357,13 +1356,14 @@ Stop... it...</EnglishText>
       <JapaneseText>……&lt;Kohaku&gt;は
 ケンカや弱いものイジメが
 大嫌いなんだ</JapaneseText>
-      <EnglishText>...&lt;Kohaku&gt; would always hate fighting and bullying.</EnglishText>
+      <EnglishText>…&lt;Kohaku&gt;’s always hated
+fights and pickin’ on those weaker than you.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>95764</PointerOffset>
@@ -1371,9 +1371,9 @@ Stop... it...</EnglishText>
       <JapaneseText>俺がケンカする度に
 いつも怒ってとめに来たっけ。
 怒り方は忘れても……</JapaneseText>
-      <EnglishText>Everytime I got into a fight, she'd always
-get angry at me and stopped me. She
-may have forgotten her anger, but...</EnglishText>
+      <EnglishText>Every time I started somethin', she
+was there to stop me. Even if she's
+forgotten what anger feels like...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>81</Id>
@@ -1386,7 +1386,8 @@ may have forgotten her anger, but...</EnglishText>
       <VoiceId>S011519</VoiceId>
       <JapaneseText>この『優しさ』だけは
 消えてねぇんだな</JapaneseText>
-      <EnglishText>She still has her "kindness."</EnglishText>
+      <EnglishText>Her kindness is the one thing
+you can't take from her.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>82</Id>
@@ -1400,14 +1401,13 @@ may have forgotten her anger, but...</EnglishText>
       <JapaneseText>うぅッ……そうだ。
 まだ、その娘のスピルーンは
 失われてはいない……</JapaneseText>
-      <EnglishText>Ugh... Indeed.
-That girl's Spirune has not been lost yet...</EnglishText>
+      <EnglishText>Urgh… Exactly. There's still hope for her Spiria yet...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>96708</PointerOffset>
@@ -1415,9 +1415,7 @@ That girl's Spirune has not been lost yet...</EnglishText>
       <JapaneseText>飛び散った欠片を全て
 集めれば……元のスピリアを
 取り戻せるはず……だ</JapaneseText>
-      <EnglishText>If you can gather all the scatter pieces...
-you should be able her Spiria...
-to the way it was.</EnglishText>
+      <EnglishText>If you can gather the scattered fragments… her Spiria should become whole again…</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>83</Id>
@@ -1429,7 +1427,7 @@ to the way it was.</EnglishText>
       <PointerOffset>96972</PointerOffset>
       <VoiceId>S011522</VoiceId>
       <JapaneseText>ほ、本当か!?</JapaneseText>
-      <EnglishText>R-Really!?</EnglishText>
+      <EnglishText>S-Seriously?!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>84</Id>
@@ -1442,8 +1440,7 @@ to the way it was.</EnglishText>
       <VoiceId>S011523</VoiceId>
       <JapaneseText>ああ、きっとソーマの力が
 導いてくれる…………ぐふッ！</JapaneseText>
-      <EnglishText>Yes, I'm sure your Soma will show the way...
-Guh...</EnglishText>
+      <EnglishText>Yes, the Soma should guide your way… Urk!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>85</Id>
@@ -1457,9 +1454,7 @@ Guh...</EnglishText>
       <JapaneseText>……ああッ！
 &lt;Hisui&gt;、お願いだ!!
 ジィちゃんに回復術を……</JapaneseText>
-      <EnglishText>...Ahhh!
-&lt;Hisui&gt;, please!
-Use your healing artes on Gramps...</EnglishText>
+      <EnglishText>Ah! &lt;Hisui&gt;, I’m begging you! Please use your healing artes!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>86</Id>
@@ -1473,8 +1468,7 @@ Use your healing artes on Gramps...</EnglishText>
       <JapaneseText>いや、その青年は
 十分やって……くれたよ。
 ワシがもう無駄だと……言ったのだ</JapaneseText>
-      <EnglishText>No, this boy… did all he could.
-I told him it’s… no use.</EnglishText>
+      <EnglishText>No, this lad has…done all he can. As I told him, I’m afraid this is… it for me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>87</Id>
@@ -1488,9 +1482,7 @@ I told him it’s… no use.</EnglishText>
       <JapaneseText>そんな……やだよ、ジィちゃん！
 オレ、どんな命令でも守るから
 ……だから…………</JapaneseText>
-      <EnglishText>No... I can't accept that, Gramps!
-Come on, I'll do anything you say...
-so please...</EnglishText>
+      <EnglishText>No… please don’t, Gramps! I’ll do anything you ask so… don’t go…</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>88</Id>
@@ -1502,7 +1494,7 @@ so please...</EnglishText>
       <PointerOffset>98664</PointerOffset>
       <VoiceId>S011527</VoiceId>
       <JapaneseText>……死なないでッッ！！！</JapaneseText>
-      <EnglishText>...Don't die!!!</EnglishText>
+      <EnglishText>You can’t die on me!!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>89</Id>
@@ -1516,9 +1508,7 @@ so please...</EnglishText>
       <JapaneseText>こら……&lt;Shing&gt;。
 また激しい感情に……
 のみこまれておるぞ？</JapaneseText>
-      <EnglishText>Come on... &lt;Shing&gt;.
-You're letting... those emotions of yours
-get the better of you again?</EnglishText>
+      <EnglishText>Come now... &lt;Shing&gt;. You'll let yourself… be swallowed up by those intense feelings again, you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>90</Id>
@@ -1531,8 +1521,7 @@ get the better of you again?</EnglishText>
       <VoiceId>S011529</VoiceId>
       <JapaneseText>感情に流されない……
 強いスピリアを育てるんだ</JapaneseText>
-      <EnglishText>Don’t let your emotions get the better of
-you... and raise a strong Spiria…</EnglishText>
+      <EnglishText>You can’t let them control you… You must foster a strong Spiria.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>90</Id>
@@ -1545,8 +1534,7 @@ you... and raise a strong Spiria…</EnglishText>
       <VoiceId>S011530</VoiceId>
       <JapaneseText>これは『命令』じゃない……
 ジィちゃんとの……『約束』だ</JapaneseText>
-      <EnglishText>This isn't an "order..."
-It's a promise... with this old man.</EnglishText>
+      <EnglishText>This is not an order… but a promise with your grandpa…</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>90</Id>
@@ -1559,8 +1547,7 @@ It's a promise... with this old man.</EnglishText>
       <VoiceId>S011531</VoiceId>
       <JapaneseText>うん……うん！
 『約束』する!!</JapaneseText>
-      <EnglishText>O-Okay!
-It's a "promise"!</EnglishText>
+      <EnglishText>Yeah… I promise!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>91</Id>
@@ -1574,21 +1561,19 @@ It's a "promise"!</EnglishText>
       <JapaneseText>いい子だ。信じて……いるぞ……
 お前の真っ直ぐなスピリア……は
 ……に……ないと…………</JapaneseText>
-      <EnglishText>Good boy. I believe… in you…
-You must make your Spiria…
-Strong... and firm...</EnglishText>
+      <EnglishText>That’s my boy. I believe in you… I trust your Spiria won't... su...ccu...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>99880</PointerOffset>
       <VoiceId>S011533</VoiceId>
       <JapaneseText>ジィ……ちゃん…………</JapaneseText>
-      <EnglishText>Gra...mps...</EnglishText>
+      <EnglishText>Gramps…?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>93</Id>
@@ -1600,7 +1585,7 @@ Strong... and firm...</EnglishText>
       <PointerOffset>99880</PointerOffset>
       <VoiceId>S011534</VoiceId>
       <JapaneseText>ジィちゃぁーーーーーんッッ！！！</JapaneseText>
-      <EnglishText>Grampssssss!!!</EnglishText>
+      <EnglishText>GRAAAMPS!!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>93</Id>
@@ -1694,7 +1679,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>57224</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -2650,13 +2635,13 @@ Strong... and firm...</EnglishText>
     <Entry>
       <PointerOffset>110264</PointerOffset>
       <JapaneseText>ああ……うぅぅッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aah... Ugh!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>186</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
@@ -2695,7 +2680,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -2706,7 +2691,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -2717,7 +2702,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -2728,7 +2713,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -2739,7 +2724,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -2750,7 +2735,7 @@ Strong... and firm...</EnglishText>
     </Entry>
     <Entry>
       <PointerOffset>110796</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
