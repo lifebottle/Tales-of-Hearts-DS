@@ -19,7 +19,7 @@
     </Entry>
     <Entry>
       <PointerOffset/>
-      <JapaneseText></JapaneseText>
+      <JapaneseText empty="true"/>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -41,65 +41,71 @@
       <VoiceId>C3501</VoiceId>
       <JapaneseText>&lt;Ines&gt;、１００億ガルドの
 隠し資金って、どこにあるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey &lt;Ines&gt;, do you really know
+where they keep that 10 billion gald?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8640</PointerOffset>
       <VoiceId>C3502</VoiceId>
       <JapaneseText>ああ、あんなの
 ウソに決まってるじゃない♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, that? Let's just say it
+was a little white lie. ♪  </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9088</PointerOffset>
       <JapaneseText>えぇッ、そ〜なの!?
 あうう……オレ、チェンさんを
 だましちゃったのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaaat?!
+Aww geez, I feel horrible
+lying to Chen like that...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9704</PointerOffset>
       <JapaneseText>うふふ、だましてないわよ。
 あの人も、隠し資金が
 ウソだってわかってるんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, don't worry about that.
+Chen's well aware the
+whole thing is made up.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10040</PointerOffset>
       <VoiceId>C3505</VoiceId>
       <JapaneseText>じゃぁ、なんで
 チェンさんは……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then why would he...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10260</PointerOffset>
@@ -107,13 +113,14 @@
       <JapaneseText>チェン大人が、賭けたのは
 あなたのスピリアよ。
 ……自信を持って、&lt;Shing&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What Papa Chen's betting on is your Spiria.
+So have a bit more faith in yourself, &lt;Shing&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10560</PointerOffset>
@@ -121,13 +128,14 @@
       <JapaneseText>世界一の商人が、あなたの
 想いに１００億ガルド以上の
 価値をみつけたんだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The greatest merchant the world's
+ever known thinks your heart is worth billions.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
