@@ -481,7 +481,7 @@ Soma, right? Do you sell them?</EnglishText>
       <JapaneseText>は〜い！　信用と安心の運び屋
 『日々寧日』は、どんな商品も
 入手、お届けいたしま〜す♪</JapaneseText>
-      <EnglishText>Mhm! "Everyday a Lovely day"
+      <EnglishText>Mhm! “Everyday a Lovely day”
 couriers carry whatever you
 want, wherever you want it! ♪</EnglishText>
       <Notes/>
@@ -638,7 +638,7 @@ a strong lady before!</EnglishText>
       <VoiceId>S202401</VoiceId>
       <JapaneseText>絶望に屈しない
 『明るさ』とともに——</JapaneseText>
-      <EnglishText>Do not give in to fear. Proceed with "hope"...</EnglishText>
+      <EnglishText>Do not give in to fear. Proceed with “hope”...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>28</Id>
@@ -1480,13 +1480,15 @@ a strong lady before!</EnglishText>
       <JapaneseText>ーーーーーーッ！
 ーーーーーーッ!!
 ーーーーーーッ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!
+...!!!
+...!!!!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>133796</PointerOffset>
@@ -1694,68 +1696,68 @@ a strong lady before!</EnglishText>
     <Entry>
       <PointerOffset>53308</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57284</PointerOffset>
       <JapaneseText>%sを%d個%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>% 'd</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58540</PointerOffset>
       <JapaneseText>%sが%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s is %s</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58824</PointerOffset>
       <JapaneseText>%sを%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will %s</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58976</PointerOffset>
       <JapaneseText>%sを%d個%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>% 'd</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>93</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59380</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59616</PointerOffset>
@@ -2245,13 +2247,13 @@ a strong lady before!</EnglishText>
       <PointerOffset>110500</PointerOffset>
       <JapaneseText>アヒルボートは
 修理中ですガァ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The duck boats are under maintenance.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>139</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>110892</PointerOffset>
@@ -2268,13 +2270,14 @@ a strong lady before!</EnglishText>
       <PointerOffset>110908</PointerOffset>
       <JapaneseText>アヒルボート、ＧＯ！
 アヒルボート、ＮＯ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Duck boat, let's go!
+Duck boat, heck no!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>141</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>115768</PointerOffset>
@@ -2291,13 +2294,14 @@ a strong lady before!</EnglishText>
       <PointerOffset>115784</PointerOffset>
       <JapaneseText>いいよ
 いやだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay
+Nope</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>143</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>118452</PointerOffset>
@@ -2369,36 +2373,38 @@ a strong lady before!</EnglishText>
       <PointerOffset>131544</PointerOffset>
       <JapaneseText>アヒルボート、ＧＯ！
 アヒルボート、ＮＯ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Duck boat, let's go!
+Duck boat, heck no!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>150</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>133928</PointerOffset>
       <JapaneseText>どっちがいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Which sounds better to you?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>151</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>133944</PointerOffset>
       <JapaneseText>秘密の話
 １０万ガルド！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hit me with the hot gossip.
+100,000 gald please!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>152</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134584</PointerOffset>
@@ -2436,13 +2442,13 @@ a strong lady before!</EnglishText>
     <Entry>
       <PointerOffset>139156</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>156</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140176</PointerOffset>
@@ -2491,71 +2497,71 @@ a strong lady before!</EnglishText>
     <Entry>
       <PointerOffset>147948</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>161</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>147964</PointerOffset>
       <JapaneseText>はい、いらっしゃい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, come on in.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>147980</PointerOffset>
       <JapaneseText>はい、ありがとうねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, thanks for stopping by..</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>163</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>148056</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>164</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>148072</PointerOffset>
       <JapaneseText>すまないねぇ。
 まだ開店準備中なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, but we're still getting the Store set up.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>165</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>148508</PointerOffset>
       <JapaneseText>ぐぅぅ……どうせ俺は嫌われ者……
 わかってるッ!!
 わかってるんだよぉぉーーーッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grr... everyone hates me, but what can I do?! It's not fair!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>166</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149008</PointerOffset>
@@ -2573,13 +2579,13 @@ a strong lady before!</EnglishText>
       <JapaneseText>ぐぅぅ……どうせ俺は嫌われ者……
 わかってるッ!!
 わかってるんだよぉぉーーーッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grr... everyone hates me, but what can I do?! It's not fair!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>168</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149100</PointerOffset>
@@ -2596,26 +2602,26 @@ a strong lady before!</EnglishText>
       <PointerOffset>149116</PointerOffset>
       <JapaneseText>アヒルボートに乗りてぇなら
 アヒルチケットを買いやがれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you wanna ride the duck boat, you'll need to buy a ticket.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>170</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149116</PointerOffset>
       <JapaneseText>……もっとも
 てめぇらなんかにゃ
 売ってやらねぇがな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But there's no way in heck I'd ever sell 'em to you chumps!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>170</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
@@ -2632,25 +2638,25 @@ a strong lady before!</EnglishText>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>この街で採れる野菜は
 ぜんぶ無農薬ですよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All our vegetables are pesticide-free!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>美容と健康には
 キュノスの新鮮野菜をどうぞー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enjoy Cynus's fresh produce, great for your health and beauty!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
@@ -2668,25 +2674,25 @@ a strong lady before!</EnglishText>
       <JapaneseText>キュノスの野菜は
 漬物にして
 もおいしいですよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our veggies also make great pickles!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>近頃は、帝都がある
 中央大陸からも注文が来るのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lately we've been having orders coming in from the central continent where the capital is.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
@@ -2704,25 +2710,25 @@ a strong lady before!</EnglishText>
       <JapaneseText>北の大陸で
 帝国軍と教会の戦争が
 あったんですって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard war broke out between the Church and Imperial army on the northern continent.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>……なぜ、みんな
 仲良くできないのかしら……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why can't we all just get along?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
@@ -2739,38 +2745,40 @@ a strong lady before!</EnglishText>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>キュノスの野菜は
 栄養満点ですよー!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Get your delicious, nutritious fresh vegetables!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149204</PointerOffset>
       <JapaneseText>野菜をモリモリ食べないと
 スピリアも弱っちゃうわよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you don't eat your veggies, your Spiria can't grow big and strong you know. ♪</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149716</PointerOffset>
       <JapaneseText>ーーーーーーッ！
 ーーーーーーッ!!
 ーーーーーーッ！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!
+...!!!
+...!!!!!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>171</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149900</PointerOffset>
@@ -2787,51 +2795,51 @@ a strong lady before!</EnglishText>
       <PointerOffset>149916</PointerOffset>
       <JapaneseText>ラゴス鍾乳洞に湧く清水が
 この街まで流れてきているんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fresh water from Largos Cavern flows all the way here to the city.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>173</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149916</PointerOffset>
       <JapaneseText>ラゴス鍾乳洞ってのは
 キュノスの西にある深〜い洞窟でね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Largos Cavern's a deep cave west of here.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>173</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149916</PointerOffset>
       <JapaneseText>大昔に降り注いだ流星から
 人々を守ったという
 伝説の場所なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a place of legend, said to have once sheltered people from a meteor storm long ago.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>173</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149916</PointerOffset>
       <JapaneseText>そうそう、伝説といえば……
 ……って、またあたし
 喋りすぎだわねぇ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Speaking of legends--Oops, there I go again. Once I get talking, I have a hard time stopping!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>173</Id>
       <BubbleId>4</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>149992</PointerOffset>
@@ -2848,238 +2856,238 @@ a strong lady before!</EnglishText>
       <PointerOffset>150008</PointerOffset>
       <JapaneseText>ラゴス鍾乳洞に湧く清水が
 この街まで流れてきているんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fresh water from Largos Cavern flows all the way here to the city.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>175</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150008</PointerOffset>
       <JapaneseText>ラゴス鍾乳洞ってのは
 キュノスの西にある深〜い洞窟でね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Largos Cavern's a deep cave west of here.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>175</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150008</PointerOffset>
       <JapaneseText>大昔に降り注いだ流星から
 人々を守ったという
 伝説の場所なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a place of legend, said to have once sheltered people from a meteor storm long ago.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>175</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150008</PointerOffset>
       <JapaneseText>そうそう、伝説といえば……
 ……って、またあたし
 喋りすぎだわねぇ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Speaking of legends--Oops, there I go again. Once I get talking, I have a hard time stopping!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>175</Id>
       <BubbleId>4</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>ボクもみたよ！　七色の光が
 ババーンって爆発したんだ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I saw it! There was a HUGE rainbow explosion!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>……ま、科学的にいえば
 ただの隕石だと思うけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I guess scientifically speaking, it was just a meteor.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>この滝に打たれて修行したら
 超能力が目覚める！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you train under this waterfall you'll unlock super powers!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>……な〜んて
 メイシンを信じるのは
 せいぜい五才までだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Yeah right! Only a five year old would believe some dumb tale like that.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>この滝の流れがとまる時
 キュノスは滅びる……
 そんなメイシン……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard tales that when the flow of this waterfall stop, Cynus will be destroyed...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>……うわーん！
 本当に滅びたらどうしようっ
 こわいよぉー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Waaah! That'd be SO scary!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>うぅ、信じないぞぉ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uh, b-but I don't believe it...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>ボクは『黒い月が化物』なんて
 メイシンは信じないよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I never would have believed the Ebony Moon was really a monster!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150096</PointerOffset>
       <JapaneseText>科学的に言うと
 これは全部ユメなんだーっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scientifically speaking, this HAS to be all a dream!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>87</Id>
       <BubbleId>2</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>ミャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meow!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>ミャァ〜ン♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meooow! ♪</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>ミャァー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meooow.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>ミャァ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meow...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>…………クシュン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Achoo!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>フギャー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*hiss*</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>
       <JapaneseText>ミャァァ〜〜〜ン♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*yawn* ♪</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>150276</PointerOffset>

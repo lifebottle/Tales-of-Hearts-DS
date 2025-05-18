@@ -156,7 +156,7 @@
       <JapaneseText>モロキュウで
 アボガドな
 ピーマン野郎だッッ！！！</JapaneseText>
-      <EnglishText>You're just a "insult"!!</EnglishText>
+      <EnglishText>You're just a “insult”!!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -713,13 +713,13 @@
     <Entry>
       <PointerOffset>52716</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53496</PointerOffset>
@@ -1472,25 +1472,26 @@
     <Entry>
       <PointerOffset>128436</PointerOffset>
       <JapaneseText>準備できた？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ready?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128452</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>131548</PointerOffset>
@@ -1891,13 +1892,13 @@
     <Entry>
       <PointerOffset>159744</PointerOffset>
       <JapaneseText>扉は固く閉ざされている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's shut tight.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>152</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>161776</PointerOffset>
@@ -1913,13 +1914,13 @@
     <Entry>
       <PointerOffset>161792</PointerOffset>
       <JapaneseText>動力室は谷奥だったっけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The power room was in the valley center, huh?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>154</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>164036</PointerOffset>
@@ -1937,13 +1938,13 @@
       <JapaneseText>谷の奥にある動力室に行こう！
 そこで門を開けられるって
 イネスが言ってた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's head to the power room in the center of the valley! Ines said we should be able to open the gate from there.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>156</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>164424</PointerOffset>
@@ -1970,13 +1971,13 @@
     <Entry>
       <PointerOffset>165068</PointerOffset>
       <JapaneseText>さあ、飛空船に乗り込もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right, let's board the airship.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>159</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>165224</PointerOffset>
@@ -2003,13 +2004,13 @@
     <Entry>
       <PointerOffset>165720</PointerOffset>
       <JapaneseText>さあ、飛空船に乗り込もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All right, let's board the airship.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>165876</PointerOffset>
@@ -2037,13 +2038,14 @@
       <PointerOffset>166348</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>165</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

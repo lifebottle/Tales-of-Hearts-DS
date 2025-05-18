@@ -680,13 +680,13 @@
     <Entry>
       <PointerOffset>49676</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51688</PointerOffset>
@@ -702,13 +702,13 @@
     <Entry>
       <PointerOffset>52092</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52328</PointerOffset>
@@ -736,48 +736,51 @@
       <PointerOffset>56968</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57144</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57416</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57432</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>75368</PointerOffset>
@@ -1202,36 +1205,37 @@
       <JapaneseText>オマエらなんかに
 オイラの正体は
 絶対に教えないズラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I shall never reveal my true identity, you know!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>102568</PointerOffset>
       <JapaneseText>交換するズラか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wanna make a trade, you know?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>102584</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>106816</PointerOffset>
@@ -1269,24 +1273,24 @@
     <Entry>
       <PointerOffset>108504</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111380</PointerOffset>
       <JapaneseText>リフレッシャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111660</PointerOffset>
@@ -1303,154 +1307,155 @@
       <PointerOffset>111676</PointerOffset>
       <JapaneseText>&lt;Beryl&gt;のところに
 行ってみよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I gotta go find &lt;Beryl&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111828</PointerOffset>
       <JapaneseText>原界と結晶界の移動について</JapaneseText>
-      <EnglishText/>
+      <EnglishText>About travelling between Celland and Quartzia.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>93</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111884</PointerOffset>
       <JapaneseText>発動を続ける転送空間を通って
 ガルデニア・原界・結晶界間の
 移動が可能となりました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using the transferal subspace active, you can now travel between Cellan, Quartzia and Gardenia.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111884</PointerOffset>
       <JapaneseText>原界から再びガルデニア・結晶界に
 向かう時はナビマップに表示された
 転送アイコンに向かってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you wish to go to Gardenia/Quartzia via Celland, head to the transfer icon displayed on the minimap.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>94</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111884</PointerOffset>
       <JapaneseText>ガルデニア・結晶界では
 リアンハイトに乗りこむと
 移動先を選択できます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While in Gardenia/Quartzia you can select your destination when you board Reinheit.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>94</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111884</PointerOffset>
       <JapaneseText>また、結晶界でリアンハイトは
 飛行できないので注意してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It should be noted that Reinheit cannot fly on Quartzia.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>94</Id>
       <BubbleId>4</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112032</PointerOffset>
       <JapaneseText>リアンハイトを使って
 移動しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Board Reinheit?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>95</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112048</PointerOffset>
       <JapaneseText>原界へ行く
 結晶界へ行く</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Go to Celland.
+Go to Quartzia.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112776</PointerOffset>
       <JapaneseText>リフレッシャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>97</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112792</PointerOffset>
       <JapaneseText>有料で傷の治療行います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here you can receive medical attention free of charge.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>98</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112808</PointerOffset>
       <JapaneseText>リフレッシュを実行しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use the refresher?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>99</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112824</PointerOffset>
       <JapaneseText>リフレッシュ完了しました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refreshing complete.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>100</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112840</PointerOffset>
       <JapaneseText>料金が不足しています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No payment required.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>101</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112856</PointerOffset>
@@ -1466,36 +1471,37 @@
     <Entry>
       <PointerOffset>112872</PointerOffset>
       <JapaneseText>一回</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One time.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>103</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112888</PointerOffset>
       <JapaneseText>使用料</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>104</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112904</PointerOffset>
       <JapaneseText>リフレッシュ実行
 リフレッシュしない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use refresher.
+Don't use refresher.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>105</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113760</PointerOffset>
@@ -1511,24 +1517,24 @@
     <Entry>
       <PointerOffset>113776</PointerOffset>
       <JapaneseText>アクセサリはいかがですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you in need of accessories?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>107</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113792</PointerOffset>
       <JapaneseText>どういたしまして</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glad to be of service.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>108</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113964</PointerOffset>
@@ -1545,24 +1551,24 @@
       <PointerOffset>113980</PointerOffset>
       <JapaneseText>必要とする素材を
 指定してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please specify which materials you require.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>110</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113996</PointerOffset>
       <JapaneseText>ご利用を感謝します</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you for using this service.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>111</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114168</PointerOffset>
@@ -1578,108 +1584,108 @@
     <Entry>
       <PointerOffset>114184</PointerOffset>
       <JapaneseText>ココは道具屋です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is a General Store.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>113</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114200</PointerOffset>
       <JapaneseText>お役にたてて光栄です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is an honor to serve you.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114372</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114388</PointerOffset>
       <JapaneseText>治癒石　ノ　ゴリヨウデスネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>CHARGE CURESTONE?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114404</PointerOffset>
       <JapaneseText>アリガトウ　ゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114572</PointerOffset>
       <JapaneseText>救世システム・ガルデニアについて
 解説いたします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Allow me to explain the Salvation System Gardenia.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114572</PointerOffset>
       <JapaneseText>ガルデニアは
 任意の思念のみを遠隔吸収可能な
 究極進化型ゼロムです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gardenia is the ultimate evolution of xerom, able to remotely absorb arbitrary feelings specifically.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114572</PointerOffset>
       <JapaneseText>幼生体の状態でジャックシードから
 現在地に転送され、小惑星級の
 大きさにまで成長しました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In its larval stage, it was launched from Jackseed to its current location, where it continued to grow to the size of an asteroid.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114572</PointerOffset>
       <JapaneseText>前回の発動で結晶界の
 全思念を吸収した現在、その全長は
 ５０００ｋｍを突破しています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>During its last activation, it absorbed all the Will of Quartzia, and its size now exceeds 5,000 km.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114572</PointerOffset>
@@ -1751,38 +1757,38 @@
       <PointerOffset>114664</PointerOffset>
       <JapaneseText>思念パターン識別……
 リチア＝スポデューン様と確認</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scanning Will pattern... Master Lithia Spodune identified.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114664</PointerOffset>
       <JapaneseText>いらっしゃいませ
 リチア＝スポデューン様</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome Master Lithia Spodune.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114664</PointerOffset>
       <JapaneseText>クリード＝グラファイト様は
 移動ポートよりガルデニア中枢
 コアドームに向かわれました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Master Creed Graphyte has departed for Gardenia's central core dome via the teleporter.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114664</PointerOffset>
@@ -1854,26 +1860,26 @@
       <PointerOffset>114756</PointerOffset>
       <JapaneseText>ガルデニア観測基地
 ラプンツェルへようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to Gardenia's observation base Rapunzel.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114756</PointerOffset>
       <JapaneseText>ラプンツェルは
 完全オートメーション化された
 観測基地です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rapunzel if a fully automated observation base.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114756</PointerOffset>
@@ -1944,38 +1950,40 @@
     <Entry>
       <PointerOffset>114848</PointerOffset>
       <JapaneseText>ピーーーーーー……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>BEEEP...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114848</PointerOffset>
       <JapaneseText>データ処理中にエラーが
 発生しました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Data processing error has occurred.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114848</PointerOffset>
       <JapaneseText>再起動させてください
 再起動させてください
 再起動させてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please reboot the system.
+Please reboot the system.
+Please reboot the system.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>114848</PointerOffset>

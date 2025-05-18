@@ -182,13 +182,13 @@
     <Entry>
       <PointerOffset>41116</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41352</PointerOffset>
@@ -634,13 +634,13 @@
       <PointerOffset>76492</PointerOffset>
       <JapaneseText>声が聞こえたのは
 こっちの方じゃないぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The voice I heard didn't come from this direction.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

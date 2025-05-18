@@ -73,7 +73,7 @@
       <JapaneseText>『これより雷鳴山ブレーメ。
 峻厳万丈の峰と奈落千尋の
 谷が連なりし天下の険』</JapaneseText>
-      <EnglishText>"This way to the thundering Mount Bremen. The world's most dangerous series of of steep cliffs leading into a bottomless abyss."</EnglishText>
+      <EnglishText>“This way to the thundering Mount Bremen. The world's most dangerous series of of steep cliffs leading into a bottomless abyss.”</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -86,7 +86,7 @@
       <JapaneseText>『無量の豪雨が体を溶かし
 無情の雷撃が命を焼き尽くす
 人外魔境の地なり』</JapaneseText>
-      <EnglishText>"An alien land where endless torrential rain melts your body, as the heartless lighting burns away your very life."</EnglishText>
+      <EnglishText>“An alien land where endless torrential rain melts your body, as the heartless lighting burns away your very life.”</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -99,7 +99,7 @@
       <JapaneseText>『越えられるは万人にひとり。
 旅人よ、その身をいとえ。
 引き返すなら今——』</JapaneseText>
-      <EnglishText>"Only one in a million can conquer the mountain. If you value you your life, turn back now,"</EnglishText>
+      <EnglishText>“Only one in a million can conquer the mountain. If you value you your life, turn back now,”</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -112,7 +112,7 @@
       <JapaneseText>要するに
 『命の保障はできないから帰れ』
 ……って事かな？</JapaneseText>
-      <EnglishText>So basically "there's no guarantee you'll survive, so turn back now"?</EnglishText>
+      <EnglishText>So basically “there's no guarantee you'll survive, so turn back now”?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -413,36 +413,37 @@
     <Entry>
       <PointerOffset>40196</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40212</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42068</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42304</PointerOffset>
@@ -856,7 +857,7 @@
       <JapaneseText>『これより雷鳴山ブレーメ。
 峻厳万丈の峰と奈落千尋の
 谷が連なりし天下の険』</JapaneseText>
-      <EnglishText>"This way to the thundering Mount Bremen. The world's most dangerous series of of steep cliffs leading into a bottomless abyss."</EnglishText>
+      <EnglishText>“This way to the thundering Mount Bremen. The world's most dangerous series of of steep cliffs leading into a bottomless abyss.”</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
@@ -869,7 +870,7 @@
       <JapaneseText>『無量の豪雨が体を溶かし
 無情の雷撃が命を焼き尽くす
 人外魔境の地なり』</JapaneseText>
-      <EnglishText>"An alien land where endless torrential rain melts your body, as the heartless lighting burns away your very life."</EnglishText>
+      <EnglishText>“An alien land where endless torrential rain melts your body, as the heartless lighting burns away your very life.”</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
@@ -882,7 +883,7 @@
       <JapaneseText>『越えられるは万人にひとり。
 旅人よ、その身をいとえ。
 引き返すなら今——』</JapaneseText>
-      <EnglishText>"Only one in a million can conquer the mountain. If you value you your life, turn back now,"</EnglishText>
+      <EnglishText>“Only one in a million can conquer the mountain. If you value you your life, turn back now,”</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
@@ -906,13 +907,13 @@
       <JapaneseText>落雷によって命を落とした
 三百六十四名の名が刻まれた
 慰霊碑だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The cenotaph is engraved with the names of the 364 people who tragically lost their lives to lightning strikes.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

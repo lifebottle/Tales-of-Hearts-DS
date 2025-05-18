@@ -376,7 +376,7 @@ How could someone from Seable do such a thing?</EnglishText>
       <JapaneseText>あのなぁ、同じ村出身なんて
 出まかせに決まってんだろ？</JapaneseText>
       <EnglishText>You don't REALLY believe he
-"just so happened" to be from Seable, did you?</EnglishText>
+“just so happened” to be from Seable, did you?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -634,7 +634,7 @@ our guild office.</EnglishText>
 お達しです。
 ……『わきまえろ』と</JapaneseText>
       <EnglishText>I come bearing a message from Papa Chen:
-He says "know your place."</EnglishText>
+He says “know your place.”</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
@@ -796,7 +796,7 @@ should pay Papa Chen a visit.</EnglishText>
       <PointerOffset>81444</PointerOffset>
       <JapaneseText>チェンめ、あのソーマ使い
 たちを雇う気なのか……</JapaneseText>
-      <EnglishText>Stupid Chen. You gonna "hire" those Somatics too?</EnglishText>
+      <EnglishText>Stupid Chen. You gonna “hire” those Somatics too?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
@@ -1893,91 +1893,92 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>36936</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>123</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36952</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>124</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45708</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>125</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47216</PointerOffset>
       <JapaneseText>%sを%d個%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>% 'd</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>126</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48472</PointerOffset>
       <JapaneseText>%sが%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s is %s</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>127</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48756</PointerOffset>
       <JapaneseText>%sを%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will %s</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>128</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48908</PointerOffset>
       <JapaneseText>%sを%d個%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>% 'd</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>129</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49312</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>130</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49548</PointerOffset>
@@ -2225,13 +2226,14 @@ should pay Papa Chen a visit.</EnglishText>
       <PointerOffset>111816</PointerOffset>
       <JapaneseText>依頼を受ける
 依頼を断る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Accept request
+Decline request</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>153</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>111960</PointerOffset>
@@ -2280,13 +2282,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>118600</PointerOffset>
       <JapaneseText>一旦、宿屋で休もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's rest up at the inn.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>158</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>118704</PointerOffset>
@@ -2302,13 +2304,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>118720</PointerOffset>
       <JapaneseText>街を、もう少し調べてみよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's poke around this city a bit more.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>160</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>118824</PointerOffset>
@@ -2324,13 +2326,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>118840</PointerOffset>
       <JapaneseText>一旦、宿屋で休もう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's rest up at the inn.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>118944</PointerOffset>
@@ -2346,13 +2348,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>118960</PointerOffset>
       <JapaneseText>&lt;Ines&gt;たちと合流しよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's meet up with &lt;Ines&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>164</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>119024</PointerOffset>
@@ -2392,136 +2394,136 @@ should pay Papa Chen a visit.</EnglishText>
       <JapaneseText>いらっしゃいませ。
 当店自慢のアクセサリを
 見ていってね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome. We take pride in our accessories here, so feel free to take a look.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>168</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122728</PointerOffset>
       <JapaneseText>またおこしくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>169</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>ヘンゼラは
 『ペンデローク大陸の台所』って
 呼ばれる街なのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hanselar is a city known as the “kitchen of the Pendeloque continent”.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>……けど、台所だけに、近頃は
 ゴキブリみたいな悪どい商売を
 する奴も増えてるから注意してね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But lately there's been more people doing sketchy business, like cockroaches running around a kitchen. Be careful.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>ヘンゼラは活気があって
 ビックリするでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I bet just how bustling Hanselar is must've been quite the shock.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>この街の活気は
 商人が誇りを持って
 商売をしてる証さ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The liveliness of the city is proof our merchants are proud of their business!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>いくつものキャラバン隊が
 夢を食べる魔物に襲われて
 壊滅しているらしいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds like several caravans were attacked by those dream-eating monsters.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>また、ぶっそうな
 世の中に戻っちまうのかねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I sure hope the world won't fall back to chaos...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>チェン商会が各地に無料で
 救援物資を配って回ってるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Chen Corporation is distributing relief supplies across the world, free of charge.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>さすがチェンだね……
 あたしらも協力しなきゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's our Chen for you... We need to do our part, too!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>2</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>122816</PointerOffset>
       <JapaneseText>ヘンゼラの商人魂で
 世界を支えるんだよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll support the world with Hanselar's merchant spirit!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123112</PointerOffset>
@@ -2537,250 +2539,250 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>123128</PointerOffset>
       <JapaneseText>おう、らっしゃい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, welcome!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>171</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123144</PointerOffset>
       <JapaneseText>またよろしくなっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>172</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>へい、へい、へい！
 ウチの防具を見てってくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heya! You there! Come take a look at my amor!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>硬くて、軽くて、扱いやすい
 一級の防具がそろってるぜぇ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our armor is of the finest quality. It's durable, lightweight and easy to use!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>チッ……
 カラクリがばれちまったか。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tch... Guess the jig is up.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>だが、だまされる方が悪いんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At least I wasn't the one gettin' duped.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>2</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>買わないなら、あっちへ行けよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're not buyin, keep moving.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>こんな俺だけど
 昔は商売に夢をもってたんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd always dream of making it big in business, but now look at me...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>……もう汚い商売はしねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...From now on, I'm gonna do things legit.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>うおぉぉ！
 俺の商人ダマシィの見せどころだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoooa! My merchant's spirit is burnin' bright!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>街の警護団に無料で
 最高の防具を貸し出すぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll lend out our finest armor to the city's guards, free of charge!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>2</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>123612</PointerOffset>
       <JapaneseText>商人ダマシィで
 ダマシ商人を卒業するんだっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No more of my swindling ways, I'm a new man!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>さぁ、いかがです？
 業物のブロードソードが
 入荷してますよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nice, ain't it? We've got a range of broadswords now in stock!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>近頃、魔物が凶暴化してますからね
 一流の武器を持たないと危険ですよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the monster's have been extra savage lately. It's dangerous to go without a first-class weapon in hand.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>ふん、チェン大人に逆らっては
 商売を続けられません……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph, I can't keep my business going by makin' an enemy of Papa Chen...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>けどね、だまされるのが
 悪いんですよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even so, I'm better of than those who got swindled.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>2</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>そうさ、先にだました者の
 勝ちなんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The first to cheat, wins. That's the way it is.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>スピリアを入れ替えて
 マジメにやってますよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've had a real change of Spiria.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>わたしは子どもの頃から
 武器屋になりたかったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've wanted to own my on weapon Store ever since I was a little boy.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>……サギ師に
 なりたかった訳じゃない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I never wanted to be a conman.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
       <JapaneseText>今こそ、正義の商人として
 生まれ変わるチャンスです！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But now's my big chance to turn over a new leaf and be an honest merchant!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124084</PointerOffset>
@@ -2810,498 +2812,498 @@ should pay Papa Chen a visit.</EnglishText>
       <JapaneseText>いらっしゃいませ♪
 ロット鮎はヘンゼラの
 特産素材ですよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome! ♪ Try Hanselar's signature lott sweetfish!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>174</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124392</PointerOffset>
       <JapaneseText>ありがとうございましたぁ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you! ♪</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>175</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>……売り上げが減ってる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sales are decreasing...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>となりの店がウチの悪口でも
 広めてるんじゃないだろうね……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe the next store over's been smack talking us behind our backs?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>疑いたくないけど
 しょせん商売は食うか
 食われるかだからね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hate to doubt them, but when it comes to business, it's a dog eat dog world.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>隣の店には負けませんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not about to lose to the folks next door.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>隣のじぃさんとは
 もう三十年も
 競い合って商売してるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've been doing business with the old man next door for thirty years now.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>こんな時一番怖いのは
 民衆のパニックだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The last thing we wan't at a time like this is public panic.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>商人が冷静でないと
 パニックをあおる事になっちまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If us merchants lose our cool, everyone's gonna start getting restless.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>海運ギルドと陸運ギルドも
 協力して動きだしたよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Maritime Guild and Shipping Guild have started collaborating!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124480</PointerOffset>
       <JapaneseText>商人は商人のやり方で
 世界をひとつにつなげるのさ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Merchants bring the world together through our trade!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>……売り上げがあがらん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sales are increasing...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>となりの奴が
 うちの店の悪口を
 流しとるのかもしれん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The old man next door better not go bad mouthing our store and screwing it up.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>油断して相手を信じたら
 バカをみるのが商人……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A merchant who lets his guard down and starts trusting others is bound to be played like a fool...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>……いや、人間だからのぅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...No, that goes for people in general.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>うちの店は毎日が特売日だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyday's a sale at my store.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>どれもワシがめききした
 一級品ばかりだぞ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only the finest, expertly curated items here!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>世の中が乱れた時、怖いのは
 人々がパニックになる事じゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When the world's turned on its head, the thing we should fear most is people panicking.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>パニックにつけこんで
 もうけようとするのは
 最低最悪の商人じゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Merchants who try and make a quick gald by taking advantage of their fear are the worst.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>真の商人は、人々を
 安心させるために知恵を
 しぼるはずなんじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A true merchant should use their wits to make people feel at ease.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124612</PointerOffset>
       <JapaneseText>なんたって客が豊かでなきゃ
 商人はもうけられないんじゃから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, merchant's can't make money if our customers are broke!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>ひどいわ……どの店も
 客をだまそうとするの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Every store here's out to con people... How awful...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>ヘンゼラって油断できない
 イヤな街ね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So Hanselar is an unsavory town where you can't let your guard slip for a moment...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>欲しいものがたくさん
 ありすぎて迷っちゃうわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's so many things I want, I don't even know where to start...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>あなたが買って、私に
 プレゼントしてくれるといいのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why can't you just buy it as a gift to me?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>統一戦争前には
 食べる物がない人が
 たくさんいたらしいけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently before the Unification War, many people went without food on their plates.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>信じられないわねぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hard to imagine, right?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>2</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>食べる物もないなんて
 どんな状態？
 信じられないわよね??</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What would it be like to have no food? I can't begin to imagine!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>この交易の街で
 物が不足するなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's a supply shortage even in a city of commerce like this...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124704</PointerOffset>
       <JapaneseText>地方の街は
 もっとひどい事に
 なってるんじゃないかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder how bad things are in rural towns?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ここがバレイア教の
 教会だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is a Velleian Church.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>初対面のぼくの言う事なんて
 信じられないだろうけどね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is only the first time we've met, so I doubt you'd believe me...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ここがバレイア教の
 教会だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is a Velleian Church.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>信じられないなら、別に
 信じなくてもいいけどね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you don't believe me, that's fine.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ぼくもいつか
 チェンさんみたいになりたいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanna be just like Papa Chen one day.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ぼくもえらくなって
 美人のメガネ秘書を
 はべらすんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm gonna have a pretty secretary with glasses working for me, too!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>おとぎ話のとおりに
 怪物がゲンジツに出てきた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That thing is just like the fairy tale, but REAL...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>……って事は
 おとぎ話のとおりに
 世界は消えちゃうのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Does that mean the world's gonna end like in the fairy tale, too?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>2</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ぼくの美人秘書をはべらすユメは
 かなわないかもね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My dream of a pretty secretary might not come true...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>さっきね、エカイユさんが
 『あきらめちゃだめ』って
 声をかけてくれたんだ……∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Earlier, Miss Ecaille called out to me and said “don't give up!”... hehe ∀</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124796</PointerOffset>
       <JapaneseText>ぼく、あきらめないよ！
 美人メガネ秘書をはべらす
 ユメをかなえるまではっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't give up! Not until my dream secretary is a reality!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124916</PointerOffset>
@@ -3317,13 +3319,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>124932</PointerOffset>
       <JapaneseText>プギィ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oink!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>177</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>125048</PointerOffset>
@@ -3339,13 +3341,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>125064</PointerOffset>
       <JapaneseText>フゴッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*snort*</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>179</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>125412</PointerOffset>
@@ -3362,26 +3364,26 @@ should pay Papa Chen a visit.</EnglishText>
       <PointerOffset>125428</PointerOffset>
       <JapaneseText>商品が届くのを待っている
 人々のためにもお願いします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll be relying on you. There's a lot of people waiting on these goods.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>181</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>125908</PointerOffset>
       <JapaneseText>あ〜、もうっ！
 あ〜、もうっ！
 まったく困っちゃうわねっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh, no more! I'm really in a pickle now!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>182</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>126140</PointerOffset>
@@ -3397,13 +3399,13 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>126156</PointerOffset>
       <JapaneseText>献立が決まってスッキリしたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It always feels great to decide on a menu.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>184</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>126232</PointerOffset>
@@ -3420,13 +3422,13 @@ should pay Papa Chen a visit.</EnglishText>
       <PointerOffset>126248</PointerOffset>
       <JapaneseText>主婦っていうのは
 大変な職業なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Being a housewife is hard work.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>186</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>126880</PointerOffset>
@@ -3442,225 +3444,229 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>127500</PointerOffset>
       <JapaneseText>わしは%sじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>188</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127696</PointerOffset>
       <JapaneseText>%sの材料が
 足りないようじゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems like you lack %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>189</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127880</PointerOffset>
       <JapaneseText>%sを
 たくさん持っているようじゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like you've brought me plenty of %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>190</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127880</PointerOffset>
       <JapaneseText>交換する必要はなさそうじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like we won't need to exchange.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>190</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128044</PointerOffset>
       <JapaneseText>%sの材料を
 持っているようじゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems like you've brought me %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>191</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128044</PointerOffset>
       <JapaneseText>材料を%sと交換するか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will you exchange %s for materials?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>191</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128232</PointerOffset>
       <JapaneseText>交換しない
 １個だけ交換する
 まとめて交換する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't exchange
+Exchange only 1
+Exchange all</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>192</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128296</PointerOffset>
       <JapaneseText>交換しない
 交換する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't exchange
+Exchange</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>193</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128388</PointerOffset>
       <JapaneseText>交換しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will you exchange?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>194</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128836</PointerOffset>
       <JapaneseText>材料を渡しました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Handed over materials.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>195</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129172</PointerOffset>
       <JapaneseText>おお、%sを%s個以上
 持っているようじゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh, looks like you've got more %s than %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>196</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129172</PointerOffset>
       <JapaneseText>%s%s個を
 %sと交換するか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will you exchange %s %s for %s?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>196</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129404</PointerOffset>
       <JapaneseText>交換しない
 交換する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't exchange
+Exchange</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>197</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129496</PointerOffset>
       <JapaneseText>交換しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will you exchange?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>198</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129856</PointerOffset>
       <JapaneseText>%sを
 たくさん持っているようじゃな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems like you've brought me plenty of %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>199</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>129856</PointerOffset>
       <JapaneseText>交換する必要はなさそうじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It looks like we won't need to exchange.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>199</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130032</PointerOffset>
       <JapaneseText>材料を揃えてきたら
 %sと交換してあげよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you can collect the materials, I'll exchange you for %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>200</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130032</PointerOffset>
       <JapaneseText>%sの材料は
 %sと%s、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s material has been %s and %s.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>200</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130032</PointerOffset>
       <JapaneseText>%s、%s、
 %sを
 それぞれ１個だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s, %s and %s. You have one of each.</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>200</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130032</PointerOffset>
@@ -3678,24 +3684,24 @@ should pay Papa Chen a visit.</EnglishText>
     <Entry>
       <PointerOffset>130408</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>201</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130464</PointerOffset>
       <JapaneseText>教会</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Church</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>202</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>130520</PointerOffset>

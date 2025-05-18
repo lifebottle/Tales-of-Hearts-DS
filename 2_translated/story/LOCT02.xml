@@ -175,8 +175,8 @@
     <Entry>
       <PointerOffset>65864</PointerOffset>
       <JapaneseText>あの、それは……違うんです……</JapaneseText>
-      <EnglishText>Oh, about that…
-Well, you see…</EnglishText>
+      <EnglishText>Oh, about that...
+Well, you see...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -541,47 +541,48 @@ seem a bit... off?</EnglishText>
     <Entry>
       <PointerOffset>42944</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42960</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52212</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53448</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53684</PointerOffset>
@@ -609,82 +610,86 @@ seem a bit... off?</EnglishText>
       <PointerOffset>58836</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59012</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59284</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59300</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60224</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60240</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60256</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>63964</PointerOffset>
@@ -800,24 +805,25 @@ seem a bit... off?</EnglishText>
       <PointerOffset>77136</PointerOffset>
       <JapaneseText>アヒルボート、ＧＯ！
 アヒルボート、ＮＯ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Duck boat, let's go!
+Duck boat, heck no!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83004</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83424</PointerOffset>
@@ -857,13 +863,13 @@ seem a bit... off?</EnglishText>
       <JapaneseText>ウランさんから話を聞こう！
 天文学者さんの家に
 行ったはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go talk to Uran! She should be in the observatory.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>61</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>90792</PointerOffset>
@@ -901,69 +907,69 @@ seem a bit... off?</EnglishText>
     <Entry>
       <PointerOffset>93224</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93240</PointerOffset>
       <JapaneseText>旅の疲れをいやしていきなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take a moment to recover from your journey.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93256</PointerOffset>
       <JapaneseText>いいかねぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Feel better?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93272</PointerOffset>
       <JapaneseText>またきておくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93288</PointerOffset>
       <JapaneseText>ありゃ！
 少しお金が足りないねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my! Looks like you can't quite afford it...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93304</PointerOffset>
       <JapaneseText>またよろしくね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please come again.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93496</PointerOffset>
@@ -979,24 +985,24 @@ seem a bit... off?</EnglishText>
     <Entry>
       <PointerOffset>93512</PointerOffset>
       <JapaneseText>いらっしゃいませ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>72</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93528</PointerOffset>
       <JapaneseText>またどうぞ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>73</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93620</PointerOffset>
@@ -1012,37 +1018,37 @@ seem a bit... off?</EnglishText>
     <Entry>
       <PointerOffset>93636</PointerOffset>
       <JapaneseText>いらっしゃいませ〜！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93636</PointerOffset>
       <JapaneseText>天から流れ落ちた
 星の欠片と言われる
 『流星核』が入荷したわよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We just added a “meteor nucleus,” which is said to be a fragment of a fallen meteorite, to our stock.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>75</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93652</PointerOffset>
       <JapaneseText>またヨロシク〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come by again!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>76</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93784</PointerOffset>
@@ -1058,496 +1064,496 @@ seem a bit... off?</EnglishText>
     <Entry>
       <PointerOffset>93800</PointerOffset>
       <JapaneseText>へい、らっしゃい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, welcome!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93816</PointerOffset>
       <JapaneseText>ありがとさんっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>この街の自慢は
 豊富な清水と
 栄養満点の野菜だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our city's pride and joy is our abundant clean waters and healthy vegetables.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>今年はキュウリの出来が最高なんだ
 食べてみな♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This year's harvest of cucumbers are some of our best yet. Try some for yourselves! ♪</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>世界が統一されて
 交通の便が格段によくなったねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since the world was unified, access to transport has never been better.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>おかげでキュノスの野菜は
 南にある交易の街ヘンゼラから
 世界中に出荷されてるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks to this Cynus's produce is shipped across the whole world via the commercial down Hanselar just south of here.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>昔は、魔物と人間は
 それなりにうまく
 棲み分けていたもんさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the past, humans and monsters rarely crossed paths.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>気をつけなよ。
 ゼロムって魔物は
 人間を無差別に襲うんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You be careful out there. Xerom are monsters that will attack people unprovoked.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>あたしの息子も重傷を
 負わされちまったよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just recently my son was badly injured...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>キュノスのキュウリもナスも
 ガルデニアなんかに負けずに
 立派に育ってるよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That Gardenia thing has nothing on our beautiful crop of cucumbers and eggplants!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>ボリボリボリ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*munch* *crunch*</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93904</PointerOffset>
       <JapaneseText>うん、うまいっ！
 元気がでてきたよーっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm, so tasty! I can feel the energy welling up inside!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>北の空に七色の流星が
 飛び散るのを見たのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I saw a rainbow of meteors shooting through the northern skies.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>あの流星はなんだったのかしら？
 不吉の前触れでなきゃ
 いいんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder what they were? I hope it's not a sign of bad luck...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>ふぅ〜今日もよく働いた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phew, another day of hard work.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>どの野菜もいい出来だ
 今年の収穫が楽しみだよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the vegetables are growing beautifully. I'm really looking forward to this year's harvest! ♪</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>デスピル病が流行ったり
 軍と教会の戦争が起こったり
 新種の魔物が現れたり……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Despir is running wild, the Church and Army are at war, not to mention these strange new monsters...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>……やっぱり、いつかの
 流星は不吉の前触れだったのね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I suppose those meteors really were a sign of bad things to come.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>あちこちで食料が
 不足してるみたいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone seems to be struggling with food shortages.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>93996</PointerOffset>
       <JapaneseText>うちらの野菜を
 困ってる街に届けなきゃね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We must deliver our produce to places in need!</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>おもちゃのアヒルボートじゃ
 のれないよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't ride on this toy duck boat...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>ホンモノのアヒルボートに
 のりたいけど、ボートやの
 おじちゃんが……こわいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanna ride of the real duck boats but... the man there is scary.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>アヒルボート……かわいいなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Duck boats... so cute!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>しってる？
 アヒルさんは白鳥さんの
 こどもなんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you know that swans are raised as ducks?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>うぇ〜ん！
 赤いカミの人がでてくる
 こわいユメを見たよぉ〜！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Waaah! I had a nightmare where there was this scared man with red hair!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>うっうっ、赤いカミの人……
 アヒルボートやのおじちゃんより
 こわかったよぉ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*whimper* That man with red hair is WAY scarier than the duck boat guy...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>アヒルボートとあたしって……
 ……ちょっとにてない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't you think the duck boat is kinda like me?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94088</PointerOffset>
       <JapaneseText>あたしもオトナになったら
 白鳥さんになるんだよー♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope I can be a swan when I grow up, too!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>でっかい望遠鏡はもう見たかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you seen that massive telescope for yourself yet?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>あれは天文学者のユークレスが
 レンズを磨きあげてつくった
 手作り望遠鏡なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Euclase made that telescope himself with a finely forged lens.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>ユークレスは
 あの望遠鏡で新しい星を
 見つけるつもりらしいぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Euclase said he wants to find brand new stars with that telescope of his.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>『新しい星を見つける』って？
 ……星なんていやってほど
 夜空にあるのになぁ??</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why's he wanting to find new stars when the sky's already littered with 'em?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>まったく学者ってのは
 何を考えてるのか
 よくわからねぇよ……??</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll never get those scholarly types.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>お、俺は見ちまった……!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I... I saw something horrific!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>夢を喰う魔物に襲われた
 人間は……白い彫像みたいに
 なっちまうんだっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those dream-eating monsters showed up and turned people into statues!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>ユークレスが定期的に
 黒い月の情報を
 発表してくれるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Euclase is always making new discoveries about the Ebony Moon.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94180</PointerOffset>
       <JapaneseText>ユークレスの奴……
 ヤサ男だと思ってたが
 意外に根性があるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I always thought Euclase was a wimp, but he's got guts to him, eh?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94668</PointerOffset>
       <JapaneseText>うふふ……
 女って熱い視線を受けて
 キレイになるのよね♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe. Women only become more beautiful when viewed with passion!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>94748</PointerOffset>
       <JapaneseText>シーブル村にいるおじさんが
 私とユークレスの仲を
 すごく心配してるの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's an old man in Seable who was really worried about me and Euclase...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>95068</PointerOffset>
       <JapaneseText>シーブル村にいるおじさんが
 私とユークレスの仲を
 すごく心配してるの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's an old man in Seable who was really worried about me and Euclase...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

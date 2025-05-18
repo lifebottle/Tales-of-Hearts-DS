@@ -65,7 +65,7 @@
       <JapaneseText>さぁ、そろそろ
 『落命の荒野』かしら？
 気を抜くと一瞬で全滅するわよ</JapaneseText>
-      <EnglishText>Well, should we start by making our way to "Wasteland of Death"? Let your guard slip for a second and you're a goner.</EnglishText>
+      <EnglishText>Well, should we start by making our way to “Wasteland of Death”? Let your guard slip for a second and you're a goner.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -213,25 +213,26 @@
     <Entry>
       <PointerOffset>38060</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38076</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40316</PointerOffset>
@@ -247,13 +248,13 @@
     <Entry>
       <PointerOffset>40720</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40956</PointerOffset>
@@ -799,13 +800,13 @@
       <JapaneseText>これ以上戻るのは止めておこう。
 サンドワームがまた
 現れるかもしれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's not go back. The sandworm might pop up again.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89680</PointerOffset>
@@ -822,13 +823,13 @@
       <PointerOffset>89696</PointerOffset>
       <JapaneseText>あんな化け物に会うのは
 二度とごめんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh HELL no. I ain't never wrangling that thing ever again.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89864</PointerOffset>
@@ -844,13 +845,13 @@
     <Entry>
       <PointerOffset>89880</PointerOffset>
       <JapaneseText>こっちはサンドワームの巣よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This way leads to the sandworm's den.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>90048</PointerOffset>
@@ -866,13 +867,13 @@
     <Entry>
       <PointerOffset>90064</PointerOffset>
       <JapaneseText>みんなと合流しよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's meet back up with everyone.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

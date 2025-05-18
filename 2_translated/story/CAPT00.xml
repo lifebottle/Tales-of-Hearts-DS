@@ -1203,7 +1203,7 @@
       <VoiceId>S202201</VoiceId>
       <JapaneseText>恐怖や、わだかまりを超える
 『勇気』が——</JapaneseText>
-      <EnglishText>The "courage" to overcome fear and resentment...</EnglishText>
+      <EnglishText>The “courage” to overcome fear and resentment...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>74</Id>
@@ -1488,25 +1488,26 @@
     <Entry>
       <PointerOffset>44872</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44888</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48388</PointerOffset>
@@ -1522,13 +1523,13 @@
     <Entry>
       <PointerOffset>48792</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49028</PointerOffset>
@@ -2117,13 +2118,13 @@
       <PointerOffset>126760</PointerOffset>
       <JapaneseText>こっちじゃねぇ！
 早く&lt;Kohaku&gt;を捜すんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This ain't the way! We gotta find &lt;Kohaku&gt; quick!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>148</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>126896</PointerOffset>
@@ -2140,13 +2141,13 @@
       <PointerOffset>126912</PointerOffset>
       <JapaneseText>ったく……
 &lt;Shing&gt;を助けに行くぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dammit. I need to go rescue &lt;Shing&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>150</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127016</PointerOffset>
@@ -2163,13 +2164,13 @@
       <PointerOffset>127032</PointerOffset>
       <JapaneseText>帝国城の様子を
 調べに行かなきゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We gotta see what's going on outside the castle!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>152</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127136</PointerOffset>
@@ -2186,13 +2187,13 @@
       <PointerOffset>127152</PointerOffset>
       <JapaneseText>みんな待っているはずだ。
 集合場所は大通りの公園だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone's waiting. We're supposed to meet at the park on the main street.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>154</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127216</PointerOffset>
@@ -2221,100 +2222,100 @@
       <JapaneseText>でっかい門だろ！
 初めて訪れた人は
 みんな驚くんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huge gate, right? Everyone's jaw drops first time they see it.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>統一戦争の頃、十万の敵軍の
 攻撃をはね返した門なんだぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>During the Unification War, this gate repelled attacks from a troop of 100,000 men.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>なんでも、皇帝陛下暗殺
 未遂事件があったとかで
 城門が閉鎖されちまったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently the gates were closed after an assassination attempt on the Empress.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>こんな平和な世の中で
 帝国に反抗する必要が
 あるかっての!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why would anyone want to rebel against the Empire when the world is finally at peace?!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>空気の読めない犯罪者のせいで
 しめ出されちまったよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I got tossed out because some stupid criminal couldn't read the room!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>なんだか、ぶっそうな世の中に
 なっちまったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Feels like the whole world's going to hell.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>ま、エストレーガにいれば
 世界が破滅でもしない限り
 安全だがな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, you'll always be safe in Estraga unless the entire world decides to burn down.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
       <JapaneseText>あんたらも城内に
 避難した方がいいぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You guys should take shelter in the castle too, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>89</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127824</PointerOffset>
@@ -2343,100 +2344,100 @@
       <JapaneseText>これがマクス帝国帝都
 エストレーガの正門
 『ジルコニア・ゲート』じゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is known as the “Zirconia Gate”―main gate of the capital of the Max Empire.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>先代皇帝ジルコニア＝ド＝レ陛下が
 築かれた、帝国の力を象徴する
 門じゃよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was built by the previous emperor Zirconia de Rais, and stands as a symbol of the empire's power.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>はるか彼方に
 塔のようにそびえて見えるのが
 マクス帝国城じゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Max Castle can be seen stretching high into the sky from quite a ways away.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>暗殺未遂だの基地襲撃だの……
 どうせ軍と教会がケンカを始める
 ためにつくった口実じゃろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An assassination attempt and assault of a military base... Isn't this all just some excuse for the church and military to declare war?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>せっかく世界が統一されたのに
 争わずにはおれん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even with the world unified, conflict never ends...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>人間とは救いがたい生き物じゃの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Humans really are creatures incapable of salvation.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>軍と教会の戦争……
 デスピル病の流行……
 夢を喰う魔物の氾らん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The church and military at war, the spread of despir and those dream-eating monsters...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>
       <JapaneseText>十数年続いた平和な世も
 終わる時が来たのかもしれんな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe the peace we've known for the past ten years is coming to an end...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>127916</PointerOffset>

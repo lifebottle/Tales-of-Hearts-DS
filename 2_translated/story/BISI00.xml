@@ -352,13 +352,13 @@
     <Entry>
       <PointerOffset>32280</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32516</PointerOffset>
@@ -386,82 +386,86 @@
       <PointerOffset>37120</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37296</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37568</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37584</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38508</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38524</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38540</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43756</PointerOffset>
@@ -543,219 +547,219 @@
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>気をつけて行くんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take care out there.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>ごはんをたっぷりサービスするから
 また来ておくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll get you a big mountain of food, so come again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>うちの宿で
 しっかり休んで
 力をたくわえるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rest up and regain your energy.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>&lt;Kohaku&gt;ちゃんを
 元に戻せるのは
 あんたたちだけなんだからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the only ones who can restore &lt;Kohaku&gt; back to normal!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>ラピスちゃんは
 変わりなくぐっすり眠ってるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lapis is resting as peacefully as ever.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>せめていい夢を
 見ててくれるといいんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can only pray she's dreaming good dreams...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>2</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>ラピスちゃんの世話は
 このヘンゼラの女将に
 どーんとまかせておくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You just leave Lapis to lil ol' me!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>お腹がへったら
 いつでも言うんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just call if you ever get hungry.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56688</PointerOffset>
       <JapaneseText>ヘンゼラの女将特製の
 スタミナごはんで力をつければ
 黒い月の化物なんかへでもないさ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Try some of my special energizing dish and you'll feel like you could even take on the xerom!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>な、なんだお前!?
 こんな所に入ってきやがって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What the? You're not supposed to be back here!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>店の売り上げを盗む気か!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are they trying to steal our stocks?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>やはり信用できない
 奴らだな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You really can't trust that bunch...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>うわっ、びっくりしたぁ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That was such a shock!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>店を手伝ってくれるのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mind giving me a hand with the store?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>きみたちが来てくれると
 ウチのカミさんも機嫌がいいんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My wife's always in such a good mood when you kids drop by.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>ははは……私はのん気で
 頼りにならない男だけど
 あきらめはしないよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hahaha... I know I may be carefree and unreliable at times, but that doesn't mean I plan on giving up...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>化物たちに立ち向かう
 君たちが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You lot who can stand up against those monsters...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
       <JapaneseText>そして何より、ウチの
 カミさんが勇気をくれるからね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And most of all my dear wife, give me the courage to carry on!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56780</PointerOffset>
@@ -795,13 +799,13 @@
       <JapaneseText>&lt;Ines&gt;ちゃん、ラピス
 おりょうりおぼえてまってるから
 はやくかえってきてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll wait for you to learn how to cook, so come back soon okay?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57112</PointerOffset>
@@ -817,60 +821,60 @@
     <Entry>
       <PointerOffset>57128</PointerOffset>
       <JapaneseText>……本当に泊まる気か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You really want to stay the night?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57144</PointerOffset>
       <JapaneseText>信用料なしならな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If there's no credit fee...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57160</PointerOffset>
       <JapaneseText>……部屋を汚したり
 壊したりしなかったろうな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You didn't trash the room or anything, did you?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57176</PointerOffset>
       <JapaneseText>金が足りないぞ！
 やっぱりタダ泊まり
 する気なんだろッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't even afford it! You were REALLY planning of staying for free, huh?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57192</PointerOffset>
       <JapaneseText>ふん、やっぱりひやかしか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph, darn window-shoppers...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57280</PointerOffset>
@@ -886,92 +890,92 @@
     <Entry>
       <PointerOffset>57296</PointerOffset>
       <JapaneseText>やぁ、いらっしゃい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, come on in!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57312</PointerOffset>
       <JapaneseText>さすがに九割引は無理だけど
 泊っていくかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't do a ninety percent discount, but you still wanna stay the night?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57328</PointerOffset>
       <JapaneseText>元気で行っておいで！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>See ya, you take care now!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57344</PointerOffset>
       <JapaneseText>ありゃあ、お金が足りないね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, looks like you can't afford it.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57360</PointerOffset>
       <JapaneseText>また来ておくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57540</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57556</PointerOffset>
       <JapaneseText>いらっしゃい！
 治癒石かい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome! Looking for Curestones?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57572</PointerOffset>
       <JapaneseText>まいどありがとう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57620</PointerOffset>
@@ -987,25 +991,25 @@
     <Entry>
       <PointerOffset>57620</PointerOffset>
       <JapaneseText>治癒石屋は開店準備中だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone store is preparing for business.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57620</PointerOffset>
       <JapaneseText>……治癒石を
 盗もうとしても無駄だぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...There's no point trying to steal a Curestone.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57620</PointerOffset>
@@ -1022,13 +1026,13 @@
       <PointerOffset>57620</PointerOffset>
       <JapaneseText>ごめんよ。
 治癒石屋は、まだ準備中なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry, we're still getting the Store set up.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57620</PointerOffset>

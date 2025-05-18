@@ -460,60 +460,60 @@
       <PointerOffset>43724</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43896</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44072</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44244</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45836</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46072</PointerOffset>
@@ -881,80 +881,81 @@
     <Entry>
       <PointerOffset>77964</PointerOffset>
       <JapaneseText>……!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>79036</PointerOffset>
       <JapaneseText>……!?!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>80108</PointerOffset>
       <JapaneseText>……!?!?!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>80728</PointerOffset>
       <JapaneseText>温泉に入りますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Enter the hot springs?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>80744</PointerOffset>
       <JapaneseText>入る
 やめておく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Go in.
+Not now.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83048</PointerOffset>
       <JapaneseText>ちょっと……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hold on...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>83420</PointerOffset>
       <JapaneseText>ちゃんと料金を払っとくれよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You have to pay the fee!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>72</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>89088</PointerOffset>
@@ -981,13 +982,13 @@
     <Entry>
       <PointerOffset>96816</PointerOffset>
       <JapaneseText>お金がたりないね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't have enough money...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>98356</PointerOffset>
@@ -1026,100 +1027,100 @@
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>みがきをかけ〜る♪
 スベスベのわた〜し♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scrub-a-dub-dub, so silky smooth! ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>うふっ∀
 三割増しのイイ女に
 なっちゃったわね♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehe! ∀ I'm now thirty percent closer to becoming a beautiful lady! ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>芯まであたたま〜る♪
 ポカポカのわた〜し♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Warmed to my core, so cozy-wozy! ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>うふふっ∀
 お色気度５０％ＵＰ
 しちゃったかしら？♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Teehee! ∀ What do you think, am I fifty percent sexier now? ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>おかげで温泉オタクから
 いきなり告白されちゃったわ〜∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That hot spring geek suddenly asked me out! Guess all my work's paying off! ∀</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>温泉につか〜る♪
 キラキラのわた〜し♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soaking in the springs, look at me sparkle! ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>もしスピリアを
 吸い尽くされるとしても
 私は美しくありたい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even if my Spiria get absorbed, I still wanna look my best!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
       <JapaneseText>だから、最後の瞬間まで
 自分を磨きぬくのよ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I'll keep pampering myself until the very end! ∀</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113520</PointerOffset>
@@ -1147,86 +1148,86 @@
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>ふむふむ、なるほど……
 泉質は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm, the quality of the spring...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>う〜ん、グース温泉は
 あまたの温泉を知る
 この僕も納得の名湯ですね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup yup! Goose's hot springs are legendary! And I KNOW my hot springs!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>しくしくしくしく……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sobbing*</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>ある女性に告白して
 フラれてしまったのです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I confessed to the girl of my dreams and she turned me down...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>しくしくしく……
 グース温泉はスピリアの傷も
 癒してくれるでしょうかぁ……??</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sobbing* Do you think the hot springs will soothe pains of the heart too?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>世界には、まだ見ぬ秘湯が
 山のようにあるはず……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's bound to be hot springs in the mountains just waiting to be discovered...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>
       <JapaneseText>湧き出す湯が尽きぬように
 僕のスピリアも尽きませんよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just like a gushing geyser, my Spiria will never run dry!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113612</PointerOffset>

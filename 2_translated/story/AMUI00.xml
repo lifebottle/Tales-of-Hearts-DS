@@ -196,7 +196,7 @@
       <JapaneseText>むっか〜、なんだよぉ！
 &lt;Kohaku&gt;、&lt;Kohaku&gt;って!!
 わかったよっ！</JapaneseText>
-      <EnglishText>Grr, it's always "Kohaku this" and "Kohaku that"! FINE, I get it!</EnglishText>
+      <EnglishText>Grr, it's always “Kohaku this” and “Kohaku that”! FINE, I get it!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
@@ -339,13 +339,13 @@
     <Entry>
       <PointerOffset>33612</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33848</PointerOffset>
@@ -373,82 +373,86 @@
       <PointerOffset>37952</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38128</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38400</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38416</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39340</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39356</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39372</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41524</PointerOffset>
@@ -541,25 +545,26 @@
     <Entry>
       <PointerOffset>53840</PointerOffset>
       <JapaneseText>どの階に行きますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Which floor will you go to?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53856</PointerOffset>
       <JapaneseText>スイートルーム
 カジノ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Luxury Suite.
+Casino.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54952</PointerOffset>
@@ -576,13 +581,13 @@
       <PointerOffset>54968</PointerOffset>
       <JapaneseText>お客様のお部屋は最上階の
 スイートルームになります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your room is the luxury suite on the top floor.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55056</PointerOffset>
@@ -599,205 +604,205 @@
       <PointerOffset>55072</PointerOffset>
       <JapaneseText>ユーライオ・セレブホテルに
 ようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the Couraleo Celebrity Hotel.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55088</PointerOffset>
       <JapaneseText>お泊りになりますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Will you stay the night?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55104</PointerOffset>
       <JapaneseText>またのお越しを
 お待ちしております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We look forward to your next visit.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55120</PointerOffset>
       <JapaneseText>少々お金が足りないようですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm, it seems like you don't have enough money.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55136</PointerOffset>
       <JapaneseText>またのご利用をお待ちしています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>By all means, please come again.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55308</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55324</PointerOffset>
       <JapaneseText>セレブな治癒石屋へ
 ようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the Celebrity Curestone Vendor.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55340</PointerOffset>
       <JapaneseText>ご利用ありがとうございました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you for your patronage.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>まぁ、そうなの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My oh my!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>まぁまぁ、本当!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My my, is that true?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>まぁまぁまぁまぁ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My oh my oh my!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>まぁまぁまぁまぁ、マジでぇぇッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My most goodness gracious, are you for real?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>まぁまぁまぁまぁまぁまぁまぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My oh my oh my oh my oh my oh my!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>ガジッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*chomp*</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>2</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>……し、舌かんだわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I bit my tongue...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>もう意味のない
 相づちはやめたわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm done pretending to listen to people...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55428</PointerOffset>
       <JapaneseText>……結構疲れるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's quite exhausting.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>ライオグランプリの第一回から
 第十回までの優勝者は
 同じ人間だったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The winner of the Couraleo Grand Prix was the same person from the 1st one to the 10th one.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
@@ -817,182 +822,182 @@
       <JapaneseText>彼が身につけていた獅子の紋章から
 名をとって、第十一回大会から
 『ライオグランプリ』となったんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The lion crest he bore became inspiration for the name of the competition, thus we got the name Couraleo Grand Prix.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>スイートルームは『甘い部屋』って
 意味じゃないよ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a suite room, not a SWEET room.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>寝室、居間、バスが
 『一式そろった部屋』って意味さ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suite rooms have lodging, hangout spaces, as well as a bath.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>2</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>このホテルの最上階
 スイートルームからの
 ながめは最高だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The lookout view from the top floor's suite room is amazing.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>ユーライオにお客を呼び戻す
 いい考えがあるんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have a great idea to get visitors to come back to Couraleo!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>夢を喰う魔物を生けどりにして
 『ゼロム魔物園』をつくったら
 ユーライオに活気が戻るよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we make a haunted house attraction based off the xerom, that'll really bring life back to this place!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>おっと、このナイスアイディアを
 盗まないでくれよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't go stealing my amazing idea!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>うう、世界はもう終わりなのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the end of the world, isn't it...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55520</PointerOffset>
       <JapaneseText>怖い……怖いよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm so scared...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>わしはこだわる男。
 やはりコーヒーは
 セレブホテルのラウンジに限るな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm a man who knows what he's about. Coffee is meant to be had in the lounge.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>うむ、ミルクを山ほど入れた
 セレブコーヒー牛乳はウマイ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm. I do declare, if you load in the milk, it makes the coffee here all the better!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>わしはこだわる男。
 やはりスルメは
 シーブル産に限るな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm a man who knows what he's about. Squid caught around Seable's harbor tastes the most exquisite.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>クチャ、クチャ、クチャ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*munch* *munch*</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>んまぁーーーい♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Scrumptious!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>わしはこだわる男。
 最近はコーヒーよりも
 レーブティーがブームだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm a man who knows what he's about. Layve's home branded tea is more in the now than coffee is.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
@@ -1009,138 +1014,138 @@
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>だって、コーヒーって
 苦いんだもん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coffee is far too bitter, as everyone knows.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>わしはこだわる男。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm a man who knows what he's about.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55612</PointerOffset>
       <JapaneseText>何よりも
 『わしはこだわりの男』という
 他人の評判にこだわる男だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Most importantly, I'm a man who knows that he's considered “the man who knows what he's about” by other people.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>おほほほ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohohoho! ♪</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>おほほほほほ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohohohohoho! ♪</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>おーっほっほっほ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooohohoho!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>おーーっほっほっほっほーーーっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oooooooooohohohoho!!!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>おーーっほっほっほっほっほ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oooooooooohohohoho...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>ゲハァッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*cough*</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>2</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>ゴホッ！　ゲホンッ!!
 ハァ……ハァ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*cough* *hack* *pant*...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>……もう意味のない
 高笑いはやめたわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm done with the ridiculous laughing.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55704</PointerOffset>
       <JapaneseText>結構つらいのよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not as easy as it looks...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

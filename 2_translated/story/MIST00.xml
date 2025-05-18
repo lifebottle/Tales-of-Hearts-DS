@@ -356,7 +356,7 @@
       <JapaneseText>彼らからの伝言です。外は凶暴な
 魔物であふれている。皆に村から
 出ないように伝えてくれ……と</JapaneseText>
-      <EnglishText>I have a message from them. They said "it's swarming with ferocious monsters out there, so tell everyone to stay inside the village."</EnglishText>
+      <EnglishText>I have a message from them. They said “it's swarming with ferocious monsters out there, so tell everyone to stay inside the village.”</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
@@ -560,7 +560,7 @@
       <PointerOffset>87664</PointerOffset>
       <JapaneseText>『クリード＝グラファイト』
 という、一言しか……</JapaneseText>
-      <EnglishText>All he ever says is "Creed Graphyte"...</EnglishText>
+      <EnglishText>All he ever says is “Creed Graphyte”...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
@@ -2274,36 +2274,37 @@
     <Entry>
       <PointerOffset>45484</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45500</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>122</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56172</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>123</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59208</PointerOffset>
@@ -2319,13 +2320,13 @@
     <Entry>
       <PointerOffset>59612</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>125</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59848</PointerOffset>
@@ -2464,13 +2465,13 @@
       <JapaneseText>今年のレーブティーは
 マズくてしょーがないザンス！
 ザッザッザンス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This year's Layve Tea SUCKS! Gyahaha!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>138</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>105324</PointerOffset>
@@ -2532,13 +2533,13 @@
     <Entry>
       <PointerOffset>111500</PointerOffset>
       <JapaneseText>カリンの尻尾を貰いました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Received quince tail.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>144</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113380</PointerOffset>
@@ -2653,13 +2654,13 @@
     <Entry>
       <PointerOffset>130960</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>155</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>131324</PointerOffset>
@@ -2687,13 +2688,13 @@
       <PointerOffset>131800</PointerOffset>
       <JapaneseText>まず宿屋で一休みして
 対策を考えよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go rest at the inn and then think about our next plan of action.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>158</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132168</PointerOffset>
@@ -2710,13 +2711,13 @@
       <PointerOffset>132184</PointerOffset>
       <JapaneseText>まず宿屋で一休みして
 対策を考えよう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go rest at the inn and then think about our next plan of action.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>160</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132288</PointerOffset>
@@ -2733,13 +2734,13 @@
       <PointerOffset>132304</PointerOffset>
       <JapaneseText>&lt;Kohaku&gt;を迎えに
 治療所に行こう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's head to the clinic to find &lt;Kohaku&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132408</PointerOffset>
@@ -2755,13 +2756,13 @@
     <Entry>
       <PointerOffset>132424</PointerOffset>
       <JapaneseText>&lt;Shing&gt;を捜さなきゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I need to find &lt;Shing&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>164</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132736</PointerOffset>
@@ -2799,24 +2800,24 @@
     <Entry>
       <PointerOffset>134292</PointerOffset>
       <JapaneseText>…………しゃい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hey.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>168</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134308</PointerOffset>
       <JapaneseText>…………した</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Bye.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>169</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134480</PointerOffset>
@@ -2832,24 +2833,24 @@
     <Entry>
       <PointerOffset>134496</PointerOffset>
       <JapaneseText>……いらっしゃい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Welcome.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>171</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134512</PointerOffset>
       <JapaneseText>どうも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>172</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134684</PointerOffset>
@@ -2865,25 +2866,25 @@
     <Entry>
       <PointerOffset>134700</PointerOffset>
       <JapaneseText>客とはめずらしい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's rare to get visitors around these parts.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>174</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134716</PointerOffset>
       <JapaneseText>宿ならウチの裏手の酒場が
 兼業でやっておる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're looking for a place to stay the night, there's a pub behind me that I do as a side gig.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>175</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
@@ -2911,13 +2912,13 @@
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>ここはレーブ村だ……
 …………文句あるか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Layve. Got a problem with it?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
@@ -2933,38 +2934,38 @@
     <Entry>
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>……&lt;Hisui&gt;？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...&lt;Hisui&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>ゴーグルの兄ちゃんなら
 村を出て、港の方に行ったよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you mean that guy with the goggles, he left the village and headed to the port.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>そ、それより、頭の中に
 映った、ゼロムって化物は
 本物なのかな……!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Wait, so you're saying the creepy monsters I saw in my head are real?!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>3</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
@@ -2981,24 +2982,24 @@
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>ぼくはゼロムが
 死ぬほどこわいんだっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're so scary!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
       <JapaneseText>……も、文句あるかぁぁっ！！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>G-Got a problem with it?!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>110</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134804</PointerOffset>
@@ -3037,25 +3038,25 @@
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>ここは一年のほとんどを
 霧に包まれた村、レーブ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Layve, the village shrouded in mist year round.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>レーブの霧が晴れる時……
 それは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems the mist has thinned out.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
@@ -3071,25 +3072,25 @@
     <Entry>
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>……気のせいかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Am I just imagining it?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>一瞬、レーブの霧が
 晴れたような気がしたんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel like the mist got thinner for a second there.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
@@ -3106,24 +3107,24 @@
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>レーブの霧が晴れる時……
 それは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems the mist has thinned out.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
       <JapaneseText>……世界が滅ぶ時……なのかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Am I just imagining it?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>111</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134896</PointerOffset>
@@ -3151,97 +3152,97 @@
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>そこの建物は
 テクタ先生の治療所よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That building there is the clinic run by Dr. Tekta.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>テクタ先生はお医者のいなかった
 村に治療所を開いてくれた恩人よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're all indebted to Dr. Tekta. He opened up the clinic here in a place that used to have no physician.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>いつもニコニコしている
 優しい先生なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's always kind, with a smile on his face.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>頭に響いた演説は
 なんだったのかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just what was that speech that played out in my head?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>『スピリアを吸収する』とか
 言ってたけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think it mentioned Spiria being absorbed...</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>そんな事できるはずが
 ないわよね!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that even possible? Surely not!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>パライバ様の演説を聞いて
 思ったんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Listening to Empress Paraiba's speech got me thinking.</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
       <JapaneseText>パライバ様とテクタ先生って
 ちょっと雰囲気が似てないかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't you think she and Dr. Tekta are similar in some ways?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>134988</PointerOffset>
@@ -3279,25 +3280,25 @@
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>あたし知ってるよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know the truth!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>このキリはねぇー
 キツネさんがつくってるんだよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This fog was made by a fox!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
@@ -3313,25 +3314,25 @@
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>あたし知ってるよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know the truth!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>目つきの悪いお兄ちゃんは
 村の外に出て行ったよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That scary guy who glares a lot already left the village!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
@@ -3347,25 +3348,25 @@
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>あたし知ってるよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know the truth!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
       <JapaneseText>キリをつくってるキツネさんはねぇ
 ニンゲンにばけられるんだよー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That fox that makes all the fog around here takes the shape of a human!</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>113</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135080</PointerOffset>
@@ -3405,26 +3406,26 @@
       <JapaneseText>村中で栽培しているのは
 レーブティーという
 お茶の葉じゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Layve Tea, a medicinal tea cultivated here in this village.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
       <JapaneseText>霧で見えにくいからといって
 茶畑に突っこんで荒らしたら
 承知せんぞ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You better not use the fog as an excuse and trample the tea plantation!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
@@ -3441,25 +3442,25 @@
       <PointerOffset>135172</PointerOffset>
       <JapaneseText>うう、夢を喰う魔物を操る
 緋色の髪の魔王じゃと……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh heavens, that Scarlet-Haired Devil man controls the dream-eating monsters?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
       <JapaneseText>年寄りをからかうのも
 いいかげんにせいっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It does you no favors to scare your elders!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
@@ -3477,25 +3478,25 @@
       <JapaneseText>ふん、世を捨てた
 あたしらには皇帝に従う
 義理はないが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph, us outcasts have no obligation to listen to what the Empress presses on our lifestyles.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
       <JapaneseText>化物にナメられたままってのは
 性にあわないんだよっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I won't take being toyed with by that beast sitting down!</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>114</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135172</PointerOffset>
@@ -3534,37 +3535,37 @@
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>茶葉を食ってるのは
 『チャシープ』っていう羊さ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those sheep eating the tea leaves are called Tea Sheep.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>チャシープの乳は
 抹茶ミルク味なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The milk you get from them tastes like green tea.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>砕いた氷にかけ食べると
 ウマイんだぜ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It tastes really good with some crushed ice! ♪</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
@@ -3580,35 +3581,35 @@
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>そこらをうろついてるのは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You see that dog loitering around?</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>『ミスドッグ』っていうイヌだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what we call a Fog Dog.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>霧にむせて、妙な鳴き声を出すんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They inhale the mist and make weird noises.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>3</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
@@ -3625,24 +3626,24 @@
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>うーん、チャシープたちの
 乳がシブくなっちまってる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm, the Tea Sheep's milk is really tart right now.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
       <JapaneseText>……動物も不安なんだろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if even the animals are stressed.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>115</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135264</PointerOffset>
@@ -3681,25 +3682,25 @@
       <PointerOffset>135356</PointerOffset>
       <JapaneseText>村の畑のカカシは
 全部オレがつくったんだぞー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll have you know, I made all the scarecrows for our fields.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135356</PointerOffset>
       <JapaneseText>オレって村一番の
 カカシ職人なんだよなー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm the best scarecrow craftsman in the village!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>116</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135356</PointerOffset>
@@ -3716,24 +3717,24 @@
       <PointerOffset>135356</PointerOffset>
       <JapaneseText>……ううっ、夢を喰う魔物が
 人間を食べちまったぁっ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, so the dream-eating monsters eat away at people's souls?!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135356</PointerOffset>
       <JapaneseText>こ、こぇよぉーーーっっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's so scary!!!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>116</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135356</PointerOffset>
@@ -3751,13 +3752,13 @@
       <JapaneseText>オレのカカシで
 ゼロムとかいう化物も
 追いかえしてやるんだー!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My scarecrows will scare off even the xerom!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>116</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135356</PointerOffset>
@@ -3784,35 +3785,35 @@
     <Entry>
       <PointerOffset>135448</PointerOffset>
       <JapaneseText>……モフッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Moof!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135448</PointerOffset>
       <JapaneseText>……モッフ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Moof moof!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135448</PointerOffset>
       <JapaneseText>モフフンッッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Moo-moof moof!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>117</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135448</PointerOffset>
@@ -3883,24 +3884,24 @@
     <Entry>
       <PointerOffset>135540</PointerOffset>
       <JapaneseText>モシャモシャ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*wobbles*</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135540</PointerOffset>
       <JapaneseText>ンメェ〜〜〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beeeh~</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>118</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135540</PointerOffset>
@@ -3971,24 +3972,24 @@
     <Entry>
       <PointerOffset>135632</PointerOffset>
       <JapaneseText>モシャモシャ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*wobbles*</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135632</PointerOffset>
       <JapaneseText>ンメェ〜〜〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beeeh~</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135632</PointerOffset>
@@ -4059,35 +4060,35 @@
     <Entry>
       <PointerOffset>135724</PointerOffset>
       <JapaneseText>モシャモシャ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*wobbles*</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135724</PointerOffset>
       <JapaneseText>…………シブッ……ン!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Bah...</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>120</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135724</PointerOffset>
       <JapaneseText>……ンメェ〜〜〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beeeh~</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>120</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135724</PointerOffset>
@@ -4160,13 +4161,13 @@
       <JapaneseText>毎日同じ作業の繰り返し……
 オレの生きる意味って
 なんなんだろう……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's the same work, day after day. What reason do I even have to be alive?</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>176</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>136408</PointerOffset>
@@ -4184,13 +4185,13 @@
       <JapaneseText>レーブティーの栽培は
 地道な作業を
 ひたすら繰り返すんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cultivating Layve Tea is honest work. I do my best repeating the process.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>178</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

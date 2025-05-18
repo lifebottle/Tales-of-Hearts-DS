@@ -532,7 +532,7 @@
       <JapaneseText>そうです！　潔く死ぬなど
 自分がどれほど想われているかも
 理解できないクソガキの考えだ！</JapaneseText>
-      <EnglishText>She's right! Dying an "honorable death" is childish thinking from a brat who doesn't understand how much people care for you!</EnglishText>
+      <EnglishText>She's right! Dying an “honorable death” is childish thinking from a brat who doesn't understand how much people care for you!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -706,7 +706,7 @@
       <JapaneseText>『約束通り、あなたと
 あなたの世界は
 僕が守ってみせます』</JapaneseText>
-      <EnglishText>"Just as I promised, I shall protect you and the world you live in-"</EnglishText>
+      <EnglishText>“Just as I promised, I shall protect you and the world you live in-”</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -719,7 +719,7 @@
       <VoiceId>S181237</VoiceId>
       <JapaneseText>『どうか、僕を信じて
 待っていてください』——と!!</JapaneseText>
-      <EnglishText>"So please, have faith and wait for me!"</EnglishText>
+      <EnglishText>“So please, have faith and wait for me!”</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
@@ -1078,7 +1078,7 @@
       <JapaneseText>ふ、ふん……
 まぁ、『戦友』としてなら
 認めてやらない事もないがな</JapaneseText>
-      <EnglishText>H-hmph... well, I will acknowledge us as "comrade in arms".</EnglishText>
+      <EnglishText>H-hmph... well, I will acknowledge us as “comrade in arms”.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>52</Id>
@@ -1092,7 +1092,7 @@
       <JapaneseText>『戦友』かぁ……
 うん、カッコイイな！
 行こうぜ、戦友ッ!!</JapaneseText>
-      <EnglishText>"Comrade in arms" huh... that's so cool! Let's go, comrade!!</EnglishText>
+      <EnglishText>“Comrade in arms” huh... that's so cool! Let's go, comrade!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>53</Id>
@@ -1329,13 +1329,13 @@
       <PointerOffset>114428</PointerOffset>
       <JapaneseText>な、何かしら!?
 あちらへ行ってくださる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What?! Can't you leave me alone?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>115096</PointerOffset>
@@ -1354,13 +1354,13 @@
       <PointerOffset>115516</PointerOffset>
       <JapaneseText>な、何かしら!?
 あちらへ行ってくださる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What?! Can't you leave me alone?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116060</PointerOffset>
@@ -1516,13 +1516,13 @@
     <Entry>
       <PointerOffset>52012</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55228</PointerOffset>
@@ -1550,60 +1550,60 @@
       <PointerOffset>56772</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56944</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>95</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57120</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57292</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>97</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58884</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>98</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59120</PointerOffset>
@@ -1620,13 +1620,13 @@
       <PointerOffset>60908</PointerOffset>
       <JapaneseText>番号入力
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Input digits.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>100</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61096</PointerOffset>
@@ -2302,13 +2302,13 @@
     <Entry>
       <PointerOffset>133764</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135032</PointerOffset>
@@ -2324,13 +2324,13 @@
     <Entry>
       <PointerOffset>135048</PointerOffset>
       <JapaneseText>帝都の様子を調べなきゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have to see how the capital's doing!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>164</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135152</PointerOffset>
@@ -2347,13 +2347,13 @@
       <PointerOffset>135168</PointerOffset>
       <JapaneseText>みんな待っているはずだ。
 集合場所は大通りの公園だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone's waiting. We're supposed to meet at the park on the main street.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>166</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135672</PointerOffset>
@@ -2370,13 +2370,13 @@
       <PointerOffset>135688</PointerOffset>
       <JapaneseText>ここにいたら
 兵士に捕まっちゃうってばっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If we keep dawdling here, the soldier's will catch us!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>168</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>135888</PointerOffset>
@@ -2392,13 +2392,13 @@
     <Entry>
       <PointerOffset>135904</PointerOffset>
       <JapaneseText>カルセドニーにスピルリンクだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's Spirlink with Chalcedony.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>170</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>136312</PointerOffset>
@@ -2415,13 +2415,13 @@
       <PointerOffset>136328</PointerOffset>
       <JapaneseText>わ〜ん！
 全力で帝都から離れようよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yikes! We should get the heck outta the city!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>172</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>136528</PointerOffset>
@@ -2437,13 +2437,13 @@
     <Entry>
       <PointerOffset>136544</PointerOffset>
       <JapaneseText>カルセドニーにスピルリンクだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's Spirlink with Chalcedony.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>174</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137004</PointerOffset>
@@ -2460,13 +2460,13 @@
       <PointerOffset>137020</PointerOffset>
       <JapaneseText>わ〜ん！
 全力で帝都から離れようよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yikes! We should get the heck outta the city!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>176</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137220</PointerOffset>
@@ -2482,13 +2482,13 @@
     <Entry>
       <PointerOffset>137236</PointerOffset>
       <JapaneseText>カルセドニーにスピルリンクだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's Spirlink with Chalcedony.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>178</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137644</PointerOffset>
@@ -2505,13 +2505,13 @@
       <PointerOffset>137660</PointerOffset>
       <JapaneseText>わ〜ん！
 全力で帝都から離れようよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yikes! We should get the heck outta the city!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>180</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137860</PointerOffset>
@@ -2527,36 +2527,36 @@
     <Entry>
       <PointerOffset>137876</PointerOffset>
       <JapaneseText>カルセドニーにスピルリンクだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's Spirlink with Chalcedony.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>182</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>141236</PointerOffset>
       <JapaneseText>スピルーンが暴走を……
 怒りが……あふれて…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>His Spiria's losing control... his anger... is overflowing...</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>183</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>141236</PointerOffset>
       <JapaneseText>ぐうぅ…………ッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Urk...!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>183</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>141624</PointerOffset>
@@ -2573,13 +2573,13 @@
       <PointerOffset>141640</PointerOffset>
       <JapaneseText>うぅ……っ……
 違うの……カル……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-Ugh... You're wrong... Chal...</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>185</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142056</PointerOffset>
@@ -2595,24 +2595,24 @@
     <Entry>
       <PointerOffset>142072</PointerOffset>
       <JapaneseText>いらっしゃいませ〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>187</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142088</PointerOffset>
       <JapaneseText>どうも、どうも〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>188</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142340</PointerOffset>
@@ -2629,24 +2629,24 @@
       <PointerOffset>142356</PointerOffset>
       <JapaneseText>じっくり見てってくれ！
 俺が買い付けた自信の品々だ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come take a look! I promise you won't be disappointed!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>190</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142372</PointerOffset>
       <JapaneseText>またよろしくなっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Come again!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>191</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142544</PointerOffset>
@@ -2662,99 +2662,99 @@
     <Entry>
       <PointerOffset>142560</PointerOffset>
       <JapaneseText>いらっしゃいませ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>193</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142576</PointerOffset>
       <JapaneseText>ありがとうございました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>194</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>帝都には全世界の
 あらゆる品が集まるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All types of different goods from across the world gather here in the capital.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>こっちは熱帯産のドスゲィジャン！
 それは雪国でとれたミトゥミリン!!
 どう、どれも美味しそうでしょ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This here's a hard-boiled papaya from the tropics! And this is stir fried rice wine from the snowy regions! Looks tasty, right? ♪</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>ゼロムっていう魔物に
 次々に商隊が襲われて
 今、帝都は品不足なのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Merchant caravans keep getting attacked by those xerom monsters, and now the capital is starting to run low on supplies.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>軍も教会も、内輪もめより先に
 化物を退治して欲しいよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wish the church and military would do something about those monsters before squabbling with each other...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>うちの商品を食べて
 力をつけていっておくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eat our produce and grow big and strong!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
       <JapaneseText>このカギカッタカンや
 こっちのユットルジャンネィは
 抜群に精がつくよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our picklicious mangoes and medium rare bananas will perk you right up!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142704</PointerOffset>
@@ -2782,63 +2782,63 @@
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>へい、いらっしゃい♪
 世界一の市場を楽しんでってくれ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey there, come on in! ♪ Welcome to the best market in the world!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>あんたら旅の途中かい？
 だったら保存食にドライフルーツは
 どうだい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you travelers? How about some dried fruits for the road?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>リンゴ、プルーン、ナツメヤシ！
 干し柿、レーズン、パイナップル!!
 なんでもござれだ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've got dried apples, prunes, dates... even persimmons, raisins and pineapples! Whatever you want, we've got it! ♪</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>帝都に凶悪犯が潜んでるらしいぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds like there's criminals lurking in the city.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>世界帝国にケンカ売るなんて
 身のほど知らずは帝都っ子の
 名にかけてふん捕まえてやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're dumb enough to pick a fight with the empire of the whole world, I'll catch you in the name of our majesty!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
@@ -2857,112 +2857,112 @@
       <JapaneseText>赤髪野郎は、ゼロムとか
 スピリアを吸収するとか
 言ってたけど……冗談だよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That red-haired guy said the xerom would absorb all our Spiria, but... he's not serious, is he?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>さぁ、いらっしゃい！
 栄養満点のフルーツだよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey there, welcome! Have some delicious, nutritious fruit!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142836</PointerOffset>
       <JapaneseText>どんな時も商売を続ける……
 それが商人の戦い方さ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keeping business going no matter what... That's how us merchants fight!</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>それは思念石の街灯よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That streetlight is powered by a Will Stone.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>帝都には思念石を使った
 便利な道具が
 たくさんあるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The capital has many handy inventions utilizing Will Stones.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>バレイア教会と軍の戦争が
 あったらしいわね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard the Velleian Church and military are at war...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>いやよねぇ……
 なぜ話し合いで
 解決できないのかしら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How dreadful. Why can't they just resolve this peacefully with words?</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>……ガルデニアって化物は
 本当に恐ろしい力を持っているわ。
 けどね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That Gardenia monster is truly frightening. However...</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
       <JapaneseText>私は、こんな大きな城や街をつくり
 あげた人間の力も、そう捨てた
 ものじゃないって思うのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think we should underestimate the might of us humans who can build such grand castles and cities.</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>142928</PointerOffset>
@@ -2990,86 +2990,86 @@
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>おやおや、そんなに走って
 元気がよいこと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh, going for a jog is always so refreshing.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>バレイア教会の帝都本部は
 この先よ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Imperial Headquarters of the Velleian Church is just ahead.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>噂では、聖都プランスールが
 軍に攻められて陥落したって
 いうけど、本当かねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rumor has it Pransule was attacked and conquered by the military, but is it really true?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>教会が帝国への反乱を
 企てたせいだっていうけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They say it's because the church was planning a rebellion against the empire.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>融和の教えを説くバレイア教会は
 そんな事しないよねぇ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Velleian Church's teaching are ones of peace and reconciliation, so why would they do such a thing?</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>教会、軍、帝国……
 ……そんな区別はいらないね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Church, military, empire... There's no need for such distinctions.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
       <JapaneseText>ひとりの人間として
 みんなの無事を願うよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As a fellow human being, I pray for everyone's safety.</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143020</PointerOffset>
@@ -3097,72 +3097,72 @@
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>うちは、マクス帝国軍
 御用達の武器屋だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This weapon Store is the purveyor of the Max Empire!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>全大陸を征服した武器の
 切れ味を試してみるかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Want to try out one of the blades that conquered the world?</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>うちは、教会をぶっつぶした
 帝国軍御用達の武器屋さ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This weapon Store is favored by the military who conquered the church!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>結晶騎士のソーマすら叩き壊した
 武器の威力を試してみなよ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Try one of the blades that defeated the Crystal Knights for yourselves!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>うちの武器を使っとくれ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use my weapon!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
       <JapaneseText>クリードだかゼロムだか知らないが
 悪をぶっとばす勇気の武器だよっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whether it's that Creed fella or the xerom, it's a courageous blade that smites evil!</EnglishText>
       <Notes/>
       <SpeakerId>18</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143152</PointerOffset>
@@ -3189,83 +3189,83 @@
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>気ぃつけな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You might wanna turn back...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>素人さんが
 こんな裏通りに来ちゃ危ねぇよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These back alley's not for youngins like you.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>お若いの……
 明るい表通りを歩きなよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You kiddos should take the sunny main street.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>……指名手配でもされてるなら
 話は別だがよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But if you were wanted criminals, then it's a different story, right?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>……あんたらは真っ直ぐだなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You better hurry along now.</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>わしには
 ちょいと、まぶしすぎるが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As for me, those streets are a tad too bright...</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
       <JapaneseText>……きらいじゃないぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...You don't mind though, do ya?</EnglishText>
       <Notes/>
       <SpeakerId>19</SpeakerId>
       <Id>83</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143244</PointerOffset>
@@ -3305,13 +3305,13 @@
       <JapaneseText>アクセサリ屋が
 『合成』……といったかな？
 新しいサービスを始めたようだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like the accessory Store's started a new service. I think they called it “synthesis”?</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143336</PointerOffset>
@@ -3329,13 +3329,13 @@
       <JapaneseText>ユーライオの闘技場で
 一般参加可能なバトル大会が
 開催されてるらしいぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds like Couraleo's holding a battle tournament open to the public in the arena.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143336</PointerOffset>
@@ -3353,13 +3353,13 @@
       <JapaneseText>ユーライオの闘技場バトルは
 いよいよ上位クラスに
 突入したようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I suppose the Couraleo arena's battles have finally reached the upper class.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143336</PointerOffset>
@@ -3376,135 +3376,135 @@
       <PointerOffset>143336</PointerOffset>
       <JapaneseText>中央大陸の東の海には
 未発見の島がたくさんあるって話だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They say there are many undiscovered islands in the eastern waters off the central continent.</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143336</PointerOffset>
       <JapaneseText>そこには人間の言葉を喋る
 謎の生物がすみついているという
 噂がある……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rumor has it mysterious creatures that can speak human language live there...</EnglishText>
       <Notes/>
       <SpeakerId>20</SpeakerId>
       <Id>84</Id>
       <BubbleId>2</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>お池のむこうに見えるのが
 お城だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can see the castle from across the pond.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>お城にはパライバさまっていう
 お姫さまがいるんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An empress called Paraiba lives there.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>あ〜あ、あたしも
 お姫さまに
 生まれたかったなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sigh* I wish I was born an empress...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>赤いかみの魔王の声がきこえたの。
 ほんとうにねむり姫さまを
 いじめる悪いやつなんだね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard that Scarlet-Haired Demon. He's the big bad guy who bullies Sleeping Beauty!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>あたしは
 ねむり姫さまのみかただよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I support Sleeping Beauty!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>悪い魔王に負けないでねっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't go losing to that big red meanie head!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>パライバさまに……
 ねむり姫さま……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Empress Paraiba... Sleeping Beauty...</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>お姫さまも、いろいろ
 たいへんそうだねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems so hard to be a princess.</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
       <JapaneseText>やっぱり、あたしは
 パパとママの子どもでいいや！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I guess I'm fine just being myself!</EnglishText>
       <Notes/>
       <SpeakerId>21</SpeakerId>
       <Id>85</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143428</PointerOffset>
@@ -3531,208 +3531,208 @@
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>きみたちって田舎者でしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you guys country folk?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>ボクって帝都育ちだから
 田舎者ってひと目で
 わかっちゃうんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I grew up in the capital, so I can spot people from the countryside at a glance.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>軍の手配書は見たんだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I saw the wanted poster.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>軍の基地を襲った
 ソーマ使いたちって
 みんな田舎者っぽいよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All the Somatics that attacked the base look like total hicks.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>エストレーガの城門は
 世界で一番強いんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Estaga's castle gates are the strongest in the world!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>この門は
 どんな魔物が攻めてきたって
 絶対、破れない!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No matter what kind of monster attacks, it's totally invincible!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>…………よね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Right?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>うう……っ
 黒い月にスピリアを吸われて
 みんな死んじゃうのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ugh... Is the Ebony Moon gonna suck up our Spiria and everyone will die...?</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>…………だけど！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...B-But!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>2</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143520</PointerOffset>
       <JapaneseText>こ、怖いなんて言わないぞ！
 帝都エストレーガっ子は
 見栄っ張りなんだっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>D-Don't say I'm scared! Us raised in the capital are above that!</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>いやぁ、やはり帝都には美人が多い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My my,. Just as I expected, the capital is truly full of gorgeous women! </EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>毎日大通りで
 女の子チェックをするのが
 ボクの日課なんだよね∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyday, I come by the main street to check out the lovely ladies. It's part of my daily routine! ∀</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>おやおやおやっ！
 き、君たちは手配書の……!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh goodness me! A-Are you the guys from the wanted list...?!</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>手配書の巨乳美女と可憐少女の
 似顔絵をみたかい？
 ステキだよねぇ〜あのふたり∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did you see the pictures of the busty beauty and total cutie? Talk about dreamboats, am I right? ∀</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>お友達になりたぁ〜〜〜い∀∀∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I sooo wanna get to know them! ∀∀∀</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>ああ……パライバ様は
 美しいお方だったなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, Lady Paraiba, how lovely I find you...</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
       <JapaneseText>よぉ〜し！　ボク
 パライバ様のファンクラブを
 つくっちゃうぞぉ〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I know, I'll start the Empress Paraiba fanclub! ♪</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143612</PointerOffset>
@@ -3759,24 +3759,24 @@
     <Entry>
       <PointerOffset>143704</PointerOffset>
       <JapaneseText>ミャァ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meow...</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143704</PointerOffset>
       <JapaneseText>ミャァ〜ン♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meooow! ♪</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143704</PointerOffset>
@@ -3838,191 +3838,191 @@
       <JapaneseText>ふーん。
 地方じゃデスピル病っていう
 病気が流行ってるの？　けど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm. I'd heard that despir was prevalent in rural regions, however...</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>帝都にはソーマを持った
 結晶騎士がいるから、デスピル病の
 心配なんていらないわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The capital has our Crystal Knights with their Soma, so we should have nothing to worry about.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>皇帝陛下と軍の基地を襲った
 テロリストがうろついてるなんて</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently the terrorist behind the attack on the military base and Her Majesty's life are still roaming the city.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>帝国に歯向かう奴は
 さっさと捕まえて
 広場で処刑して欲しいわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyone who dares oppose the empire should be swiftly captured and executed in the plaza.</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>結晶騎士がいなくなったら
 誰がデスピル病から
 エストレーガを守るのよッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If the Crystal Knights are gone, who's going to protect the city from despir?!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>軍が責任を持って
 守ってくれるんでしょうねッ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Surely the military will take responsibility and keep us safe, right?!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>なによ、なによ！
 怖いモノを怖いって言って悪いの!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?! What's wrong with being scared when faced with such a terrifying monster?!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>7</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143796</PointerOffset>
       <JapaneseText>私は怖いのッ!!
 死にたくないのッ!!
 もっともっと生きたいのよォッ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm terrified! I don't want to die, I still have so much I want to do!!!</EnglishText>
       <Notes/>
       <SpeakerId>25</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
       <SubId>8</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>マクス帝国は十数年前の
 統一戦争で全世界を統一した
 史上初の統一帝国だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Max Empire is the first unified empire in history which united the whole world in the Unification War ten years ago.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>このエストレーガは帝国の首都。
 そしてここはエストレーガ大通りの
 中央広場。つまり……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is Estraga, capital of the empire. And this is the center of Estraga's main street. In other words...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>わしらが今立っている場所が
 世界の中心なのだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We are currently standing at the center of the world!</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>わしは世界を旅してみて
 初めて帝都の素晴らしさに
 気付いた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It wasn't until I traveled the world that I came to understand the true splendor of the capital.</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>3</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>君たちも、もう一度
 以前いた街に戻ってみると
 新しい発見があるかも知れんぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Same could go for you. Maybe if you visit places you've already been, you just might discover something new?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>世界には、あまり時間が
 残されていないだろう。
 だが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's probably not much time left for this world. However...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>5</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
       <JapaneseText>今あえて世界をまわる事で
 得られる『新たな力』も
 多いかも知れんぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Perhaps there are many “new powers” to discover by exploring the world?</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>143888</PointerOffset>
@@ -4050,13 +4050,13 @@
       <PointerOffset>144372</PointerOffset>
       <JapaneseText>な、何かしら!?
 あちらへ行ってくださる？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wh-What?! Can't you leave me alone?</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>195</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>144996</PointerOffset>
@@ -4072,13 +4072,13 @@
     <Entry>
       <PointerOffset>145012</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>197</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

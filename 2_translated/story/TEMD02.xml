@@ -15,13 +15,13 @@
     <Entry>
       <PointerOffset>31928</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32164</PointerOffset>
@@ -378,13 +378,13 @@
     <Entry>
       <PointerOffset>59628</PointerOffset>
       <JapaneseText>カギがかかっているようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems like it's locked.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

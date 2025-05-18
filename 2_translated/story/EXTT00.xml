@@ -393,13 +393,13 @@
       <JapaneseText>うゥゥ……リシアめェ……
 よクもイーロイ族の……
 同胞たちヲォォ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grr... Curse you Lisia! How dare you abduct the Eloi! My brethren!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>84180</PointerOffset>
@@ -1092,13 +1092,13 @@
       <PointerOffset>98540</PointerOffset>
       <JapaneseText>……どうか我が同胞たちを
 救ってやって欲しいなり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I do impart that you save the rest of our kind.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>58</Id>
       <BubbleId>3</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>98668</PointerOffset>
@@ -1164,13 +1164,13 @@
     <Entry>
       <PointerOffset>101828</PointerOffset>
       <JapaneseText>ぴぎぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>62</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>102008</PointerOffset>
@@ -1418,13 +1418,13 @@
     <Entry>
       <PointerOffset>113048</PointerOffset>
       <JapaneseText>ぴぎぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>74</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>113560</PointerOffset>
@@ -1780,24 +1780,24 @@
     <Entry>
       <PointerOffset>53476</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>98</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55104</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>99</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55340</PointerOffset>
@@ -1837,70 +1837,73 @@
       <PointerOffset>59940</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60212</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>104</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60228</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>105</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61152</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>106</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61168</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>107</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>61184</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>108</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>62996</PointerOffset>
@@ -2226,13 +2229,13 @@
       <JapaneseText>おまえたちが
 助けてくれたイーロイ族の数は
 全部で%d人なり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You have saved %d Eloi so far.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>138</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>116944</PointerOffset>
@@ -2294,182 +2297,183 @@
       <JapaneseText>リシアが潜む場所への『扉』は
 この島の北にある岩礁島に
 開いているはずなり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The “door” to the realm of which Lisia dwells in should be open. You can find it on a rocky island north of here.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>144</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137288</PointerOffset>
       <JapaneseText>……どうか我が同胞たちを
 救ってやって欲しいなり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I do impart that you save the rest of our kind.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>144</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137432</PointerOffset>
       <JapaneseText>うゥゥ……リシアめェ……
 よクもイーロイ族の……
 同胞たちヲォォ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grr... Curse you Lisia! How dare you abduct the Eloi! My brethren!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>145</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137976</PointerOffset>
       <JapaneseText>（どっちをご利用？）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>(Which one to use?)</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>146</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>137992</PointerOffset>
       <JapaneseText>宿屋
 治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn
+Curestone Vendor</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>147</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138180</PointerOffset>
       <JapaneseText>宿屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Inn</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>148</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138196</PointerOffset>
       <JapaneseText>ぴぎぃぎぃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gra-grak!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>149</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138212</PointerOffset>
       <JapaneseText>……ぴぎぃ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grak?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>150</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138228</PointerOffset>
       <JapaneseText>ぴぎぃ〜〜〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Griiik!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>151</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138244</PointerOffset>
       <JapaneseText>ぴぎぃーっ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grrrak?!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>152</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138260</PointerOffset>
       <JapaneseText>ぴぎぃ…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grick...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>153</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138388</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>154</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138404</PointerOffset>
       <JapaneseText>ぎしゃ……ぴぎぃ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bwick. Grak?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>155</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138420</PointerOffset>
       <JapaneseText>ぴぎゃぁ〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Graaak! ♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>156</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138928</PointerOffset>
       <JapaneseText>ぴぎぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138928</PointerOffset>
       <JapaneseText>ぴぎぃ♪　ぴぎぃ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Graaak! ♪ Graaak! ♪</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>138928</PointerOffset>
@@ -2551,24 +2555,24 @@
     <Entry>
       <PointerOffset>139080</PointerOffset>
       <JapaneseText>ぴぎぎぃ〜っ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Graaak!!! ♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>158</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139096</PointerOffset>
       <JapaneseText>ぴぎぃ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Graaak! ∀</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>159</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139200</PointerOffset>
@@ -2584,24 +2588,24 @@
     <Entry>
       <PointerOffset>139240</PointerOffset>
       <JapaneseText>ぴぎ……しゃぁぁ〜っ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grak... Bwack?!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139240</PointerOffset>
       <JapaneseText>きしゃぁぁぁ〜〜〜っ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bwiiick!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139240</PointerOffset>
@@ -2672,24 +2676,24 @@
     <Entry>
       <PointerOffset>139372</PointerOffset>
       <JapaneseText>ぴぎぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>93</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139372</PointerOffset>
       <JapaneseText>ぴぎぃ〜〜〜∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grrr!!! ∀</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>93</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139372</PointerOffset>
@@ -2771,24 +2775,24 @@
     <Entry>
       <PointerOffset>139564</PointerOffset>
       <JapaneseText>ぴぎぃ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>162</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139580</PointerOffset>
       <JapaneseText>ぴっぎぎぃ〜〜〜!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gra-grick!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>163</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139684</PointerOffset>
@@ -2804,24 +2808,24 @@
     <Entry>
       <PointerOffset>139724</PointerOffset>
       <JapaneseText>ぴぎぎぎぃぃぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gra-ki-ki-ki...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139724</PointerOffset>
       <JapaneseText>ぎっしゃぁ〜〜〜〜っっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bweeeck!!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139724</PointerOffset>
@@ -2903,24 +2907,24 @@
     <Entry>
       <PointerOffset>139956</PointerOffset>
       <JapaneseText>ぴっぎぃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Greeeck!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>166</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>139972</PointerOffset>
       <JapaneseText>ぴぎぃ〜ぎぃ〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik-grak! ♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>167</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140076</PointerOffset>
@@ -2936,24 +2940,24 @@
     <Entry>
       <PointerOffset>140116</PointerOffset>
       <JapaneseText>きしゃぁ〜！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bwak!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>95</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140116</PointerOffset>
       <JapaneseText>きしゃしゃぁ〜〜〜っっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bwa-waaak!!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>95</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140116</PointerOffset>
@@ -3024,24 +3028,24 @@
     <Entry>
       <PointerOffset>140248</PointerOffset>
       <JapaneseText>ぴぎぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grik...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140248</PointerOffset>
       <JapaneseText>……ぴぎっ☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Greck! ☆</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140248</PointerOffset>
@@ -3123,13 +3127,13 @@
     <Entry>
       <PointerOffset>140412</PointerOffset>
       <JapaneseText>ぴぎぎぎぃぃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gra-grack...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>170</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140488</PointerOffset>
@@ -3145,35 +3149,35 @@
     <Entry>
       <PointerOffset>140504</PointerOffset>
       <JapaneseText>ぴぎぎぃ〜〜〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grick~! ♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>172</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140592</PointerOffset>
       <JapaneseText>ぴぎっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grack!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>97</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140592</PointerOffset>
       <JapaneseText>ぴぎぎぃ〜〜〜♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grick~! ♪</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>97</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140592</PointerOffset>

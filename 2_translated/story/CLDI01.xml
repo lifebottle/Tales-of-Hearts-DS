@@ -637,7 +637,7 @@
       <JapaneseText>&lt;Beryl&gt;に伝えて。
 『お前が宮廷画家になる
 未来はオレたちが守る』って</JapaneseText>
-      <EnglishText>When you see her, please tell her "we're gonna protect the future where you'll become a great court painter".</EnglishText>
+      <EnglishText>When you see her, please tell her “we're gonna protect the future where you'll become a great court painter”.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>39</Id>
@@ -768,13 +768,13 @@
     <Entry>
       <PointerOffset>44688</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44924</PointerOffset>
@@ -791,94 +791,98 @@
       <PointerOffset>46668</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46844</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47116</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47132</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48056</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48072</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48088</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50856</PointerOffset>
       <JapaneseText>よし、ピーチパイを食べたら
 力がみなぎってきた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's all eat some peach pie and get our spirits up!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60548</PointerOffset>
@@ -1049,13 +1053,13 @@
       <PointerOffset>90508</PointerOffset>
       <JapaneseText>……ここは
 ガラクタ置き場だっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Is this a storage room?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>91544</PointerOffset>
@@ -1071,35 +1075,35 @@
     <Entry>
       <PointerOffset>91560</PointerOffset>
       <JapaneseText>ゆっくりしておいきね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Feel free to make yourselves at home.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>77</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>91576</PointerOffset>
       <JapaneseText>休んでいくかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>91592</PointerOffset>
       <JapaneseText>あまり無茶しちゃいけないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't go pushing yourselves out there.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>91608</PointerOffset>
@@ -1115,13 +1119,13 @@
     <Entry>
       <PointerOffset>91624</PointerOffset>
       <JapaneseText>またいつでもおいでねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're always welcome back in my home.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

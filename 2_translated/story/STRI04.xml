@@ -77,7 +77,7 @@
       <JapaneseText>あの木は
 ドームの動力中枢『結晶樹』！
 お待ち下さい、リチア様!!</JapaneseText>
-      <EnglishText>That is the "Crystal Tree" which acts as the dome's primary power source! Wait for me, Master Lithia!</EnglishText>
+      <EnglishText>That is the “Crystal Tree” which acts as the dome's primary power source! Wait for me, Master Lithia!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -185,7 +185,7 @@
       <JapaneseText>ガルデニアを天に打ち上げた
 希望の塔・ジャックシードの
 『アクセスパス』が</JapaneseText>
-      <EnglishText>The "access pass" to the Tower of Hope-Jackseed, which launched Gardenia into the skies.</EnglishText>
+      <EnglishText>The “access pass” to the Tower of Hope-Jackseed, which launched Gardenia into the skies.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -299,13 +299,13 @@
     <Entry>
       <PointerOffset>38992</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39228</PointerOffset>
@@ -333,48 +333,51 @@
       <PointerOffset>45716</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45892</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46164</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46180</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56696</PointerOffset>
@@ -566,13 +569,13 @@
     <Entry>
       <PointerOffset>68752</PointerOffset>
       <JapaneseText>リフレッシャー＆治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher &amp; Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>71888</PointerOffset>
@@ -590,184 +593,186 @@
       <JapaneseText>イラッシャイマセ
 ナニヲ
 オモトメデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WELCOME. WHAT WOULD YOU LIKE TO USE?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>71920</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72248</PointerOffset>
       <JapaneseText>ドチラヲ
 ゴリヨウデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WHICH WILL YOU USE?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72264</PointerOffset>
       <JapaneseText>リフレッシャー
 治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>REFRESHER.
+Curestone Store.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72452</PointerOffset>
       <JapaneseText>リフレッシャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72468</PointerOffset>
       <JapaneseText>リフレッシャーノ
 ゴリヨウデスネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I SEE YOU CHOSE THE REFRESHER.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72484</PointerOffset>
       <JapaneseText>ヨロシイデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>IS THIS CORRECT?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72500</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72516</PointerOffset>
       <JapaneseText>所持金ガ不足シテマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>YOU DON'T HAVE ENOUGH MONEY.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72532</PointerOffset>
       <JapaneseText>マタノゴリヨウ
 オマチシテオリマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>AWAITING YOUR NEXT VISIT.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72548</PointerOffset>
       <JapaneseText>一回</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One time.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72564</PointerOffset>
       <JapaneseText>使用料</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>62</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72580</PointerOffset>
       <JapaneseText>利用する
 利用しない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use.
+Don't use.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>63</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72680</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72696</PointerOffset>
       <JapaneseText>治癒石ノ
 ゴリヨウデスネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>CHARGE CURESTONE?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72712</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72932</PointerOffset>
@@ -783,13 +788,13 @@
     <Entry>
       <PointerOffset>72932</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>72932</PointerOffset>
@@ -871,13 +876,13 @@
     <Entry>
       <PointerOffset>73024</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73024</PointerOffset>
@@ -959,13 +964,13 @@
     <Entry>
       <PointerOffset>73116</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73116</PointerOffset>
@@ -1047,13 +1052,13 @@
     <Entry>
       <PointerOffset>73208</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73208</PointerOffset>
@@ -1135,13 +1140,13 @@
     <Entry>
       <PointerOffset>73300</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73300</PointerOffset>
@@ -1223,13 +1228,13 @@
     <Entry>
       <PointerOffset>73392</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73392</PointerOffset>
@@ -1311,13 +1316,13 @@
     <Entry>
       <PointerOffset>73484</PointerOffset>
       <JapaneseText>…………完全に『白化』している</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They're completely calcified.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>73484</PointerOffset>

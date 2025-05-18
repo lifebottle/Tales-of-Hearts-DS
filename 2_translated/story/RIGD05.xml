@@ -15,13 +15,13 @@
     <Entry>
       <PointerOffset>33676</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33912</PointerOffset>
@@ -368,13 +368,13 @@
       <PointerOffset>64928</PointerOffset>
       <JapaneseText>警告、ガスの噴出を確認！
 容易に引火する可燃性ガスだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Warning: gas leak detected. It is highly flammable.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
