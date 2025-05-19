@@ -749,7 +749,7 @@ class ToolsTOH():
         type = 'story'
         # Copy original FPS4 MAPBIN and B
         for file in (self.paths['extracted_files'] / 'data' / 'm').iterdir():
-            if file.stem.endswith('.B') or file.stem.endswith('.MAPBIN'):
+            if file.name.endswith('.B') or file.name.endswith('.MAPBIN'):
                 shutil.copy(src = file, dst = self.paths['temp_files'] / 'data' / 'm' / file.stem)
 
 
