@@ -341,60 +341,60 @@
       <PointerOffset>41168</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41340</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41516</PointerOffset>
       <JapaneseText>%sは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s gained the title “%s.” %s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41688</PointerOffset>
       <JapaneseText>%sたちは
 称号「%s」%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s and %s gained the title %s.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43280</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43516</PointerOffset>
@@ -411,82 +411,86 @@
       <PointerOffset>44860</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45036</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45308</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45324</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46248</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46264</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46280</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48148</PointerOffset>
@@ -623,24 +627,24 @@
     <Entry>
       <PointerOffset>57088</PointerOffset>
       <JapaneseText>何もなかった…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing there...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59412</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>59464</PointerOffset>

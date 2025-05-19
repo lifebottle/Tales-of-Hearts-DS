@@ -47,13 +47,13 @@
     <Entry>
       <PointerOffset>32120</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32356</PointerOffset>
@@ -81,48 +81,51 @@
       <PointerOffset>38844</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39020</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39292</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39308</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48076</PointerOffset>
@@ -138,13 +141,13 @@
     <Entry>
       <PointerOffset>48492</PointerOffset>
       <JapaneseText>リフレッシャー＆治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher &amp; Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53224</PointerOffset>
@@ -162,184 +165,186 @@
       <JapaneseText>イラッシャイマセ
 ナニヲ
 オモトメデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WELCOME. WHAT WOULD YOU LIKE TO USE?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53256</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53584</PointerOffset>
       <JapaneseText>ドチラヲ
 ゴリヨウデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WHICH WILL YOU USE?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53600</PointerOffset>
       <JapaneseText>リフレッシャー
 治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>REFRESHER.
+Curestone Store.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53788</PointerOffset>
       <JapaneseText>リフレッシャー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Refresher</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53804</PointerOffset>
       <JapaneseText>リフレッシャーノ
 ゴリヨウデスネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I SEE YOU CHOSE THE REFRESHER.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53820</PointerOffset>
       <JapaneseText>ヨロシイデスカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>IS THIS CORRECT?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53836</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53852</PointerOffset>
       <JapaneseText>所持金ガ不足シテマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>YOU DON'T HAVE ENOUGH MONEY.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53868</PointerOffset>
       <JapaneseText>マタノゴリヨウ
 オマチシテオリマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>AWAITING YOUR NEXT VISIT.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53884</PointerOffset>
       <JapaneseText>一回</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One time.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53900</PointerOffset>
       <JapaneseText>使用料</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53916</PointerOffset>
       <JapaneseText>利用する
 利用しない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use.
+Don't use.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54016</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54032</PointerOffset>
       <JapaneseText>治癒石ノ
 ゴリヨウデスネ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>CHARGE CURESTONE?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54048</PointerOffset>
       <JapaneseText>アリガトウゴザイマシタ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THANK YOU FOR YOUR PATRONAGE.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54268</PointerOffset>
@@ -355,24 +360,24 @@
     <Entry>
       <PointerOffset>54268</PointerOffset>
       <JapaneseText>この先は特別区画だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Beyond here is the special division.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54268</PointerOffset>
       <JapaneseText>関係者以外の入館は認めない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Only staff are permitted to enter.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54268</PointerOffset>
@@ -456,25 +461,25 @@
       <JapaneseText>『結晶樹』は数万の思念石を
 組み合わせてつくられた
 動力用思念石だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Crystal Tree is a culmination of thousands of Will Stones. It's a very potent Will Stone.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54360</PointerOffset>
       <JapaneseText>これひとつでワンダリデルの
 全動力をまかなうことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It alone can power all of Wonderidell.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54360</PointerOffset>
@@ -545,51 +550,51 @@
     <Entry>
       <PointerOffset>54452</PointerOffset>
       <JapaneseText>くそっ、クリードめ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curse you, Creed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54452</PointerOffset>
       <JapaneseText>この結晶樹の思念力を
 ジャックシードに
 まわせと言ってきた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He redirected the power the Crystal Tree outputs to power Jackseed instead.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54452</PointerOffset>
       <JapaneseText>ジャックシードには
 この結晶樹と同レベルの
 動力結晶があるはずなのに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Jackseed already has a Crystal of equal strength powering it as is.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54452</PointerOffset>
       <JapaneseText>ヤツは、ジャックシードで
 一体何をしているんだ!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just what is he planning on doing there?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54452</PointerOffset>
@@ -673,25 +678,25 @@
       <JapaneseText>高位思念術士になると
 ドームの上層階に特別室を
 与えられるのよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I become a higher ranking Will Mage, I'll move up to the special floor in the dome's higher floor.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54544</PointerOffset>
       <JapaneseText>憧れるけど、私の才能じゃ
 とても無理だわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd love to, but it's so out of my league...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54544</PointerOffset>
@@ -763,26 +768,26 @@
       <PointerOffset>54636</PointerOffset>
       <JapaneseText>ドーム西側の旧市街は
 なんとかならんものか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no helping the old town within the western dome.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54636</PointerOffset>
       <JapaneseText>選ばれしワンダリデル市民として
 旧市街のような汚い街並みと
 住民どもの存在は許容できん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As selected residents of Wonderidell, it's our responsibility to keep our streets clean. Unlike those savages.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54636</PointerOffset>
@@ -853,37 +858,37 @@
     <Entry>
       <PointerOffset>54728</PointerOffset>
       <JapaneseText>きぃーーー、この鉄クズっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You dumb hunk of scrap!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54728</PointerOffset>
       <JapaneseText>高位思念術士のわたくしを
 いつまで待たす気なの!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How long must you keep me, an esteemed Will Mage, waiting!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54728</PointerOffset>
       <JapaneseText>わたくしの思念術で
 解体してさしあげましょうかっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why don't I blow you to bits with my Will Artes, that'll teach you a lesson!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54728</PointerOffset>
@@ -954,38 +959,38 @@
     <Entry>
       <PointerOffset>54820</PointerOffset>
       <JapaneseText>うわぁ……きれいだなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wow, so pretty.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54820</PointerOffset>
       <JapaneseText>表面に刻まれているのが
 フローラ様が組み上げた
 最新型の増幅術式かぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fluora came up with this wonderful technique to perform surgeries only cutting the outer layer.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54820</PointerOffset>
       <JapaneseText>なんて洗練された
 美しい術式なんだろう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's such a beautiful, graceful technique!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54820</PointerOffset>
@@ -1068,25 +1073,25 @@
       <PointerOffset>54912</PointerOffset>
       <JapaneseText>我々、機械人は
 結晶人の皆様のしもべです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Us mechanoids act as servants to the Quartz.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54912</PointerOffset>
       <JapaneseText>どんなご命令にも
 喜んで従います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I will happily abide to any order given to me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54912</PointerOffset>
@@ -1157,26 +1162,26 @@
     <Entry>
       <PointerOffset>55044</PointerOffset>
       <JapaneseText>申し訳ありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am sorry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55044</PointerOffset>
       <JapaneseText>どうぞ、ご主人様の
 お気がすむように
 なさってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please stay here until the master feels content.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55044</PointerOffset>

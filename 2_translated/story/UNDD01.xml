@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -50,73 +50,73 @@
     <Entry>
       <PointerOffset>76244</PointerOffset>
       <JapaneseText>暗ぇな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's dark in here...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>76244</PointerOffset>
       <JapaneseText>おい、&lt;Shing&gt;。
 さっきの呪いの指輪で
 火をつけてくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, &lt;Shing&gt;. Use that thing you got earlier to light things up.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>76484</PointerOffset>
       <JapaneseText>う、うん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>R-Right!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>77120</PointerOffset>
       <JapaneseText>触ってないのに扉が開いた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It opened without me even touching it!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>77248</PointerOffset>
       <JapaneseText>指輪が放った思念エネルギーが
 レバーを動かしたのか!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Did the Will energy it shot out push the lever?!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>77376</PointerOffset>
       <JapaneseText>……すごいや！
 ソーサラーリングは
 呪いの指輪なんかじゃないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's so cool! I guess this thing isn't cursed after all!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -124,13 +124,13 @@
     <Entry>
       <PointerOffset>33396</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33632</PointerOffset>
@@ -476,48 +476,49 @@
     <Entry>
       <PointerOffset>79492</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>79508</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>82860</PointerOffset>
       <JapaneseText>足元にあるすべてのプレートを
 光らせること</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The panels will light up as you walk over them.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>82860</PointerOffset>
       <JapaneseText>後戻りは許されない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once a panel has been lit, you cannot step on it again.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

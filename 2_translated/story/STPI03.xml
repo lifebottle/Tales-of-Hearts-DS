@@ -523,13 +523,13 @@
     <Entry>
       <PointerOffset>39536</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39772</PointerOffset>
@@ -557,82 +557,86 @@
       <PointerOffset>44100</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44276</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44548</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44564</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45488</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45504</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45520</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46628</PointerOffset>
@@ -682,13 +686,14 @@
       <PointerOffset>47976</PointerOffset>
       <JapaneseText>魔物退治を申し出る
 立ち去る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Offer to exterminate the monsters.
+Turn and leave.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48120</PointerOffset>
@@ -782,13 +787,13 @@
       <PointerOffset>55140</PointerOffset>
       <JapaneseText>戦争がはじまっちまった！
 もう商売どころじゃないっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>War has broken out! Now's not the time to worry about business!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55140</PointerOffset>
@@ -870,127 +875,127 @@
     <Entry>
       <PointerOffset>55248</PointerOffset>
       <JapaneseText>いらっしゃいませ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55264</PointerOffset>
       <JapaneseText>宿泊なさいますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like to stay the night?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55280</PointerOffset>
       <JapaneseText>またのお越しを
 お待ちしております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We look forward to your next visit.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55296</PointerOffset>
       <JapaneseText>お金が足りないようですね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't quite afford it, I'm afraid...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55312</PointerOffset>
       <JapaneseText>あなたのスピリアに
 光と絆があらんことを</JapaneseText>
-      <EnglishText/>
+      <EnglishText>May your Spiria be filled with light and love.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55616</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55632</PointerOffset>
       <JapaneseText>……ぐ、軍が本当に
 攻めてくるなんて……!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I-Is the military really gonna strike?!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55648</PointerOffset>
       <JapaneseText>どうか、お気をつけて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please, stay safe out there.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55740</PointerOffset>
       <JapaneseText>治癒石屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curestone Store</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55756</PointerOffset>
       <JapaneseText>いらっしゃいませ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>55772</PointerOffset>
       <JapaneseText>あなたのスピリアに
 良き絆が訪れますように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>May your Spiria be blessed with bonds.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56424</PointerOffset>
@@ -1008,13 +1013,13 @@
       <JapaneseText>ウチの看板メニューは
 聖都の特産『白い月の聖塩』を
 使った塩ラーメンよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our signature ramen is made using Pransule's local specialty Ivory Moon salt! ♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56424</PointerOffset>
@@ -1032,13 +1037,13 @@
       <JapaneseText>巡礼者がひっきりなしだった
 プランスールも、すっかり
 寂しくなっちゃったわね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pransule was always filled with people on pilgrimages, but it's so empty now...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56424</PointerOffset>
@@ -1055,25 +1060,25 @@
       <PointerOffset>56424</PointerOffset>
       <JapaneseText>ウチの塩ラーメンで力を
 つけてってよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Try our ramen to pick you up!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56424</PointerOffset>
       <JapaneseText>厚切りチャーシュー
 三枚サービスするからさ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll be sure to give you three big slices of pork! ♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56424</PointerOffset>
@@ -1113,13 +1118,13 @@
       <JapaneseText>ウチの看板メニューは
 聖都の特産『白い月の聖塩』を
 使った塩ラーメンよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our signature ramen is made using Pransule's local specialty Ivory Moon salt! ♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56476</PointerOffset>
@@ -1137,13 +1142,13 @@
       <JapaneseText>巡礼者がひっきりなしだった
 プランスールも、すっかり
 寂しくなっちゃったわね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pransule was always filled with people on pilgrimages, but it's so empty now...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56476</PointerOffset>
@@ -1160,25 +1165,25 @@
       <PointerOffset>56476</PointerOffset>
       <JapaneseText>ウチの塩ラーメンで力を
 つけてってよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Try our ramen to pick you up!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56476</PointerOffset>
       <JapaneseText>厚切りチャーシュー
 三枚サービスするからさ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll be sure to give you three big slices of pork! ♪</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56476</PointerOffset>
@@ -1218,25 +1223,25 @@
       <JapaneseText>ぼくは教会に
 毎年１千万ガルドの
 寄付をしてるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I donate 10 million gald to the church every year.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>
       <JapaneseText>おかげで教会から
 第一級篤信者の称号をもらったよ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks to that, the church granted me the title of first-class devotee! ♪</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>
@@ -1253,26 +1258,26 @@
       <PointerOffset>56756</PointerOffset>
       <JapaneseText>ぼ、ぼくは
 バレイア信者なんかじゃないぞっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I don't actually follow the Velleian faith!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>
       <JapaneseText>え、えへへ……
 まったく帝国に逆らうなんて
 とんでもないですよねぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'd have to be CRAZY to go up against the empire, right? Haha...ha...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>4</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>
@@ -1289,24 +1294,24 @@
       <PointerOffset>56756</PointerOffset>
       <JapaneseText>うわ〜〜〜〜ん！
 神様、リチア様、羽クジラ様っ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uwaaah! God, Lithia, Winged Whale!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>
       <JapaneseText>誰でもいいから、助けてくれぇっ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyone, please save us!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
       <SubId>6</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56756</PointerOffset>

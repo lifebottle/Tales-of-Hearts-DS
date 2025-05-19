@@ -15,13 +15,13 @@
     <Entry>
       <PointerOffset>27588</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27824</PointerOffset>
@@ -367,25 +367,26 @@
     <Entry>
       <PointerOffset>58588</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>58604</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -41,100 +41,100 @@
       <JapaneseText>…………仕方ないよ。
 &lt;Shing&gt;たちを助け出して
 思念石に向かおう！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I guess we've got no other choice. Let's go break them out and head for the Will Stone!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48376</PointerOffset>
       <JapaneseText>ですが、&lt;Kohaku&gt;……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48504</PointerOffset>
       <JapaneseText>こうしてる間にも
 サンドリオンはガルデニアに
 飛んじゃうかもしれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cendrillon could've reached Gardenia by now!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48504</PointerOffset>
       <JapaneseText>それに&lt;Shing&gt;が何日も
 おとなしくしてると思う？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How many days have they spent locked up now?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48836</PointerOffset>
       <JapaneseText>……数時間も怪しいな。
 だが、外に出るには
 窓から飛び降りるしかねぇぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...It's only been a couple hours, but it's still sketchy. But uh, our only way out is jumping out the window, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48964</PointerOffset>
       <JapaneseText>昔、あなたはこの窓から
 飛び降りて大怪我をした……
 高所恐怖症の原因でしょう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A long time ago you once jumped from this window and got seriously injured, didn't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49228</PointerOffset>
       <JapaneseText>うん、怖いよ。
 ……けど、今は
 何もしない事の方が怖い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it was really scare. But right now... NOT doing something is even scarier!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50344</PointerOffset>
       <JapaneseText>お、おいッ!?
 待て、&lt;Kohaku&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, huh?! Kohaku, wait!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -142,13 +142,13 @@
     <Entry>
       <PointerOffset>42780</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43016</PointerOffset>
@@ -165,82 +165,86 @@
       <PointerOffset>44024</PointerOffset>
       <JapaneseText>%s %d ガルドになります。
 %s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s will be %d gald.
+%s</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44200</PointerOffset>
       <JapaneseText>所持金： %d ガルド
 %s： %d ガルド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Money owned: % gald
+%: % gald</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44472</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44488</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45412</PointerOffset>
       <JapaneseText>一泊</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overnight</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45428</PointerOffset>
       <JapaneseText>宿泊費</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fee</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45444</PointerOffset>
       <JapaneseText>泊まる
 泊まらない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay
+Don't stay</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47124</PointerOffset>
@@ -333,13 +337,13 @@
     <Entry>
       <PointerOffset>53856</PointerOffset>
       <JapaneseText>休みますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you want to rest?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53908</PointerOffset>

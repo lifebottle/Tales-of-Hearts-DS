@@ -188,13 +188,13 @@
     <Entry>
       <PointerOffset>30800</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31036</PointerOffset>
@@ -222,122 +222,124 @@
       <PointerOffset>42492</PointerOffset>
       <JapaneseText>この転送装置はサンドリオンと
 リンクしています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This transfer device can teleport you to Cendrillon.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42596</PointerOffset>
       <JapaneseText>サンドリオンまで転送しますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Teleport to Cendrillon?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42612</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43296</PointerOffset>
       <JapaneseText>システム調整中です。
 しばらくお待ちください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The system is currently under repair. Please wait.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43440</PointerOffset>
       <JapaneseText>リンクアウトしますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Link out?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43456</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes.
+No.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <JapaneseText>よし、中央の思念石に
 擬似スピリアの解析機能を
 とりつけたぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I affixed a central Will Stone to this synthetic Spiria's research capabilities.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <JapaneseText>機械人たちに組みこんだ
 擬似スピリアが成長するには
 かなりの時間がかかるだろうが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once this is installed in the mechanoids, it takes some time for their synthetic Spiria to develop.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <JapaneseText>これは結晶界にとって
 意義のある研究となるだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is important research to us Quartz.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <JapaneseText>擬似スピリアの研究は
 我々人間のスピリアの
 研究でもあるのだから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Research on synthetic Spiria is also research of us human's Spiria as well.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43848</PointerOffset>
@@ -420,26 +422,26 @@
       <PointerOffset>43940</PointerOffset>
       <JapaneseText>ゼロム型思念兵器が
 主力となったからには</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're trying to make xerom-type Will weapons our main go-to.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43940</PointerOffset>
       <JapaneseText>ゼロムを進化させるための
 原界人思念の確保が
 勝敗の鍵になるわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It all depends on whether we can get enough Willpower from the Cellites in order to power the xerom.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43940</PointerOffset>
@@ -511,50 +513,50 @@
       <PointerOffset>44032</PointerOffset>
       <JapaneseText>くっ……コランダームは
 どこへ行った!?</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Curses. Where did Corundum run off to?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44032</PointerOffset>
       <JapaneseText>あのクルクル髪の機械人めぇ〜！
 俺が数ヶ月かけて組み上げた術式を
 勝手に書き換えやがったんだ!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That damn curly-haired brat! She completely overwrote the new surgical procedure I'd been compiling data on for months!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44032</PointerOffset>
       <JapaneseText>……しかも俺の術式の出来を
 採点までしていきやがった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I got a grade on it and everything. Let's see.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44032</PointerOffset>
       <JapaneseText>……『３５点』はないだろ〜ッ!?
 あ、赤点じゃないか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A 35?! That's a failure! Oh, it's all over for me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44032</PointerOffset>
@@ -626,26 +628,26 @@
       <PointerOffset>44124</PointerOffset>
       <JapaneseText>……ん？
 ゼロム開発室から報告が入った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's this? A report came in from the Xerom Development Chamber.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44124</PointerOffset>
       <JapaneseText>実験体として保存していた
 試作型ゼロム『カトレイア』が
 行方不明になった……だと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What?! The protoxerom Cattleya we had confined has gone missing?!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44124</PointerOffset>
@@ -717,39 +719,39 @@
       <PointerOffset>44216</PointerOffset>
       <JapaneseText>ふん、あの赤髪の若造め
 調子にのりおって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Damn that red-headed bastard! He won't get away with this!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44216</PointerOffset>
       <JapaneseText>思念をエサとしない
 術式変異のみのゼロム進化なぞ
 できてたまるか!!</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As if it's even possible to develop a xerom that doesn't feed on Will energy!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44216</PointerOffset>
       <JapaneseText>……確かに理論上は可能だが
 人間の能力では必用な術式を
 １０％もそろえる事は不可能だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is theoretically possible if we're being literal, but given there's only a 10% chance that a person would even have the skills necessary for such a delicate procedure, it's impossible!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44216</PointerOffset>
@@ -833,26 +835,26 @@
       <JapaneseText>フローラの妹のリチアとかいう
 小娘が、管理コアの資格を
 与えられたらしいわね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard Fluora's younger sister Lithia has the qualifications to maintain the core.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44308</PointerOffset>
       <JapaneseText>ふふん、旧市街育ちの姉妹が
 どんな手を使って上層部に
 とりいったのやら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph. Just what means did those girls use to reach the top? They grew up in the old town, that shouldn't be possible.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44308</PointerOffset>
@@ -935,37 +937,37 @@
       <PointerOffset>44400</PointerOffset>
       <JapaneseText>うーん、フローラの
 ソーマリンク理論って……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm, regarding Fluora's Soma Link Theory...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44400</PointerOffset>
       <JapaneseText>ロマンチックなだけの
 妄想理論だよねぇ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's pretty delusional and relies on corny human emotion, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44400</PointerOffset>
       <JapaneseText>ははは、最高位思念術士様も
 案外、少女シュミなんだなぁ♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha, I guess even for a high-ranking Will Mage, even she has the heart of a little girl!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44400</PointerOffset>
@@ -1048,37 +1050,37 @@
       <PointerOffset>44492</PointerOffset>
       <JapaneseText>現在、結晶界全域で
 大小あわせ１１８の戦闘が進行中……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As of present, there are currently 118 conflicts occuring on Quartzia, of sizes big and small.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44492</PointerOffset>
       <JapaneseText>——追加情報を取得。
 報告を修正</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Additional information obtained. Updating report.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44492</PointerOffset>
       <JapaneseText>たった今、１１９番目の
 戦闘が開始されました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just now, a 119th fight has broken out.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>3</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44492</PointerOffset>
@@ -1162,25 +1164,25 @@
       <JapaneseText>このポートは、現在
 ワンダリデル沖で特殊エボルブを
 実行中の機動結晶城——</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This port is currently transferring people to the specially evolved, moving Crystal Fortress within Wonderidell bay.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44584</PointerOffset>
       <JapaneseText>『いばらの森』への
 専用移動ポートです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Crystal Castle, the Forest of Thorns.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44584</PointerOffset>
@@ -1264,26 +1266,26 @@
       <JapaneseText>私のようなナンバーズと呼ばれる
 単純作業型の機械人に
 擬似スピリアは搭載できない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They do not affix synthetic Spiria into mechanoids like me, who only exist to repeat numbers back.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44676</PointerOffset>
       <JapaneseText>擬似スピリアの搭載には
 人間と同等の各種機能を備えた
 高性能義体が不可欠なのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In order to have a synthetic Spiria installed, a mechanoid must be crafted to be the highest quality android, comparable to a human.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
       <SubId>2</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44676</PointerOffset>

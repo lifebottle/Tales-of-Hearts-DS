@@ -15,13 +15,13 @@
     <Entry>
       <PointerOffset>29336</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29572</PointerOffset>
@@ -367,26 +367,26 @@
     <Entry>
       <PointerOffset>51944</PointerOffset>
       <JapaneseText>&lt;Red&gt;押し引き&lt;Normal&gt;について</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Normal&gt;About &lt;Red&gt;Grappling</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52000</PointerOffset>
       <JapaneseText>Ａボタンを押したまま
 十字ボタンを操作すると
 岩や箱を&lt;Red&gt;押し引き&lt;Normal&gt;できます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While holding down the A button, press the directional pad buttons and you can &lt;Red&gt;grapple &lt;Normal&gt;rocks and boxes.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

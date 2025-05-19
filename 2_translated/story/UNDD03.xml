@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -37,13 +37,13 @@
     <Entry>
       <PointerOffset>26812</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>27048</PointerOffset>
@@ -389,48 +389,49 @@
     <Entry>
       <PointerOffset>68000</PointerOffset>
       <JapaneseText>どこに出ますか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where are you going?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>68016</PointerOffset>
       <JapaneseText>フィールドに出る
 街道に出る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To Field.
+To pathways.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>69648</PointerOffset>
       <JapaneseText>足元にあるすべてのプレートを
 光らせること</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The panels will light up as you walk over them.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>69648</PointerOffset>
       <JapaneseText>後戻りは許されない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once a panel has been lit, you cannot step on it again.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>2</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

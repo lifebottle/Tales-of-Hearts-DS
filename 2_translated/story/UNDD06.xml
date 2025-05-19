@@ -3,7 +3,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset/>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>1</Id>
@@ -37,13 +37,13 @@
     <Entry>
       <PointerOffset>35072</PointerOffset>
       <JapaneseText>%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35308</PointerOffset>
@@ -389,24 +389,24 @@
     <Entry>
       <PointerOffset>65440</PointerOffset>
       <JapaneseText>何が書いてあるのか読み取れない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Something is inscribed here, but you can't make out what it says.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>65592</PointerOffset>
       <JapaneseText>何が書いてあるのか読み取れない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Something is inscribed here, but you can't make out what it says.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
       <SubId>1</SubId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
