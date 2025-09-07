@@ -284,6 +284,11 @@ class Tss():
             #Insert all nodes
             [node.pack_node(tss, self.speaker_dict) for pointer_offset, node in self.struct_dict.items()]
 
+            #Update text section size
+            text_section_size = tss.tell() - self.strings_offset
+            tss.seek(24)
+            tss.write(struct.pack('<I', text_section_size))
+
             #Update TSS
             with FileIO(destination_path, 'wb') as f:
                f.write(tss.getvalue())
