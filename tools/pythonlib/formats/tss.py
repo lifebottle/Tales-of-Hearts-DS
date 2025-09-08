@@ -60,6 +60,9 @@ class Tss():
                     offset = match_obj.start()
                     pointer_offset = offset + len(bytecode)
 
+                    # Fix for Skit 142 where there's a match for 00A304 at 0x3937
+                    if pointer_offset > self.strings_offset:
+                        continue
 
                     f.seek(pointer_offset, 0)
                     text_offset = struct.unpack('<H', f.read(2))[0] + self.strings_offset
@@ -283,6 +286,11 @@ class Tss():
 
             #Insert all nodes
             [node.pack_node(tss, self.speaker_dict) for pointer_offset, node in self.struct_dict.items()]
+
+            #Update text section size
+            text_section_size = tss.tell() - self.strings_offset
+            tss.seek(24)
+            tss.write(struct.pack('<I', text_section_size))
 
             #Update TSS
             with FileIO(destination_path, 'wb') as f:
