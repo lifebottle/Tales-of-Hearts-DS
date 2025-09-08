@@ -60,6 +60,9 @@ class Tss():
                     offset = match_obj.start()
                     pointer_offset = offset + len(bytecode)
 
+                    # Fix for Skit 142 where there's a match for 00A304 at 0x3937
+                    if pointer_offset > self.strings_offset:
+                        continue
 
                     f.seek(pointer_offset, 0)
                     text_offset = struct.unpack('<H', f.read(2))[0] + self.strings_offset
